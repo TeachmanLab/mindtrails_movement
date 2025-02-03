@@ -14,7 +14,8 @@ This repository contains the protocol for the Mind Trails Spanish study, and all
 
 This protocol can be downloaded in the Digital Trails app using the study code "MTS" on the initial startup screen.
 
-![image](https://github.com/user-attachments/assets/0990aa18-6523-4728-bcb5-38b9b3f67e3f)
+![image](https://github.com/user-attachments/assets/fd8d9cb9-62e0-47d0-a930-696e55124aab)
+
 
 <br>
 
@@ -66,6 +67,7 @@ In addition to releasing a primary protocol (downloaded with MTS study code) it 
 
 2. In Digital Trails enter your study code followed by an @ plus your release tag. For example, if your release tag was `1.0-beta` you'd enter:
 
-   ![image](https://github.com/user-attachments/assets/0d09ef11-9523-421d-87ae-8f66a916f4bf)
+   ![image](https://github.com/user-attachments/assets/d9a75037-e209-472a-a654-786e21de6869)
+
 
 3. You can have as many release versions as you want, but only one "latest release". The "latest release" is always the default download.
