@@ -1,5 +1,5 @@
 # MindTrails Movement
-This repository contains the protocol for the Mind Trails Spanish study, and all the code required to build the protocol from scratch. 
+This repository contains the protocol for the Mind Trails Movement study, and all the code required to build the protocol from scratch. 
 
 <br>
 
