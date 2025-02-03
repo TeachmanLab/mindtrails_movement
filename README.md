@@ -1,4 +1,4 @@
-# MindTrails Spanish
+# MindTrails Movement
 This repository contains the protocol for the Mind Trails Spanish study, and all the code required to build the protocol from scratch. 
 
 <br>
@@ -12,7 +12,7 @@ This repository contains the protocol for the Mind Trails Spanish study, and all
 
 ## Downloading This Repo's Protocol in Digital Trails
 
-This protocol can be downloaded in the Digital Trails app using the study code "MTS" on the initial startup screen.
+This protocol can be downloaded in the Digital Trails app using the study code "MTM" on the initial startup screen.
 
 ![image](https://github.com/user-attachments/assets/fd8d9cb9-62e0-47d0-a930-696e55124aab)
 
@@ -59,7 +59,7 @@ Follow these steps to make protocol changes availalbe in Digital Trails.
 
 ## Releasing Multiple Versions of This Repo's Protocol
 
-In addition to releasing a primary protocol (downloaded with MTS study code) it is also possible to release protcol versions. To do this:
+In addition to releasing a primary protocol (downloaded with MTM study code) it is also possible to release protcol versions. To do this:
 
 1. Create a new Release as described above, but this time be sure to **unclick** "Set as the latest release"
 
