@@ -1,6 +1,38 @@
 import csv
+import json
 
+from pathlib import Path
 from itertools import islice
+
+import numpy as np
+
+# leaving this seed unchanged means
+# that huge diff won't be generated
+# every time the output of these
+# scripts is deployed. This state 
+# needs to be global in order for 
+# participants to experience the
+# order of answers as random.
+rng = np.random.RandomState(1)
+
+def write_output(dir_out, structure):
+    for path, content in structure.items():
+        path = Path(f"{dir_out}/{path}")
+
+        if path.suffix == ".json" and isinstance(content,dict):
+            path.parent.mkdir(parents=True, exist_ok=True)
+            with open(path, 'w', encoding='utf-8') as f:
+                json.dump(content, f, indent=4, ensure_ascii=False)
+            continue
+
+        if path.suffix != ".json" and isinstance(content,list):
+            path.mkdir(parents=True, exist_ok=True)
+            for i,page in enumerate(content,1):
+                with open(f"{path}/{i}.json", 'w', encoding='utf-8') as f:
+                    json.dump(page, f, indent=4, ensure_ascii=False)
+            continue
+
+        raise Exception()
 
 def get_groupnames():
     yield 'treatment'
@@ -36,34 +68,17 @@ def rreplace(s, old, new, occurrence):
     li = s.rsplit(old, occurrence)
     return new.join(li)
 
-def get_resources(file_path):
-    """A function that reads in the file of resources and outputs a dictionary with the resources for each domain
+def get_motivations(file_path):
+    motivation_lst = []
+    with open(file_path, "r") as read_obj:
+        reader = csv.reader(read_obj)
+        next(reader)
+        for row in reader:
+            motivation = row[1]
+            if motivation not in (None, ""):
+                motivation_lst.append(motivation)
 
-    :param file_path: string path to resources file (.csv)
-    :return: dictionary {"Domain" : [index, [ [resource, text], [resource, text]...] ] }
-        * keys (str) = domains
-        * fields (list) = [index, domain_list_of_resources]
-        * domain_list_of_resources (list of lists) = [[resource_1, text_1], [resource_2, text_2]]
-            * each list WITHIN the list is [resource, text]
-
-    File I used to make this: https://docs.google.com/spreadsheets/d/1kenROWNI498AcMhjElrFQD9IjOmnVGInVB8BShSYSx8/edit#gid=437897459
-    """
-
-    domain_indexes = [1, 3, 5, 7, 9, 11, 13, 15]
-    domain_resources = [ [] for _ in domain_indexes ]
-
-    with open(file_path, 'r', encoding='utf-8') as f:
-
-        reader = csv.reader(f)
-        domains = list(map(next(reader).__getitem__,domain_indexes))
-
-        for i,row in enumerate(islice(reader,1,None),1):
-            for resources, domain_index in zip(domain_resources, domain_indexes):
-                res = row[domain_index]
-                text = row[domain_index+1].strip() + "\n\n Vaya a la libreria de recursos disponibles para obtener el enlace a este recurso."
-                if res: resources.append([res, text])
-
-        return dict(zip(domains,domain_resources))
+    return motivation_lst
 
 def get_ER(file_path):
     """A function that reads in the file of emotion regulation tips and outputs a dictionary with the ER tips for
@@ -122,20 +137,4 @@ def create_puzzle(scenario):
     return puzzle_text, puzzle_word
 
 def shuffle(items):
-    # Shuffling doesn't really make as much
-    # sense as it used to because this random
-    # order will be identical for all participants
-    # so it isn't really shuffled as far as
-    # statistical inference is concerned.
-    # Therefore, I've commented it out so that
-    # git diffs are don't make it look like
-    # something changed when nothing did. The
-    # misleading git diffs don't cause problems. 
-    # They simply make it a little harder to  
-    # see which changes are reall differences and
-    # which are just due to randomness but don't
-    # fundamentally change anything.
-    #-------------------------------------------
-    # import np
-    # np.random.shuffle(items)
-    pass
+    rng.shuffle(items)

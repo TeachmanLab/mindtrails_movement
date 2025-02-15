@@ -27,7 +27,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
 
     ## Based on what the input is, create input "add"
     if tipe == "picker"   : return {"type": "Picker", "items": items}
-    if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefiero no responder"]} # changed
+    if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefer not to answer"]}
     if tipe == "entry"    : return {"type": "Entry" }
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
     if tipe == "scheduler": return {"type": "Scheduler", "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
@@ -35,8 +35,8 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "timedtext": return {"type": "TimedText", "text": text,  "Duration": 15 }
     if tipe == "puzzle"   : return {
         "type": "WordPuzzle",
-        "right_feedback": "Correcto!",  # changed
-        "wrong_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+        "right_feedback": "Correct!",
+        "wrong_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
         "wrong_delay": 5000,
         "words": items
     }
@@ -52,7 +52,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
     :param behaviors: list of behaviors to show for long scenarios
     :return: a page group for the long scenario
     """
-    
+
     pages = []
     label = label.strip()
 
@@ -129,7 +129,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     if lessons_learned:  # if it should include a "lessons learned" page
         pages.append({
-            "header_text": "Lecciones Aprendidas",  # changed
+            "header_text": "Lessons Learned",
             "header_icon": "assets/subtitle.png",
             "elements": [
                 {"type": "Text","Text": clean_up_unicode(lessons_learned_dict[domain])},
@@ -140,17 +140,16 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     if letters_missing.lower() == "all" and is_first_scenario:
         # if all letters missing, and it's the first scenario, add an instructions page
         pages.append({
-            "header_text": "Instrucciones",  # changed
+            "header_text": "Instructions",
             "header_icon": "assets/subtitle.png",
             "elements": [{
                 "type": "Text",
-                "text": "Las historias que estás a punto de ver son un poco diferentes a las que has visto"
-                        "visto antes. En lugar de completar las letras que faltan para completar la palabra final,"
-                        "Vamos a desafiarte a generar tu propia última palabra que completará"
-                        "la historia. Tu objetivo es pensar en una palabra que terminará la historia en un "
-                        "nota positiva. El final no tiene por qué ser tan positivo como para no serlo"
-                        "Parece posible, pero queremos que imagines que estás manejando bien la situación."
-                        # changed
+                "text": "The stories you're about to see are a little bit different than ones you've "
+                        "seen before. Rather than fill in missing letters to complete the final word, "
+                        "we're going to challenge you to generate your own final word that will complete "
+                        "the story. Your goal is to think of a word that will end the story on a "
+                        "positive note. The ending doesn't have to be so positive that it doesn't "
+                        "seem possible, but we want you to imagine you are handling the situation well.",
             }]
         })
 
@@ -177,8 +176,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             {
                 "type": "WordPuzzle",
                 "name": f"{label}_{domain}_puzzle1",
-                "correct_feedback": "Correcto!",  # changed
-                "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+                "correct_feedback": "Correct!",
+                "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                 "incorrect_delay": 5000,
                 "words": [word_1]
             }
@@ -199,8 +198,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 {
                     "type": "WordPuzzle",
                     "name": f"{label}_{domain}_puzzle_word2",
-                    "correct_feedback": "Correcto!",  # changed
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+                    "correct_feedback": "Correct!",
+                    "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                     "incorrect_delay": 5000,
                     "words": [word_2]
                 }
@@ -223,8 +222,8 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 {
                     "type": "Buttons",
                     "name": f"{label}_{domain}_comp_question",
-                    "correct_feedback": "Correcto!",  # changed
-                    "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+                    "correct_feedback": "Correct!",
+                    "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                     "incorrect_delay": 5000,
                     "buttons": answers,
                     "columnCount": 1,
@@ -235,47 +234,36 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
     return pages
 
-def create_resource_page(resources_lookup, tips, ER_lookup, domain):
-    """
-    Create a resource page group (Resource, ER strategy, or Tip)
-    :param resources_lookup: Object created by get_resources()
-    :param tip: List created by get_tips()
-    :param ER_lookup: Object created by get_ER()
-    :param domain: the domain
-    :return: a page group for a resource, ER strategy, or tip
-    """
-    
-    resource_type = random.choice(["Resource", "Tip", "ER Strategy"])
+def create_resource_page(motivations, tips, ER_lookup, domain):
 
-    if resource_type == "Resource":
-        label,text = resources_lookup[domain].pop(0)  # resource name and text
-        resources_lookup[domain].append([label,text])   # place at back
-        text = f"{label}\n\n{text}"
+    resource_type = random.choice(["Motivation", "Tip", "ER Strategy"])
 
-        title = f"Recurso: {domain}"# changed
-        name =  label
+    if resource_type == "Motivation":
+        [label,text] = motivations.pop(0)
+        motivations.append([label,text])
+
+        text = f"{label} \n\n {text}"
+        title = f"Reflection"
         input  = None
 
     if resource_type == "Tip":
         label,text = tips.pop(0)  # pop the first list within the lists out of tip
         tips.append([label,text])  # adding that tip back to the end of the list
 
-        title = "Aplicar a la vida diaria: ¡Haz que funcione para ti!"  # changed
-        name  = "¡Consejo para aplicar!" # changed
+        title = "Apply to Daily Life: Make It Work for You!"
         input = {"type": "Entry", "name": f"{label}_entry"}
 
     if resource_type == "ER Strategy":
-        [label,text] = ER_lookup[domain].pop(0)  # popping the first list of lists
-        ER_lookup[domain].append([label,text])  # adding it back to the end of the list of lists
+        [label,text] = ER_lookup[domain].pop(0)
+        ER_lookup[domain].append([label,text])
 
-        title = f"Maneja tus sentimientos: {domain}" # domain name  # changed
-        name  = "Consejo para la regulación de las emociones"  # changed
+        title = f"Manage Your Feelings: {domain}"
         input = None
 
     text = { "type": "Text", "text": text }
     elements = [text,input] if input else [text]
 
-    return {"header_text": title, "header_icon": "assets/subtitle.png", "name": name, "elements": elements }
+    return {"header_text": title, "header_icon": "assets/subtitle.png", "elements": elements }
 
 def create_discrimination_page(conditions, text, items, input_1,
                                input_name, title):
