@@ -56,7 +56,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
     pages = []
     label = label.strip()
 
-    with open(f"{dir_csv}/Spanish htc_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
+    with open(f"{dir_csv}/MTM_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
         for row in islice(csv.reader(csvfile),1,None):
 
             input_1, is_image, timeout = row[6], row[10].lower() == "true", row[13]
@@ -127,7 +127,10 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     is_first_scenario = (int(row_num) - 1) % 10 == 0
     pages = []
 
-    if lessons_learned:  # if it should include a "lessons learned" page
+    if lessons_learned and domain not in lessons_learned_dict:
+        print(f"{domain} not in lessons_learned")
+
+    if lessons_learned and domain in lessons_learned_dict:  # if it should include a "lessons learned" page
         pages.append({
             "header_text": "Lessons Learned",
             "header_icon": "assets/subtitle.png",

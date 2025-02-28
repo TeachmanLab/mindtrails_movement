@@ -2,7 +2,7 @@ import csv
 import json
 
 from pathlib import Path
-from itertools import islice
+from itertools import islice, count
 
 import numpy as np
 
@@ -70,13 +70,15 @@ def rreplace(s, old, new, occurrence):
 
 def get_motivations(file_path):
     motivation_lst = []
+    motivation_num = 0
     with open(file_path, "r") as read_obj:
         reader = csv.reader(read_obj)
         next(reader)
         for row in reader:
             motivation = row[1]
             if motivation not in (None, ""):
-                motivation_lst.append(motivation)
+                motivation_num += 1
+                motivation_lst.append([f"Motivational Statement #{motivation_num}", motivation])
 
     return motivation_lst
 
@@ -93,18 +95,15 @@ def get_ER(file_path):
 
         File I used to make this: https://docs.google.com/spreadsheets/d/1kenROWNI498AcMhjElrFQD9IjOmnVGInVB8BShSYSx8/edit#gid=0
         """
-
-    domain_indexes = [1, 2, 3, 4, 5, 6, 7, 8]
-    domain_strats = [ [] for _ in domain_indexes ]
-
     with open(file_path, 'r', encoding='utf-8') as f:
 
         reader = csv.reader(f)
-        domain_names = list(map(next(reader).__getitem__,domain_indexes))
+        domain_names = list(islice(next(reader),1,None))
+        domain_strats = [ [] for _ in domain_names ]
 
         for i,row in enumerate(reader,1):
-            for strats, domain_index in zip(domain_strats, domain_indexes):
-                if row[domain_index]: strats.append([f"Estrategia de Regulación Emocional #{i}", row[domain_index]])
+            for strats, domain_index in zip(domain_strats, count()):
+                if row[domain_index]: strats.append([f"Emotion Regulation Strategy # #{i}", row[domain_index]])
 
         return dict(zip(domain_names,domain_strats))
 

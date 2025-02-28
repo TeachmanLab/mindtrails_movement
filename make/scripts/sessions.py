@@ -24,7 +24,7 @@ def flat(dictionary):
     return list(chain.from_iterable(dictionary.values()))
 
 def _create_practice_pages(i):
-    with open(f"{dir_csv}/MTM dose1_scenarios - Sheet1.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
+    with open(f"{dir_csv}/MTM dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
         dose1_scenario_num = 0
         for row_1 in islice(csv.reader(dose1_read_obj),1,None):
 
@@ -95,14 +95,14 @@ def domain_selection_text():
         "¡Pensar con flexibilidad en todas las áreas de tu vida!"
     )
 
-def create_lessons_learned():
-    with open(f"{dir_csv}/lessons_learned_text.csv", 'r', encoding='utf-8') as read_obj:
+def create_lessons_learned(popname):
+    with open(f"{dir_csv}/MTM lessons_learned_text - {popname}.csv", 'r', encoding='utf-8') as read_obj:
         return { row[0]:row[1] for row in islice(csv.reader(read_obj),1,None) }
 
 def create_long_doses(popname,i):
     long_doses = defaultdict(list)
 
-    with open(f"{dir_csv}/mtm_long_scenarios_structure - Sheet1.csv", "r",encoding="utf-8") as read_file:
+    with open(f"{dir_csv}/MT Movement Final Long Scenarios - MTM Long Scenarios-{popname} FOR APP.csv", "r",encoding="utf-8") as read_file:
         for row in islice(csv.reader(read_file),2,None):
 
             if not row: continue # Skip empty lines
@@ -139,9 +139,9 @@ def create_short_doses(popname,i):
 
     unique_image = False
 
-    lessons_learned_dict = create_lessons_learned()
+    lessons_learned_dict = create_lessons_learned(popname)
 
-    with open(f"{dir_csv}/MTM Short Scenarios by Session - MTM {popname} Final Demo Version.csv","r", encoding="utf-8", newline='') as read_obj:
+    with open(f"{dir_csv}/MTM Short Scenarios by Session - Initial Protocol {popname}.csv","r", encoding="utf-8", newline='') as read_obj:
 
         for row in islice(csv.reader(read_obj),1,None):
             domain_1 = row[0].strip() #Broad domain 1
@@ -191,10 +191,6 @@ def create_short_doses(popname,i):
     return short_doses
 
 def create_surveys(popname,i):
-    # The keys in this dictionary correspond to the HTC_survey_questions.csv lookup codes ([Subject]_[Doses])
-    # You can see all the lookup codes and their meanings below:
-    # https://docs.google.com/spreadsheets/d/1Z_syG-HbyFT2oqMsHnAbidRtlH97IVxnBqbNKZWbwLY/edit#gid=0
-
     surveys = { 
         f"{popname}_beforedomain_all": defaultdict(list),
         f"{popname}_afterdomain_all": defaultdict(list),
@@ -209,7 +205,7 @@ def create_surveys(popname,i):
 
             if lookup_id not in surveys: continue
 
-            elif row[0] == "Práctica CBM-I":
+            elif row[0] == "Practice CBM-I":
                 surveys[lookup_id][subgroup_id].extend(_create_practice_pages(i))
             elif row[2]:
                 surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
@@ -218,7 +214,7 @@ def create_surveys(popname,i):
 
 def create_write_your_own_dose():
     pages = []
-    with open(f"{dir_csv}/MTM_write_your_own - Sheet1.csv", "r", encoding="utf-8") as f:
+    with open(f"{dir_csv}/MTM_write_your_own.csv", "r", encoding="utf-8") as f:
         for row in islice(csv.reader(f),1,None):
             text = clean_up_unicode(row[4])
             if text:
@@ -237,7 +233,7 @@ def create_resource_dose_creator(popname):
 
 def create_discrimination_dose(popname):
     pages = []
-    with open(f"{dir_csv}/MTM-discrimination-{popname}.csv", "r", encoding="utf-8") as f:
+    with open(f"{dir_csv}/MTM Discrimination - MTM ({popname}).csv", "r", encoding="utf-8") as f:
         for row in islice(csv.reader(f),1,None):
             title, text, input_1, input_name = row[0], row[1], row[2], row[15]
             items, conditions = row[7], row[14].split('; ')
@@ -303,8 +299,8 @@ for popname,s,l,i in populations:
             folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = dose
 
     # Delete old JSON
-    shutil.rmtree(f"{dir_out}/control/sessions",ignore_errors=True)
-    shutil.rmtree(f"{dir_out}/treatment/sessions",ignore_errors=True)
+    shutil.rmtree(f"{dir_out}/{popname}/control/sessions",ignore_errors=True)
+    shutil.rmtree(f"{dir_out}/{popname}/treatment/sessions",ignore_errors=True)
 
     # Write new JSON
-    write_output(dir_out, folders)
+    write_output(f"{dir_out}/{popname}", folders)

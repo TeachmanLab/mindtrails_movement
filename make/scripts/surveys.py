@@ -68,8 +68,10 @@ for pop_name in populations:
             group_id    = (dose,subject)
             subgroup_id = row[0]
 
-        if row[2] and row[0] != "Práctica CBM-I": survey_pages[group_id][subgroup_id].append(_create_survey_page(row))
+            if row[2] and row[0] != "Practice CBM-I": 
+                survey_pages[group_id][subgroup_id].append(_create_survey_page(row))
 
+    pop_name = pop_name.lower()
     # Define folders
     folders = {
         #TREATMENT
