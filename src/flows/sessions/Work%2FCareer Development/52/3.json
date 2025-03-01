@@ -1,0 +1,21 @@
+{
+    "header_text": "Mind Going Blank",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You give yourself a moment to collect your thoughts and then answer the question. When you think about the answer you gave, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Mind Going Blank_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "good"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

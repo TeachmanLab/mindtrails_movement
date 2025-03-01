@@ -1,0 +1,14 @@
+{
+    "header_text": "Worrying About Savings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Worrying About Savings"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Worrying_About_Savings.jpg"
+        }
+    ]
+}

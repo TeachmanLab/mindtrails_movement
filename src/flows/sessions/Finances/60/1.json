@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Your Credit Card",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Managing Your Credit Card"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Managing_Your_Credit_Card.jpg"
+        }
+    ]
+}

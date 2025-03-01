@@ -1,0 +1,21 @@
+{
+    "header_text": "Affording Expenses",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thinking about your ability to make the payment, you don't expect to be late on your rent, and your funds will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Affording Expenses_Finances_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "enough"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Social Media Feedback",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You look at who did respond, and notice other coworkers have given their input. When you think about your boss not responding yet, you are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Social Media Feedback_Work/Career Development_entry2"
+        }
+    ]
+}

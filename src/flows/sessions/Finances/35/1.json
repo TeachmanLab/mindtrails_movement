@@ -1,0 +1,14 @@
+{
+    "header_text": "Affording Education",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Affording Education"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Affording_Education.jpg"
+        }
+    ]
+}

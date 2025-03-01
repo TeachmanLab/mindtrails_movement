@@ -1,0 +1,14 @@
+{
+    "header_text": "Going to the Dentist",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going to the Dentist"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Going_to_the_Dentist.jpg"
+        }
+    ]
+}

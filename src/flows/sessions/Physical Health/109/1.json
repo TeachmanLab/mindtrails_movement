@@ -1,0 +1,14 @@
+{
+    "header_text": "Walking with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Walking with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Walking_with_a_Friend.jpg"
+        }
+    ]
+}

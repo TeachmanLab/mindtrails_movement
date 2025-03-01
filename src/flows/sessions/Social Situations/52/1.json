@@ -1,0 +1,14 @@
+{
+    "header_text": "Social Media Messaging",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Social Media Messaging"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Social_Media_Messaging.jpg"
+        }
+    ]
+}

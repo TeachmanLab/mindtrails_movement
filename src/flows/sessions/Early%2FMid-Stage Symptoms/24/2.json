@@ -1,0 +1,21 @@
+{
+    "header_text": "Dropped Plate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're at a dinner party with your dearest friends. You get a plate for food and on your way over to the dining table, you drop your plate on the floor. Two of your friends start running over to help you, but they look..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dropped Plate_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "concerned"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

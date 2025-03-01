@@ -1,0 +1,14 @@
+{
+    "header_text": "Affording Expenses",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Affording Expenses"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Affording_Expenses.jpg"
+        }
+    ]
+}

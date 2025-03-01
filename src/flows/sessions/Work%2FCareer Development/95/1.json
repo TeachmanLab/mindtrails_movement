@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Multiple Positions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Managing Multiple Positions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Managing_Multiple_Positions.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Locking the Door",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Locking the Door"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Locking_the_Door.jpg"
+        }
+    ]
+}

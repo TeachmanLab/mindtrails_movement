@@ -1,0 +1,14 @@
+{
+    "header_text": "Train of thought",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Train of thought"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Train_of_thought.jpg"
+        }
+    ]
+}

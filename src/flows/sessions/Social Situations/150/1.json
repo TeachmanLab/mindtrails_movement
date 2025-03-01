@@ -1,0 +1,14 @@
+{
+    "header_text": "Different Music Tastes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Different Music Tastes"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Different_Music_Tastes.jpg"
+        }
+    ]
+}

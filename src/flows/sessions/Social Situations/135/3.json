@@ -1,0 +1,21 @@
+{
+    "header_text": "Saving Money",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You need to save money so you always bring meals from home. When you eat with your friends, you notice that they all go out to eat every lunch. You realize that you have a different situation than your friends and that's..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Saving Money_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "ok"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

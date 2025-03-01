@@ -1,0 +1,14 @@
+{
+    "header_text": "Deciding on one thing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Deciding on one thing"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Deciding_on_one_thing.jpg"
+        }
+    ]
+}

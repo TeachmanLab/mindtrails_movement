@@ -1,0 +1,14 @@
+{
+    "header_text": "Missed Connection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Missed Connection"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Missed_Connection.jpg"
+        }
+    ]
+}

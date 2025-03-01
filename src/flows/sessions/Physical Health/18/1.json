@@ -1,0 +1,14 @@
+{
+    "header_text": "Weekend horseback riding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Weekend horseback riding"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Weekend_horseback_riding.jpg"
+        }
+    ]
+}

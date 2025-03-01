@@ -1,0 +1,21 @@
+{
+    "header_text": "A sip of water",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At work you are told you need to give a presentation to your coworkers. When it is time to present, you have a sip of water. As you begin to speak, you feel scared and decide to..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A sip of water_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "continue"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

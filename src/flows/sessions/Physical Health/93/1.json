@@ -1,0 +1,14 @@
+{
+    "header_text": "Recent Exposure",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recent Exposure"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Recent_Exposure.jpg"
+        }
+    ]
+}

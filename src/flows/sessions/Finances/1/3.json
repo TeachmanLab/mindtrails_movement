@@ -1,0 +1,21 @@
+{
+    "header_text": "Applying for a Grant",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You want to start a new initiative in your office, so you apply for a grant for funding. Without this funding, you won't be able to move forward with your initiative, but you don't know if your proposal is good enough. You think you won't get the... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Applying for a Grant_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "funding"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

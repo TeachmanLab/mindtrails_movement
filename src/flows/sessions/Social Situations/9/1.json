@@ -1,0 +1,14 @@
+{
+    "header_text": "Fundraiser presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fundraiser presentation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Fundraiser_presentation.jpg"
+        }
+    ]
+}

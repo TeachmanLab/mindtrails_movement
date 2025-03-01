@@ -1,0 +1,21 @@
+{
+    "header_text": "Trying New Foods",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner brings home some very spicy food for dinner. After eating some, your face begins to sweat, and you can feel your heart beating in your chest. These sensations trigger streams of anxious thoughts. You decide to focus on the conversation, and your experience the rest of dinner is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Trying New Foods_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "enjoyable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

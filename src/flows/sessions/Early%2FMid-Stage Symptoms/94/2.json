@@ -1,0 +1,21 @@
+{
+    "header_text": "Farmer's Market",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You enjoy going to the local farmer's market every week. Lately, you've been struggling to get the motivation to go, fearing that others will notice your PD symptoms, but you get the courage to go today. When you arrive at the market, you see many familiar faces that look at you with a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Farmer's Market_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "smile"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

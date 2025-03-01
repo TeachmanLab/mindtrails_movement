@@ -1,0 +1,14 @@
+{
+    "header_text": "Unmasked Peers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unmasked Peers"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unmasked_Peers.jpg"
+        }
+    ]
+}

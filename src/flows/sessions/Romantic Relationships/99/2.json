@@ -1,0 +1,14 @@
+{
+    "header_text": "Putting Yourself Out There",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your significant other have been caught up on your own responsibilities recently, and you feel as though you're drifting apart. You decide to plan a dinner date with them, to spend some quality time just the two of you. At dinner, you feel as though you're starting all of the conversations, and your partner seems... "
+        },
+        {
+            "type": "Entry",
+            "name": "Putting Yourself Out There_Romantic Relationships_entry1"
+        }
+    ]
+}

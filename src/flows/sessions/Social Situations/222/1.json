@@ -1,0 +1,14 @@
+{
+    "header_text": "Holiday Away From Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Holiday Away From Home"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Holiday_Away_From_Home.jpg"
+        }
+    ]
+}

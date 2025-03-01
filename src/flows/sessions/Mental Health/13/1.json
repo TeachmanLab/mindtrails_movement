@@ -1,0 +1,14 @@
+{
+    "header_text": "Picture with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Picture with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Picture_with_Friends.jpg"
+        }
+    ]
+}

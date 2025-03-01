@@ -1,0 +1,21 @@
+{
+    "header_text": "Out of Breath",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "On a walk over the weekend, you noticed you were getting out of breath faster than usual. You remember that the flu causes shortness of breath, and you start to panic. Luckily, you know you've had your flu shot and have done everything you could to prevent the..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Out of Breath_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "flu"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

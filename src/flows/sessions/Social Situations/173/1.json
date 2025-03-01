@@ -1,0 +1,14 @@
+{
+    "header_text": "Voicing Your Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Voicing Your Feelings"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Voicing_Your_Feelings.jpg"
+        }
+    ]
+}

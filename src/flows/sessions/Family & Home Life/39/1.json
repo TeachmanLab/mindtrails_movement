@@ -1,0 +1,14 @@
+{
+    "header_text": "Visiting Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visiting Family"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Visiting_Family.jpg"
+        }
+    ]
+}

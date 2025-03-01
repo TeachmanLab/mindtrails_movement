@@ -1,0 +1,14 @@
+{
+    "header_text": "Funding Good Habits ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Funding Good Habits "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Funding_Good_Habits.jpg"
+        }
+    ]
+}

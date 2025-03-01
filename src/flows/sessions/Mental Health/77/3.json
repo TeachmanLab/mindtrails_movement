@@ -1,0 +1,14 @@
+{
+    "header_text": "New Style ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After battling with yourself in the dressing room, you find yourself feeling confident and wanting to wear it out so you purchase the new..."
+        },
+        {
+            "type": "Entry",
+            "name": "New Style _Mental Health_entry2"
+        }
+    ]
+}

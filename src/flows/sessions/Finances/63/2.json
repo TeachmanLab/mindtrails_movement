@@ -1,0 +1,21 @@
+{
+    "header_text": "Work-Life Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Last month, you accepted an offer to take on extra responsibilities at work for a pay increase. However, this has caused you to spend much less time on other important areas of your life, like family and friends. You talk with your supervisor and make a plan to reduce your responsibilities slightly, which makes you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Work-Life Balance_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "relieved"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

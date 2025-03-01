@@ -1,0 +1,14 @@
+{
+    "header_text": "Expressing Your Ideas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While working on a collaborative project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the..."
+        },
+        {
+            "type": "Entry",
+            "name": "Expressing Your Ideas_Social Situations_entry1"
+        }
+    ]
+}

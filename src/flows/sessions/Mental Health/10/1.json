@@ -1,0 +1,14 @@
+{
+    "header_text": "Late night sensation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Late night sensation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Late_night_sensation.jpg"
+        }
+    ]
+}

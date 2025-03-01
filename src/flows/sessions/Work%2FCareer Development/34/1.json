@@ -1,0 +1,14 @@
+{
+    "header_text": "Child Check-In",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Child Check-In"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Child_Check-In.jpg"
+        }
+    ]
+}

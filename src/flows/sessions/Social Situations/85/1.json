@@ -1,0 +1,14 @@
+{
+    "header_text": "Jacket Return",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Jacket Return"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Jacket_Return.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Call Ending Suddenly",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You made plans with your friends who you have been looking forward to seeing. When you drive to their house and call to tell them you're there, the call ends suddenly. You think it must have been an accidental hang-up or a dropped call, so you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Call Ending Suddenly_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "fine"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

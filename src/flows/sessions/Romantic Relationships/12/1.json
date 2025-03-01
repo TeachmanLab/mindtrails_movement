@@ -1,0 +1,14 @@
+{
+    "header_text": "Blind Date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Blind Date"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Blind_Date.jpg"
+        }
+    ]
+}

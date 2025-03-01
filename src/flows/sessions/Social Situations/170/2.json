@@ -1,0 +1,21 @@
+{
+    "header_text": "Intoxication Situation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a party with your partner and they are intoxicated. When you ask them if they'd like to go home, they say no and walk away from you. You think that they are having fun, so you decide to keep... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Intoxication Situation_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "calm"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Farmer's Market",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Farmer's Market"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Farmer's_Market.jpg"
+        }
+    ]
+}

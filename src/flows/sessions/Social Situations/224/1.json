@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Social Situations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Every body is different. Take a moment to appreciate all that your body does to support you through life."
+        }
+    ]
+}

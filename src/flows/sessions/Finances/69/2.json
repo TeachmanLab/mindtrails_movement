@@ -1,0 +1,14 @@
+{
+    "header_text": "New T-Shirt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New T-Shirt"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_T-Shirt.jpg"
+        }
+    ]
+}

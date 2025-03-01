@@ -1,0 +1,14 @@
+{
+    "header_text": "Driving with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Driving with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Driving_with_a_Friend.jpg"
+        }
+    ]
+}

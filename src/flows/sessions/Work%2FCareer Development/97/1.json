@@ -1,0 +1,14 @@
+{
+    "header_text": "Misunderstanding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Misunderstanding"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Misunderstanding.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Loud Music",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Loud Music"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Loud_Music.jpg"
+        }
+    ]
+}

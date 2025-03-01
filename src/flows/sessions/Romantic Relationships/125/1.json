@@ -1,0 +1,14 @@
+{
+    "header_text": "Future Relationships",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Future Relationships"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Future_Relationships.jpg"
+        }
+    ]
+}

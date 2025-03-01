@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Getting Help"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Getting_Help.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Food Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Food Costs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Food_Costs.jpg"
+        }
+    ]
+}

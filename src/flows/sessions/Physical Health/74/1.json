@@ -1,0 +1,14 @@
+{
+    "header_text": "Dry Mouth",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dry Mouth"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dry_Mouth.jpg"
+        }
+    ]
+}

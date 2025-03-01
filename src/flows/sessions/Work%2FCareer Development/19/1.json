@@ -1,0 +1,14 @@
+{
+    "header_text": "A sudden stumble",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A sudden stumble"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_sudden_stumble.jpg"
+        }
+    ]
+}

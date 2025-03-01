@@ -1,0 +1,14 @@
+{
+    "header_text": "Upset Sibling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Upset Sibling"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Upset_Sibling.jpg"
+        }
+    ]
+}

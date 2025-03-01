@@ -1,0 +1,14 @@
+{
+    "header_text": "Beach Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Beach Vacation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Beach_Vacation.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking Your Own Career Path",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taking Your Own Career Path"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Taking_Your_Own_Career_Path.jpg"
+        }
+    ]
+}

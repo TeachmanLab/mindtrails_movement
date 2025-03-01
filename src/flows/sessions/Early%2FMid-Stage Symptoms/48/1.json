@@ -1,0 +1,14 @@
+{
+    "header_text": "New Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New Costs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_Costs.jpg"
+        }
+    ]
+}

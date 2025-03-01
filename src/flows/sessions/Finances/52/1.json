@@ -1,0 +1,14 @@
+{
+    "header_text": "Weekend Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Weekend Plans"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Weekend_Plans.jpg"
+        }
+    ]
+}

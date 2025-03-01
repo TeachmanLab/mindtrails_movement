@@ -1,0 +1,21 @@
+{
+    "header_text": "Word stumbling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have to make a presentation about your work to your colleagues and your boss. As you start, you stumble on your first few words. Continuing with it, you think that your performance will be evaluated..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Word stumbling_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "positively"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

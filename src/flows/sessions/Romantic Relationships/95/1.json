@@ -1,0 +1,14 @@
+{
+    "header_text": "Shy Significant Other",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Shy Significant Other"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Shy_Significant_Other.jpg"
+        }
+    ]
+}

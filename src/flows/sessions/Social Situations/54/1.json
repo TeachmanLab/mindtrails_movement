@@ -1,0 +1,14 @@
+{
+    "header_text": "Party People",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Party People"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Party_People.jpg"
+        }
+    ]
+}

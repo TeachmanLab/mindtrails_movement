@@ -1,0 +1,21 @@
+{
+    "header_text": "Morning errands",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are running errands and have spent much of the morning on your feet when suddenly, your heart starts racing and you feel lightheaded. You rush to your car, worried that you might be having a panic attack. After sitting down, you remember that these feelings could also be caused by low blood pressure related to your Parkinson’s; you turn on the air conditioning and drink some water, and soon your body starts to..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Morning errands_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "relax"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

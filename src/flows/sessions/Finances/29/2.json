@@ -1,0 +1,21 @@
+{
+    "header_text": "Unexpected Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Unexpected Costs_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "feasible"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

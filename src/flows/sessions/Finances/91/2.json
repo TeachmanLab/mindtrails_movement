@@ -1,0 +1,14 @@
+{
+    "header_text": "Paying for Dinner ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paying for Dinner "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Paying_for_Dinner.jpg"
+        }
+    ]
+}

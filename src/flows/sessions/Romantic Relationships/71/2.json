@@ -1,0 +1,14 @@
+{
+    "header_text": "Finding The One",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're currently single, and have been going on dates to try and find the one. Sometimes, it feels hard to really connect with people and get to know them on a deeper level. When you think about getting married in the future, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Finding The One_Romantic Relationships_entry1"
+        }
+    ]
+}

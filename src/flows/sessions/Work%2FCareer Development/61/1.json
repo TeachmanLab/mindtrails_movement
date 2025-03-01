@@ -1,0 +1,14 @@
+{
+    "header_text": "The Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "The Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "/images/The_Meeting.jpg"
+        }
+    ]
+}

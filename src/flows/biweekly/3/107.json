@@ -1,0 +1,10 @@
+{
+    "header_text": "Sadness Scale",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please complete the survey below regarding your feelings in the past week."
+        }
+    ]
+}

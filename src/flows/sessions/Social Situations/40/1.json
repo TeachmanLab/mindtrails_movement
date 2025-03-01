@@ -1,0 +1,14 @@
+{
+    "header_text": "Trivia tournament",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trivia tournament"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trivia_tournament.jpg"
+        }
+    ]
+}

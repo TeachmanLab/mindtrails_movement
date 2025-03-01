@@ -1,0 +1,14 @@
+{
+    "header_text": "A new camera",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A new camera"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_new_camera.jpg"
+        }
+    ]
+}

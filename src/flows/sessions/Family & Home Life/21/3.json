@@ -1,0 +1,21 @@
+{
+    "header_text": "Loud Music",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a deep breath and your significant other responds. You ask them to turn down the music and they..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Loud Music_Family & Home Life_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "apologize"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Playing the Piano",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Playing the Piano"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Playing_the_Piano.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Annual checkup results",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Annual checkup results"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Annual_checkup_results.jpg"
+        }
+    ]
+}

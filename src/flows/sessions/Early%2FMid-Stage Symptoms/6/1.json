@@ -1,0 +1,14 @@
+{
+    "header_text": "House Play",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "House Play"
+        },
+        {
+            "type": "Media",
+            "url": "/images/House_Play.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Funny Photos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Funny Photos"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Funny_Photos.jpg"
+        }
+    ]
+}

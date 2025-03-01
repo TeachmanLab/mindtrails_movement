@@ -1,0 +1,14 @@
+{
+    "header_text": "Hardware Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hardware Store"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Hardware_Store.jpg"
+        }
+    ]
+}

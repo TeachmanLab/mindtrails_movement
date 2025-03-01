@@ -1,0 +1,14 @@
+{
+    "header_text": "Texting Other People",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Texting Other People"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Texting_Other_People.jpg"
+        }
+    ]
+}

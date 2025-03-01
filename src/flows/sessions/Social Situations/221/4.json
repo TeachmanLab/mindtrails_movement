@@ -1,0 +1,24 @@
+{
+    "header_text": "Bringing a New Friend Home",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Does your friend judge you for living with lots of extended family members?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Bringing a New Friend Home_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ]
+}

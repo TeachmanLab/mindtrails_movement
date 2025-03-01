@@ -1,0 +1,21 @@
+{
+    "header_text": "Controversial news story",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the end of the conversation, you realize that although the discussion was heated, your coworker probably thinks that you both have strong convictions. You have earned your coworker's..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Controversial news story_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "respect"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

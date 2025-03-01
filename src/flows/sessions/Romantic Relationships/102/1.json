@@ -1,0 +1,14 @@
+{
+    "header_text": "Marrying Your Partner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Marrying Your Partner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Marrying_Your_Partner.jpg"
+        }
+    ]
+}

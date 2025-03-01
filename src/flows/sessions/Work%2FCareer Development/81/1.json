@@ -1,0 +1,14 @@
+{
+    "header_text": "Supportive Guidance ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Supportive Guidance "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Supportive_Guidance.jpg"
+        }
+    ]
+}

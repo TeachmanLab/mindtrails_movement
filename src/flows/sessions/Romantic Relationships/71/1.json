@@ -1,0 +1,14 @@
+{
+    "header_text": "Finding The One",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Finding The One"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Finding_The_One.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "An unwashed table",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An unwashed table"
+        },
+        {
+            "type": "Media",
+            "url": "/images/An_unwashed_table.jpg"
+        }
+    ]
+}

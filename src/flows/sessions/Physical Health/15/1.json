@@ -1,0 +1,14 @@
+{
+    "header_text": "A scratchy throat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A scratchy throat"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_scratchy_throat.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Holding the Phone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Holding the Phone"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Holding_the_Phone.jpg"
+        }
+    ]
+}

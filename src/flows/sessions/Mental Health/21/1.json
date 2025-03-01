@@ -1,0 +1,14 @@
+{
+    "header_text": "Trying New Foods",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trying New Foods"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trying_New_Foods.jpg"
+        }
+    ]
+}

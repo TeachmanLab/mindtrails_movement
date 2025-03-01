@@ -1,0 +1,14 @@
+{
+    "header_text": "At the Park",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At the Park"
+        },
+        {
+            "type": "Media",
+            "url": "/images/At_the_Park.jpg"
+        }
+    ]
+}

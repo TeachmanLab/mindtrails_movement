@@ -1,0 +1,21 @@
+{
+    "header_text": "Creating Art ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You then realize that you can adapt the way you currently create. Knowing that there are many ways to be an artist leaves you feeling..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Creating Art _Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "hopeful"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

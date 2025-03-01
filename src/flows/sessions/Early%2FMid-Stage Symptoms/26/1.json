@@ -1,0 +1,14 @@
+{
+    "header_text": "Planning a Family Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planning a Family Vacation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Planning_a_Family_Vacation.jpg"
+        }
+    ]
+}

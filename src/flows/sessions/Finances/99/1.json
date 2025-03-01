@@ -1,0 +1,14 @@
+{
+    "header_text": "Investments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Investments"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Investments.jpg"
+        }
+    ]
+}

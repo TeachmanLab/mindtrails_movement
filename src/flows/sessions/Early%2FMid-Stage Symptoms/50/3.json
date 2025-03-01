@@ -1,0 +1,21 @@
+{
+    "header_text": "Facial Expression ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You make a lighthearted joke that breaks the tension and your friends realize you aren't angry at all. They quickly grasp your true warmth and everyone feels..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Facial Expression _Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "happy"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

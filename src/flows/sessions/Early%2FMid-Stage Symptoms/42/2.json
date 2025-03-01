@@ -1,0 +1,21 @@
+{
+    "header_text": "Dinner Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are excited to attend a dinner with friends. However, you find that you are having more difficulty swallowing than usual. Whether or not your friends notice, you know your friends care about you, and your presence is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dinner Party_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "appreciated"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

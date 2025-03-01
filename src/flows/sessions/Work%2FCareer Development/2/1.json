@@ -1,0 +1,14 @@
+{
+    "header_text": "Group Project Due",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Group Project Due"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Group_Project_Due.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Birthday Jitters",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Birthday Jitters"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Birthday_Jitters.jpg"
+        }
+    ]
+}

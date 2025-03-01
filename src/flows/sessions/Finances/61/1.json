@@ -1,0 +1,14 @@
+{
+    "header_text": "Comparing Salaries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparing Salaries"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Comparing_Salaries.jpg"
+        }
+    ]
+}

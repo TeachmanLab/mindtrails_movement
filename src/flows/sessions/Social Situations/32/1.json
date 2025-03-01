@@ -1,0 +1,14 @@
+{
+    "header_text": "Bumping into someone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Bumping into someone"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Bumping_into_someone.jpg"
+        }
+    ]
+}

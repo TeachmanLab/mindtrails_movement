@@ -1,0 +1,14 @@
+{
+    "header_text": "A Moment of Forgetfulness",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Moment of Forgetfulness"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Moment_of_Forgetfulness.jpg"
+        }
+    ]
+}

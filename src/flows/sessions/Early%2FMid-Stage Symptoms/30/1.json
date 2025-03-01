@@ -1,0 +1,14 @@
+{
+    "header_text": "Forgetting the Laundry",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Forgetting the Laundry"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Forgetting_the_Laundry.jpg"
+        }
+    ]
+}

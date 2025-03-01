@@ -1,0 +1,21 @@
+{
+    "header_text": "Birthday Jitters",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remember they are all coming to celebrate you. This makes you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Birthday Jitters_Family & Home Life_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "excited"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

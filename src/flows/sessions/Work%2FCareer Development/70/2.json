@@ -1,0 +1,14 @@
+{
+    "header_text": "A Little Stumble",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "A Little Stumble_Work/Career Development_entry1"
+        }
+    ]
+}

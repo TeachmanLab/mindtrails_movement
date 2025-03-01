@@ -1,0 +1,24 @@
+{
+    "header_text": "Hot day ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You responded to the feelings of sickness in your stomach by ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Hot day _Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Panicking about the sensations and calling an ambulance.",
+                "Observing the sensations without doing anything."
+            ],
+            "columnCount": 1,
+            "correct_value": "Observing the sensations without doing anything."
+        }
+    ]
+}

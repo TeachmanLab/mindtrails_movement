@@ -1,0 +1,14 @@
+{
+    "header_text": "Your First Grandchild",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your First Grandchild"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Your_First_Grandchild.jpg"
+        }
+    ]
+}

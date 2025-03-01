@@ -1,0 +1,21 @@
+{
+    "header_text": "Family Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You love to cook for your family. Lately, your symptoms have made it more difficult to make your favorite meals. Whether or not you can continue filling this role for your family, you know that dinner time together will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Family Dinner_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "enjoyable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

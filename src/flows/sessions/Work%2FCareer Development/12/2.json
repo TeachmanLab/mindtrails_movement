@@ -1,0 +1,21 @@
+{
+    "header_text": "Important evaluation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have almost completed an important project. Part of your evaluation is determined by your coworkers. You know most of them well and feel that their opinions of you will make them evaluate you..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Important evaluation_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "favorably"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Flu Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner doesn’t take the necessary precautions to prevent the flu. This worries you because someone you know is immunocompromised. When you think about talking to your partner about their actions, you think they will..."
+        },
+        {
+            "type": "Entry",
+            "name": "Flu Worries_Romantic Relationships_entry1"
+        }
+    ]
+}

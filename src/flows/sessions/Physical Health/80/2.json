@@ -1,0 +1,14 @@
+{
+    "header_text": "Sleep Sensations ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sleep Sensations "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sleep_Sensations.jpg"
+        }
+    ]
+}

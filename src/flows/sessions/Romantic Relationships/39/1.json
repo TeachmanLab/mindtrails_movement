@@ -1,0 +1,14 @@
+{
+    "header_text": "Being Single",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Being Single"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Being_Single.jpg"
+        }
+    ]
+}

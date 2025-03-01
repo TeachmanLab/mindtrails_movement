@@ -1,0 +1,24 @@
+{
+    "header_text": "Long-Term Relationship",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you think about your current relationship, you think that it will probably:"
+        },
+        {
+            "type": "Buttons",
+            "name": "Long-Term Relationship_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "End like all the rest have.",
+                "Develop into something even more meaningful to you."
+            ],
+            "columnCount": 1,
+            "correct_value": "Develop into something even more meaningful to you."
+        }
+    ]
+}

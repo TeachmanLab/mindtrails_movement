@@ -1,0 +1,24 @@
+{
+    "header_text": "Cardio with friend",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When feeling like you can't catch your breath, it is helpful to ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Cardio with friend_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Just observe your anxious thoughts and sensations without judgment.",
+                "Judge your breathlessness as bad or harmful."
+            ],
+            "columnCount": 1,
+            "correct_value": "Just observe your anxious thoughts and sensations without judgment."
+        }
+    ]
+}

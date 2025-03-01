@@ -1,0 +1,14 @@
+{
+    "header_text": "Ending Long Distance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ending Long Distance"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Ending_Long_Distance.jpg"
+        }
+    ]
+}

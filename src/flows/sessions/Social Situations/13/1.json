@@ -1,0 +1,14 @@
+{
+    "header_text": "A welcome greeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A welcome greeting"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_welcome_greeting.jpg"
+        }
+    ]
+}

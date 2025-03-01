@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Dizzy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a party and start to dance with your friends. You start to feel dizzy and sit down. The dizziness goes away and you think that it was a feeling of..."
+        },
+        {
+            "type": "Entry",
+            "name": "Feeling Dizzy_Physical Health_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Dedicated Teacher",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dedicated Teacher"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dedicated_Teacher.jpg"
+        }
+    ]
+}

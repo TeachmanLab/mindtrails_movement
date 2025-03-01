@@ -1,0 +1,24 @@
+{
+    "header_text": "Taking Time Off",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You did not want to ask for time off because... "
+        },
+        {
+            "type": "Buttons",
+            "name": "Taking Time Off_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You were fearful",
+                "You did not need time off"
+            ],
+            "columnCount": 1,
+            "correct_value": "You were fearful"
+        }
+    ]
+}

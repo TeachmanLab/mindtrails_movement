@@ -1,0 +1,24 @@
+{
+    "header_text": "Advice for a friend",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Did your friend think you gave them good advice about relationships?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Advice for a friend_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ]
+}

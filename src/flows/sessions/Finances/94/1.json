@@ -1,0 +1,14 @@
+{
+    "header_text": "Making Changes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Making Changes"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Making_Changes.jpg"
+        }
+    ]
+}

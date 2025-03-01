@@ -1,0 +1,14 @@
+{
+    "header_text": "Going to a Wedding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going to a Wedding"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Going_to_a_Wedding.jpg"
+        }
+    ]
+}

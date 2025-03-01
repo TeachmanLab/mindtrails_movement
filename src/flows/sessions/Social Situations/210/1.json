@@ -1,0 +1,14 @@
+{
+    "header_text": "Luncheon Looks",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Luncheon Looks"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Luncheon_Looks.jpg"
+        }
+    ]
+}

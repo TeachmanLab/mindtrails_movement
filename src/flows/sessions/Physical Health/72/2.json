@@ -1,0 +1,14 @@
+{
+    "header_text": "Doctor's Appointment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At your routine doctor's appointment, your doctor decides to run a few tests to evaluate your health. Your results will be ready within a week. While waiting for your results, you think that there will be no new..."
+        },
+        {
+            "type": "Entry",
+            "name": "Doctor's Appointment_Physical Health_entry1"
+        }
+    ]
+}

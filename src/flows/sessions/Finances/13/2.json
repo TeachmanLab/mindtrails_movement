@@ -1,0 +1,21 @@
+{
+    "header_text": "Bill for a fix",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your roof has a leak, and water comes into the house every time it rains. You think it is going to be expensive to hire someone to fix it. As you think about paying the bill to have the roof fixed, you feel that you will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Bill for a fix_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "fine"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

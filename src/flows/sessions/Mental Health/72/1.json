@@ -1,0 +1,14 @@
+{
+    "header_text": "Rainy Weather",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Rainy Weather"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Rainy_Weather.jpg"
+        }
+    ]
+}

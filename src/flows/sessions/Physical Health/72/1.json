@@ -1,0 +1,14 @@
+{
+    "header_text": "Doctor's Appointment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Doctor's Appointment"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Doctor's_Appointment.jpg"
+        }
+    ]
+}

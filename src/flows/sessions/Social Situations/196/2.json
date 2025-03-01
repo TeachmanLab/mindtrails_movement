@@ -1,0 +1,14 @@
+{
+    "header_text": "Coughing at the Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a cold, but you decide to go to the grocery store since you feel well enough. You can't help but cough a few times, and you worry that others are judging you. No one has noticed you coughing, so you feel better about your decision to go to the..."
+        },
+        {
+            "type": "Entry",
+            "name": "Coughing at the Store_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Trivia Night",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on your way home after a trivia night that you participated in. As your mind wanders, you think about the one question you missed. Overall, you consider your performance a..."
+        },
+        {
+            "type": "Entry",
+            "name": "Trivia Night_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Extra Income",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Extra Income"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Extra_Income.jpg"
+        }
+    ]
+}

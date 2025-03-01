@@ -1,0 +1,14 @@
+{
+    "header_text": "Mask Insecurities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mask Insecurities"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Mask_Insecurities.jpg"
+        }
+    ]
+}

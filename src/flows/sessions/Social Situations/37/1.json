@@ -1,0 +1,14 @@
+{
+    "header_text": "Suggestion to meet again",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Suggestion to meet again"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Suggestion_to_meet_again.jpg"
+        }
+    ]
+}

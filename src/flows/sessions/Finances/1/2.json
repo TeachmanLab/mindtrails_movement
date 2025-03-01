@@ -1,0 +1,14 @@
+{
+    "header_text": "Applying for a Grant",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Applying for a Grant"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Applying_for_a_Grant.jpg"
+        }
+    ]
+}

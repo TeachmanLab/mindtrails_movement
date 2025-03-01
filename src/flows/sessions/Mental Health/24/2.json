@@ -1,0 +1,21 @@
+{
+    "header_text": "Early Morning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just started a new job and some friends from work  want to take you to a party tonight. You let them know that you have to be up early tomorrow morning for an important event and that you can't go with them and they seem disappointed. You think that your new friends will respect your decision to put your needs..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Early Morning_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "first"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

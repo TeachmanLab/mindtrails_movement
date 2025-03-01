@@ -1,0 +1,24 @@
+{
+    "header_text": "A small presentation",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Can you handle your fear of giving the oral presentation?"
+        },
+        {
+            "type": "Buttons",
+            "name": "A small presentation_Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Stress",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Managing Stress"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Managing_Stress.jpg"
+        }
+    ]
+}

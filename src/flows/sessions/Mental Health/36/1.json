@@ -1,0 +1,14 @@
+{
+    "header_text": "Canceling on Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Canceling on Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Canceling_on_Friends.jpg"
+        }
+    ]
+}

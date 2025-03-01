@@ -1,0 +1,14 @@
+{
+    "header_text": "Question at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Question at Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Question_at_Work.jpg"
+        }
+    ]
+}

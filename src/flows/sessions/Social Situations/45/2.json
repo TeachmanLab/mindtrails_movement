@@ -1,0 +1,14 @@
+{
+    "header_text": "A different perspective",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A different perspective"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_different_perspective.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Disease and Identity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Disease and Identity"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Disease_and_Identity.jpg"
+        }
+    ]
+}

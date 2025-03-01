@@ -1,0 +1,21 @@
+{
+    "header_text": "Correction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the end, you remind yourself that occasionally making mistakes does not make you a bad employee. Your boss had corrected you kindly, as was their job, and you feel that the whole interaction went..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Correction_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "well"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

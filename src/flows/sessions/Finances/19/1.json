@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing bills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Managing bills"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Managing_bills.jpg"
+        }
+    ]
+}

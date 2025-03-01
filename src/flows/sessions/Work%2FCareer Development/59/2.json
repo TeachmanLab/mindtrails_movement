@@ -1,0 +1,21 @@
+{
+    "header_text": "Completion Complications",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are proposing a new idea in a meeting today. You only have an hour before the meeting and you don't know where to start. When you think about your ability to complete the proposal, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Completion Complications_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "doubtful"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Numb",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Numb"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Numb.jpg"
+        }
+    ]
+}

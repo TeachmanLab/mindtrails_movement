@@ -1,0 +1,24 @@
+{
+    "header_text": "Cold Weather",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Before you got indoors again, you... "
+        },
+        {
+            "type": "Buttons",
+            "name": "Cold Weather_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Assume that something bad is happening to you.",
+                "Tolerate your body's normal response to the cold."
+            ],
+            "columnCount": 1,
+            "correct_value": "Tolerate your body's normal response to the cold."
+        }
+    ]
+}

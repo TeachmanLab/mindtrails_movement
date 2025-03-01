@@ -1,0 +1,21 @@
+{
+    "header_text": "Late night sensation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the middle of the night, you wake up abruptly and feel weird as you sit up. It's as if your mind isn't working correctly, and you start to think you might be losing control. This thought frightens you, and you decide to lie back down and just observe..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Late night sensation_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "it"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

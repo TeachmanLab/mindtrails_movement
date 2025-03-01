@@ -1,0 +1,14 @@
+{
+    "header_text": "Committing to Activities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were very excited to return to in-person office work and decided to commit to a lot of activities. You've found it challenging to meet all of your responsibilities, and you worry that you are failing at... "
+        },
+        {
+            "type": "Entry",
+            "name": "Committing to Activities_Work/Career Development_entry1"
+        }
+    ]
+}

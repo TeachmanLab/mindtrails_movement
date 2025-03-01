@@ -1,0 +1,14 @@
+{
+    "header_text": "Hanging Out with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are hanging out with some friends. One of them invites another one to come over to their house on a different day without you. You think about it and realize you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Hanging Out with Friends_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Scheduling Conflicts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Scheduling Conflicts"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Scheduling_Conflicts.jpg"
+        }
+    ]
+}

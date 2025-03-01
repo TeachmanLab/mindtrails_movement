@@ -1,0 +1,14 @@
+{
+    "header_text": "Garden Planting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Garden Planting"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Garden_Planting.jpg"
+        }
+    ]
+}

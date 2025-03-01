@@ -1,0 +1,14 @@
+{
+    "header_text": "Working to Get Ahead",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Working to Get Ahead"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Working_to_Get_Ahead.jpg"
+        }
+    ]
+}

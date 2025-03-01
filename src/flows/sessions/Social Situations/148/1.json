@@ -1,0 +1,14 @@
+{
+    "header_text": "Visiting a New Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Visiting a New Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Visiting_a_New_Friend.jpg"
+        }
+    ]
+}

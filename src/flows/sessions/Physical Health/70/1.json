@@ -1,0 +1,14 @@
+{
+    "header_text": "Broken Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Broken Car"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Broken_Car.jpg"
+        }
+    ]
+}

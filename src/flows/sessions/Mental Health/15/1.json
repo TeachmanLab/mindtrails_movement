@@ -1,0 +1,14 @@
+{
+    "header_text": "Safe Driving",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Safe Driving"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Safe_Driving.jpg"
+        }
+    ]
+}

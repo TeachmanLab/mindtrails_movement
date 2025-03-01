@@ -1,0 +1,14 @@
+{
+    "header_text": "Seeing an Old Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Seeing an Old Friend_Physical Health_entry1"
+        }
+    ]
+}

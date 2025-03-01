@@ -1,0 +1,14 @@
+{
+    "header_text": "Asking Out Your Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asking Out Your Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Asking_Out_Your_Friend.jpg"
+        }
+    ]
+}

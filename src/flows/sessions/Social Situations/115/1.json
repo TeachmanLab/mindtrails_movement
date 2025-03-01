@@ -1,0 +1,14 @@
+{
+    "header_text": "A Rude Comment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Rude Comment"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Rude_Comment.jpg"
+        }
+    ]
+}

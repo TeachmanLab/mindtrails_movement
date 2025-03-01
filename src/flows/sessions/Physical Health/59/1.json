@@ -1,0 +1,14 @@
+{
+    "header_text": "Friendly Neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friendly Neighbor"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Friendly_Neighbor.jpg"
+        }
+    ]
+}

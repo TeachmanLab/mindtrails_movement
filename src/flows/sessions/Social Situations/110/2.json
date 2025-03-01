@@ -1,0 +1,21 @@
+{
+    "header_text": "No Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You sent an email to your boss a few hours ago. You check to see if they have responded yet, but they haven't. You think about how your boss doesn't check their email often and you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "No Response_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

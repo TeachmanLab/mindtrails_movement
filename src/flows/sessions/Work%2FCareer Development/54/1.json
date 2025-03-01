@@ -1,0 +1,14 @@
+{
+    "header_text": "Finishing Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Finishing Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Finishing_Work.jpg"
+        }
+    ]
+}

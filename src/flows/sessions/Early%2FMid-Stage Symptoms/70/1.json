@@ -1,0 +1,14 @@
+{
+    "header_text": "Avid Traveler",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Avid Traveler"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Avid_Traveler.jpg"
+        }
+    ]
+}

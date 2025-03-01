@@ -1,0 +1,14 @@
+{
+    "header_text": "Introducing Your Family to Someone New",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Introducing Your Family to Someone New"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Introducing_Your_Family_to_Someone_New.jpg"
+        }
+    ]
+}

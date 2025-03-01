@@ -1,0 +1,14 @@
+{
+    "header_text": "Divorce Statistics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Divorce Statistics"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Divorce_Statistics.jpg"
+        }
+    ]
+}

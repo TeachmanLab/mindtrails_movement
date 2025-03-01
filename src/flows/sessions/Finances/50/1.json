@@ -1,0 +1,14 @@
+{
+    "header_text": "House Hunting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "House Hunting"
+        },
+        {
+            "type": "Media",
+            "url": "/images/House_Hunting.jpg"
+        }
+    ]
+}

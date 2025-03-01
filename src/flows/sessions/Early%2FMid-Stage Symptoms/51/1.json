@@ -1,0 +1,14 @@
+{
+    "header_text": "Dinner Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dinner Alone"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dinner_Alone.jpg"
+        }
+    ]
+}

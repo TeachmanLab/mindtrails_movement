@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentation Practice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentation Practice"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Presentation_Practice.jpg"
+        }
+    ]
+}

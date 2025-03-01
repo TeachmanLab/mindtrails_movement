@@ -1,0 +1,24 @@
+{
+    "header_text": "A new state",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "In this state, you think you will find..."
+        },
+        {
+            "type": "Buttons",
+            "name": "A new state_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yourself in troublesome situations.",
+                "Opportunities to learn and experience the local traditions."
+            ],
+            "columnCount": 1,
+            "correct_value": "Opportunities to learn and experience the local traditions."
+        }
+    ]
+}

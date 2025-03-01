@@ -1,0 +1,21 @@
+{
+    "header_text": "Nerve-wracking presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have to give a presentation to your boss. As you think about the talk, you feel butterflies in your stomach. On the morning of the talk, you feel nervous, and you think your nerves will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Nerve-wracking presentation_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "manageable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

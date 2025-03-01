@@ -1,0 +1,21 @@
+{
+    "header_text": "Night Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are getting ready for a dinner party out. You notice that you have a big pimple on your cheek. You feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Night Out_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "beautiful"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

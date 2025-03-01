@@ -1,0 +1,14 @@
+{
+    "header_text": "Coming Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Coming Home"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Coming_Home.jpg"
+        }
+    ]
+}

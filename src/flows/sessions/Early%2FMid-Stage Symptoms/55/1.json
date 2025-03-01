@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Use \"I\" statements (I feel ___ because ___) when you are communicating your emotions to a partner. And, try not to use \"you\" statements (You are being ___). "
+        }
+    ]
+}

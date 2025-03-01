@@ -1,0 +1,14 @@
+{
+    "header_text": "Call Ending Suddenly",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Call Ending Suddenly"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Call_Ending_Suddenly.jpg"
+        }
+    ]
+}

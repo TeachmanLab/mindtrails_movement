@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You’ve recently taken on extra responsibilities at work to help support your family financially. As the workload at your job gets heavier, you worry about managing your work and family responsibilities, but know you could really use the extra money. You decide to explain the situation to your supervisor, and realize that it’s okay to ask for help when... "
+        },
+        {
+            "type": "Entry",
+            "name": "Managing Jobs_Finances_entry1"
+        }
+    ]
+}

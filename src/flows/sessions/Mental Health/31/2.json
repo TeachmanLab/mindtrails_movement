@@ -1,0 +1,21 @@
+{
+    "header_text": "A Moment of Forgetfulness",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remembered that you need milk from the store, so on your way home, you stop to get it. When you walk into the store, you suddenly forget why you are there, which you find a bit troubling. You check your to-do list and decide you can still continue on with your day with..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A Moment of Forgetfulness_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "confidence"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

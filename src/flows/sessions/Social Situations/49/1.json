@@ -1,0 +1,14 @@
+{
+    "header_text": "Attending a dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Attending a dinner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Attending_a_dinner.jpg"
+        }
+    ]
+}

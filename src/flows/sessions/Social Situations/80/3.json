@@ -1,0 +1,14 @@
+{
+    "header_text": "Fear of Missing Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you get to work, you overhear some colleagues talking about the fun night they had out together last night. You don't remember being invited to hangout with them. You think about missing out on the fun, and think that you weren't invited because you are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Fear of Missing Out_Social Situations_entry1"
+        }
+    ]
+}

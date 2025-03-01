@@ -1,0 +1,14 @@
+{
+    "header_text": "A Birthday Cake",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Birthday Cake"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Birthday_Cake.jpg"
+        }
+    ]
+}

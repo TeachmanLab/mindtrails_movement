@@ -1,0 +1,14 @@
+{
+    "header_text": "Spider bite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Spider bite"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Spider_bite.jpg"
+        }
+    ]
+}

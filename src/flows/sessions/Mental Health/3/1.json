@@ -1,0 +1,14 @@
+{
+    "header_text": "Leaving the House",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Leaving the House"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Leaving_the_House.jpg"
+        }
+    ]
+}

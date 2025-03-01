@@ -1,0 +1,24 @@
+{
+    "header_text": "Future limitations",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "If you lose your job, you will probably ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Future limitations_Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Find a new job that you enjoy. ",
+                "Be unable to support yourself. "
+            ],
+            "columnCount": 1,
+            "correct_value": "Find a new job that you enjoy. "
+        }
+    ]
+}

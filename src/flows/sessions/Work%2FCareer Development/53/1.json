@@ -1,0 +1,14 @@
+{
+    "header_text": "Judging Your Performance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Judging Your Performance"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Judging_Your_Performance.jpg"
+        }
+    ]
+}

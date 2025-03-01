@@ -1,0 +1,21 @@
+{
+    "header_text": "Locking the Door",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are bringing in the mail for your friend while they are away. On your way out of their home each day, you lock the front door and check the lock. Today you were rushing and think you forgot to check the lock, and you think their home will probably be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Locking the Door_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "fine"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Play Cancellation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Play Cancellation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Play_Cancellation.jpg"
+        }
+    ]
+}

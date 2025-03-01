@@ -1,0 +1,14 @@
+{
+    "header_text": "Friends in Relationships",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friends in Relationships"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Friends_in_Relationships.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Lunch with New Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Lunch with New Friend_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "strangely"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

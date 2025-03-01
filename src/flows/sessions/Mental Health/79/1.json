@@ -1,0 +1,14 @@
+{
+    "header_text": "An international flight",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An international flight"
+        },
+        {
+            "type": "Media",
+            "url": "/images/An_international_flight.jpg"
+        }
+    ]
+}

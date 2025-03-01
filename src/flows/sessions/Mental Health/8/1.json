@@ -1,0 +1,14 @@
+{
+    "header_text": "Thinking about Flying",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Thinking about Flying"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Thinking_about_Flying.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "The Dance Showcase",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "The Dance Showcase"
+        },
+        {
+            "type": "Media",
+            "url": "/images/The_Dance_Showcase.jpg"
+        }
+    ]
+}

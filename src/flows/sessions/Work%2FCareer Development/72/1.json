@@ -1,0 +1,14 @@
+{
+    "header_text": "Supportive Person ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Supportive Person "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Supportive_Person.jpg"
+        }
+    ]
+}

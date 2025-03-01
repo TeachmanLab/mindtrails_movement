@@ -1,0 +1,21 @@
+{
+    "header_text": "Dating a Stranger ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are getting ready to go on a first date with someone you haven't previously met in person. You believe you two have a lot in common, but you are worried that sometimes you become very shy when you are nervous. As you think about going on your first date, you believe that your date will think you are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dating a Stranger _Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "boring"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

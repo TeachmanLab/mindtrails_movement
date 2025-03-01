@@ -1,0 +1,14 @@
+{
+    "header_text": "Balancing Tasks",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Balancing Tasks"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Balancing_Tasks.jpg"
+        }
+    ]
+}

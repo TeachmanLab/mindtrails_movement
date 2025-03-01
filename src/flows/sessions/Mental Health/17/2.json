@@ -1,0 +1,21 @@
+{
+    "header_text": "Trusting Yourself",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Trusting Yourself_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "smart"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

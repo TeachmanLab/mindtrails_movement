@@ -1,0 +1,14 @@
+{
+    "header_text": "Deciding to Share a Picture",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Deciding to Share a Picture"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Deciding_to_Share_a_Picture.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Break Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Break Plans"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Break_Plans.jpg"
+        }
+    ]
+}

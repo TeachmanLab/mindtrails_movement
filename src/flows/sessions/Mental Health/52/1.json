@@ -1,0 +1,14 @@
+{
+    "header_text": "Accepting Praise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Accepting Praise"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Accepting_Praise.jpg"
+        }
+    ]
+}

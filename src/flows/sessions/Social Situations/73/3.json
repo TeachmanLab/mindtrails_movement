@@ -1,0 +1,21 @@
+{
+    "header_text": "Brief Introduction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the end, you realize that everyone has these moments, and you quickly recover. As you finish introducing yourself, you see that the others are listening with keen..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Brief Introduction_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "interest"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

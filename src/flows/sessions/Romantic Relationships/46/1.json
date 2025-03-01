@@ -1,0 +1,14 @@
+{
+    "header_text": "Asking Someone Out ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asking Someone Out "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Asking_Someone_Out.jpg"
+        }
+    ]
+}

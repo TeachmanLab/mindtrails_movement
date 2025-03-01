@@ -1,0 +1,14 @@
+{
+    "header_text": "Your Friend's Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your Friend's Support"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Your_Friend's_Support.jpg"
+        }
+    ]
+}

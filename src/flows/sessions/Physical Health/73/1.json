@@ -1,0 +1,14 @@
+{
+    "header_text": "Catching up to Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Catching up to Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Catching_up_to_Friends.jpg"
+        }
+    ]
+}

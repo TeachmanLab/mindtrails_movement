@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting Over It",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Getting Over It"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Getting_Over_It.jpg"
+        }
+    ]
+}

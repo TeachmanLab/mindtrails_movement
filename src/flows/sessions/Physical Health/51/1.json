@@ -1,0 +1,14 @@
+{
+    "header_text": "First time ice skating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "First time ice skating"
+        },
+        {
+            "type": "Media",
+            "url": "/images/First_time_ice_skating.jpg"
+        }
+    ]
+}

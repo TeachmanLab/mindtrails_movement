@@ -1,0 +1,21 @@
+{
+    "header_text": "Unusual views",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the end, even though your colleagues didn't share your view, they found your opinion interesting. The next time the issue comes up, they ask you for your thoughts, and you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Unusual views_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "included"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

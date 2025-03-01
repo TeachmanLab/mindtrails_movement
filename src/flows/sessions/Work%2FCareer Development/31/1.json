@@ -1,0 +1,14 @@
+{
+    "header_text": "Giving a speech",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Giving a speech"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Giving_a_speech.jpg"
+        }
+    ]
+}

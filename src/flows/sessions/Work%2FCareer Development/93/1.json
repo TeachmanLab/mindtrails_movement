@@ -1,0 +1,14 @@
+{
+    "header_text": "Reconnecting With People",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reconnecting With People"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Reconnecting_With_People.jpg"
+        }
+    ]
+}

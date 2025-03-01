@@ -1,0 +1,21 @@
+{
+    "header_text": "Safe Driving",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend is a good driver, but today it is raining heavily. They're driving very fast, so you ask them to slow down. You take a deep breath, because the chances of getting into an accident are... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Safe Driving_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "small"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

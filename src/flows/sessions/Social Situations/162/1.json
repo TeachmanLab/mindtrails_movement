@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Excluded on Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Excluded on Social Media"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Excluded_on_Social_Media.jpg"
+        }
+    ]
+}

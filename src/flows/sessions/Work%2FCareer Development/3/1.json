@@ -1,0 +1,14 @@
+{
+    "header_text": "Mistakes while working",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mistakes while working"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Mistakes_while_working.jpg"
+        }
+    ]
+}

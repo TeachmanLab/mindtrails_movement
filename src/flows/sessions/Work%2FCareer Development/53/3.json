@@ -1,0 +1,21 @@
+{
+    "header_text": "Judging Your Performance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Right now you aren't happy, but you think about your group's overall presentation. You realize that it was..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Judging Your Performance_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "good"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Catching up to Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means, and realize that it probably means that you walked..."
+        },
+        {
+            "type": "Entry",
+            "name": "Catching up to Friends_Physical Health_entry1"
+        }
+    ]
+}

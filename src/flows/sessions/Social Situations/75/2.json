@@ -1,0 +1,14 @@
+{
+    "header_text": "Social Media Comments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Social Media Comments_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Quality Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Quality Time"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Quality_Time.jpg"
+        }
+    ]
+}

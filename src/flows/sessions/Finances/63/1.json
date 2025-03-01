@@ -1,0 +1,14 @@
+{
+    "header_text": "Work-Life Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Work-Life Balance"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Work-Life_Balance.jpg"
+        }
+    ]
+}

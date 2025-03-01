@@ -1,0 +1,21 @@
+{
+    "header_text": "Future Dog Walking",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that your dog's love is unconditional and you can find creative ways to provide care and attention for them. This helps you to see the future more..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "positively"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

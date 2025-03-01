@@ -1,0 +1,14 @@
+{
+    "header_text": "Walking pain",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Walking pain"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Walking_pain.jpg"
+        }
+    ]
+}

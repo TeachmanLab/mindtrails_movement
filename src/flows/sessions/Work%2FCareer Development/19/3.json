@@ -1,0 +1,24 @@
+{
+    "header_text": "A sudden stumble",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your manager will probably think that ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "A sudden stumble_Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You are ready to take on challenges.",
+                "You are a clumsy person."
+            ],
+            "columnCount": 1,
+            "correct_value": "You are ready to take on challenges."
+        }
+    ]
+}

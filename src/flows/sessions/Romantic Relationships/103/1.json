@@ -1,0 +1,14 @@
+{
+    "header_text": "For the First Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "For the First Time"
+        },
+        {
+            "type": "Media",
+            "url": "/images/For_the_First_Time.jpg"
+        }
+    ]
+}

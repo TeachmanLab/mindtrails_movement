@@ -1,0 +1,21 @@
+{
+    "header_text": "Introducing Your Spouse to New Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You invited your spouse to meet your friends from work tonight. You know that they can often tell embarrassing stories about you to other people. You think about what they're going to do tonight, and feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Introducing Your Spouse to New Friends_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "calm"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

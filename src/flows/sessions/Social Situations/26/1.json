@@ -1,0 +1,14 @@
+{
+    "header_text": "Differing opinion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Differing opinion"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Differing_opinion.jpg"
+        }
+    ]
+}

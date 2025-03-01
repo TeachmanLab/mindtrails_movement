@@ -1,0 +1,14 @@
+{
+    "header_text": "Trivia Team",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Trivia Team_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Dry Difficulty",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are talking to your friend about your day and suddenly you feel your throat go dry. You cough a little and reach for a glass of water. The water helps a little, and you realize that the dry throat was probably..."
+        },
+        {
+            "type": "Entry",
+            "name": "Dry Difficulty_Physical Health_entry1"
+        }
+    ]
+}

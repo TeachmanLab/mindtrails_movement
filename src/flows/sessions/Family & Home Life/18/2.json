@@ -1,0 +1,21 @@
+{
+    "header_text": "Others' Opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were denied a promotion this year and know that your friend was rooting for you to get a promotion. They frown when you tell them about not getting one. You tell them that you worked extremely hard despite not getting a promotion, and they are proud of the effort you gave throughout the..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Others' Opinions_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "year"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

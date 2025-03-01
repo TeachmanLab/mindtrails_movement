@@ -1,0 +1,24 @@
+{
+    "header_text": "Health and aging",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friend will probably ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Health and aging_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Remain healthy in the future.",
+                "Get sicker in the future."
+            ],
+            "columnCount": 1,
+            "correct_value": "Remain healthy in the future."
+        }
+    ]
+}

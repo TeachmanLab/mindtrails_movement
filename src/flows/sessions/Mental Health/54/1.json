@@ -1,0 +1,14 @@
+{
+    "header_text": "Your Bowling Skills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your Bowling Skills"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Your_Bowling_Skills.jpg"
+        }
+    ]
+}

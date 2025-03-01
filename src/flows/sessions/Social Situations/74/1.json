@@ -1,0 +1,14 @@
+{
+    "header_text": "Small Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Small Party"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Small_Party.jpg"
+        }
+    ]
+}

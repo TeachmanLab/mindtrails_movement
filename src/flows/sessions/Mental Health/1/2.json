@@ -1,0 +1,14 @@
+{
+    "header_text": "Haircut Headache ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Haircut Headache "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Haircut_Headache.jpg"
+        }
+    ]
+}

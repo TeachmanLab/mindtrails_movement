@@ -1,0 +1,14 @@
+{
+    "header_text": "Annual physical exam",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Annual physical exam"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Annual_physical_exam.jpg"
+        }
+    ]
+}

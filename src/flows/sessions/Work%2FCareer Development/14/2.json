@@ -1,0 +1,21 @@
+{
+    "header_text": "Writing opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your supervisor asks you to write a report. The finished document is quite brief but took a lot of time and effort. Based on your writing, you expect your supervisor's opinion of you will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Writing opinions_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "negative"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

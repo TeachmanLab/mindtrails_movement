@@ -1,0 +1,14 @@
+{
+    "header_text": "Looking Unwell",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Looking Unwell"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Looking_Unwell.jpg"
+        }
+    ]
+}

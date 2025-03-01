@@ -1,0 +1,14 @@
+{
+    "header_text": "Social Media Engagement ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Social Media Engagement "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Social_Media_Engagement.jpg"
+        }
+    ]
+}

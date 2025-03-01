@@ -1,0 +1,14 @@
+{
+    "header_text": "Receiving Explicit Email Messages",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Receiving Explicit Email Messages"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Receiving_Explicit_Email_Messages.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Saving Money",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saving Money"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Saving_Money.jpg"
+        }
+    ]
+}

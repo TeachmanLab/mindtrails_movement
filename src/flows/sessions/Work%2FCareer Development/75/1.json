@@ -1,0 +1,14 @@
+{
+    "header_text": "First Impressions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "First Impressions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/First_Impressions.jpg"
+        }
+    ]
+}

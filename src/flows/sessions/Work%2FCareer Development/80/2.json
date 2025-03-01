@@ -1,0 +1,14 @@
+{
+    "header_text": "Class Clowns",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Class Clowns"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Class_Clowns.jpg"
+        }
+    ]
+}

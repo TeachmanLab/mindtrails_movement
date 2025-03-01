@@ -1,0 +1,21 @@
+{
+    "header_text": "Name Recall ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Name Recall _Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "laugh"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

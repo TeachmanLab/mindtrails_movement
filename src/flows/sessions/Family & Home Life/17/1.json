@@ -1,0 +1,14 @@
+{
+    "header_text": "Noises from Outside",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Noises from Outside"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Noises_from_Outside.jpg"
+        }
+    ]
+}

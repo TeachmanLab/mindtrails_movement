@@ -1,0 +1,14 @@
+{
+    "header_text": "Mind Going Blank",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mind Going Blank"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Mind_Going_Blank.jpg"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Reflection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Motivational Statement #7 \n\n Anxiety often distorts our perception. Challenging these thoughts can bring relief."
+        }
+    ]
+}

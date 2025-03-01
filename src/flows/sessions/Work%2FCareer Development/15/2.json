@@ -1,0 +1,21 @@
+{
+    "header_text": "A lengthy read",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been assigned a task, and you try very hard to make sure it is thorough. The job is quite difficult. When your supervisor sees it, you think they will judge your efforts as..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A lengthy read_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "suitable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

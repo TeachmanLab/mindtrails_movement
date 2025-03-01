@@ -1,0 +1,14 @@
+{
+    "header_text": "A night off",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A night off"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_night_off.jpg"
+        }
+    ]
+}

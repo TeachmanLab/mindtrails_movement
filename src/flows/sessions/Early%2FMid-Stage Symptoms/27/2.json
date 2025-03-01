@@ -1,0 +1,21 @@
+{
+    "header_text": "Shopping in a Crowd",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're out shopping, and you freeze as you try to navigate an unfamiliar store. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Shopping in a Crowd_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "low"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

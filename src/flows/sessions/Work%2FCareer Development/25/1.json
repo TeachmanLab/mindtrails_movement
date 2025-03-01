@@ -1,0 +1,14 @@
+{
+    "header_text": "Word stumbling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Word stumbling"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Word_stumbling.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Special Day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a dinner scheduled with someone you have wanted to hang out with for a while. On the day of the dinner, you feel a little nervous, as you wonder whether they will like you as much as you like your them. Feeling nervous is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Special Day_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "normal"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

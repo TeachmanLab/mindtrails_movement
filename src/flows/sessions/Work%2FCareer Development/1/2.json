@@ -1,0 +1,14 @@
+{
+    "header_text": "New opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New opportunity"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_opportunity.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Zoning Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question and you didn't hear it. You ask her to repeat her question and this makes you feel ..."
+        },
+        {
+            "type": "Entry",
+            "name": "Zoning Out_Social Situations_entry1"
+        }
+    ]
+}

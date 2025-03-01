@@ -1,0 +1,24 @@
+{
+    "header_text": "Dating a Stranger ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your date will probably notice"
+        },
+        {
+            "type": "Buttons",
+            "name": "Dating a Stranger _Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "How much you two enjoy the same hobbies.",
+                "How little you have to say."
+            ],
+            "columnCount": 1,
+            "correct_value": "How much you two enjoy the same hobbies."
+        }
+    ]
+}

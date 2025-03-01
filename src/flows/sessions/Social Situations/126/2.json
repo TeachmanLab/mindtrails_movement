@@ -1,0 +1,21 @@
+{
+    "header_text": "Missed Connection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting at a coffee shop when you see your friend. They walk past you and sit down next to someone else. They must have been..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Missed Connection_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "distracted"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

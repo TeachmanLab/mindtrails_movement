@@ -1,0 +1,14 @@
+{
+    "header_text": "Jealousy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Jealousy"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Jealousy.jpg"
+        }
+    ]
+}

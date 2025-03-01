@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Prepared ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are giving a presentation at a meeting tomorrow. You know that the quality of your presentation will be taken into account by your boss. As you think about the presentation, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Feeling Prepared _Work/Career Development_entry1"
+        }
+    ]
+}

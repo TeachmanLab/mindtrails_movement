@@ -1,0 +1,21 @@
+{
+    "header_text": "Travel decisions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are considering multiple options for where to go for vacation. You have only a little bit of information about each potential destination before you make your choice. When you decide, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Travel decisions_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "satisfied"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Using Different Technology",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Using Different Technology"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Using_Different_Technology.jpg"
+        }
+    ]
+}

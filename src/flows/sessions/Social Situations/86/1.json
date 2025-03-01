@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Abandoned By a Close Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Abandoned By a Close Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Abandoned_By_a_Close_Friend.jpg"
+        }
+    ]
+}

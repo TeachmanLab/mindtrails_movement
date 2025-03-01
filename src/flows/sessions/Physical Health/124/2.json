@@ -1,0 +1,21 @@
+{
+    "header_text": "Dinner Party Supplies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are co-hosting a dinner party at your friend's apartment, and you just finished all the shopping. You start to sweat and feel your heart pounding after a couple of trips carrying the groceries up to the third floor. You feel a bit scared of these sensations. Unsure of whether they are good or bad, you decide to simply accept..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dinner Party Supplies_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "them"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

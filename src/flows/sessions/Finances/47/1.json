@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting a Credit Card",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Getting a Credit Card"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Getting_a_Credit_Card.jpg"
+        }
+    ]
+}

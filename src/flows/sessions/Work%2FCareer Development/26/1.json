@@ -1,0 +1,14 @@
+{
+    "header_text": "Optional presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Optional presentation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Optional_presentation.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Being Near Someone Sick",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Being Near Someone Sick"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Being_Near_Someone_Sick.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Moving to a New City",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Moving to a New City"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Moving_to_a_New_City.jpg"
+        }
+    ]
+}

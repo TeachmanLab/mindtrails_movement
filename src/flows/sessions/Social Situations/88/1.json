@@ -1,0 +1,14 @@
+{
+    "header_text": "Disrupting the Silence",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Disrupting the Silence"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Disrupting_the_Silence.jpg"
+        }
+    ]
+}

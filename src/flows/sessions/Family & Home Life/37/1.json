@@ -1,0 +1,14 @@
+{
+    "header_text": "Sharing Your Familial Traditions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sharing Your Familial Traditions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sharing_Your_Familial_Traditions.jpg"
+        }
+    ]
+}

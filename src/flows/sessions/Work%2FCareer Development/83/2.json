@@ -1,0 +1,14 @@
+{
+    "header_text": "Enjoyable Endeavor ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and some coworkers were given some extra tasks to complete by the end of the week, and you've been working hard. You overheard your coworkers saying that you'd be \"crazy\" to enjoy the extra work. You think about how productive it makes you feel to be working this hard, and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Enjoyable Endeavor _Work/Career Development_entry1"
+        }
+    ]
+}

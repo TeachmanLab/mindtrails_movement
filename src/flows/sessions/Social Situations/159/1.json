@@ -1,0 +1,14 @@
+{
+    "header_text": "An Invitation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An Invitation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/An_Invitation.jpg"
+        }
+    ]
+}

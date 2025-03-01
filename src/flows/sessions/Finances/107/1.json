@@ -1,0 +1,14 @@
+{
+    "header_text": "Paying for College",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paying for College"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Paying_for_College.jpg"
+        }
+    ]
+}

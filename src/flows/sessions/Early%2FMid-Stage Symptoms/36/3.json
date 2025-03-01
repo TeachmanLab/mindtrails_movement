@@ -1,0 +1,21 @@
+{
+    "header_text": "Games with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After playing a couple more rounds, you speak to your friends. They tell you that regardless of your symptoms, time spent with you is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Games with Friends_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "enjoyable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

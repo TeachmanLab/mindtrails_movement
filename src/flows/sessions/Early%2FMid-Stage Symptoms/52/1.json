@@ -1,0 +1,14 @@
+{
+    "header_text": "Future Dog Walking",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Future Dog Walking"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Future_Dog_Walking.jpg"
+        }
+    ]
+}

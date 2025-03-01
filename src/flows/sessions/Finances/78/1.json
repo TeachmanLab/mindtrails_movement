@@ -1,0 +1,10 @@
+{
+    "header_text": "Reflection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Motivational Statement #13 \n\n A few minutes of practice today means a world of difference over time. "
+        }
+    ]
+}

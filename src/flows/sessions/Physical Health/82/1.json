@@ -1,0 +1,14 @@
+{
+    "header_text": "Normal Functions ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Normal Functions "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Normal_Functions.jpg"
+        }
+    ]
+}

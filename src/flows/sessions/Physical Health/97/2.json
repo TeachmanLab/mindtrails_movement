@@ -1,0 +1,14 @@
+{
+    "header_text": "Spring Allergies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a chilly spring day, and you are walking outside in the park. As you pass by the trees, you feel increasingly stuffy and sore. You start feeling..."
+        },
+        {
+            "type": "Entry",
+            "name": "Spring Allergies_Physical Health_entry1"
+        }
+    ]
+}

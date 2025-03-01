@@ -1,0 +1,14 @@
+{
+    "header_text": "Tough Topics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tough Topics"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Tough_Topics.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "header_text": "An engaged audience",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your cohort members were probably quiet because ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "An engaged audience_Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "They were engaged by your presentation.",
+                "They were bored by your presentation."
+            ],
+            "columnCount": 1,
+            "correct_value": "They were engaged by your presentation."
+        }
+    ]
+}

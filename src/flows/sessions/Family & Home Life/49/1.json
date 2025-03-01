@@ -1,0 +1,14 @@
+{
+    "header_text": "Spending Time With Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Spending Time With Family"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Spending_Time_With_Family.jpg"
+        }
+    ]
+}

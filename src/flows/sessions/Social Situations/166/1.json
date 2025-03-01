@@ -1,0 +1,14 @@
+{
+    "header_text": "Confirming Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confirming Plans"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Confirming_Plans.jpg"
+        }
+    ]
+}

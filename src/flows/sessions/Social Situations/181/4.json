@@ -1,0 +1,14 @@
+{
+    "header_text": "Friends Excluding You",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You realize that you can have dinner by yourself and get your favorite meal. You feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Friends Excluding You_Social Situations_entry2"
+        }
+    ]
+}

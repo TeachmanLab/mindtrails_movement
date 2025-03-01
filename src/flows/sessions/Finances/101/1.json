@@ -1,0 +1,14 @@
+{
+    "header_text": "Trip After Car Problem",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trip After Car Problem"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trip_After_Car_Problem.jpg"
+        }
+    ]
+}

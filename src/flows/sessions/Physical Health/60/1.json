@@ -1,0 +1,14 @@
+{
+    "header_text": "Sensational Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sensational Party"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sensational_Party.jpg"
+        }
+    ]
+}

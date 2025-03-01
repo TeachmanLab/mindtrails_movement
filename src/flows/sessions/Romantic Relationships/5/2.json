@@ -1,0 +1,21 @@
+{
+    "header_text": "Anticipating a date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner plan a date night to reconnect, as you haven't been spending quality time together recently. As the evening approaches, you are nervous that you won't have as much fun as you used to or that the spark may have faded. Thinking about how your relationship has changed, you find contentment in the deep connection and companionship that have grown over..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Anticipating a date_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "time"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Important evaluation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Important evaluation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Important_evaluation.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "A Little Stumble",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Little Stumble"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Little_Stumble.jpg"
+        }
+    ]
+}

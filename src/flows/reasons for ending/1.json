@@ -1,0 +1,10 @@
+{
+    "header_text": "Reasons for Ending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "We are interested in improving MindTrails-Movement and would like to learn about why you decided to stop the program. We appreciate your feedback!"
+        }
+    ]
+}

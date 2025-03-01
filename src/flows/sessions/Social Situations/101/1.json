@@ -1,0 +1,14 @@
+{
+    "header_text": "An Acquaintance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An Acquaintance"
+        },
+        {
+            "type": "Media",
+            "url": "/images/An_Acquaintance.jpg"
+        }
+    ]
+}

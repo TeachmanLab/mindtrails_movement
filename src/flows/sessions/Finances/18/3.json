@@ -1,0 +1,24 @@
+{
+    "header_text": "Extra Income",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think you'll thrive with a second job?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Extra Income_Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Sleep Sensations ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are lying in your bed and about to go to sleep. You start to feel a heaviness in your chest as you try to sleep. You think about this pressure and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Sleep Sensations _Physical Health_entry1"
+        }
+    ]
+}

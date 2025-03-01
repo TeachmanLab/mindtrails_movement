@@ -1,0 +1,14 @@
+{
+    "header_text": "Dinner Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dinner Party"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dinner_Party.jpg"
+        }
+    ]
+}

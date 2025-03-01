@@ -1,0 +1,24 @@
+{
+    "header_text": "Making New Friends",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Thinking about life in your new home going forward, you imagine:"
+        },
+        {
+            "type": "Buttons",
+            "name": "Making New Friends_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Needing to do everything yourself.",
+                "Having a new group of friends you can rely on."
+            ],
+            "columnCount": 1,
+            "correct_value": "Having a new group of friends you can rely on."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Masks with Sensitive Skin",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Masks with Sensitive Skin"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Masks_with_Sensitive_Skin.jpg"
+        }
+    ]
+}

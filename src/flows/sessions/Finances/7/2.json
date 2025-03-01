@@ -1,0 +1,21 @@
+{
+    "header_text": "Buying Supplies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are trying to buy supplies needed to do your job, which your employer usually reimburses. However, you’ve noticed that the price of an item you routinely buy has gone way up, and you worry that you will be partially responsible for paying for it. You reach out to your supervisor to discuss the change, and they confirm you will still be fully..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Buying Supplies_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "reimbursed"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "An engaged audience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An engaged audience"
+        },
+        {
+            "type": "Media",
+            "url": "/images/An_engaged_audience.jpg"
+        }
+    ]
+}

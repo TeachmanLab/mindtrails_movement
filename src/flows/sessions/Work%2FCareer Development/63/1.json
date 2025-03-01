@@ -1,0 +1,14 @@
+{
+    "header_text": "Peer Evaluations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Peer Evaluations"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Peer_Evaluations.jpg"
+        }
+    ]
+}

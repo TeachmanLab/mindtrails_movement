@@ -1,0 +1,14 @@
+{
+    "header_text": "Letting Others See Your Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Letting Others See Your Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Letting_Others_See_Your_Work.jpg"
+        }
+    ]
+}

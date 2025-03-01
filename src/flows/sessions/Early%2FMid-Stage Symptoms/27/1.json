@@ -1,0 +1,14 @@
+{
+    "header_text": "Shopping in a Crowd",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Shopping in a Crowd"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Shopping_in_a_Crowd.jpg"
+        }
+    ]
+}

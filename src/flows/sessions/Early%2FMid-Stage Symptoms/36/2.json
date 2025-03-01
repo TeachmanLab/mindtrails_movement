@@ -1,0 +1,21 @@
+{
+    "header_text": "Games with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are playing a board game with a couple of friends. You are trying to place your piece onto the board but your tremor is making it difficult to play on the specific spot. Your turn is taking longer than your friends', so you are worry they are getting..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Games with Friends_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "annoyed"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

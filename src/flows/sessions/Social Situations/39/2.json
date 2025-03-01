@@ -1,0 +1,21 @@
+{
+    "header_text": "Helping an elder neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One day after work, you notice an elder neighbor slowly walking from their car to their house. They look off balance and you are worried that they are going to fall. You ask whether they need help, and they turn and stare at you, looking..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Helping an elder neighbor_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "offended"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

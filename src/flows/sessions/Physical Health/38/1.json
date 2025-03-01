@@ -1,0 +1,14 @@
+{
+    "header_text": "Thoughts at the train station",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Thoughts at the train station"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Thoughts_at_the_train_station.jpg"
+        }
+    ]
+}

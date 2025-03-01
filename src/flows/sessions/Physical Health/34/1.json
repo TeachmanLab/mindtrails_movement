@@ -1,0 +1,14 @@
+{
+    "header_text": "Flashing movie",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Flashing movie"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Flashing_movie.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Waiting for a Reply ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Waiting for a Reply "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Waiting_for_a_Reply.jpg"
+        }
+    ]
+}

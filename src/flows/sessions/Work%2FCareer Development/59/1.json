@@ -1,0 +1,14 @@
+{
+    "header_text": "Completion Complications",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Completion Complications"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Completion_Complications.jpg"
+        }
+    ]
+}

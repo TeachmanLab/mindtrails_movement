@@ -1,0 +1,14 @@
+{
+    "header_text": "Paying With Cash",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paying With Cash"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Paying_With_Cash.jpg"
+        }
+    ]
+}

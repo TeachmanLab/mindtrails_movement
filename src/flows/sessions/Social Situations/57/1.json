@@ -1,0 +1,14 @@
+{
+    "header_text": "Writing Notes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Writing Notes"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Writing_Notes.jpg"
+        }
+    ]
+}

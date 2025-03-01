@@ -1,0 +1,14 @@
+{
+    "header_text": "Past Experiences",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Past Experiences"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Past_Experiences.jpg"
+        }
+    ]
+}

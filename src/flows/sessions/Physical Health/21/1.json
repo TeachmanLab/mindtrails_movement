@@ -1,0 +1,14 @@
+{
+    "header_text": "Difficult walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Difficult walk"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Difficult_walk.jpg"
+        }
+    ]
+}

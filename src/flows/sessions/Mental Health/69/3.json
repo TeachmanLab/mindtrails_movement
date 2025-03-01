@@ -1,0 +1,14 @@
+{
+    "header_text": "Applying to Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You applied to a job a few weeks ago and just got a response. They tell you they already filled the position, and you feel like you are not smart enough. You think that in the future, you will get a..."
+        },
+        {
+            "type": "Entry",
+            "name": "Applying to Jobs_Mental Health_entry1"
+        }
+    ]
+}

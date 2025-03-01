@@ -1,0 +1,14 @@
+{
+    "header_text": "Presenting your Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presenting your Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Presenting_your_Work.jpg"
+        }
+    ]
+}

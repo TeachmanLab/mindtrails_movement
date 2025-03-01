@@ -1,0 +1,14 @@
+{
+    "header_text": "Daily Tasks",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Daily Tasks"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Daily_Tasks.jpg"
+        }
+    ]
+}

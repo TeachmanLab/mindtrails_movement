@@ -1,0 +1,21 @@
+{
+    "header_text": "Meeting up with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Meeting up with a Friend_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "understanding"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

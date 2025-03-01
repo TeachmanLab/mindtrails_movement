@@ -1,0 +1,14 @@
+{
+    "header_text": "Controversial news story",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Controversial news story"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Controversial_news_story.jpg"
+        }
+    ]
+}

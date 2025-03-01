@@ -1,0 +1,14 @@
+{
+    "header_text": "Applying to Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Applying to Jobs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Applying_to_Jobs.jpg"
+        }
+    ]
+}

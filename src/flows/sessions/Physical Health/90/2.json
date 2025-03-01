@@ -1,0 +1,14 @@
+{
+    "header_text": "Seeing an Old Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Seeing an Old Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Seeing_an_Old_Friend.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Finding Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Finding Balance"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Finding_Balance.jpg"
+        }
+    ]
+}

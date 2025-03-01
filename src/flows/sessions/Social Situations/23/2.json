@@ -1,0 +1,21 @@
+{
+    "header_text": "Going out in day clothes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One evening, your coworkers decide to go out to eat and ask you to join them. You accept, but will have to wear your work clothes. When you arrive, the other diners turn to look at you. You think this is because they think you look..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Going out in day clothes_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "stylish"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Work Comparisons",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Work Comparisons"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Work_Comparisons.jpg"
+        }
+    ]
+}

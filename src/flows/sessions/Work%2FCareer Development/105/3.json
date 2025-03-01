@@ -1,0 +1,21 @@
+{
+    "header_text": "Meeting New People",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to take initiative and ask for their numbers. You feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Meeting New People_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "hopeful"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

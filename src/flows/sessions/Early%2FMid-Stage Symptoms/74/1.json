@@ -1,0 +1,14 @@
+{
+    "header_text": "Book Club",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Book Club"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Book_Club.jpg"
+        }
+    ]
+}

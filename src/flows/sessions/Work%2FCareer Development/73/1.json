@@ -1,0 +1,14 @@
+{
+    "header_text": "Discussing the Evaluation ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Discussing the Evaluation "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Discussing_the_Evaluation.jpg"
+        }
+    ]
+}

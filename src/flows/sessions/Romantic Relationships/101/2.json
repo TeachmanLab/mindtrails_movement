@@ -1,0 +1,14 @@
+{
+    "header_text": "Friends in Relationships",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are... "
+        },
+        {
+            "type": "Entry",
+            "name": "Friends in Relationships_Romantic Relationships_entry1"
+        }
+    ]
+}

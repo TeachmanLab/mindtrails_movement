@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking Your Own Career Path",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've decided to take time off work to travel. You don't know anyone who has taken this type of break, and all of your friends are questioning it. When you think about your decision, you feel like it's..."
+        },
+        {
+            "type": "Entry",
+            "name": "Taking Your Own Career Path_Work/Career Development_entry1"
+        }
+    ]
+}

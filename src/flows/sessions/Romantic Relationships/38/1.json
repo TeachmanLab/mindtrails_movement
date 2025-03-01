@@ -1,0 +1,14 @@
+{
+    "header_text": "Relationship Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relationship Worries"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Relationship_Worries.jpg"
+        }
+    ]
+}

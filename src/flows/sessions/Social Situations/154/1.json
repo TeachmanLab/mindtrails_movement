@@ -1,0 +1,14 @@
+{
+    "header_text": "Friend Neglecting Chores",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friend Neglecting Chores"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Friend_Neglecting_Chores.jpg"
+        }
+    ]
+}

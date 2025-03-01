@@ -1,0 +1,21 @@
+{
+    "header_text": "Feeling Lightheaded",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to focus your mind on the sensations; this reduces your worrying and makes you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Feeling Lightheaded_Physical Health_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "calmer"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

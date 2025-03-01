@@ -1,0 +1,14 @@
+{
+    "header_text": "Bringing a New Friend Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Bringing a New Friend Home"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Bringing_a_New_Friend_Home.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "No Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No Response"
+        },
+        {
+            "type": "Media",
+            "url": "/images/No_Response.jpg"
+        }
+    ]
+}

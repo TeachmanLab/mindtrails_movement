@@ -1,0 +1,14 @@
+{
+    "header_text": "Starting a Small Business",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Starting a Small Business"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Starting_a_Small_Business.jpg"
+        }
+    ]
+}

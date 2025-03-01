@@ -1,0 +1,21 @@
+{
+    "header_text": "Old Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are volunteering at a community event and notice two old friends who you have not seen in a while. They come up to say hi as they are passing. They probably think that you are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Old Friends _Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "selfless"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

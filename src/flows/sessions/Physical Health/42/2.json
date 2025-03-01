@@ -1,0 +1,21 @@
+{
+    "header_text": "Heart Rate Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at an event and start to talk with some acquaintances. As the room fills, you can feel your heart beating fast, and this scares you. When the event gets louder as more people arrive, you consider leaving, but you decide you can handle these feelings and keep on..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Heart Rate Worries_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "socializing"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

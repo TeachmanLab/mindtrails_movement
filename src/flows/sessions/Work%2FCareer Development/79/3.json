@@ -1,0 +1,14 @@
+{
+    "header_text": "Expectations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think about why they want you to perform well. You know it is because they want you to do well, so that makes you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Expectations_Work/Career Development_entry2"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Long Walk Outside",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Long Walk Outside"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Long_Walk_Outside.jpg"
+        }
+    ]
+}

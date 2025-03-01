@@ -1,0 +1,14 @@
+{
+    "header_text": "Approaching Deadline",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner share a computer. You have a work assignment due tonight but they're using the computer. When you think about completing the work on time, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Approaching Deadline_Work/Career Development_entry1"
+        }
+    ]
+}

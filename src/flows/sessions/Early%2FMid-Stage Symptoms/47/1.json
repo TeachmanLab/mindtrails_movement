@@ -1,0 +1,14 @@
+{
+    "header_text": "Safety at Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Safety at Home"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Safety_at_Home.jpg"
+        }
+    ]
+}

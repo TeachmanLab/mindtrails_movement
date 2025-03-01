@@ -1,0 +1,14 @@
+{
+    "header_text": "A Crucial Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is..."
+        },
+        {
+            "type": "Entry",
+            "name": "A Crucial Call_Work/Career Development_entry1"
+        }
+    ]
+}

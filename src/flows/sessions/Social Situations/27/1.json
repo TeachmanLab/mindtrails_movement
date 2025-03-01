@@ -1,0 +1,14 @@
+{
+    "header_text": "Resolving a disagreement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resolving a disagreement"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Resolving_a_disagreement.jpg"
+        }
+    ]
+}

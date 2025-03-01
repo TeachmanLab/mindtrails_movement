@@ -1,0 +1,21 @@
+{
+    "header_text": "Being Independent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have always taken pride in being independent and providing care to your family. As your symptoms progress, you notice you are less able to do things on your own like cooking or cleaning, now seeking help from your family. Throughout these changes, your family is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Being Independent_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "understanding"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

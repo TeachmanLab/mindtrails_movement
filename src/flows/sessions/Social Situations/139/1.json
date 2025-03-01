@@ -1,0 +1,14 @@
+{
+    "header_text": "Corner Laughter",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Corner Laughter"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Corner_Laughter.jpg"
+        }
+    ]
+}

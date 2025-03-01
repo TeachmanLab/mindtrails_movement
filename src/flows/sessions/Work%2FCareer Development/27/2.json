@@ -1,0 +1,21 @@
+{
+    "header_text": "Writing workshop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A coworker suggests that your team participates in a workshop on writing for the workplace. You go online and read information about the workshop. As you navigate through the site, the thought of other people looking at your writing makes you feel.."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Writing workshop_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "enthusiastic"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

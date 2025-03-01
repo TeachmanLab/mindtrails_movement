@@ -1,0 +1,21 @@
+{
+    "header_text": "Using Different Technology",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently replaced your laptop and had to go with a cheaper option. Your boss asks you to complete a project that will require an application that your new computer doesn’t have. When you think about completing your work for this project, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Using Different Technology_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "capable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

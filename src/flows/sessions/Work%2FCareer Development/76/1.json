@@ -1,0 +1,14 @@
+{
+    "header_text": "Out of Your Control",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Out of Your Control"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Out_of_Your_Control.jpg"
+        }
+    ]
+}

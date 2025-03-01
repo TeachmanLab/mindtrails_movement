@@ -1,0 +1,14 @@
+{
+    "header_text": "Social Media Self-Confidence",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Social Media Self-Confidence"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Social_Media_Self-Confidence.jpg"
+        }
+    ]
+}

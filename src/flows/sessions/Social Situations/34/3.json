@@ -1,0 +1,24 @@
+{
+    "header_text": "A personal question",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Does your friend have a more negative opinion of you after you share personal information?"
+        },
+        {
+            "type": "Buttons",
+            "name": "A personal question_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ]
+}

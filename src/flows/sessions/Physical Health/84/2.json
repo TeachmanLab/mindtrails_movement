@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Stress",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have to give a presentation for your coworkers today. When you stand up in front of your colleagues, you feel your cheeks get hot and your hands start to tremble. You think that these sensations will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Managing Stress_Physical Health_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Facial Expression ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Facial Expression "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Facial_Expression.jpg"
+        }
+    ]
+}

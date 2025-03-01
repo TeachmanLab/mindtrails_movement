@@ -1,0 +1,14 @@
+{
+    "header_text": "Financial Limitations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Financial Limitations"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Financial_Limitations.jpg"
+        }
+    ]
+}

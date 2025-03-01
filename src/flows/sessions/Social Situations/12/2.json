@@ -1,0 +1,21 @@
+{
+    "header_text": "A big laugh",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At a dinner party, your friend tells a funny joke. You laugh so much that it feels like you can't get enough air. This experience is... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A big laugh_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "enjoyable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

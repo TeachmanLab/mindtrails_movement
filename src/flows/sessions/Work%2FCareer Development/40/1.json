@@ -1,0 +1,14 @@
+{
+    "header_text": "Important visitors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Important visitors"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Important_visitors.jpg"
+        }
+    ]
+}

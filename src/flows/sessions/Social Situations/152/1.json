@@ -1,0 +1,14 @@
+{
+    "header_text": "Lightening the Mood",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lightening the Mood"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Lightening_the_Mood.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "A new state",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "For your vacation this year you are visiting a new state for the first time. When you are there, everything around you feels different and strange. You think this is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A new state_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "awesome"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

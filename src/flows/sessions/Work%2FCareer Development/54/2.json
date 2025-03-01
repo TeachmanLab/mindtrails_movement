@@ -1,0 +1,21 @@
+{
+    "header_text": "Finishing Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a project due at work next week. You haven't started it yet because you're unsure how to best complete it. When you think about completing the project on time, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Finishing Work_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

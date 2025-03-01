@@ -1,0 +1,11 @@
+{
+    "header_text": "Substance Use Disorder Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Substance Abuse and Mental Health Services Administration's (SAMHSA's) National Helpline</font></b>\n               <br/><br/>SAMHSA’s National Helpline, 1-800-662-HELP (4357) or TTY: 1-800-487-4889 is a confidential, free, 24/7 information service for individuals and family members facing mental and/or substance use disorders. Get referrals to local treatment facilities, support groups, and community-based organizations.<br/><br/>\n               <a href=\"https://www.samhsa.gov/find-help/national-helpline\">https://www.samhsa.gov/find-help/national-helpline</a>"
+        }
+    ]
+}

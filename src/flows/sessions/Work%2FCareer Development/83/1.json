@@ -1,0 +1,14 @@
+{
+    "header_text": "Enjoyable Endeavor ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enjoyable Endeavor "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Enjoyable_Endeavor.jpg"
+        }
+    ]
+}

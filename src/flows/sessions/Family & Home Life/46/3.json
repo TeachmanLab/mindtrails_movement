@@ -1,0 +1,24 @@
+{
+    "header_text": "Spending Time With Family",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you think about spending less time with your family"
+        },
+        {
+            "type": "Buttons",
+            "name": "Spending Time With Family_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You also think about how much you enjoy seeing them, and believe that you will always be close to them.",
+                "You worry that you will lose them from your life."
+            ],
+            "columnCount": 1,
+            "correct_value": "You worry that you will lose them from your life."
+        }
+    ]
+}

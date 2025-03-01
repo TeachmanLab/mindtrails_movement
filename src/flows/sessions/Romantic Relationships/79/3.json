@@ -1,0 +1,14 @@
+{
+    "header_text": "Texting Your Crush",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your coworker doesn't seem to be asking for work reasons and will probably use your phone number to ask you.."
+        },
+        {
+            "type": "Entry",
+            "name": "Texting Your Crush_Romantic Relationships_entry2"
+        }
+    ]
+}

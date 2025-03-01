@@ -1,0 +1,14 @@
+{
+    "header_text": "Safe Delivery",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Safe Delivery"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Safe_Delivery.jpg"
+        }
+    ]
+}

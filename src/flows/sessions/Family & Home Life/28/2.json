@@ -1,0 +1,21 @@
+{
+    "header_text": "Introducing Your Family to Someone New",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at your friend's house for dinner and they ask you about your parents. You're not sure how to answer because your parents are divorced, and you haven't seen your mother for a long time. You think about what you'll say, and feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Introducing Your Family to Someone New_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

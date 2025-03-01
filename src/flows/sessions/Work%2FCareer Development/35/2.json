@@ -1,0 +1,21 @@
+{
+    "header_text": "Job Market",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently saw on the news that the economy has been particularly bad. Even though your boss typically gives you good reviews, you wonder whether your job is safe. You think you will likely be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Job Market_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "fine"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

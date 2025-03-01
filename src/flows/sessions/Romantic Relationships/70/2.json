@@ -1,0 +1,14 @@
+{
+    "header_text": "Waiting Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been single for a while, and all of your friends are in relationships. You wonder if this means something about you, since you've been unable to find your person. The more you reflect on it, you think it's okay to wait for the right person, and you're happy with being..."
+        },
+        {
+            "type": "Entry",
+            "name": "Waiting Game_Romantic Relationships_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "A lengthy read",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A lengthy read"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_lengthy_read.jpg"
+        }
+    ]
+}

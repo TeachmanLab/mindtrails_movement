@@ -1,0 +1,14 @@
+{
+    "header_text": "Disclosing Your Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Disclosing Your Mental Health"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Disclosing_Your_Mental_Health.jpg"
+        }
+    ]
+}

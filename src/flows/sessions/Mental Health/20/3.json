@@ -1,0 +1,24 @@
+{
+    "header_text": "Driving flashback ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you feel disoriented, it is helpful to ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Driving flashback _Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Get anxious about feeling disoriented.",
+                "Simply observe and accept the feelings."
+            ],
+            "columnCount": 1,
+            "correct_value": "Simply observe and accept the feelings."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "New Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are planning on moving and have started looking at houses on the market. Your spouse finds a home that they love, but you think that it would really stretch your budget. You feel confident you’ll be able to come up with a solution that works for... "
+        },
+        {
+            "type": "Entry",
+            "name": "New Home_Finances_entry1"
+        }
+    ]
+}

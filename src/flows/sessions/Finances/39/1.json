@@ -1,0 +1,14 @@
+{
+    "header_text": "Saving for Repairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Saving for Repairs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Saving_for_Repairs.jpg"
+        }
+    ]
+}

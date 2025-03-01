@@ -1,0 +1,24 @@
+{
+    "header_text": "Mistake on a task",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Does your boss believe that your work holds promise?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Mistake on a task_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ]
+}

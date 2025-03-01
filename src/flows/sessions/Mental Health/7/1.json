@@ -1,0 +1,14 @@
+{
+    "header_text": "Favorite watch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Favorite watch"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Favorite_watch.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Sharing Favorite Shows",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sharing Favorite Shows"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sharing_Favorite_Shows.jpg"
+        }
+    ]
+}

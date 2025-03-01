@@ -1,0 +1,14 @@
+{
+    "header_text": "Unknown Sensations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unknown Sensations"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unknown_Sensations.jpg"
+        }
+    ]
+}

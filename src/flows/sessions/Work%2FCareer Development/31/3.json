@@ -1,0 +1,21 @@
+{
+    "header_text": "Giving a speech",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After the speech, you realize that people often look emotionless and frown when they are concentrating and focusing hard. You think that your boss was most likely feeling..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Giving a speech_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "impressed"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

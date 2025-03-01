@@ -1,0 +1,14 @@
+{
+    "header_text": "A child's request",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A child's request"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_child's_request.jpg"
+        }
+    ]
+}

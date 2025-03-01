@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking Your Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taking Your Time"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Taking_Your_Time.jpg"
+        }
+    ]
+}

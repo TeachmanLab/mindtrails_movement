@@ -1,0 +1,14 @@
+{
+    "header_text": "Pool Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Pool Time"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Pool_Time.jpg"
+        }
+    ]
+}

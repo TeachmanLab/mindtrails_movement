@@ -1,0 +1,21 @@
+{
+    "header_text": "Dropped Plate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "They share that they've done something similar in the past and don't want you to feel bad about it. This offers you some..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dropped Plate_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "comfort"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

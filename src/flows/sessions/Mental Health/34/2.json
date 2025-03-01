@@ -1,0 +1,21 @@
+{
+    "header_text": "Being a Parent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are spending some time with your young daughter over the weekend. Your daughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Being a Parent_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "frustrated"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

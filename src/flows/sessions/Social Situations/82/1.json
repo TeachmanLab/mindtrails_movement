@@ -1,0 +1,14 @@
+{
+    "header_text": "Talking about TV",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Talking about TV"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Talking_about_TV.jpg"
+        }
+    ]
+}

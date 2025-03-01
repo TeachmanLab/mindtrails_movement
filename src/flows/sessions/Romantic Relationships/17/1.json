@@ -1,0 +1,14 @@
+{
+    "header_text": "Busy Period",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Busy Period"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Busy_Period.jpg"
+        }
+    ]
+}

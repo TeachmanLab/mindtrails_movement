@@ -1,0 +1,14 @@
+{
+    "header_text": "Falling Behind at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Falling Behind at Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Falling_Behind_at_Work.jpg"
+        }
+    ]
+}

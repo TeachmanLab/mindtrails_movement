@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Managing Jobs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Managing_Jobs.jpg"
+        }
+    ]
+}

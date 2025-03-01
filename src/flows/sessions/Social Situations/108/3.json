@@ -1,0 +1,24 @@
+{
+    "header_text": "Learning Social Media Dances",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you anxious about playing this game in front of your coworker?\n"
+        },
+        {
+            "type": "Buttons",
+            "name": "Learning Social Media Dances_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ]
+}

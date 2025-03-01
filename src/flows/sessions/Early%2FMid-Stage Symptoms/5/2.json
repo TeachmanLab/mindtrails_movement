@@ -1,0 +1,21 @@
+{
+    "header_text": "Memory Training",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been struggling with your memory lately, so you've started learning a new technique for remembering lists of items. Training your brain to memorize lists has been a challenge. You remember more items as you practice the technique more, and this is very... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Memory Training_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "rewarding"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

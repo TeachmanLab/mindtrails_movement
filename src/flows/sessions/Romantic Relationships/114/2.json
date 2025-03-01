@@ -1,0 +1,21 @@
+{
+    "header_text": "Long Distance Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your spouse has decided to go back to school at a prestigious program in another state. You love your spouse very much, but you know that long distance relationships can be difficult. When you picture the future of your relationship with your spouse, you believe the two of you will get..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Long Distance Relationship_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "divorced"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

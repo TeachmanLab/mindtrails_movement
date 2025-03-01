@@ -1,0 +1,14 @@
+{
+    "header_text": "Job Market",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Job Market"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Job_Market.jpg"
+        }
+    ]
+}

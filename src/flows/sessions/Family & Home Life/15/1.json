@@ -1,0 +1,14 @@
+{
+    "header_text": "Dealing with Embarrassment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dealing with Embarrassment"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dealing_with_Embarrassment.jpg"
+        }
+    ]
+}

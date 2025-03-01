@@ -1,0 +1,14 @@
+{
+    "header_text": "Buying New Clothes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Buying New Clothes"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Buying_New_Clothes.jpg"
+        }
+    ]
+}

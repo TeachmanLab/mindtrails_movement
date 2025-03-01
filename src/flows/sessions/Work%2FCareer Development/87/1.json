@@ -1,0 +1,14 @@
+{
+    "header_text": "A Crucial Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Crucial Call"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Crucial_Call.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "An accidental bang",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An accidental bang"
+        },
+        {
+            "type": "Media",
+            "url": "/images/An_accidental_bang.jpg"
+        }
+    ]
+}

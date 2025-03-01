@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Worried by the News",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "This morning your spouse is watching the news and you overhear that a lot of businesses are currently downsizing. You think about what will happen if your spouse loses their job. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Feeling Worried by the News_Finances_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Special Day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Special Day"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Special_Day.jpg"
+        }
+    ]
+}

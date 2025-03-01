@@ -1,0 +1,14 @@
+{
+    "header_text": "Spiritual Journey",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Spiritual Journey"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Spiritual_Journey.jpg"
+        }
+    ]
+}

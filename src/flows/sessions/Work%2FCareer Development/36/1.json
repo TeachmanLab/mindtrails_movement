@@ -1,0 +1,14 @@
+{
+    "header_text": "Evaluation results",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Evaluation results"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Evaluation_results.jpg"
+        }
+    ]
+}

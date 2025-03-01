@@ -1,0 +1,14 @@
+{
+    "header_text": "Heading out of Town",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Heading out of Town"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Heading_out_of_Town.jpg"
+        }
+    ]
+}

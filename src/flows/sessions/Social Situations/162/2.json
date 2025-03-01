@@ -1,0 +1,21 @@
+{
+    "header_text": "Feeling Excluded on Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you scroll through your feed on social media, you see a screenshot of your friends that shows them having a great time together over video chat. You weren't invited to hang out with them online. You think about it and decide that you can..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Feeling Excluded on Social Media_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "cope"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

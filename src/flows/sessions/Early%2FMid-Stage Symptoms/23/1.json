@@ -1,0 +1,14 @@
+{
+    "header_text": "Gardening",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gardening"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Gardening.jpg"
+        }
+    ]
+}

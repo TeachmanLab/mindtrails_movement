@@ -1,0 +1,14 @@
+{
+    "header_text": "Seeing Others Hanging Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Seeing Others Hanging Out"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Seeing_Others_Hanging_Out.jpg"
+        }
+    ]
+}

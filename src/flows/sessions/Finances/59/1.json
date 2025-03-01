@@ -1,0 +1,14 @@
+{
+    "header_text": "Dinner with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dinner with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dinner_with_Friends.jpg"
+        }
+    ]
+}

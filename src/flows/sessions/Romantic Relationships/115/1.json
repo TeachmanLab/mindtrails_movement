@@ -1,0 +1,14 @@
+{
+    "header_text": "Mental Health Resources",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mental Health Resources"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Mental_Health_Resources.jpg"
+        }
+    ]
+}

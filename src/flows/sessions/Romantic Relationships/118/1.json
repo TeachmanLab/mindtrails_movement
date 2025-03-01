@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Communication",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Communication"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Family_Communication.jpg"
+        }
+    ]
+}

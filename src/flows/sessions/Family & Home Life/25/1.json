@@ -1,0 +1,14 @@
+{
+    "header_text": "Making a Good Impression",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Making a Good Impression"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Making_a_Good_Impression.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Quick task completion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have started working on a new committee with other staff, and you are given a task that normally takes a few days, but you manage to finish it the same day. You show it to the rest of the committee, who find only one mistake in your work. As the meeting ends, you expect they think your work is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Quick task completion_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "commendable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

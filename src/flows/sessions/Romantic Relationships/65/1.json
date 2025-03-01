@@ -1,0 +1,14 @@
+{
+    "header_text": "Single Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Single Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Single_Friend.jpg"
+        }
+    ]
+}

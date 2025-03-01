@@ -1,0 +1,14 @@
+{
+    "header_text": "Awkward Conversations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You invited your spouse to hang out with you and your friends so everyone could get to know each other. As it got later, your spouse brought up a controversial topic and your friends seemed unsure about how to respond. You know that your friends recognize that many people, including you and your spouse, have different..."
+        },
+        {
+            "type": "Entry",
+            "name": "Awkward Conversations_Romantic Relationships_entry1"
+        }
+    ]
+}

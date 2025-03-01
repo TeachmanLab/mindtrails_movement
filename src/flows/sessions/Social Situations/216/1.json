@@ -1,0 +1,14 @@
+{
+    "header_text": "Party with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Party with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Party_with_Friends.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Putting Yourself Out There",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to share how you're feeling with them, and they tell you they've just been tired from work and home responsibilities, and didn't realize how much it was affecting your relationship. You feel...  "
+        },
+        {
+            "type": "Entry",
+            "name": "Putting Yourself Out There_Romantic Relationships_entry2"
+        }
+    ]
+}

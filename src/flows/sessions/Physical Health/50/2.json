@@ -1,0 +1,21 @@
+{
+    "header_text": "An accidental bang",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One evening, you are walking and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "An accidental bang_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "subsided"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

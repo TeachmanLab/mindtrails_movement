@@ -1,0 +1,14 @@
+{
+    "header_text": "Household responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Household responsibilities"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Household_responsibilities.jpg"
+        }
+    ]
+}

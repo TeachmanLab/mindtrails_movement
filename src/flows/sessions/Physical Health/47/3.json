@@ -1,0 +1,24 @@
+{
+    "header_text": "Blurry eyesight",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You realize that ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Blurry eyesight_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You are especially tired.",
+                "You could be losing your vision permanently."
+            ],
+            "columnCount": 1,
+            "correct_value": "You are especially tired."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "A lucky find",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A lucky find"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_lucky_find.jpg"
+        }
+    ]
+}

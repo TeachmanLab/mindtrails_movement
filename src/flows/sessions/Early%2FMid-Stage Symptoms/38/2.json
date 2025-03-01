@@ -1,0 +1,21 @@
+{
+    "header_text": "Disagreement with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently got into a fight with a close friend because you forgot their birthday. You've been feeling more irritable lately, and disagreements like this are becoming common. You think about the history between you and your friend, and you know that your friendship will stay..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Disagreement with a Friend_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "strong"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

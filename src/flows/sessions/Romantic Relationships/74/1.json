@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Rushed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Rushed"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Rushed.jpg"
+        }
+    ]
+}

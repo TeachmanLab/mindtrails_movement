@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Gathering",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Gathering"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Family_Gathering.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Talking about Housing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Talking about Housing"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Talking_about_Housing.jpg"
+        }
+    ]
+}

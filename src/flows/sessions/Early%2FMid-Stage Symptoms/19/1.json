@@ -1,0 +1,14 @@
+{
+    "header_text": "A Long Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Long Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Long_Dinner.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting Baked Goods",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Getting Baked Goods"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Getting_Baked_Goods.jpg"
+        }
+    ]
+}

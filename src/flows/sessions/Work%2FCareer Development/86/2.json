@@ -1,0 +1,14 @@
+{
+    "header_text": "Social Media Feedback",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You sent an email to your department a few hours ago, asking for responses on a topic. You check to see who's responded and notice that your boss hasn't responded yet. You think about how your boss didn't read the email from you and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Social Media Feedback_Work/Career Development_entry1"
+        }
+    ]
+}

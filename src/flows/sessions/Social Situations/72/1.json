@@ -1,0 +1,14 @@
+{
+    "header_text": "Your Birthday Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your Birthday Party"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Your_Birthday_Party.jpg"
+        }
+    ]
+}

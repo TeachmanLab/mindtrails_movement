@@ -1,0 +1,14 @@
+{
+    "header_text": "Worrying About Spending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Worrying About Spending"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Worrying_About_Spending.jpg"
+        }
+    ]
+}

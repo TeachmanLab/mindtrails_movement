@@ -1,0 +1,21 @@
+{
+    "header_text": "Lunch with New Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend laughs and points out that the waiter accidentally switched your plates. As you giggle and slide your plate over to them, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Lunch with New Friend_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "relieved"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

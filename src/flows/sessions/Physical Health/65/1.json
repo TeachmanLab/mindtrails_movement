@@ -1,0 +1,14 @@
+{
+    "header_text": "Long Distance Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Long Distance Walk"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Long_Distance_Walk.jpg"
+        }
+    ]
+}

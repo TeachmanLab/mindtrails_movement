@@ -1,0 +1,14 @@
+{
+    "header_text": "Big Families ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Big Families "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Big_Families.jpg"
+        }
+    ]
+}

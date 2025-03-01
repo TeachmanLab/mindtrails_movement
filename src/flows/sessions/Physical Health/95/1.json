@@ -1,0 +1,14 @@
+{
+    "header_text": "Cough After Going Out ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cough After Going Out "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Cough_After_Going_Out.jpg"
+        }
+    ]
+}

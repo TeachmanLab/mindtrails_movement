@@ -1,0 +1,24 @@
+{
+    "header_text": "Dating a Stranger ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Based on how you think your first date will go, you think you will probably"
+        },
+        {
+            "type": "Buttons",
+            "name": "Dating a Stranger _Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Regret going out with this person.",
+                "Go on a second date together."
+            ],
+            "columnCount": 1,
+            "correct_value": "Regret going out with this person."
+        }
+    ]
+}

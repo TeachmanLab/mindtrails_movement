@@ -1,0 +1,14 @@
+{
+    "header_text": "Overhearing an Argument",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Overhearing an Argument"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Overhearing_an_Argument.jpg"
+        }
+    ]
+}

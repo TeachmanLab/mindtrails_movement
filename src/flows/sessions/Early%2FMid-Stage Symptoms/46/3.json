@@ -1,0 +1,21 @@
+{
+    "header_text": "Favorite Restaurant",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "If the other customers did notice your walk, you would likely..... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Favorite Restaurant_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "be"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

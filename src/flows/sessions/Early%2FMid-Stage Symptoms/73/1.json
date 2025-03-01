@@ -1,0 +1,14 @@
+{
+    "header_text": "Creating Art ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Creating Art "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Creating_Art.jpg"
+        }
+    ]
+}

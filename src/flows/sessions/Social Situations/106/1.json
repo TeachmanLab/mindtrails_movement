@@ -1,0 +1,14 @@
+{
+    "header_text": "Grocery Store Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Grocery Store Experience"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Grocery_Store_Experience.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "A sip of water",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A sip of water"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_sip_of_water.jpg"
+        }
+    ]
+}

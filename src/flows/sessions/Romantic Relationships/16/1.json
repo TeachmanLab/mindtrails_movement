@@ -1,0 +1,14 @@
+{
+    "header_text": "Comparing Yourself to Others",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comparing Yourself to Others"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Comparing_Yourself_to_Others.jpg"
+        }
+    ]
+}

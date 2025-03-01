@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Family_Dinner.jpg"
+        }
+    ]
+}

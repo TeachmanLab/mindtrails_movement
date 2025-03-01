@@ -1,0 +1,14 @@
+{
+    "header_text": "Riding a boat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Riding a boat"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Riding_a_boat.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Coughing at the Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Coughing at the Store"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Coughing_at_the_Store.jpg"
+        }
+    ]
+}

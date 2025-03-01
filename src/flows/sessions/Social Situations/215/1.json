@@ -1,0 +1,14 @@
+{
+    "header_text": "Posting about Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Posting about Family"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Posting_about_Family.jpg"
+        }
+    ]
+}

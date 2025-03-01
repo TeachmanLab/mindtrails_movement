@@ -1,0 +1,24 @@
+{
+    "header_text": "Job Stability",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Can you control whether you keep your job?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Job Stability_Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ]
+}

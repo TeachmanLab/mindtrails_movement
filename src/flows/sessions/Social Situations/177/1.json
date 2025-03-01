@@ -1,0 +1,14 @@
+{
+    "header_text": "Attending Wedding Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Attending Wedding Alone"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Attending_Wedding_Alone.jpg"
+        }
+    ]
+}

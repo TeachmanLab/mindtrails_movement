@@ -1,0 +1,14 @@
+{
+    "header_text": "On a Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "On a Walk"
+        },
+        {
+            "type": "Media",
+            "url": "/images/On_a_Walk.jpg"
+        }
+    ]
+}

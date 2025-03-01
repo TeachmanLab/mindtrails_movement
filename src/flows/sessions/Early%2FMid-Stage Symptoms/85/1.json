@@ -1,0 +1,14 @@
+{
+    "header_text": "Replying to Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Replying to Email"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Replying_to_Email.jpg"
+        }
+    ]
+}

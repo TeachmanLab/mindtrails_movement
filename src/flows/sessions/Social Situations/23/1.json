@@ -1,0 +1,14 @@
+{
+    "header_text": "Going out in day clothes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going out in day clothes"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Going_out_in_day_clothes.jpg"
+        }
+    ]
+}

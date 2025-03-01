@@ -1,0 +1,14 @@
+{
+    "header_text": "Conversing at a party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversing at a party"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Conversing_at_a_party.jpg"
+        }
+    ]
+}

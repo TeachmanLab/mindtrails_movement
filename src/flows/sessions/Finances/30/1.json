@@ -1,0 +1,14 @@
+{
+    "header_text": "Providing for Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Providing for Family"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Providing_for_Family.jpg"
+        }
+    ]
+}

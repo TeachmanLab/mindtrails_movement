@@ -1,0 +1,24 @@
+{
+    "header_text": "Asking Someone Out ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "If you ask the other person to coffee, the other passenger will probably"
+        },
+        {
+            "type": "Buttons",
+            "name": "Asking Someone Out _Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Turn you down, because they're not interested in seeing you again.",
+                "Accept your offer, because you two had a great time on the train."
+            ],
+            "columnCount": 1,
+            "correct_value": "Accept your offer, because you two had a great time on the train."
+        }
+    ]
+}

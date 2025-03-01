@@ -1,0 +1,14 @@
+{
+    "header_text": "Using What You Have",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Using What You Have"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Using_What_You_Have.jpg"
+        }
+    ]
+}

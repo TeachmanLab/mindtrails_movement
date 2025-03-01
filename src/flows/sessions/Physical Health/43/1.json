@@ -1,0 +1,14 @@
+{
+    "header_text": "Checks at the dentist",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Checks at the dentist"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Checks_at_the_dentist.jpg"
+        }
+    ]
+}

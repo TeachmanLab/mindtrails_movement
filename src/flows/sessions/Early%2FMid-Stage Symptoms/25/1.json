@@ -1,0 +1,14 @@
+{
+    "header_text": "Music Venue ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Music Venue "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Music_Venue.jpg"
+        }
+    ]
+}

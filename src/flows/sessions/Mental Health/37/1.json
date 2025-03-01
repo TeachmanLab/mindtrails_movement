@@ -1,0 +1,14 @@
+{
+    "header_text": "Insightful Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Insightful Email"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Insightful_Email.jpg"
+        }
+    ]
+}

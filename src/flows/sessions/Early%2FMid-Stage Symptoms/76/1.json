@@ -1,0 +1,14 @@
+{
+    "header_text": "Day in the Park",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Day in the Park"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Day_in_the_Park.jpg"
+        }
+    ]
+}

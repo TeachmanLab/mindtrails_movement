@@ -1,0 +1,24 @@
+{
+    "header_text": "Faster thoughts",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you find it useful when your thoughts seem to speed up?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Faster thoughts_Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ]
+}

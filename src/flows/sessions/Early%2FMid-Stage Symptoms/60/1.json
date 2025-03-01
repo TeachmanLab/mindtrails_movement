@@ -1,0 +1,14 @@
+{
+    "header_text": "Symptoms at Shopping Mall",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Symptoms at Shopping Mall"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Symptoms_at_Shopping_Mall.jpg"
+        }
+    ]
+}

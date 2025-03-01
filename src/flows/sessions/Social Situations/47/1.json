@@ -1,0 +1,14 @@
+{
+    "header_text": "Cancelled plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cancelled plans"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Cancelled_plans.jpg"
+        }
+    ]
+}

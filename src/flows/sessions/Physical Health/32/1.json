@@ -1,0 +1,14 @@
+{
+    "header_text": "Sudden noise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sudden noise"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sudden_noise.jpg"
+        }
+    ]
+}

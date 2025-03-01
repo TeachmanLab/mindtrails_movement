@@ -1,0 +1,14 @@
+{
+    "header_text": "Ghosting ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ghosting "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Ghosting.jpg"
+        }
+    ]
+}

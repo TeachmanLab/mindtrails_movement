@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Multiple Positions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently decided to join a new neighborhood organization on top of your job. At a meeting for the new group, you brought the wrong notebook and have notes for your job, which aren't useful here. You think managing being in this new group will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Managing Multiple Positions_Work/Career Development_entry1"
+        }
+    ]
+}

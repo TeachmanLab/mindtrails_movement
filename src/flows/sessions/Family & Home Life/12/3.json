@@ -1,0 +1,21 @@
+{
+    "header_text": "Running Low on Battery",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After worrying about it for a few minutes, you realize that you can use this time to talk to your family. You feel ..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Running Low on Battery_Family & Home Life_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

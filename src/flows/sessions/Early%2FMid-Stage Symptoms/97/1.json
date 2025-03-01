@@ -1,0 +1,14 @@
+{
+    "header_text": "A Tricky Hike",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Tricky Hike"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Tricky_Hike.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Significant Other's Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Significant Other's Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Significant_Other's_Friend.jpg"
+        }
+    ]
+}

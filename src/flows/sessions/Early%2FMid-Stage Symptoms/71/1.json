@@ -1,0 +1,14 @@
+{
+    "header_text": "Coffee Ordering",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Coffee Ordering"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Coffee_Ordering.jpg"
+        }
+    ]
+}

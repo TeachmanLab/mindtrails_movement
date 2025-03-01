@@ -1,0 +1,14 @@
+{
+    "header_text": "Walking Down Steps",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Walking Down Steps"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Walking_Down_Steps.jpg"
+        }
+    ]
+}

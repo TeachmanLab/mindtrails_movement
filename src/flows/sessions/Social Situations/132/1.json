@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking Charge",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taking Charge"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Taking_Charge.jpg"
+        }
+    ]
+}

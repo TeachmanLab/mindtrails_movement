@@ -1,0 +1,14 @@
+{
+    "header_text": "Bill for a fix",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Bill for a fix"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Bill_for_a_fix.jpg"
+        }
+    ]
+}

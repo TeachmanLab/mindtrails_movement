@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentation Panic",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are giving a presentation that you have been really nervous to give. As you talk, you feel a lump in your throat and you start to cough. These feelings probably mean that you are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Presentation Panic_Physical Health_entry1"
+        }
+    ]
+}

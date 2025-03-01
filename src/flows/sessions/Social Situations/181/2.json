@@ -1,0 +1,14 @@
+{
+    "header_text": "Friends Excluding You",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friends Excluding You"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Friends_Excluding_You.jpg"
+        }
+    ]
+}

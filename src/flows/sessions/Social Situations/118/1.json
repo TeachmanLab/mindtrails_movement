@@ -1,0 +1,14 @@
+{
+    "header_text": "Attention in Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Attention in Store"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Attention_in_Store.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Rescheduled Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Rescheduled Vacation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Rescheduled_Vacation.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Thinking fast at work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Thinking fast at work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Thinking_fast_at_work.jpg"
+        }
+    ]
+}

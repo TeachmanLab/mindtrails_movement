@@ -1,0 +1,14 @@
+{
+    "header_text": "Not Invited to Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just started at a new job and you work with lots of new people. You hear a few of them laughing together and talking about going out to dinner and you wait for them to invite you, eager to make friends, but they don't. You feel okay with this and look forward to reaching out next..."
+        },
+        {
+            "type": "Entry",
+            "name": "Not Invited to Dinner_Work/Career Development_entry1"
+        }
+    ]
+}

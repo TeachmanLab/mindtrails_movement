@@ -1,0 +1,14 @@
+{
+    "header_text": "Catching Your Breath",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Catching Your Breath"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Catching_Your_Breath.jpg"
+        }
+    ]
+}

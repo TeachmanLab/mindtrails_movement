@@ -1,0 +1,14 @@
+{
+    "header_text": "Upset Stomach",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Upset Stomach"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Upset_Stomach.jpg"
+        }
+    ]
+}

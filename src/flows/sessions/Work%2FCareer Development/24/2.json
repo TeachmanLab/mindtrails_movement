@@ -1,0 +1,21 @@
+{
+    "header_text": "A night off",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a big project due at the end of the week. Your work isn't finished, but you consider taking a break to go out with friends. Taking the night off would be... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A night off_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "reasonable"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

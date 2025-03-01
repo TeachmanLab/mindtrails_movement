@@ -1,0 +1,24 @@
+{
+    "header_text": "Reviewing Your Work ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your boss likely feels that"
+        },
+        {
+            "type": "Buttons",
+            "name": "Reviewing Your Work _Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Most of your work has been of very high quality.",
+                "Your mistakes have been serious and unacceptable."
+            ],
+            "columnCount": 1,
+            "correct_value": "Most of your work has been of very high quality."
+        }
+    ]
+}

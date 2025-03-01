@@ -1,0 +1,14 @@
+{
+    "header_text": "1, 2, 3. Eyes on Me",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "1, 2, 3. Eyes on Me"
+        },
+        {
+            "type": "Media",
+            "url": "/images/1,_2,_3._Eyes_on_Me.jpg"
+        }
+    ]
+}

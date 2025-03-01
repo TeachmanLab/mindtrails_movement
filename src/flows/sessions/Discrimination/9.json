@@ -1,0 +1,17 @@
+{
+    "header_text": "Mental Health (Emotional Support)",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>NAMI Helpline:</strong>Feeling down or struggling? You don’t have to go through it alone! The NAMI HelpLine connects you with a caring peer for support.<a href=\"https://www.nami.org/help\">https://www.nami.org/help</a><br><br>"
+        }
+    ],
+    "conditions": [
+        {
+            "variable": "Discrimination",
+            "comparator": "=",
+            "value": "Mental Health (Emotional Support)"
+        }
+    ]
+}

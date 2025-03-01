@@ -1,0 +1,14 @@
+{
+    "header_text": "Strong opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Strong opinions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Strong_opinions.jpg"
+        }
+    ]
+}

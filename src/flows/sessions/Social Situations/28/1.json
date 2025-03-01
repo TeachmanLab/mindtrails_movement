@@ -1,0 +1,14 @@
+{
+    "header_text": "Unusual views",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unusual views"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unusual_views.jpg"
+        }
+    ]
+}

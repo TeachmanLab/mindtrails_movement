@@ -1,0 +1,14 @@
+{
+    "header_text": "Correction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Correction"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Correction.jpg"
+        }
+    ]
+}

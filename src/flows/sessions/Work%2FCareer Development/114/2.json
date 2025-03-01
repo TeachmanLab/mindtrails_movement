@@ -1,0 +1,21 @@
+{
+    "header_text": "Working to Get Ahead",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain. As you envision your likely position in the company down the road, you expect the job you want will be awarded to..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Working to Get Ahead_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "you"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Dry Difficulty",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dry Difficulty"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dry_Difficulty.jpg"
+        }
+    ]
+}

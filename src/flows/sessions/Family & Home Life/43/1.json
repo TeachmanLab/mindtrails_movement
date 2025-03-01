@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Member Tension",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Member Tension"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Family_Member_Tension.jpg"
+        }
+    ]
+}

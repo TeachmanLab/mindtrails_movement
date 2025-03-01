@@ -1,0 +1,14 @@
+{
+    "header_text": "Trivia Night",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trivia Night"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trivia_Night.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Testing Positive for Strep",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Testing Positive for Strep"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Testing_Positive_for_Strep.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Music Venue ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner looks over at you, so you tell them what's wrong. They offer to help you get through the crowd and you feel more..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Music Venue _Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

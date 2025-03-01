@@ -1,0 +1,14 @@
+{
+    "header_text": "Trivia Team",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trivia Team"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trivia_Team.jpg"
+        }
+    ]
+}

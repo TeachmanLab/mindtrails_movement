@@ -1,0 +1,14 @@
+{
+    "header_text": "Virtual Worry",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Virtual Worry"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Virtual_Worry.jpg"
+        }
+    ]
+}

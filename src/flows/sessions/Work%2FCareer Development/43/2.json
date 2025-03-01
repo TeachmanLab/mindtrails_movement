@@ -1,0 +1,21 @@
+{
+    "header_text": "Preparing for evaluation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are preparing to meet with your boss for a performance review. You heard from other people that your boss is in an incredibly bad mood today. You worked hard this semester and think it is likely you will get a good..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Preparing for evaluation_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "review"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

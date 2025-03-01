@@ -1,0 +1,14 @@
+{
+    "header_text": "Change of Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Change of Plans"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Change_of_Plans.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Canceling on Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been feeling run down lately and cancel on plans that you made with your friends. Your friends express frustration, saying that they planned this a long time ago and were looking forward to seeing you. You think that you made the best decision for... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Canceling on Friends_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "yourself"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

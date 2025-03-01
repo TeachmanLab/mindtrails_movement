@@ -1,0 +1,14 @@
+{
+    "header_text": "Smelly Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Smelly Lunch"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Smelly_Lunch.jpg"
+        }
+    ]
+}

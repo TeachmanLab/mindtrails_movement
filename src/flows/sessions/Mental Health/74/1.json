@@ -1,0 +1,14 @@
+{
+    "header_text": "High Anxiety",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "High Anxiety"
+        },
+        {
+            "type": "Media",
+            "url": "/images/High_Anxiety.jpg"
+        }
+    ]
+}

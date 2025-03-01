@@ -1,0 +1,24 @@
+{
+    "header_text": "New Costs",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You and your significant other will probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "New Costs_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Feel resentful.",
+                "Have a good conversation."
+            ],
+            "columnCount": 1,
+            "correct_value": "Have a good conversation."
+        }
+    ]
+}

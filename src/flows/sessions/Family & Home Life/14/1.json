@@ -1,0 +1,14 @@
+{
+    "header_text": "Stuck in the Middle",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Stuck in the Middle"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Stuck_in_the_Middle.jpg"
+        }
+    ]
+}

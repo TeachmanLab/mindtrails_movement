@@ -1,0 +1,14 @@
+{
+    "header_text": "Breaking Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Breaking Up"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Breaking_Up.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Less Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think about getting on social media more, and still decide not to. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Less Social Media_Social Situations_entry2"
+        }
+    ]
+}

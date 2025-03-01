@@ -1,0 +1,14 @@
+{
+    "header_text": "Meeting an old acquaintance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Meeting an old acquaintance"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Meeting_an_old_acquaintance.jpg"
+        }
+    ]
+}

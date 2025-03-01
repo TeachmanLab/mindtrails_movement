@@ -1,0 +1,24 @@
+{
+    "header_text": "Fundraiser presentation",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The coworkers are probably thinking ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Fundraiser presentation_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "That they want to help you with the fundraiser.  ",
+                "That they don't want to help you with the fundraiser.  "
+            ],
+            "columnCount": 1,
+            "correct_value": "That they don't want to help you with the fundraiser.  "
+        }
+    ]
+}

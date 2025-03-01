@@ -1,0 +1,14 @@
+{
+    "header_text": "Difficulty Baking",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Difficulty Baking"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Difficulty_Baking.jpg"
+        }
+    ]
+}

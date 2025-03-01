@@ -1,0 +1,21 @@
+{
+    "header_text": "Worsening condition",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your neighbor has Parkinson's disease, and as they've gotten older it has been difficult to watch their condition worsen. As you age, you wonder if your symptoms will reach the severity level of theirs. You begin to feel nervous about your..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Worsening condition_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "future"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

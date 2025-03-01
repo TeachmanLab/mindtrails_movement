@@ -1,0 +1,14 @@
+{
+    "header_text": "Partner's Spending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Partner's Spending"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Partner's_Spending.jpg"
+        }
+    ]
+}

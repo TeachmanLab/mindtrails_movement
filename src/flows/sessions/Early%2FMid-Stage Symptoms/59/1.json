@@ -1,0 +1,14 @@
+{
+    "header_text": "Unconditional Love",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unconditional Love"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unconditional_Love.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "New Recipe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New Recipe"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_Recipe.jpg"
+        }
+    ]
+}

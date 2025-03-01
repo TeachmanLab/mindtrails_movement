@@ -1,0 +1,14 @@
+{
+    "header_text": "Treating Yourself",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've had a lot going on recently, and haven't felt like yourself. You want to treat yourself to something you enjoy, but you aren't sure you have room in your budget. You decide to buy yourself something small that you can definitely..."
+        },
+        {
+            "type": "Entry",
+            "name": "Treating Yourself_Finances_entry1"
+        }
+    ]
+}

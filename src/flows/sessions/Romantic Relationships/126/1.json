@@ -1,0 +1,14 @@
+{
+    "header_text": "New Partner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New Partner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_Partner.jpg"
+        }
+    ]
+}

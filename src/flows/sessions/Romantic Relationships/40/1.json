@@ -1,0 +1,14 @@
+{
+    "header_text": "Resolving Conflict",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Resolving Conflict"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Resolving_Conflict.jpg"
+        }
+    ]
+}

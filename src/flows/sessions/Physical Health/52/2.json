@@ -1,0 +1,21 @@
+{
+    "header_text": "Cold Weather",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a cold evening and you have been walking outside without a jacket. After a few minutes, your body starts shaking and you notice that your heart is racing. You feel a little scared thinking about what this could mean, and you decide that your body's response to the cold is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Cold Weather_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "manageable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

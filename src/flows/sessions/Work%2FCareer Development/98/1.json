@@ -1,0 +1,14 @@
+{
+    "header_text": "Committing to Activities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Committing to Activities"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Committing_to_Activities.jpg"
+        }
+    ]
+}

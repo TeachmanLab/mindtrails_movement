@@ -1,0 +1,14 @@
+{
+    "header_text": "Being a Parent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Being a Parent"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Being_a_Parent.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Flu Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Flu Worries"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Flu_Worries.jpg"
+        }
+    ]
+}

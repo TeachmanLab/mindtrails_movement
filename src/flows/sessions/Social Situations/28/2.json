@@ -1,0 +1,21 @@
+{
+    "header_text": "Unusual views",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a discussion, you end up debating an issue with colleagues. You later discover that they found your views unusual. When the issue comes up again in a group conversation, you expect that you will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Unusual views_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "excluded"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

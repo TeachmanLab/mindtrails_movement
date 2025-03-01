@@ -1,0 +1,14 @@
+{
+    "header_text": "Monday Phone Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Monday Phone Call"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Monday_Phone_Call.jpg"
+        }
+    ]
+}

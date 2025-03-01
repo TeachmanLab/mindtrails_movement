@@ -1,0 +1,14 @@
+{
+    "header_text": "New Training Plan",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are giving a presentation to your coworkers about a new training plan. You feel that your hands are shaking a little. Wondering if it is obvious, you look around and see that a few people have..."
+        },
+        {
+            "type": "Entry",
+            "name": "New Training Plan_Social Situations_entry1"
+        }
+    ]
+}

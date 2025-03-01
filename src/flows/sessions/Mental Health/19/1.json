@@ -1,0 +1,14 @@
+{
+    "header_text": "Job Recognition",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Job Recognition"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Job_Recognition.jpg"
+        }
+    ]
+}

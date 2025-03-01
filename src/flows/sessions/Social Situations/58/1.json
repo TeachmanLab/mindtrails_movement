@@ -1,0 +1,14 @@
+{
+    "header_text": "Lunch with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lunch with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Lunch_with_a_Friend.jpg"
+        }
+    ]
+}

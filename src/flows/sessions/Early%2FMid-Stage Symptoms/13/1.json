@@ -1,0 +1,14 @@
+{
+    "header_text": "Research Study",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Research Study"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Research_Study.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Nerves at a Big Moment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Nerves at a Big Moment"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Nerves_at_a_Big_Moment.jpg"
+        }
+    ]
+}

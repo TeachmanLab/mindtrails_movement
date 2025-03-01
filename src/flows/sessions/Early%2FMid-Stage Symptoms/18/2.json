@@ -1,0 +1,21 @@
+{
+    "header_text": "Hardware Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are in the checkout line at the hardware store, and you notice your hands begin shaking. The cashier glances down towards your hands, and you wonder what they think of you. When the cashier looks up, they give you a...  "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Hardware Store_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "smile"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Noisy Neighbors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Noisy Neighbors"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Noisy_Neighbors.jpg"
+        }
+    ]
+}

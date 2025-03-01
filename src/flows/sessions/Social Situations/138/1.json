@@ -1,0 +1,14 @@
+{
+    "header_text": "Dinner at a Friend's House",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dinner at a Friend's House"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dinner_at_a_Friend's_House.jpg"
+        }
+    ]
+}

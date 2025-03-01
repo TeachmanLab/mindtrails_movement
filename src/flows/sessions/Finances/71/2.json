@@ -1,0 +1,14 @@
+{
+    "header_text": "Filing Your Taxes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are filing your taxes for the previous year. You have several forms to include and you find the process confusing. You believe that you are trying your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Filing Your Taxes_Finances_entry1"
+        }
+    ]
+}

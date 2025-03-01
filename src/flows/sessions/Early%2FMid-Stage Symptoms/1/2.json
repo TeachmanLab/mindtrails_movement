@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting Coffee",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Getting Coffee"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Getting_Coffee.jpg"
+        }
+    ]
+}

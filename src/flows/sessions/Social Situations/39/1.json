@@ -1,0 +1,14 @@
+{
+    "header_text": "Helping an elder neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Helping an elder neighbor"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Helping_an_elder_neighbor.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Supporting Partner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Supporting Partner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Supporting_Partner.jpg"
+        }
+    ]
+}

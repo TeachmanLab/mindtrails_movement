@@ -1,0 +1,14 @@
+{
+    "header_text": "Friend in the Hospital",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Friend in the Hospital_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Sitting at the Library",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're at the library when another person sits next to you. They are coughing and sneezing without using a tissue or their elbow, and it makes you feel uneasy. When you lean over to politely ask them to cough and sneeze into their elbow, they follow the healthy habit you've suggested so that you're..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sitting at the Library_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "reassured"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

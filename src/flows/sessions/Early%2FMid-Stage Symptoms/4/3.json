@@ -1,0 +1,24 @@
+{
+    "header_text": "Weekly Game Night",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Thinking about your family succeeding in game night makes you feel... "
+        },
+        {
+            "type": "Buttons",
+            "name": "Weekly Game Night_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Awesome.",
+                "Terribly."
+            ],
+            "columnCount": 1,
+            "correct_value": "Awesome."
+        }
+    ]
+}

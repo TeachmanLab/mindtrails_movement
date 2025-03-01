@@ -1,0 +1,14 @@
+{
+    "header_text": "Wedding Celebration",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Wedding Celebration"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Wedding_Celebration.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Asking for Money ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Asking for Money "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Asking_for_Money.jpg"
+        }
+    ]
+}

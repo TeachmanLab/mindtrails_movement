@@ -1,0 +1,21 @@
+{
+    "header_text": "Achieving Your Goals",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You feel that you are not a bad candidate, and your chances of getting this new job are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Achieving Your Goals_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "good"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

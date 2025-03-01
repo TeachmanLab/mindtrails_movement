@@ -1,0 +1,10 @@
+{
+    "header_text": "Reflection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Motivational Statement #18 \n\n Think about a challenge you've overcome in the past. It was hard, but you succeeded, and you can do it again!"
+        }
+    ]
+}

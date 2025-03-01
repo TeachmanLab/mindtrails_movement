@@ -1,0 +1,14 @@
+{
+    "header_text": "Not Having Much to Say",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Not Having Much to Say"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Not_Having_Much_to_Say.jpg"
+        }
+    ]
+}

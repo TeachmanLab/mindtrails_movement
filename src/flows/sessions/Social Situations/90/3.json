@@ -1,0 +1,14 @@
+{
+    "header_text": "Nerves at a Big Moment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are about to give a presentation and you feel your body tremble. You don't usually feel this way when you speak in front of people. These trembling feelings mean that you are..."
+        },
+        {
+            "type": "Entry",
+            "name": "Nerves at a Big Moment_Social Situations_entry1"
+        }
+    ]
+}

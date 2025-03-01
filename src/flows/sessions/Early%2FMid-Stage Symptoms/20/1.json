@@ -1,0 +1,14 @@
+{
+    "header_text": "Being Independent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Being Independent"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Being_Independent.jpg"
+        }
+    ]
+}

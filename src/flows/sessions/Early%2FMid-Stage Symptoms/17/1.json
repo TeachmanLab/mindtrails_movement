@@ -1,0 +1,14 @@
+{
+    "header_text": "Chores and Errands",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Chores and Errands"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Chores_and_Errands.jpg"
+        }
+    ]
+}

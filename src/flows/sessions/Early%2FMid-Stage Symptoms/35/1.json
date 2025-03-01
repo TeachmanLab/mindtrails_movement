@@ -1,0 +1,14 @@
+{
+    "header_text": "Flights of Stairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Flights of Stairs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Flights_of_Stairs.jpg"
+        }
+    ]
+}

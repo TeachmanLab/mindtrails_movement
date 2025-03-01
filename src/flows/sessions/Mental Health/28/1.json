@@ -1,0 +1,14 @@
+{
+    "header_text": "Voicing Your Opinion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Voicing Your Opinion"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Voicing_Your_Opinion.jpg"
+        }
+    ]
+}

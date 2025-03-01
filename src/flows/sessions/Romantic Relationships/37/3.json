@@ -1,0 +1,24 @@
+{
+    "header_text": "Future Relationships",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "After your break up, you think"
+        },
+        {
+            "type": "Buttons",
+            "name": "Future Relationships_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You will probably never find someone good for you.",
+                "Eventually, you will meet the person who is right for you."
+            ],
+            "columnCount": 1,
+            "correct_value": "Eventually, you will meet the person who is right for you."
+        }
+    ]
+}

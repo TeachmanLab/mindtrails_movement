@@ -1,0 +1,14 @@
+{
+    "header_text": "Staying Together",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Staying Together"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Staying_Together.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "header_text": "Managing Credit Cards",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "With a new credit card, you would"
+        },
+        {
+            "type": "Buttons",
+            "name": "Managing Credit Cards_Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Effectively integrate the credit card into your budgeting plan.",
+                "Have to work harder than you hoped in order to pay off new credit card debt."
+            ],
+            "columnCount": 1,
+            "correct_value": "Have to work harder than you hoped in order to pay off new credit card debt."
+        }
+    ]
+}

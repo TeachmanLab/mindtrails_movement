@@ -1,0 +1,24 @@
+{
+    "header_text": "Paying for College",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think you will have enough money to help pay for your grandchildren's college expenses?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Paying for College_Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ]
+}

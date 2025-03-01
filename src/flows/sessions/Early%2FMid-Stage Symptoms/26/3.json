@@ -1,0 +1,24 @@
+{
+    "header_text": "Planning a Family Vacation",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "This vacation..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Planning a Family Vacation_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "will not stand between you and your family.",
+                "will cause tension between you and your family."
+            ],
+            "columnCount": 1,
+            "correct_value": "will not stand between you and your family."
+        }
+    ]
+}

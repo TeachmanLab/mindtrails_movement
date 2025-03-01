@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Family & Home Life",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Identify the context of your situation by asking yourself: “What is the challenge that I’m facing?” Making this explicit can help you identify your goals and the steps needed to achieve them."
+        }
+    ]
+}

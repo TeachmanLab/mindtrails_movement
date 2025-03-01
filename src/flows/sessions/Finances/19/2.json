@@ -1,0 +1,21 @@
+{
+    "header_text": "Managing bills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your credit card bill for the month will arrive soon. You spent a bit more this month than you normally do. When you think about your future finances, you feel that you will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Managing bills_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "okay"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

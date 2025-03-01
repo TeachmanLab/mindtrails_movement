@@ -1,0 +1,14 @@
+{
+    "header_text": "Plans to Visit Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Plans to Visit Family"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Plans_to_Visit_Family.jpg"
+        }
+    ]
+}

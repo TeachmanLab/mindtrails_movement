@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting Ready for a Date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Getting Ready for a Date"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Getting_Ready_for_a_Date.jpg"
+        }
+    ]
+}

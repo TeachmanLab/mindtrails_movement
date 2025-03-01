@@ -1,0 +1,14 @@
+{
+    "header_text": "Unequal Affection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unequal Affection"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unequal_Affection.jpg"
+        }
+    ]
+}

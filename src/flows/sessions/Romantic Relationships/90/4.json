@@ -1,0 +1,14 @@
+{
+    "header_text": "Long-Term Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You don't have worries about your relationship, and you see your relationship growing..."
+        },
+        {
+            "type": "Entry",
+            "name": "Long-Term Relationship_Romantic Relationships_entry2"
+        }
+    ]
+}

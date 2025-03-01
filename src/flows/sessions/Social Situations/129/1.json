@@ -1,0 +1,14 @@
+{
+    "header_text": "Morning Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Morning Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Morning_Meeting.jpg"
+        }
+    ]
+}

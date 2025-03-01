@@ -1,0 +1,14 @@
+{
+    "header_text": "Comedic Genius",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comedic Genius"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Comedic_Genius.jpg"
+        }
+    ]
+}

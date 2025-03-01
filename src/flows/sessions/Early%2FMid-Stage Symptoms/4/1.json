@@ -1,0 +1,14 @@
+{
+    "header_text": "Weekly Game Night",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Weekly Game Night"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Weekly_Game_Night.jpg"
+        }
+    ]
+}

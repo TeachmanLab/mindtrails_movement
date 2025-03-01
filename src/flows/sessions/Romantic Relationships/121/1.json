@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Questions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Questions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Family_Questions.jpg"
+        }
+    ]
+}

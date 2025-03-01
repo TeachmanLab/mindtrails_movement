@@ -1,0 +1,14 @@
+{
+    "header_text": "Meeting up with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Meeting up with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Meeting_up_with_a_Friend.jpg"
+        }
+    ]
+}

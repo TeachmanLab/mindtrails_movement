@@ -1,0 +1,14 @@
+{
+    "header_text": "Morning errands",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Morning errands"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Morning_errands.jpg"
+        }
+    ]
+}

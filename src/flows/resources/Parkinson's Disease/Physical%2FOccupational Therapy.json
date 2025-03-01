@@ -1,0 +1,11 @@
+{
+    "header_text": "Physical/Occupational Therapy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>LSVT Big by LSVT Global</font></b>\n               <br/><br/>LSVT BIG is a research-based physical and occupational therapy program that helps individuals with Parkinson's disease improve movement, balance, and daily function.<br/><br/>\n               <a href=\"https://www.lsvtglobal.com/LSVTBIG\">https://www.lsvtglobal.com/LSVTBIG</a>"
+        }
+    ]
+}

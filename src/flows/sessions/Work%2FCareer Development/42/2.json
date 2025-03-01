@@ -1,0 +1,21 @@
+{
+    "header_text": "Dealing with Group Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are assigned a project to complete for work. You've been grouped with coworkers who usually don't contribute much to work projects. You start to think about how the project will go, and feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Dealing with Group Work_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "uneasy"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

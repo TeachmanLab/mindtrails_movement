@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Abandoned By a Close Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you scroll through your social media accounts, you see that your closest friend is hanging out with someone you don't know. You wonder who this person is, and why you haven't heard about them. When you think about your friendship with this friend, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Feeling Abandoned By a Close Friend_Social Situations_entry1"
+        }
+    ]
+}

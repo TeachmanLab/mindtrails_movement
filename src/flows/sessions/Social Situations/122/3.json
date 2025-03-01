@@ -1,0 +1,24 @@
+{
+    "header_text": "Alternative Contact ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Did your acquaintance get quiet because they were judging you?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Alternative Contact _Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ]
+}

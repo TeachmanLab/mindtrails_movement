@@ -1,0 +1,14 @@
+{
+    "header_text": "Dancing class",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dancing class"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dancing_class.jpg"
+        }
+    ]
+}

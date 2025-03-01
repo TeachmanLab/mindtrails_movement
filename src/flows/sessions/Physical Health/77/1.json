@@ -1,0 +1,14 @@
+{
+    "header_text": "Stomach Ache",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Stomach Ache"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Stomach_Ache.jpg"
+        }
+    ]
+}

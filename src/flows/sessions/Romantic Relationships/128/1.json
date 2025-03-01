@@ -1,0 +1,14 @@
+{
+    "header_text": "Making Introductions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Making Introductions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Making_Introductions.jpg"
+        }
+    ]
+}

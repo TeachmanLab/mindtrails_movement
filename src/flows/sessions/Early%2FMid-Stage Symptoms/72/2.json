@@ -1,0 +1,21 @@
+{
+    "header_text": "Talking to friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are catching up with a group of friends you haven't seen in a while. In the middle of telling a story, you lose track of what you intended to say and worry about your friends' reactions. You tell your friends that you lost your train of thought, and they are... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Talking to friends_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "understanding"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

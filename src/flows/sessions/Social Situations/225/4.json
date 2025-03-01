@@ -1,0 +1,24 @@
+{
+    "header_text": "Friendships in the Future",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You think that staying close to your current friends"
+        },
+        {
+            "type": "Buttons",
+            "name": "Friendships in the Future_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Is almost impossible in the long run.",
+                "Will be something that brings you happiness for years to come."
+            ],
+            "columnCount": 1,
+            "correct_value": "Will be something that brings you happiness for years to come."
+        }
+    ]
+}

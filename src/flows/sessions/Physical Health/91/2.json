@@ -1,0 +1,14 @@
+{
+    "header_text": "Meeting Someone New",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Meeting Someone New"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Meeting_Someone_New.jpg"
+        }
+    ]
+}

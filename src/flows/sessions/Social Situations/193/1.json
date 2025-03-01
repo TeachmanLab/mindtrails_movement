@@ -1,0 +1,14 @@
+{
+    "header_text": "Less Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Less Social Media"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Less_Social_Media.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Lightening the Mood",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are trying to think of a good joke to put in the next email you send out to your coworkers. You find a really funny one on a website after doing a quick search, but this is the first time you're ending your emails with a joke. Your coworkers will think that it's..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Lightening the Mood_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "funny"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

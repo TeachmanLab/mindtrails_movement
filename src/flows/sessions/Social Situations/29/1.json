@@ -1,0 +1,14 @@
+{
+    "header_text": "Mistake on a task",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mistake on a task"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Mistake_on_a_task.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Getting Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the past couple months, you've been feeling very down, and you haven't been enjoying your usual activities. You wonder if you are depressed and if you should get help. You think that getting help would make you feel...  "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Getting Help_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

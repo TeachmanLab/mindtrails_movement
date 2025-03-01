@@ -1,0 +1,14 @@
+{
+    "header_text": "Weekend Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friends ask you to go out to dinner at a fancy restaurant with them this weekend. It is really expensive and you know you won't be able to afford it. When you picture yourself telling your friends that you can't go, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Weekend Plans_Finances_entry1"
+        }
+    ]
+}

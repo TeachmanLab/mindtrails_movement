@@ -1,0 +1,14 @@
+{
+    "header_text": "Using What You Have",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are invited to a formal event for your workplace. You can't afford something new to wear, so have to wear an old outfit. When thinking about everyone's opinion on you wearing old clothes, you know you'll feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Using What You Have_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Walking Down Steps",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are carrying laundry down your basement stairs. You notice you are more unbalanced than you used to be and walking down is now more difficult. You note to take more care in the future and hold onto the railing so that you are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Walking Down Steps_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "steady"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Issues While Shopping",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Issues While Shopping"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Issues_While_Shopping.jpg"
+        }
+    ]
+}

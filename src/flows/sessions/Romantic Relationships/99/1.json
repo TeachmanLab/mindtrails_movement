@@ -1,0 +1,14 @@
+{
+    "header_text": "Putting Yourself Out There",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Putting Yourself Out There"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Putting_Yourself_Out_There.jpg"
+        }
+    ]
+}

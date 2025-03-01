@@ -1,0 +1,14 @@
+{
+    "header_text": "A Homemade Gift",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Homemade Gift"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Homemade_Gift.jpg"
+        }
+    ]
+}

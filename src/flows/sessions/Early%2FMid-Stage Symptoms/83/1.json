@@ -1,0 +1,14 @@
+{
+    "header_text": "Arcade Games",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Arcade Games"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Arcade_Games.jpg"
+        }
+    ]
+}

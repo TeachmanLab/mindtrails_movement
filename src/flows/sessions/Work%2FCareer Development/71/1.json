@@ -1,0 +1,14 @@
+{
+    "header_text": "Making a Choice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Making a Choice"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Making_a_Choice.jpg"
+        }
+    ]
+}

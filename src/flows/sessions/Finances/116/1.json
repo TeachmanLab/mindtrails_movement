@@ -1,0 +1,14 @@
+{
+    "header_text": "Vacation Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vacation Costs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Vacation_Costs.jpg"
+        }
+    ]
+}

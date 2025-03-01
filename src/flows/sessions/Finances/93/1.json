@@ -1,0 +1,14 @@
+{
+    "header_text": "Financial Dependence ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Financial Dependence "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Financial_Dependence.jpg"
+        }
+    ]
+}

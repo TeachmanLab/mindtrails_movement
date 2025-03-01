@@ -1,0 +1,21 @@
+{
+    "header_text": "Change of Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to take a job offer in a different office. Many members of your old coworkers still do not know about this decision, and you worry about them being disappointed about it. You think that they will be happy that you are finally following your..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Change of Plans_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "passions"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

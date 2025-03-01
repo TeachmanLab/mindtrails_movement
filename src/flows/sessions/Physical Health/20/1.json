@@ -1,0 +1,14 @@
+{
+    "header_text": "Cardio with friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cardio with friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Cardio_with_friend.jpg"
+        }
+    ]
+}

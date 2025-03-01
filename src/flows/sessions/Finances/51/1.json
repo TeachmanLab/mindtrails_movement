@@ -1,0 +1,14 @@
+{
+    "header_text": "High Paying Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "High Paying Jobs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/High_Paying_Jobs.jpg"
+        }
+    ]
+}

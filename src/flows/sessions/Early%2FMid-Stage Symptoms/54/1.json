@@ -1,0 +1,14 @@
+{
+    "header_text": "House Cleaning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "House Cleaning"
+        },
+        {
+            "type": "Media",
+            "url": "/images/House_Cleaning.jpg"
+        }
+    ]
+}

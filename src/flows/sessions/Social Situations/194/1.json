@@ -1,0 +1,14 @@
+{
+    "header_text": "Vaccination Reassurance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vaccination Reassurance"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Vaccination_Reassurance.jpg"
+        }
+    ]
+}

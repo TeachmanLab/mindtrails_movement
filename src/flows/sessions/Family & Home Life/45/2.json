@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Advice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Advice"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Family_Advice.jpg"
+        }
+    ]
+}

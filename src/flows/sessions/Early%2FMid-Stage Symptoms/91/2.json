@@ -1,0 +1,21 @@
+{
+    "header_text": "Beach Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on your family's annual beach vacation. Your nieces and nephews want you to go in the water with them, but you are nervous about staying balanced with the crash and force of the waves. You think about how they will be with you in the water and decide to go have some... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Beach Vacation_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "fun"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

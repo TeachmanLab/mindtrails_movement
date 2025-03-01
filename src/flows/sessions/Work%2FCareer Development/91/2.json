@@ -1,0 +1,14 @@
+{
+    "header_text": "Ready to Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ready to Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Ready_to_Work.jpg"
+        }
+    ]
+}

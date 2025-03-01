@@ -1,0 +1,14 @@
+{
+    "header_text": "Lost Things",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lost Things"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Lost_Things.jpg"
+        }
+    ]
+}

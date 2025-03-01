@@ -1,0 +1,24 @@
+{
+    "header_text": "Spending Time With Family",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "As your family spends less time together, you think"
+        },
+        {
+            "type": "Buttons",
+            "name": "Spending Time With Family_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You will find ways to stay in touch and remain connected.",
+                "Your relationship with them will become strained."
+            ],
+            "columnCount": 1,
+            "correct_value": "You will find ways to stay in touch and remain connected."
+        }
+    ]
+}

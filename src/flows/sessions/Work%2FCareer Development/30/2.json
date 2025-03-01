@@ -1,0 +1,21 @@
+{
+    "header_text": "Brief call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are in a meeting, and during a brief break, you call home to speak to your significant other. You are late getting back into the meeting room, so everyone looks up when you open the door. Others see your actions as..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Brief call_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "disruptive"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

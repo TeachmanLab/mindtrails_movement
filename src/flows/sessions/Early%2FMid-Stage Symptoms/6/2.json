@@ -1,0 +1,21 @@
+{
+    "header_text": "House Play",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are babysitting your grandchild in your home. You are having difficulty keeping up with your grandchild running around and wonder if your son will be worried about his child's safety. You believe that your son will feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "House Play_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "okay"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "New City New Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New City New Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_City_New_Friends.jpg"
+        }
+    ]
+}

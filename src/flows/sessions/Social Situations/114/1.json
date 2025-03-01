@@ -1,0 +1,14 @@
+{
+    "header_text": "Friends Hanging Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friends Hanging Out"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Friends_Hanging_Out.jpg"
+        }
+    ]
+}

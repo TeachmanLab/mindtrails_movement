@@ -1,0 +1,14 @@
+{
+    "header_text": "Important Opinion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Important Opinion"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Important_Opinion.jpg"
+        }
+    ]
+}

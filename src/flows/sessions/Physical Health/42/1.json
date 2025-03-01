@@ -1,0 +1,14 @@
+{
+    "header_text": "Heart Rate Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Heart Rate Worries"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Heart_Rate_Worries.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Hiking Hiatus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You love to go hiking, but since your PD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Hiking Hiatus_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "good"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

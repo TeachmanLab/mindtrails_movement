@@ -1,0 +1,24 @@
+{
+    "header_text": "Walking with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You imagine the walk will be"
+        },
+        {
+            "type": "Buttons",
+            "name": "Walking with a Friend_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "At a pace that you can do if you try hard.",
+                "Too fast for you no matter how hard you try."
+            ],
+            "columnCount": 1,
+            "correct_value": "Too fast for you no matter how hard you try."
+        }
+    ]
+}

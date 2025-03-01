@@ -1,0 +1,14 @@
+{
+    "header_text": "Conversation with Stranger",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Conversation with Stranger"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Conversation_with_Stranger.jpg"
+        }
+    ]
+}

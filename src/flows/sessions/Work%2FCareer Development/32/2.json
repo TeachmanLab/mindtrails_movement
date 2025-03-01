@@ -1,0 +1,21 @@
+{
+    "header_text": "Unstable WiFi",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You don't have stable internet access at home and you found out the job you're applying for is remote. You wonder how you'll be able to keep up with your work if you get the job. As you think about the situation, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Unstable WiFi_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "stressed"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

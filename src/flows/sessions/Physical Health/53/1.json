@@ -1,0 +1,14 @@
+{
+    "header_text": "Vision Troubles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vision Troubles"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Vision_Troubles.jpg"
+        }
+    ]
+}

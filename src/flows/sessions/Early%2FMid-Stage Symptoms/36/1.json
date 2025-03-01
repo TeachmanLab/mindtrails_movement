@@ -1,0 +1,14 @@
+{
+    "header_text": "Games with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Games with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Games_with_Friends.jpg"
+        }
+    ]
+}

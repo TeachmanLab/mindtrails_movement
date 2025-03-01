@@ -1,0 +1,21 @@
+{
+    "header_text": "House Cleaning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take pride in your home and like to deep clean it regularly. Lately, you've been feeling more tired and have had to hire someone to help you clean your house. Having someone else there to help you clean makes you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "House Cleaning_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "grateful"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

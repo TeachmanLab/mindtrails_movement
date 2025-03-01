@@ -1,0 +1,14 @@
+{
+    "header_text": "Friend's Birthday",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friend's Birthday"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Friend's_Birthday.jpg"
+        }
+    ]
+}

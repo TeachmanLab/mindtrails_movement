@@ -1,0 +1,24 @@
+{
+    "header_text": "Your Bowling Skills",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Years from now, when you are bowling with your friends, you will probably notice"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your Bowling Skills_Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "How much you have improved since you started.",
+                "How little your skills have continued to improve."
+            ],
+            "columnCount": 1,
+            "correct_value": "How little your skills have continued to improve."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Couples Counseling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Couples Counseling"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Couples_Counseling.jpg"
+        }
+    ]
+}

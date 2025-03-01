@@ -1,0 +1,14 @@
+{
+    "header_text": "Gathering at the park",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Gathering at the park"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Gathering_at_the_park.jpg"
+        }
+    ]
+}

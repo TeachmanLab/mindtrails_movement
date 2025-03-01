@@ -1,0 +1,14 @@
+{
+    "header_text": "A big presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A big presentation"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_big_presentation.jpg"
+        }
+    ]
+}

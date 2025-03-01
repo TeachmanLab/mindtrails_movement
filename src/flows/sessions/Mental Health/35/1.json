@@ -1,0 +1,14 @@
+{
+    "header_text": "Night Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Night Out"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Night_Out.jpg"
+        }
+    ]
+}

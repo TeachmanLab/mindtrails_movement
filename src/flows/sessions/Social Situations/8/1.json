@@ -1,0 +1,14 @@
+{
+    "header_text": "Theater group thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Theater group thoughts"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Theater_group_thoughts.jpg"
+        }
+    ]
+}

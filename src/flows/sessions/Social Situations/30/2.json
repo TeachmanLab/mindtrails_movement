@@ -1,0 +1,21 @@
+{
+    "header_text": "Meeting an old acquaintance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decline the... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Meeting an old acquaintance_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "call"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "header_text": "An accidental bang",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You think the headache is a sign that you ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "An accidental bang_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Are getting better.",
+                "Are seriously injured."
+            ],
+            "columnCount": 1,
+            "correct_value": "Are getting better."
+        }
+    ]
+}

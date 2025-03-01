@@ -1,0 +1,10 @@
+{
+    "header_text": "Anxiety Scale I",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Instructions: Please complete the survey below regarding your feelings in the past week."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Running Low on Battery",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Running Low on Battery"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Running_Low_on_Battery.jpg"
+        }
+    ]
+}

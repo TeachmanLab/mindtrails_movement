@@ -1,0 +1,21 @@
+{
+    "header_text": "Garden Planting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the spring, you notice your friends and neighbors have planted their gardens already. You are taking much longer than expected to plant your garden due to recent changes in your balance. You remember to take the planting one row at a time and remain..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Garden Planting_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "patient"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

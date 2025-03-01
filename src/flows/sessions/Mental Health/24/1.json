@@ -1,0 +1,14 @@
+{
+    "header_text": "Early Morning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Early Morning"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Early_Morning.jpg"
+        }
+    ]
+}

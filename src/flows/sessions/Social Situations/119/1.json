@@ -1,0 +1,14 @@
+{
+    "header_text": "Coffee Shop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Coffee Shop"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Coffee_Shop.jpg"
+        }
+    ]
+}

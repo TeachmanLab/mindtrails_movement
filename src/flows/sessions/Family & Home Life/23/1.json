@@ -1,0 +1,14 @@
+{
+    "header_text": "Job Hiatus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Job Hiatus"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Job_Hiatus.jpg"
+        }
+    ]
+}

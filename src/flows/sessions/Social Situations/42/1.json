@@ -1,0 +1,14 @@
+{
+    "header_text": "A different style",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A different style"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_different_style.jpg"
+        }
+    ]
+}

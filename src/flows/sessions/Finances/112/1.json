@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Finances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When facing a difficult situation, try to find a way of handling it that feels right to you, regardless of how things might turn out."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Not Invited to Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Not Invited to Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Not_Invited_to_Dinner.jpg"
+        }
+    ]
+}

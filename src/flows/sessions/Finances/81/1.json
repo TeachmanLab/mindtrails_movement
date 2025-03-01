@@ -1,0 +1,14 @@
+{
+    "header_text": "Breakfast with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Breakfast with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Breakfast_with_Friends.jpg"
+        }
+    ]
+}

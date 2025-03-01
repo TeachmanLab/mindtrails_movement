@@ -1,0 +1,14 @@
+{
+    "header_text": "Exposing a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Exposing a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Exposing_a_Friend.jpg"
+        }
+    ]
+}

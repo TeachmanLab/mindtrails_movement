@@ -1,0 +1,14 @@
+{
+    "header_text": "Overwhelming Options",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Overwhelming Options_Social Situations_entry1"
+        }
+    ]
+}

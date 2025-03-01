@@ -1,0 +1,14 @@
+{
+    "header_text": "Affording Expenses",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at... "
+        },
+        {
+            "type": "Entry",
+            "name": "Affording Expenses_Finances_entry1"
+        }
+    ]
+}

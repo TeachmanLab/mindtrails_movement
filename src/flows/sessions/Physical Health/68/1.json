@@ -1,0 +1,14 @@
+{
+    "header_text": "Going for a Spin",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going for a Spin"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Going_for_a_Spin.jpg"
+        }
+    ]
+}

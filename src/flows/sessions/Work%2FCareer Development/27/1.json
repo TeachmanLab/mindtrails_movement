@@ -1,0 +1,14 @@
+{
+    "header_text": "Writing workshop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Writing workshop"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Writing_workshop.jpg"
+        }
+    ]
+}

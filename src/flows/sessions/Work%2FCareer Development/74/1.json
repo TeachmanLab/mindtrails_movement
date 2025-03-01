@@ -1,0 +1,14 @@
+{
+    "header_text": "Troublesome Typos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Troublesome Typos"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Troublesome_Typos.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Long Walk Outside",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is..."
+        },
+        {
+            "type": "Entry",
+            "name": "Long Walk Outside_Physical Health_entry1"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Activism",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>Disability and Access Resource from Showing Up for Racial Justice:</strong>Want to learn more about Disability Justice? These Google Docs from Showing Up for Racial Justice will teach you how to become a better disability activist.<a href=\"https://surj.org/resources/disability-and-access/\">https://surj.org/resources/disability-and-access/</a><br><br>\\n\\n\\n\\n<strong>Respectability's LGBTQ+ People with Disabilities Resources:</strong> \nLearn more about the intersection of disability and LGBTQ+ identities. <a href=\"https://www.respectability.org/resources/lgbtq/\">https://www.respectability.org/resources/lgbtq/</a><br><br>\n\n\n\n\n\n"
+        }
+    ],
+    "conditions": [
+        {
+            "variable": "Discrimination",
+            "comparator": "=",
+            "value": "Activism"
+        }
+    ]
+}

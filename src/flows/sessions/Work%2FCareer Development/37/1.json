@@ -1,0 +1,14 @@
+{
+    "header_text": "Stuttering in office ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Stuttering in office "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Stuttering_in_office.jpg"
+        }
+    ]
+}

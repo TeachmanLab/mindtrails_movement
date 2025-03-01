@@ -1,0 +1,14 @@
+{
+    "header_text": "Insurance Claim",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Insurance Claim"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Insurance_Claim.jpg"
+        }
+    ]
+}

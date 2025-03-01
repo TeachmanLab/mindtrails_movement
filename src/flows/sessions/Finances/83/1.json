@@ -1,0 +1,14 @@
+{
+    "header_text": "Holiday Gifts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Holiday Gifts"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Holiday_Gifts.jpg"
+        }
+    ]
+}

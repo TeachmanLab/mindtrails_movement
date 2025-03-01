@@ -1,0 +1,14 @@
+{
+    "header_text": "Fear of Missing Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fear of Missing Out"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Fear_of_Missing_Out.jpg"
+        }
+    ]
+}

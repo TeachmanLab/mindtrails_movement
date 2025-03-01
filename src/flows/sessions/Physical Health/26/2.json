@@ -1,0 +1,21 @@
+{
+    "header_text": "Sports game cheers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a sports game. The crowd is cheering loudly for your team, and your head is pounding. You feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sports game cheers_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "thrilled"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

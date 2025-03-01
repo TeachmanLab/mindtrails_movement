@@ -1,0 +1,14 @@
+{
+    "header_text": "Your New Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your New Post"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Your_New_Post.jpg"
+        }
+    ]
+}

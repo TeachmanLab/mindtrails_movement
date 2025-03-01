@@ -1,0 +1,21 @@
+{
+    "header_text": "Intrusive Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After a while, you realize that they are just thoughts, and that they don't mean anything about you as a person. You think that you are not going crazy, and that you are a good... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Intrusive Thoughts_Mental Health_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "person"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

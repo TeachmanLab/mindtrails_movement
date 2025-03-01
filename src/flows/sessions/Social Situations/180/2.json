@@ -1,0 +1,14 @@
+{
+    "header_text": "Long Weekend Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Long Weekend Alone"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Long_Weekend_Alone.jpg"
+        }
+    ]
+}

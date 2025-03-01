@@ -1,0 +1,14 @@
+{
+    "header_text": "Speaking Up During Collaboration",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Speaking Up During Collaboration"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Speaking_Up_During_Collaboration.jpg"
+        }
+    ]
+}

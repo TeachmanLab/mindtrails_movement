@@ -1,0 +1,21 @@
+{
+    "header_text": "Not Getting an Invite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend is going bowling tonight, and you didn't get an invite. Most of your other friends were invited, so you think you weren't invited due to your PD symptoms. When you think about it, you realize it's because you are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Not Getting an Invite_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "busy"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

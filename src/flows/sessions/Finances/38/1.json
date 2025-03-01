@@ -1,0 +1,14 @@
+{
+    "header_text": "Spending Money with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Spending Money with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Spending_Money_with_Friends.jpg"
+        }
+    ]
+}

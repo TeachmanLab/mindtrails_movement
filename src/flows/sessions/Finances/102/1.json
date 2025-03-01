@@ -1,0 +1,14 @@
+{
+    "header_text": "Recovering from the Flu",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recovering from the Flu"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Recovering_from_the_Flu.jpg"
+        }
+    ]
+}

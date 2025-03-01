@@ -1,0 +1,14 @@
+{
+    "header_text": "Asking Out Your Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "If you were to ask your friend on a date, it would not be awkward, and you think your friend would find it.."
+        },
+        {
+            "type": "Entry",
+            "name": "Asking Out Your Friend_Romantic Relationships_entry2"
+        }
+    ]
+}

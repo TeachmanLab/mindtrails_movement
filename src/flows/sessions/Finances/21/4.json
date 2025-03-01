@@ -1,0 +1,24 @@
+{
+    "header_text": "Saving up Money",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think it will be too hard to save up enough for your ski trip?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Saving up Money_Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ]
+}

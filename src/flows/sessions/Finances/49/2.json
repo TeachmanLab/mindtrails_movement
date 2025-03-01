@@ -1,0 +1,21 @@
+{
+    "header_text": "Affording Medicine",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You woke up feeling a little sick so you decide to go to the doctor. They write you a prescription but when you get to the pharmacy, the price is a little higher than you expected. You think it can be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Affording Medicine_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "manageable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

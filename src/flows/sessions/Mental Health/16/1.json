@@ -1,0 +1,14 @@
+{
+    "header_text": "Inside Jokes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Inside Jokes"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Inside_Jokes.jpg"
+        }
+    ]
+}

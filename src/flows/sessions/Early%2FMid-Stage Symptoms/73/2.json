@@ -1,0 +1,21 @@
+{
+    "header_text": "Creating Art ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You enjoy making art. As you are considering your next project, you can't help but think about how HD might affect your creative ability in the future. Thinking about this makes you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Creating Art _Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "down"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

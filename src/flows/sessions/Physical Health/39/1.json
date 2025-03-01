@@ -1,0 +1,14 @@
+{
+    "header_text": "Comfortable couch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Comfortable couch"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Comfortable_couch.jpg"
+        }
+    ]
+}

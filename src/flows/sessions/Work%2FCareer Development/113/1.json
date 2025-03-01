@@ -1,0 +1,14 @@
+{
+    "header_text": "Changing Your Trajectory",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Changing Your Trajectory"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Changing_Your_Trajectory.jpg"
+        }
+    ]
+}

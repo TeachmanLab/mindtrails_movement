@@ -1,0 +1,14 @@
+{
+    "header_text": "A different haircut",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A different haircut"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_different_haircut.jpg"
+        }
+    ]
+}

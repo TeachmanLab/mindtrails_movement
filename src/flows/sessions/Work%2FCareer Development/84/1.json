@@ -1,0 +1,14 @@
+{
+    "header_text": "Prepare to Succeed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Prepare to Succeed"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Prepare_to_Succeed.jpg"
+        }
+    ]
+}

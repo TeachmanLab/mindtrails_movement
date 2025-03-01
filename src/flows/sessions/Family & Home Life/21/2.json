@@ -1,0 +1,21 @@
+{
+    "header_text": "Loud Music",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your significant other is currently playing upbeat music very loudly and you need to prepare for an important presentation. You don't want them to think you're rude if you ask them to turn down the music so that you can prepare. You approach them and feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Loud Music_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

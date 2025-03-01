@@ -1,0 +1,14 @@
+{
+    "header_text": "Paying for Repairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paying for Repairs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Paying_for_Repairs.jpg"
+        }
+    ]
+}

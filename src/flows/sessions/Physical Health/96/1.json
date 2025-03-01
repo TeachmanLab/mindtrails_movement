@@ -1,0 +1,14 @@
+{
+    "header_text": "Wearing a Mask to Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Wearing a Mask to Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Wearing_a_Mask_to_Work.jpg"
+        }
+    ]
+}

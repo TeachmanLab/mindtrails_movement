@@ -1,0 +1,14 @@
+{
+    "header_text": "Jacket Return",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile, and stare at you looking very..."
+        },
+        {
+            "type": "Entry",
+            "name": "Jacket Return_Social Situations_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Out for dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Out for dinner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Out_for_dinner.jpg"
+        }
+    ]
+}

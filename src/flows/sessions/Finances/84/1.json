@@ -1,0 +1,14 @@
+{
+    "header_text": "Unexpected Medical Visit ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unexpected Medical Visit "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unexpected_Medical_Visit.jpg"
+        }
+    ]
+}

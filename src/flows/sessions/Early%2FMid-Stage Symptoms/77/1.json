@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Wedding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Wedding"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Family_Wedding.jpg"
+        }
+    ]
+}

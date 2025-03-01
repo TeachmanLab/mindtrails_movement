@@ -1,0 +1,14 @@
+{
+    "header_text": "Turning Down a Drink",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Turning Down a Drink"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Turning_Down_a_Drink.jpg"
+        }
+    ]
+}

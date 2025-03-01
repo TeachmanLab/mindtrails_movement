@@ -1,0 +1,24 @@
+{
+    "header_text": "Texting Your Crush",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your coworker probably asked for your phone number because"
+        },
+        {
+            "type": "Buttons",
+            "name": "Texting Your Crush_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Your coworker thinks you are attractive.",
+                "Your coworker wants you to do more work."
+            ],
+            "columnCount": 1,
+            "correct_value": "Your coworker thinks you are attractive."
+        }
+    ]
+}

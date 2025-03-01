@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking Time Off",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taking Time Off"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Taking_Time_Off.jpg"
+        }
+    ]
+}

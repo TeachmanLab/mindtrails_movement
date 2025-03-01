@@ -1,0 +1,14 @@
+{
+    "header_text": "Running Late",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Running Late"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Running_Late.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Tripping in Public",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tripping in Public"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Tripping_in_Public.jpg"
+        }
+    ]
+}

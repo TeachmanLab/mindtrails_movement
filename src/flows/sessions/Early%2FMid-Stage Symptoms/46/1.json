@@ -1,0 +1,14 @@
+{
+    "header_text": "Favorite Restaurant",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Favorite Restaurant"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Favorite_Restaurant.jpg"
+        }
+    ]
+}

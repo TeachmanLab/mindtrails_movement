@@ -1,0 +1,14 @@
+{
+    "header_text": "Unmasked Peers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Unmasked Peers_Social Situations_entry1"
+        }
+    ]
+}

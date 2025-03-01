@@ -1,0 +1,14 @@
+{
+    "header_text": "Risky Behavior",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Risky Behavior"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Risky_Behavior.jpg"
+        }
+    ]
+}

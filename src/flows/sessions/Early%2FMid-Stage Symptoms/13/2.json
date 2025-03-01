@@ -1,0 +1,21 @@
+{
+    "header_text": "Research Study",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "For the first time, you're taking part in a research study about PD. When someone tells you that you've been picked as a participant, you don't know what to expect. As you think about it more, you begin to feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Research Study_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "uneasy"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

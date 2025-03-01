@@ -1,0 +1,21 @@
+{
+    "header_text": "Lost Things",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Throughout the past week, you've continuously lost track of things, like your keys and your wallet. You've had some recent stressors in your life, and losing track of your things makes you even more anxious. You remember that stress can make your memory worse, and as things calm down, your memory will probably get..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Lost Things_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

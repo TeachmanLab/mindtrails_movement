@@ -1,0 +1,14 @@
+{
+    "header_text": "Making a Toast",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Making a Toast"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Making_a_Toast.jpg"
+        }
+    ]
+}

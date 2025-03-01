@@ -1,0 +1,14 @@
+{
+    "header_text": "Longer Walks",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Longer Walks"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Longer_Walks.jpg"
+        }
+    ]
+}

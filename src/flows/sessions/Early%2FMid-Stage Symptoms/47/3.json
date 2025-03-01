@@ -1,0 +1,24 @@
+{
+    "header_text": "Safety at Home",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When walking through your home, you..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Safety at Home_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Make it safely to a sitting position.",
+                "Get hurt."
+            ],
+            "columnCount": 1,
+            "correct_value": "Make it safely to a sitting position."
+        }
+    ]
+}

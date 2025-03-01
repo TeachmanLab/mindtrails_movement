@@ -1,0 +1,14 @@
+{
+    "header_text": "Truthful Texting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Truthful Texting"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Truthful_Texting.jpg"
+        }
+    ]
+}

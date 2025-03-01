@@ -1,0 +1,21 @@
+{
+    "header_text": "Putting Yourself Out There",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to share how you're feeling with them, and they tell you they've just been tired from work and home responsibilities, and didn't realize how much it was affecting your relationship. You feel...  "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Putting Yourself Out There_Romantic Relationships_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "relieved"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Opening Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Opening Up"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Opening_Up.jpg"
+        }
+    ]
+}

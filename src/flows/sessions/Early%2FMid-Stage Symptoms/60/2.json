@@ -1,0 +1,21 @@
+{
+    "header_text": "Symptoms at Shopping Mall",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While you're in a shopping mall, your chorea is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to make an appointment, and as you place the call, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Symptoms at Shopping Mall_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Crisis Support for LGBTQ+ Youth",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>The Trevor Project's 24/7 Suicide Hotline for LGBTQ+ Youth:</strong>The Trevor Project is there 24/7 with free, confidential support for LGBTQIA+ young people in crisis.<a href=\"https://www.thetrevorproject.org/get-help/\">https://www.thetrevorproject.org/get-help/</a><br><br>"
+        }
+    ],
+    "conditions": [
+        {
+            "variable": "Discrimination",
+            "comparator": "=",
+            "value": "Crisis Support for LGBTQ+ Youth"
+        }
+    ]
+}

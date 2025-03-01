@@ -1,0 +1,21 @@
+{
+    "header_text": "Correction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the corridor at work, your boss asks you a question, and you realize you respond incorrectly. Your boss corrects you. You think the experience of being corrected by your boss is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Correction_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "awful"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Finding Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At home there are a lot of chores on the schedule for you to accomplish. You have a big project to work on that will take a lot of time. Balancing your home life and work life is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Finding Balance_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "stressful"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

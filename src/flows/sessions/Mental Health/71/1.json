@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Anxious",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Anxious"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Anxious.jpg"
+        }
+    ]
+}

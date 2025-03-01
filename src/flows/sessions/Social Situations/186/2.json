@@ -1,0 +1,14 @@
+{
+    "header_text": "New City New Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on and miss your close friends from your old city. You decide to spend more time with the people you have met so you can become closer..."
+        },
+        {
+            "type": "Entry",
+            "name": "New City New Friends_Social Situations_entry1"
+        }
+    ]
+}

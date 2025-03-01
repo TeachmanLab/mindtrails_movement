@@ -1,0 +1,14 @@
+{
+    "header_text": "Friend's Get Together",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friend's Get Together"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Friend's_Get_Together.jpg"
+        }
+    ]
+}

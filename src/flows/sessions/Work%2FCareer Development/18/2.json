@@ -1,0 +1,21 @@
+{
+    "header_text": "Future limitations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "This morning you hear the news that a lot of companies are currently downsizing. You think about what will happen if you lose your job. You decide that finding another job will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Future limitations_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "possible"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

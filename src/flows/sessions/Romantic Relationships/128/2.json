@@ -1,0 +1,21 @@
+{
+    "header_text": "Making Introductions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been with your new partner for quite a while. You want to introduce your partner to your kids, but you aren't sure how they are going to react. You think asking them how they would feel about meeting your partner is... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Making Introductions_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "appropriate"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

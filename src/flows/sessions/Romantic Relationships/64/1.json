@@ -1,0 +1,14 @@
+{
+    "header_text": "Work Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Work Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Work_Friend.jpg"
+        }
+    ]
+}

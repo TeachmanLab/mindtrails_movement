@@ -1,0 +1,21 @@
+{
+    "header_text": "Family Advice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to go visit your family on a long weekend. When talking with your siblings, they give you advice that you do not agree with but you are scared to speak up and tell them. You think if you tell them you disagree, they will be disappointed in..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Family Advice_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "you"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Blurry eyesight",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Blurry eyesight"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Blurry_eyesight.jpg"
+        }
+    ]
+}

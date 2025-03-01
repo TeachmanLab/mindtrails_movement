@@ -1,0 +1,14 @@
+{
+    "header_text": "Dropped Plate",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dropped Plate"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dropped_Plate.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Filing Your Taxes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Filing Your Taxes"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Filing_Your_Taxes.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking Precautions ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taking Precautions "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Taking_Precautions.jpg"
+        }
+    ]
+}

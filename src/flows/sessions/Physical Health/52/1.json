@@ -1,0 +1,14 @@
+{
+    "header_text": "Cold Weather",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cold Weather"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Cold_Weather.jpg"
+        }
+    ]
+}

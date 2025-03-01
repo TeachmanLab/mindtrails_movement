@@ -1,0 +1,14 @@
+{
+    "header_text": "Space heater",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Space heater"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Space_heater.jpg"
+        }
+    ]
+}

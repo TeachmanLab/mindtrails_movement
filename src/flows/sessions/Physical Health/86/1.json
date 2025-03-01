@@ -1,0 +1,14 @@
+{
+    "header_text": "Presentation Panic",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Presentation Panic"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Presentation_Panic.jpg"
+        }
+    ]
+}

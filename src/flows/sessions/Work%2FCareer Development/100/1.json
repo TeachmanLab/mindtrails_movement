@@ -1,0 +1,10 @@
+{
+    "header_text": "Reflection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Motivational Statement #3 \n\n Progress is a process -- Just Keep Swimming!"
+        }
+    ]
+}

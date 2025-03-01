@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking Yourself to a Movie",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taking Yourself to a Movie"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Taking_Yourself_to_a_Movie.jpg"
+        }
+    ]
+}

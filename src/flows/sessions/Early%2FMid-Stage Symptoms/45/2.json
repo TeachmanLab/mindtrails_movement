@@ -1,0 +1,14 @@
+{
+    "header_text": "Bowling Alley",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Bowling Alley"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Bowling_Alley.jpg"
+        }
+    ]
+}

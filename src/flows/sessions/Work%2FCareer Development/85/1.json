@@ -1,0 +1,14 @@
+{
+    "header_text": "Putting in the Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Putting in the Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Putting_in_the_Work.jpg"
+        }
+    ]
+}

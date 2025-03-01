@@ -1,0 +1,14 @@
+{
+    "header_text": "Blood test results",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Blood test results"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Blood_test_results.jpg"
+        }
+    ]
+}

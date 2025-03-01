@@ -1,0 +1,14 @@
+{
+    "header_text": "Dry Mouth Dilemma",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dry Mouth Dilemma"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dry_Mouth_Dilemma.jpg"
+        }
+    ]
+}

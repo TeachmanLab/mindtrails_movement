@@ -1,0 +1,21 @@
+{
+    "header_text": "Teaching Others",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been selected to lead a training class for new employees. The leader before you was extremely well liked, and you worry you won't be able to live up to others' expectation of the course. You remember that you know the material well, and when you think about leading the course, you are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Teaching Others_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "hopeful"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

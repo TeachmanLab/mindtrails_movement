@@ -1,0 +1,14 @@
+{
+    "header_text": "Overwhelming Options",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Overwhelming Options"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Overwhelming_Options.jpg"
+        }
+    ]
+}

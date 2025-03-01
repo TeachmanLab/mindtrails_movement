@@ -1,0 +1,14 @@
+{
+    "header_text": "Computer Screen Problems",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Computer Screen Problems"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Computer_Screen_Problems.jpg"
+        }
+    ]
+}

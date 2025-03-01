@@ -1,0 +1,14 @@
+{
+    "header_text": "New Training Plan",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New Training Plan"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_Training_Plan.jpg"
+        }
+    ]
+}

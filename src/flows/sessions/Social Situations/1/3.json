@@ -1,0 +1,21 @@
+{
+    "header_text": "Expressing Your Ideas",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While working on a collaborative project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Expressing Your Ideas_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "project"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

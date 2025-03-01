@@ -1,0 +1,14 @@
+{
+    "header_text": "Affording Therapy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Affording Therapy"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Affording_Therapy.jpg"
+        }
+    ]
+}

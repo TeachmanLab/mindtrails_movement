@@ -1,0 +1,21 @@
+{
+    "header_text": "Deciding to Share a Picture",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a picture of a coworker at an event that is really great. You want to show your other coworkers in an email but remember that you just sent out an email yesterday. If you email again, you think people won't ..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Deciding to Share a Picture_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "notice"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

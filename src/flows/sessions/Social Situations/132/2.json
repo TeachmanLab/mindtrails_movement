@@ -1,0 +1,21 @@
+{
+    "header_text": "Taking Charge",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During your department meeting over Zoom, you're placed into breakout rooms. When you start the discussion, your camera is on but everyone else leaves their cameras off and their mics muted. You think that the others will think that you are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Taking Charge_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "ready"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

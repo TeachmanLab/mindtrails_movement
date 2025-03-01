@@ -1,0 +1,14 @@
+{
+    "header_text": "Faster thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Faster thoughts"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Faster_thoughts.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Important Presentation ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Important Presentation "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Important_Presentation.jpg"
+        }
+    ]
+}

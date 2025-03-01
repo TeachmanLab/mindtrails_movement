@@ -1,0 +1,24 @@
+{
+    "header_text": "Comfortable couch",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You feel strange because ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Comfortable couch_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You only had one glass of water today.",
+                "You are coming down with the flu."
+            ],
+            "columnCount": 1,
+            "correct_value": "You only had one glass of water today."
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Anniversary Let-down",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Anniversary Let-down"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Anniversary_Let-down.jpg"
+        }
+    ]
+}

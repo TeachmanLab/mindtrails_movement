@@ -1,0 +1,21 @@
+{
+    "header_text": "Avid Traveler",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that you can still find fulfillment in traveling more locally. Focusing on other aspects of travel that you enjoy gives you... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Avid Traveler_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "peace"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

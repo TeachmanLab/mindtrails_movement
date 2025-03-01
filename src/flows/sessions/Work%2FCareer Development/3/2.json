@@ -1,0 +1,21 @@
+{
+    "header_text": "Mistakes while working",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Even though you normally excel at your job, you recently had a rough week at work. Specifically, you made a couple of mistakes on an important project. When you think about the future, you think it is likely that your job is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Mistakes while working_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "secure"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

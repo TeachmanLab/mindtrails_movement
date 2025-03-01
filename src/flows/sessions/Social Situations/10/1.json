@@ -1,0 +1,14 @@
+{
+    "header_text": "Spotting a friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Spotting a friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Spotting_a_friend.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Less Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You do not want to get on social media often. You have been pressured by several friends about getting on more. The thought of feeling left out makes you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Less Social Media_Social Situations_entry1"
+        }
+    ]
+}

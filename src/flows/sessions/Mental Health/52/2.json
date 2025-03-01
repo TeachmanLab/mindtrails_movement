@@ -1,0 +1,21 @@
+{
+    "header_text": "Accepting Praise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Over the weekend, you caught up with some old friends. You told them about the job you're doing and they make comments about how smart you must be, but you don't think the job is that special. You allow yourself to feel proud of what you're working on either..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Accepting Praise_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "way"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

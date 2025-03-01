@@ -1,0 +1,14 @@
+{
+    "header_text": "Burn Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Burn Out"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Burn_Out.jpg"
+        }
+    ]
+}

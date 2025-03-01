@@ -1,0 +1,14 @@
+{
+    "header_text": "Recent Exposure",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were recently exposed to someone who had a virus, but you haven't experienced any symptoms. Your friends invite you to get dinner with them, and you wonder if you should go. You feel well and decide to go out with your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Recent Exposure_Physical Health_entry1"
+        }
+    ]
+}

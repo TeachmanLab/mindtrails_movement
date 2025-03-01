@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Down",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Down"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Down.jpg"
+        }
+    ]
+}

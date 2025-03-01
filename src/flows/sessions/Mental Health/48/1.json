@@ -1,0 +1,14 @@
+{
+    "header_text": "Unfinished Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unfinished Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unfinished_Work.jpg"
+        }
+    ]
+}

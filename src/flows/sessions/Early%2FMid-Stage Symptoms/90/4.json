@@ -1,0 +1,24 @@
+{
+    "header_text": "Birthday Cards",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You most likely forgot to send the cards due to..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Birthday Cards_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Being busy",
+                "Developing symptoms of dementia"
+            ],
+            "columnCount": 1,
+            "correct_value": "Being busy"
+        }
+    ]
+}

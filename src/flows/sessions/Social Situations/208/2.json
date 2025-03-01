@@ -1,0 +1,14 @@
+{
+    "header_text": "Keeping Up With Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Keeping Up With Friends _Social Situations_entry1"
+        }
+    ]
+}

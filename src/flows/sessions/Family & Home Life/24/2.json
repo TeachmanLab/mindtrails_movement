@@ -1,0 +1,21 @@
+{
+    "header_text": "Heading out of Town",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Heading out of Town_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

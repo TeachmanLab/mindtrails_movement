@@ -1,0 +1,10 @@
+{
+    "header_text": "Reflection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Motivational Statement #4 \n\n Even if the day may not be good, there is good in every day!"
+        }
+    ]
+}

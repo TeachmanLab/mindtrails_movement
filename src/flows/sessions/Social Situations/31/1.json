@@ -1,0 +1,14 @@
+{
+    "header_text": "Overhearing your name ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Overhearing your name "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Overhearing_your_name.jpg"
+        }
+    ]
+}

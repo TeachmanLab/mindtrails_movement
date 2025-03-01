@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Pressure Going Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Pressure Going Out"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Pressure_Going_Out.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Confronting a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Confronting a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Confronting_a_Friend.jpg"
+        }
+    ]
+}

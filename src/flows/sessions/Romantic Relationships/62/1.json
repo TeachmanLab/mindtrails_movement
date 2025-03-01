@@ -1,0 +1,14 @@
+{
+    "header_text": "Silent Partner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Silent Partner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Silent_Partner.jpg"
+        }
+    ]
+}

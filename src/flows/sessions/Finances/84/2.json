@@ -1,0 +1,14 @@
+{
+    "header_text": "Unexpected Medical Visit ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently had an unexpected medical visit. You and your spouse share an insurance plan, and you’re worried that your spouse will be concerned about finances if they see it on your insurance statement. If they ask you about it, you think they will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Unexpected Medical Visit _Finances_entry1"
+        }
+    ]
+}

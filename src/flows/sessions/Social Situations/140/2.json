@@ -1,0 +1,21 @@
+{
+    "header_text": "Ignored by a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You used your phone to send a photo to a friend, and you can see that they opened it but didn't respond to you. You've seen them posting other things online, so they're definitely on their phone. Your friend probably didn't respond because they..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Ignored by a Friend_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "forgot"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

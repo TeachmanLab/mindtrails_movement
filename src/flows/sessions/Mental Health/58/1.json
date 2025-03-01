@@ -1,0 +1,14 @@
+{
+    "header_text": "Joining a New Club",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Joining a New Club"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Joining_a_New_Club.jpg"
+        }
+    ]
+}

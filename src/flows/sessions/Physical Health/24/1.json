@@ -1,0 +1,14 @@
+{
+    "header_text": "Disease test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Disease test"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Disease_test.jpg"
+        }
+    ]
+}

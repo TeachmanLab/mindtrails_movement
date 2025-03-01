@@ -1,0 +1,14 @@
+{
+    "header_text": "Long-Term Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Long-Term Relationship"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Long-Term_Relationship.jpg"
+        }
+    ]
+}

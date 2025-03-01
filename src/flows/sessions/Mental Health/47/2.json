@@ -1,0 +1,21 @@
+{
+    "header_text": "A New Opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently received an incredible promotion at your job. You suddenly feel that you didn't work hard enough to earn the opportunity. You think that you deserve the..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "A New Opportunity_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "promotion"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

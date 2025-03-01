@@ -1,0 +1,14 @@
+{
+    "header_text": "Being in Charge",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Being in Charge"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Being_in_Charge.jpg"
+        }
+    ]
+}

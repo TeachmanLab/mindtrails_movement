@@ -1,0 +1,14 @@
+{
+    "header_text": "Time to Yourself",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your favorite part of the day is winding down to eat dinner. When you start making dinner, you realize that you've been eating alone a lot recently, and you feel sad. You decide you are okay with this fact, as it gives you time to reflect on your..."
+        },
+        {
+            "type": "Entry",
+            "name": "Time to Yourself_Social Situations_entry1"
+        }
+    ]
+}

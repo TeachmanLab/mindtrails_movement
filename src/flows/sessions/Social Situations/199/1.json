@@ -1,0 +1,14 @@
+{
+    "header_text": "Sharing With Support Group ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sharing With Support Group "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sharing_With_Support_Group.jpg"
+        }
+    ]
+}

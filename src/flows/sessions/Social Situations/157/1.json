@@ -1,0 +1,14 @@
+{
+    "header_text": "Trying Out a Funny Caption",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trying Out a Funny Caption"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trying_Out_a_Funny_Caption.jpg"
+        }
+    ]
+}

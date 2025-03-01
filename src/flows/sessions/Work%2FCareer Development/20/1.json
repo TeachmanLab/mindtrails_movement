@@ -1,0 +1,14 @@
+{
+    "header_text": "Quick task completion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Quick task completion"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Quick_task_completion.jpg"
+        }
+    ]
+}

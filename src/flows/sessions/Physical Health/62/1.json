@@ -1,0 +1,14 @@
+{
+    "header_text": "A Toothache",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Toothache"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_Toothache.jpg"
+        }
+    ]
+}

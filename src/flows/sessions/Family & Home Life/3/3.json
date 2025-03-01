@@ -1,0 +1,24 @@
+{
+    "header_text": "Reconciling with your friend",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friend cancelled the meeting because they are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Reconciling with your friend_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Mad at you.",
+                "Exhausted from a busy week"
+            ],
+            "columnCount": 1,
+            "correct_value": "Exhausted from a busy week"
+        }
+    ]
+}

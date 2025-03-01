@@ -1,0 +1,14 @@
+{
+    "header_text": "Wrapping Up Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Work has been piling up at your job recently, and you were going to take the weekend to catch up. However, your friend reminded you of an event this weekend that you committed to, and it would be rude to cancel last minute. You think that completing your work will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Wrapping Up Work_Work/Career Development_entry1"
+        }
+    ]
+}

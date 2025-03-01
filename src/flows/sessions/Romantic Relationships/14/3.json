@@ -1,0 +1,24 @@
+{
+    "header_text": "Attractive Appraisal",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Does this person your age think you're weird for having only a few followers? "
+        },
+        {
+            "type": "Buttons",
+            "name": "Attractive Appraisal_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ]
+}

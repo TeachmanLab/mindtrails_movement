@@ -1,0 +1,14 @@
+{
+    "header_text": "Late Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Late Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Late_Friend.jpg"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Social Situations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You might be feeling some pain in your body right now. Remind yourself that pain ebbs and flows and the pain likely won't stay this intense forever."
+        }
+    ]
+}

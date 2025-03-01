@@ -1,0 +1,21 @@
+{
+    "header_text": "Your Resume",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow, and you know that a good resume will be an important... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Your Resume_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "factor"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

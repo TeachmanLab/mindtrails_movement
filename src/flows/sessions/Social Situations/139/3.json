@@ -1,0 +1,21 @@
+{
+    "header_text": "Corner Laughter",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After a moment, you remember situations where you and your coworkers have laughed about things unrelated to who is speaking. You move on from their laughter and complete your presentation..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Corner Laughter_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "successfully"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

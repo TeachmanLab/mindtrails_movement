@@ -1,0 +1,14 @@
+{
+    "header_text": "Waiting Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Waiting Game"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Waiting_Game.jpg"
+        }
+    ]
+}

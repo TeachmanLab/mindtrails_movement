@@ -1,0 +1,14 @@
+{
+    "header_text": "Teaching Others",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Teaching Others"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Teaching_Others.jpg"
+        }
+    ]
+}

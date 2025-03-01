@@ -1,0 +1,14 @@
+{
+    "header_text": "Being Talked About",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Being Talked About"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Being_Talked_About.jpg"
+        }
+    ]
+}

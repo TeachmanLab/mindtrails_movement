@@ -1,0 +1,14 @@
+{
+    "header_text": "The Movies Solo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "The Movies Solo"
+        },
+        {
+            "type": "Media",
+            "url": "/images/The_Movies_Solo.jpg"
+        }
+    ]
+}

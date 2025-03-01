@@ -1,0 +1,14 @@
+{
+    "header_text": "Spring Allergies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Spring Allergies"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Spring_Allergies.jpg"
+        }
+    ]
+}

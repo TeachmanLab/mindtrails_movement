@@ -1,0 +1,14 @@
+{
+    "header_text": "Entering a nightclub",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Entering a nightclub"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Entering_a_nightclub.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Therapist after Diagnosis",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Therapist after Diagnosis"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Therapist_after_Diagnosis.jpg"
+        }
+    ]
+}

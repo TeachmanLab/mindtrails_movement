@@ -1,0 +1,14 @@
+{
+    "header_text": "Hot surface burn",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hot surface burn"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Hot_surface_burn.jpg"
+        }
+    ]
+}

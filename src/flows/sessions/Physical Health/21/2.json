@@ -1,0 +1,21 @@
+{
+    "header_text": "Difficult walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Difficult walk_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "walking"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

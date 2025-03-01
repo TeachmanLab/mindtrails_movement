@@ -1,0 +1,21 @@
+{
+    "header_text": "Gathering at the park",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're attending a family gathering at a park and are worried when you notice that your hands are trembling more than usual. Your anxiety makes your hands shake even more, which in turn makes you more and more anxious. You sit down and take several deep, calming breaths, and your tremor starts to subside; your increased tremor and anxiety were just... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Gathering at the park_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "temporary"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

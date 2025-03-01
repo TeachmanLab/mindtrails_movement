@@ -1,0 +1,14 @@
+{
+    "header_text": "Home Introductions ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Home Introductions "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Home_Introductions.jpg"
+        }
+    ]
+}

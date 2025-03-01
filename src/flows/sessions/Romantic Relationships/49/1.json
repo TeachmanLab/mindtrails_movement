@@ -1,0 +1,14 @@
+{
+    "header_text": "Not Getting a Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Not Getting a Response"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Not_Getting_a_Response.jpg"
+        }
+    ]
+}

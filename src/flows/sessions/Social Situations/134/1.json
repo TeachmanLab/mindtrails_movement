@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Social Situations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Think of times in your past when you were worried about an aspect of your physical health that ended up being perfectly normal."
+        }
+    ]
+}

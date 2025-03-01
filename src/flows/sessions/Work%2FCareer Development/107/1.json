@@ -1,0 +1,14 @@
+{
+    "header_text": "Reviewing Your Work ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reviewing Your Work "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Reviewing_Your_Work.jpg"
+        }
+    ]
+}

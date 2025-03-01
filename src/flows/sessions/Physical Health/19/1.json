@@ -1,0 +1,14 @@
+{
+    "header_text": "Out on a boat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Out on a boat"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Out_on_a_boat.jpg"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "header_text": "Unmasked Peers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Unmasked Peers_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "well"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

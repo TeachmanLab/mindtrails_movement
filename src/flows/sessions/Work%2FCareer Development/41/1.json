@@ -1,0 +1,14 @@
+{
+    "header_text": "Deleted Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Deleted Project"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Deleted_Project.jpg"
+        }
+    ]
+}

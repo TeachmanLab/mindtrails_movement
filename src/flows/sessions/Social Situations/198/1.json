@@ -1,0 +1,14 @@
+{
+    "header_text": "Cooking a Casserole",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Cooking a Casserole"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Cooking_a_Casserole.jpg"
+        }
+    ]
+}

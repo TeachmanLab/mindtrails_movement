@@ -1,0 +1,14 @@
+{
+    "header_text": "Social Media Scores",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Social Media Scores"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Social_Media_Scores.jpg"
+        }
+    ]
+}

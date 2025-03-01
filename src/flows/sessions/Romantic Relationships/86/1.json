@@ -1,0 +1,14 @@
+{
+    "header_text": "Meeting the Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Meeting the Parents"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Meeting_the_Parents.jpg"
+        }
+    ]
+}

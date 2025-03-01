@@ -1,0 +1,21 @@
+{
+    "header_text": "Intrusive Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recently, you've noticed that you are having intrusive thoughts. These thoughts are disturbing to you, and you cannot believe that you are thinking such horrible things. You think that you are going... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Intrusive Thoughts_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "crazy"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Not Feeling Prepared",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Not Feeling Prepared"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Not_Feeling_Prepared.jpg"
+        }
+    ]
+}

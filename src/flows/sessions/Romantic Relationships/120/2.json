@@ -1,0 +1,21 @@
+{
+    "header_text": "Supporting Partner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "For the past few weeks, your partner has become more isolated and distant. You want to check in on their mental health, but this isn’t something you tend to talk about and you’re not sure how they’ll react. You decide to be upfront about your concerns, and they are very... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Supporting Partner_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "appreciative"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

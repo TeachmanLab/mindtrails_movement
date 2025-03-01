@@ -1,0 +1,14 @@
+{
+    "header_text": "Wearing Something Old",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Wearing Something Old"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Wearing_Something_Old.jpg"
+        }
+    ]
+}

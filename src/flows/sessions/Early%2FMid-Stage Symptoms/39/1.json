@@ -1,0 +1,14 @@
+{
+    "header_text": "Enjoying the outdoors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Enjoying the outdoors"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Enjoying_the_outdoors.jpg"
+        }
+    ]
+}

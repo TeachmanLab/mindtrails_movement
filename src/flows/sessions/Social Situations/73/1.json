@@ -1,0 +1,14 @@
+{
+    "header_text": "Brief Introduction",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Brief Introduction"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Brief_Introduction.jpg"
+        }
+    ]
+}

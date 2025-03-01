@@ -1,0 +1,14 @@
+{
+    "header_text": "Crowded Waiting Room",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Crowded Waiting Room"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Crowded_Waiting_Room.jpg"
+        }
+    ]
+}

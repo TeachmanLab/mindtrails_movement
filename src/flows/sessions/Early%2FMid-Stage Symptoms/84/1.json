@@ -1,0 +1,14 @@
+{
+    "header_text": "At Home Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At Home Alone"
+        },
+        {
+            "type": "Media",
+            "url": "/images/At_Home_Alone.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Job Stability",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Job Stability"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Job_Stability.jpg"
+        }
+    ]
+}

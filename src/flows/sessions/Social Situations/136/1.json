@@ -1,0 +1,14 @@
+{
+    "header_text": "Trick or Treat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trick or Treat"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trick_or_Treat.jpg"
+        }
+    ]
+}

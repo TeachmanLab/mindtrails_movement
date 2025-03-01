@@ -1,0 +1,14 @@
+{
+    "header_text": "Loan Repayment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Loan Repayment"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Loan_Repayment.jpg"
+        }
+    ]
+}

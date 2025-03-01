@@ -1,0 +1,21 @@
+{
+    "header_text": "Coffee Ordering",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear and you see confusion on the employee's face. You remind yourself that there's no rush and the employee is likely just trying to hear, not judging..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Coffee Ordering_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "you"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

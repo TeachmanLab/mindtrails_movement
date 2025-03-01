@@ -1,0 +1,21 @@
+{
+    "header_text": "Mistake on a task",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are new to a job, and your boss asks you to do a task. You finish it before the deadline and your boss immediately points out that you made a mistake. Your boss probably thinks you are a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Mistake on a task_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "failure"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

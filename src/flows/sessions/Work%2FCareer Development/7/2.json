@@ -1,0 +1,21 @@
+{
+    "header_text": "An engaged audience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are required to give a presentation to a group of work colleagues that you know well. They all are quiet during your presentation. As you think about it later at home, you think that your colleagues found your presentation..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "An engaged audience_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "interesting"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

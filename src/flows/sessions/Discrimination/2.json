@@ -1,0 +1,30 @@
+{
+    "header_text": "Discrimination ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Here are some tools and resources you might find helpful at this time. Please select one or more of the following options:"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Journal::I would like to write down my thoughts and feelings tied to this experience",
+                "Reporting:: Reporting - I would like to be provided with resources tied to reporting an instance of discrimination or harassment",
+                "Self-Care::Self-Care and Wellness - I would like to be provided with resources tied to self-care and wellness practices that may be helpful following an instance of discrimination, marginalization, or harassment.",
+                "Allyship::Allyship - I would like to be provided with resources tied to providing allyship and support to others who have experienced discrimination, marginalization, or harassment.",
+                "Community::Community support - I would like to be provided with resources tied to community-building and social support",
+                "Activism::Activism - I would like to be provided with resources tied to activism and empowerment",
+                "Mental Health (Emotional Support)::Mental Health (Emotional Support) - I would like to be provided with resources tied to receiving emotional support for my mental health",
+                "Disability Support:: Disability Support - I would like to be provided with resources tied to receiving support for my disability",
+                "Crisis Support for LGBTQ+ Youth::Crisis Support for LGBTQ+ Youth - I would like to receive crisis support tied to identifying as an LGBTQ+ young person",
+                "Training::I would like to complete a training session now to practice thinking flexibly in a different domain",
+                "^NotMatched::These resources do not match what I am looking for at this time",
+                "^NotNeeded::I am not looking for any additional resources at this time"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "Discrimination"
+        }
+    ]
+}

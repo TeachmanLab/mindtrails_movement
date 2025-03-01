@@ -1,0 +1,21 @@
+{
+    "header_text": "Walking Trail",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take a few deep breaths. Paying attention to what it feels like to breathe in and out helps to focus your mind, and you decide to..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Walking Trail_Physical Health_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "continue"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

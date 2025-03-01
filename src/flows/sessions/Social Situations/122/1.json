@@ -1,0 +1,14 @@
+{
+    "header_text": "Alternative Contact ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Alternative Contact "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Alternative_Contact.jpg"
+        }
+    ]
+}

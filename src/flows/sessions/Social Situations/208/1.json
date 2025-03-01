@@ -1,0 +1,14 @@
+{
+    "header_text": "Keeping Up With Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Keeping Up With Friends "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Keeping_Up_With_Friends.jpg"
+        }
+    ]
+}

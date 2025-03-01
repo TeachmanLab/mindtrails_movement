@@ -1,0 +1,14 @@
+{
+    "header_text": "Sore Throat at Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sore Throat at Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sore_Throat_at_Dinner.jpg"
+        }
+    ]
+}

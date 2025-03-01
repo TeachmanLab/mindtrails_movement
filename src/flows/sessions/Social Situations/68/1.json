@@ -1,0 +1,14 @@
+{
+    "header_text": "Second meet-up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Second meet-up"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Second_meet-up.jpg"
+        }
+    ]
+}

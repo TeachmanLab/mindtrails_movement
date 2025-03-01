@@ -1,0 +1,14 @@
+{
+    "header_text": "Trampoline Safety",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trampoline Safety"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Trampoline_Safety.jpg"
+        }
+    ]
+}

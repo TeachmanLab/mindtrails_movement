@@ -1,0 +1,14 @@
+{
+    "header_text": "Important Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Important Email"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Important_Email.jpg"
+        }
+    ]
+}

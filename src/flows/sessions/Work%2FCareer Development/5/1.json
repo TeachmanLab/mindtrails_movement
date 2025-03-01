@@ -1,0 +1,14 @@
+{
+    "header_text": "Public speaking",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Public speaking"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Public_speaking.jpg"
+        }
+    ]
+}

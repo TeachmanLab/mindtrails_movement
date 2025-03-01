@@ -1,0 +1,21 @@
+{
+    "header_text": "Fruit slice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the outdoor picnic table with some colleagues, you accidentally cut your finger while slicing fruit for lunch. Because you are outside, you are not able to wash it out immediately with soap and water. In a few days, your cut will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Fruit slice_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "healed"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

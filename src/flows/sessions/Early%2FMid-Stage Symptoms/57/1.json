@@ -1,0 +1,14 @@
+{
+    "header_text": "New Conflict With Spouse",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New Conflict With Spouse"
+        },
+        {
+            "type": "Media",
+            "url": "/images/New_Conflict_With_Spouse.jpg"
+        }
+    ]
+}

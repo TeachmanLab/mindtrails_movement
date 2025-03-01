@@ -1,0 +1,14 @@
+{
+    "header_text": "Office Initiative",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Office Initiative"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Office_Initiative.jpg"
+        }
+    ]
+}

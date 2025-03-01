@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Anxious",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a big presentation coming up. When you think about standing up in front of people and talking, you feel anxious. You think that this is probably..."
+        },
+        {
+            "type": "Entry",
+            "name": "Feeling Anxious_Mental Health_entry1"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Headache at the Doctor's Office",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Headache at the Doctor's Office"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Headache_at_the_Doctor's_Office.jpg"
+        }
+    ]
+}

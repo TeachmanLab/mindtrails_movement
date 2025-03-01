@@ -1,0 +1,14 @@
+{
+    "header_text": "Having a New Friend Over",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Having a New Friend Over"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Having_a_New_Friend_Over.jpg"
+        }
+    ]
+}

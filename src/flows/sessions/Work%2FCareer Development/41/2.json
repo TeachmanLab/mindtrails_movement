@@ -1,0 +1,21 @@
+{
+    "header_text": "Deleted Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have to turn in an important project today. When you open your computer, you can't find the file anywhere. The project must have been..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Deleted Project_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "deleted"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

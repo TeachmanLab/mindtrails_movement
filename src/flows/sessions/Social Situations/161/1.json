@@ -1,0 +1,14 @@
+{
+    "header_text": "Sharing with Someone New",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sharing with Someone New"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Sharing_with_Someone_New.jpg"
+        }
+    ]
+}

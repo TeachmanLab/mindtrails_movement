@@ -1,0 +1,14 @@
+{
+    "header_text": "Birthday Cards",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Birthday Cards"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Birthday_Cards.jpg"
+        }
+    ]
+}

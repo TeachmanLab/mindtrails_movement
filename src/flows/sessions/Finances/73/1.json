@@ -1,0 +1,14 @@
+{
+    "header_text": "Paying Credit Card",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paying Credit Card"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Paying_Credit_Card.jpg"
+        }
+    ]
+}

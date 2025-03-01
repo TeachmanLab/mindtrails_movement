@@ -1,0 +1,14 @@
+{
+    "header_text": "Going out to Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going out to Lunch"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Going_out_to_Lunch.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting Ready for a Date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friends have set you up on a date and you're getting ready. The closer you get to leaving, the more you wonder if you look okay and if the person you're meeting will be attracted to you. You remember that one person will not dictate your... "
+        },
+        {
+            "type": "Entry",
+            "name": "Getting Ready for a Date_Romantic Relationships_entry1"
+        }
+    ]
+}

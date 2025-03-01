@@ -1,0 +1,14 @@
+{
+    "header_text": "Name Recall ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Name Recall "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Name_Recall.jpg"
+        }
+    ]
+}

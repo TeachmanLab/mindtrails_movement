@@ -1,0 +1,14 @@
+{
+    "header_text": "Rearranging After Exposure",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Rearranging After Exposure"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Rearranging_After_Exposure.jpg"
+        }
+    ]
+}

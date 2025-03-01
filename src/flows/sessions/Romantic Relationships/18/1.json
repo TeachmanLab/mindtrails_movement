@@ -1,0 +1,14 @@
+{
+    "header_text": "Argument with Your Partner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Argument with Your Partner"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Argument_with_Your_Partner.jpg"
+        }
+    ]
+}

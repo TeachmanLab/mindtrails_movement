@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Lightheaded",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Lightheaded"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Feeling_Lightheaded.jpg"
+        }
+    ]
+}

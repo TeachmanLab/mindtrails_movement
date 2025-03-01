@@ -1,0 +1,14 @@
+{
+    "header_text": "New T-Shirt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While running errands, you see a new T-Shirt that you really like. You have a tight budget, and you don't think you have enough money left to buy the T-Shirt. You don't buy it, and that decision makes you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "New T-Shirt_Finances_entry1"
+        }
+    ]
+}

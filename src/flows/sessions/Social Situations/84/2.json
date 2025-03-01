@@ -1,0 +1,14 @@
+{
+    "header_text": "Practicing Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big..."
+        },
+        {
+            "type": "Entry",
+            "name": "Practicing Presentation_Social Situations_entry1"
+        }
+    ]
+}

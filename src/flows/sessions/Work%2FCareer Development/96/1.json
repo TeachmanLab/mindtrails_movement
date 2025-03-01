@@ -1,0 +1,14 @@
+{
+    "header_text": "Wrapping Up Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Wrapping Up Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Wrapping_Up_Work.jpg"
+        }
+    ]
+}

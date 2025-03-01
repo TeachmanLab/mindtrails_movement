@@ -1,0 +1,14 @@
+{
+    "header_text": "Misunderstanding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are in a meeting and reach to put your phone away as the new head of your department starts talking. He mistakes this for you texting during the meeting and calls you out in front of everyone. You go up to apologize afterwards and you can't read your head of department's..."
+        },
+        {
+            "type": "Entry",
+            "name": "Misunderstanding_Work/Career Development_entry1"
+        }
+    ]
+}

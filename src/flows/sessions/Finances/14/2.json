@@ -1,0 +1,21 @@
+{
+    "header_text": "Deciding on one thing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at the local car dealer looking to buy a new car. After considering all the options, you are still torn between two cars. When you tell the dealer which car you decided to buy, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Deciding on one thing_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "content"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

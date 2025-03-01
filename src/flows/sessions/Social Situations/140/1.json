@@ -1,0 +1,14 @@
+{
+    "header_text": "Ignored by a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Ignored by a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Ignored_by_a_Friend.jpg"
+        }
+    ]
+}

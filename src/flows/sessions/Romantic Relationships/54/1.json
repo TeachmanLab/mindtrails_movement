@@ -1,0 +1,14 @@
+{
+    "header_text": "Online Dating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Online Dating"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Online_Dating.jpg"
+        }
+    ]
+}

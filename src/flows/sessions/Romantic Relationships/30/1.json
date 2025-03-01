@@ -1,0 +1,14 @@
+{
+    "header_text": "Yourself in Old Age ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Yourself in Old Age "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Yourself_in_Old_Age.jpg"
+        }
+    ]
+}

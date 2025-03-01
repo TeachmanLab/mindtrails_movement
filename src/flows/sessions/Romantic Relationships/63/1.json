@@ -1,0 +1,14 @@
+{
+    "header_text": "No Notifications",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "No Notifications"
+        },
+        {
+            "type": "Media",
+            "url": "/images/No_Notifications.jpg"
+        }
+    ]
+}

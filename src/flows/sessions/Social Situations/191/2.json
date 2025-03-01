@@ -1,0 +1,14 @@
+{
+    "header_text": "Sore Throat at Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You make plans to go out to dinner with a friend, but you aren't sure if they've been around a large group of people recently. When they arrive to dinner, they keep taking sips of water, explaining that their throat tickles. You figure it's probably from talking a lot at... "
+        },
+        {
+            "type": "Entry",
+            "name": "Sore Throat at Dinner_Social Situations_entry1"
+        }
+    ]
+}

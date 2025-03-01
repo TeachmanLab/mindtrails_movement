@@ -1,0 +1,14 @@
+{
+    "header_text": "Stress in Your Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Stress in Your Relationship"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Stress_in_Your_Relationship.jpg"
+        }
+    ]
+}

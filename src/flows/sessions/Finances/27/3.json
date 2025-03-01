@@ -1,0 +1,24 @@
+{
+    "header_text": "Planning Payments",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When it comes to choosing a retirement plan, you think"
+        },
+        {
+            "type": "Buttons",
+            "name": "Planning Payments_Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "That you will make a good decision because you have done your research.",
+                "There's a good chance you will make a mistake, given how little you know about how they work."
+            ],
+            "columnCount": 1,
+            "correct_value": "That you will make a good decision because you have done your research."
+        }
+    ]
+}

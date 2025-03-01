@@ -1,0 +1,14 @@
+{
+    "header_text": "Relying on Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relying on Family"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Relying_on_Family.jpg"
+        }
+    ]
+}

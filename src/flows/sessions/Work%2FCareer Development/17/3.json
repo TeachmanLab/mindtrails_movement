@@ -1,0 +1,21 @@
+{
+    "header_text": "An interview panel",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "After the interview, you realize that it is normal to be nervous during panel interviews. The panelists probably saw you as reasonably calm and..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "An interview panel_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "enthusiastic"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

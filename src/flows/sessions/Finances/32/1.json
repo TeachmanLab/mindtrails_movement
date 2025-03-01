@@ -1,0 +1,14 @@
+{
+    "header_text": "Planning Payments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planning Payments"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Planning_Payments.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Differing Beliefs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Differing Beliefs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Differing_Beliefs.jpg"
+        }
+    ]
+}

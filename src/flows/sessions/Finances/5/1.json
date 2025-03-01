@@ -1,0 +1,14 @@
+{
+    "header_text": "Show Opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Show Opportunity"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Show_Opportunity.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "header_text": "Managing bills",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You think that your finances will be ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Managing bills_Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Manageable.",
+                "Out of control."
+            ],
+            "columnCount": 1,
+            "correct_value": "Manageable."
+        }
+    ]
+}

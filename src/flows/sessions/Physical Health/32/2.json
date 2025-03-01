@@ -1,0 +1,21 @@
+{
+    "header_text": "Sudden noise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are walking to work when you hear a sudden noise behind you. When you quickly turn your head to see what it is, a feeling of dizziness hits you, and you begin to worry you will lose... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Sudden noise_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "control"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

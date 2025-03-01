@@ -1,0 +1,14 @@
+{
+    "header_text": "Unexpected Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Unexpected Costs"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Unexpected_Costs.jpg"
+        }
+    ]
+}

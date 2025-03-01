@@ -1,0 +1,14 @@
+{
+    "header_text": "Dismissive Doctor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dismissive Doctor"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dismissive_Doctor.jpg"
+        }
+    ]
+}

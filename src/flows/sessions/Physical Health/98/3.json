@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Faint",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Instead of panicking, you decide to take a deep breathe. Slowly, your dizziness disappears and your stomach feels..."
+        },
+        {
+            "type": "Entry",
+            "name": "Feeling Faint_Physical Health_entry2"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Talking to friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Talking to friends"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Talking_to_friends.jpg"
+        }
+    ]
+}

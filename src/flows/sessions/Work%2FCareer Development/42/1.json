@@ -1,0 +1,14 @@
+{
+    "header_text": "Dealing with Group Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dealing with Group Work"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dealing_with_Group_Work.jpg"
+        }
+    ]
+}

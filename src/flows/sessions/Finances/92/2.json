@@ -1,0 +1,14 @@
+{
+    "header_text": "Burn Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been working really hard for the past year and are starting to feel burned out. You feel like you need to take a break, but you’re worried about the financial repercussions of taking time off. You think that taking time off to focus on your mental health is... "
+        },
+        {
+            "type": "Entry",
+            "name": "Burn Out_Finances_entry1"
+        }
+    ]
+}

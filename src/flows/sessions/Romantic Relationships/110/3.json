@@ -1,0 +1,21 @@
+{
+    "header_text": "Asking Out Your Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "If you were to ask your friend on a date, it would not be awkward, and you think your friend would find it.."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Asking Out Your Friend_Romantic Relationships_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "flattering"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Managing Responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Managing Responsibilities"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Managing_Responsibilities.jpg"
+        }
+    ]
+}

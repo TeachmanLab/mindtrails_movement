@@ -1,0 +1,14 @@
+{
+    "header_text": "Texting Other People",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner is very extroverted and has a lot of friends. You really enjoy the time you spend with your partner, but you sometimes wonder if they’d rather be hanging out with their other friends. Reflecting on your relationship with them so far, you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "Texting Other People_Romantic Relationships_entry1"
+        }
+    ]
+}

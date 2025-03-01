@@ -1,0 +1,24 @@
+{
+    "header_text": "Conversing at a party",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The group that was talking probably ignored you because they ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Conversing at a party_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Do not like you. ",
+                "Did not see you there."
+            ],
+            "columnCount": 1,
+            "correct_value": "Did not see you there."
+        }
+    ]
+}

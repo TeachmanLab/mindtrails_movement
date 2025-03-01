@@ -1,0 +1,14 @@
+{
+    "header_text": "Budgeting Your Income",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Budgeting Your Income"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Budgeting_Your_Income.jpg"
+        }
+    ]
+}

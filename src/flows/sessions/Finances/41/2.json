@@ -1,0 +1,21 @@
+{
+    "header_text": "Job Stability",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recently, the economy has not been doing well. You love your job, but you wonder if you will be able to keep it.  You realize that whether you will stay employed at your current job is out of your... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Job Stability_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "control"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

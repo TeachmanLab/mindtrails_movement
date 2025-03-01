@@ -1,0 +1,21 @@
+{
+    "header_text": "Noises from Outside",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just moved to a new house. It's dark out and you suddenly hear noises outside. You peek out the window and see a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Noises from Outside_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "cat"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

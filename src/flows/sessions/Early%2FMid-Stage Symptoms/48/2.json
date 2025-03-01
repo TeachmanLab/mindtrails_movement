@@ -1,0 +1,21 @@
+{
+    "header_text": "New Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your significant other had been doing fine financially, but your insurance plan recently changed and your treatments now cost more. Your significant other is being passive aggressive about your new financial situation, which makes you upset since the situation is out of your control. You remember that you can work together to find a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "New Costs_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "solution"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Out of Breath",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Out of Breath"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Out_of_Breath.jpg"
+        }
+    ]
+}

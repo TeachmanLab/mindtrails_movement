@@ -1,0 +1,14 @@
+{
+    "header_text": "Tingly fingers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tingly fingers"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Tingly_fingers.jpg"
+        }
+    ]
+}

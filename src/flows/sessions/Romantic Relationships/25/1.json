@@ -1,0 +1,14 @@
+{
+    "header_text": "Dating a Stranger ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dating a Stranger "
+        },
+        {
+            "type": "Media",
+            "url": "/images/Dating_a_Stranger.jpg"
+        }
+    ]
+}

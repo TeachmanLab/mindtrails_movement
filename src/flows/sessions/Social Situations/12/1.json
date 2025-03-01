@@ -1,0 +1,14 @@
+{
+    "header_text": "A big laugh",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A big laugh"
+        },
+        {
+            "type": "Media",
+            "url": "/images/A_big_laugh.jpg"
+        }
+    ]
+}

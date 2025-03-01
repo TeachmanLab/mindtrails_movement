@@ -1,0 +1,14 @@
+{
+    "header_text": "Absent Sister",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Absent Sister"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Absent_Sister.jpg"
+        }
+    ]
+}

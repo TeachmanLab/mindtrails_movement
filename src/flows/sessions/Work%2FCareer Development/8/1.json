@@ -1,0 +1,14 @@
+{
+    "header_text": "Writing opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Writing opinions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Writing_opinions.jpg"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "header_text": "Argument With Your Sister",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You imagine the next conversation with your sister as being"
+        },
+        {
+            "type": "Buttons",
+            "name": "Argument With Your Sister_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "A pleasant return to the way things used to be.",
+                "A yelling match that ends with both of you still upset."
+            ],
+            "columnCount": 1,
+            "correct_value": "A yelling match that ends with both of you still upset."
+        }
+    ]
+}

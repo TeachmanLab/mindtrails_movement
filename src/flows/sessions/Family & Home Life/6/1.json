@@ -1,0 +1,14 @@
+{
+    "header_text": "Travel decisions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Travel decisions"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Travel_decisions.jpg"
+        }
+    ]
+}
