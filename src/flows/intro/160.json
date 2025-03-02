@@ -1,0 +1,17 @@
+{
+    "header_text": "Lemon Exercise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In this exercise, and throughout the training program, please remember to imagine what is happening through your own eyes, similar to the picture on the left. This is more effective than viewing the situation as an outside observer, like the picture on the right."
+        },
+        {
+            "type": "Media",
+            "url": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic1.jpeg",
+            "border": true
+        }
+    ],
+    "timeout": 2,
+    "show_buttons": "AfterTimeout"
+}

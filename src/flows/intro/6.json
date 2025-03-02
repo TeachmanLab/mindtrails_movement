@@ -1,0 +1,21 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "What is your ethnicity?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "1::Hispanic or Latino",
+                "0::Not Hispanic or Latino",
+                "3::Unknown",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "ethnicity"
+        }
+    ]
+}

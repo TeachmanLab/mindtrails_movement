@@ -1,0 +1,27 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How did you learn about MindTrails-Movement?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Email from the study team",
+                "1::My PD healthcare provider",
+                "2::A friend or family member",
+                "3::From a newsletter or email associated with a PD resource (e.g., Parkinson's Foundation)",
+                "4::In-person event (e.g., APDA Optimism Walk, Education Day)",
+                "5::Support group",
+                "6::Social media",
+                "!7::Other:",
+                "^99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": ""
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Contributing to a discussion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Contributing to a discussion"
+        },
+        {
+            "type": "Media",
+            "url": "/images/Contributing_to_a_discussion.jpg"
+        }
+    ]
+}

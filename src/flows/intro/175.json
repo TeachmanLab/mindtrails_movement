@@ -1,0 +1,23 @@
+{
+    "header_text": "Anxious imagery prime",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "If this situation did turn out badly, how well or badly would you be able to handle it?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Very well",
+                "Somewhat well",
+                "Neutral",
+                "Somewhat badly",
+                "Very badly",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "What is your race? Please select all that apply."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::American Indian/Alaska Native",
+                "1::East Asian",
+                "2::South Asian",
+                "3::Native Hawaiian/Pacific Islander",
+                "4::Black or African American",
+                "5::White",
+                "6::More than one race",
+                "7::Other or Unknown",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "multi_select": true,
+            "name": "race"
+        }
+    ]
+}

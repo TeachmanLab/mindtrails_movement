@@ -1,0 +1,15 @@
+{
+    "header_text": "Lemon Exercise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "That was the Lemon Exercise! Don't worry if you didn't experience all of the sensations strongly. This is completely normal."
+        },
+        {
+            "type": "Media",
+            "url": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic7.jpeg",
+            "border": true
+        }
+    ]
+}

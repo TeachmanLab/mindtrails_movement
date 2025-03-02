@@ -1,0 +1,17 @@
+{
+    "header_text": "Lemon Exercise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Now imagine that you squeeze the lemon and some of the juice squirts right into your eyes, and it is really stinging, making your eyes water."
+        },
+        {
+            "type": "Media",
+            "url": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic6.jpeg",
+            "border": true
+        }
+    ],
+    "timeout": 2,
+    "show_buttons": "AfterTimeout"
+}

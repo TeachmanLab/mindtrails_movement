@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "SPEECH \n\nOver the past week, have you had any problems with your speech?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0:: Normal: Not at all (no problems).",
+                "1:: Slight: My speech is soft, slurred, or uneven, but it does not cause others to ask me to repeat myself.",
+                "2:: Mild: My speech causes people to ask me to occasionally repeat myself, but not every day.",
+                "3:: Moderate: My speech is unclear enough that others ask me to repeat myself everyday even though most of my speech is understood.",
+                "4:: Severe: Most or all of my speech cannot be understood."
+            ],
+            "selectable": true,
+            "name": ""
+        }
+    ]
+}

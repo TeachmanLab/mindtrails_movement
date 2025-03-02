@@ -1,0 +1,15 @@
+{
+    "header_text": "Lemon Exercise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Really try to imagine yourself in the upcoming situations as vividly as possible."
+        },
+        {
+            "type": "Media",
+            "url": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/MTM/media/lemon/pic3.jpeg",
+            "border": false
+        }
+    ]
+}

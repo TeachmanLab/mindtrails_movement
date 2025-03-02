@@ -127,9 +127,6 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     is_first_scenario = (int(row_num) - 1) % 10 == 0
     pages = []
 
-    if lessons_learned and domain not in lessons_learned_dict:
-        print(f"{domain} not in lessons_learned")
-
     if lessons_learned and domain in lessons_learned_dict:  # if it should include a "lessons learned" page
         pages.append({
             "header_text": "Lessons Learned",

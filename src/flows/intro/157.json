@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "FREEZING \n\nOver the past week, on your usual day when walking, do you suddenly stop or freeze as if your feet are stuck to the floor?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0:: Normal: Not at all (no problems).",
+                "1:: Slight: I briefly freeze but I can easily start walking again. I do not need help from someone else or a walking aid (cane or walker) because of freezing.",
+                "2:: Mild: I freeze and I have a lot of trouble starting to walk again, and, because of freezing, I sometimes need to use a walking aid or need someone else's help.",
+                "3:: Moderate: When I freeze I have a lot of trouble starting to walk again and, because of freezing, I sometimes need to use a walking aid or need someone else's help.",
+                "4:: Severe: Because of freezing, most or all of the time, I need to use a walking aid or someone's help."
+            ],
+            "selectable": true,
+            "name": ""
+        }
+    ]
+}

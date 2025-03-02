@@ -1,0 +1,25 @@
+{
+    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please specify any medication changes in the past 2 months:"
+        },
+        {
+            "type": "Entry",
+            "name": "changes_treatment_meds"
+        }
+    ],
+    "conditions": [
+        {
+            "variable": "ChangesToMentalHealthTreatment",
+            "comparator": "in",
+            "value": [
+                3,
+                4,
+                5
+            ]
+        }
+    ]
+}

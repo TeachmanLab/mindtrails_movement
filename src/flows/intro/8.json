@@ -1,0 +1,28 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "What is your relationship status?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Single",
+                "Single, but casually dating",
+                "1::Single, but currently engaged to be married",
+                "2::Single, but currently living with someone in a marriage-like relationship",
+                "3::Married",
+                "In a domestic or civil union",
+                "4::Separated",
+                "5::Divorced",
+                "6::Widow/widower",
+                "7::Other",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "relationship"
+        }
+    ]
+}

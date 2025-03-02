@@ -1,0 +1,10 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "We would like to ask a few questions about your mental health and treatment history. Answers to these personal questions are kept confidential, but they help us improve MindTrails-Movement by figuring out for whom it works well."
+        }
+    ]
+}

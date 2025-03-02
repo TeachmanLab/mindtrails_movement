@@ -1,0 +1,31 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "What is your household annual income, before taxes and other deductions (in US dollars or equivalent)?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Less than $5,000",
+                "$5,000 through $11,999",
+                "$12,000 through $15,999",
+                "1::$16,000 through $24,999",
+                "2::$25,000 through $34,999",
+                "$35,000 through $49,999",
+                "3::$50,000 through $74,999",
+                "$75,000 through $99,999",
+                "$100,000 through $149,999",
+                "4::$150,000 through $199,999",
+                "5::$200,000 through $249,999",
+                "$250,000 or greater",
+                "6::Don't know",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "income"
+        }
+    ]
+}

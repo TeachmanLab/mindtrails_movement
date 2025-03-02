@@ -1,0 +1,23 @@
+{
+    "header_text": "Anxious imagery prime",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How vividly did you imagine the situation?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "Not at all vivid",
+                "Somewhat vivid",
+                "Moderately vivid",
+                "Very vivid",
+                "Totally vivid",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "imagery_vivid"
+        }
+    ]
+}

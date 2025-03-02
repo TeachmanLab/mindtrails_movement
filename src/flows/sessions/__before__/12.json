@@ -1,0 +1,10 @@
+{
+    "header_text": "Reminder for favorites",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Remember that you can add any stories, tips, and resources to your Favorites by clicking the star at the top right corner of the screen!"
+        }
+    ]
+}

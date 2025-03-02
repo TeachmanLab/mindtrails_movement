@@ -1,0 +1,10 @@
+{
+    "header_text": "Anxiety Scale II",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please mark one circle for each item below. In the past four weeks, to what extent did you experience the following symptoms?"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "What is your highest educational attainment?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Elementary School",
+                "1::Junior High",
+                "Some High School",
+                "2::High School Graduate",
+                "3::Some College",
+                "4::Associate's Degree",
+                "5::Bachelor's Degree",
+                "6::Master's Degree",
+                "7::Doctorate/PhD",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "education"
+        }
+    ]
+}

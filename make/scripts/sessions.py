@@ -20,8 +20,8 @@ dir_after  = f"{dir_doses}/__first__"
 
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
-def flat(dictionary):
-    return list(chain.from_iterable(dictionary.values()))
+def flat(dictionary, key):
+    return list(chain.from_iterable(dictionary[key.lower()].values()))
 
 def _create_practice_pages(i):
     with open(f"{dir_csv}/MTM dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
@@ -172,6 +172,9 @@ def create_short_doses(popname,i):
             # This doesn't account for long scenarios or write your own
             lessons_learned = domain_ndoses[domain_1] % 40 == 0
 
+            if lessons_learned and domain_1 not in lessons_learned_dict:
+                print(f"{domain} not in {popname} lessons learned")
+
             dose = create_scenario_pages(domain=domain_1, label=label, scenario_num=domain_rindex[domain_1],
                                          puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
                                          comp_question=comp_question, answers=choices,
@@ -191,20 +194,17 @@ def create_short_doses(popname,i):
     return short_doses
 
 def create_surveys(popname,i):
-    surveys = { 
-        f"{popname}_beforedomain_all": defaultdict(list),
-        f"{popname}_afterdomain_all": defaultdict(list),
-        f"{popname}_dose_1": defaultdict(list),
-        f"{popname}_control_dose_1": defaultdict(list)
-    }
+    accepted = [f"{popname}_beforedomain_all", f"{popname}_afterdomain_all", f"{popname}_dose_1", f"{popname}_control_dose_1"]
+    accepted = [a.lower() for a in accepted]
+    surveys  = defaultdict(lambda:defaultdict(list))
+
     # Open the file with all the content
     with open(f"{dir_csv}/MTM_survey_questions - Final_{popname} MTM_survey_questions.csv", "r", encoding="utf-8") as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
-            lookup_id = f"{row[3]}_{row[2]}".lower()
-            subgroup_id = row[0]
+            lookup_id, subgroup_id = f"{row[3]}_{row[2]}".lower(), row[0]
 
-            if lookup_id not in surveys: continue
-
+            if lookup_id not in accepted:
+                continue
             elif row[0] == "Practice CBM-I":
                 surveys[lookup_id][subgroup_id].extend(_create_practice_pages(i))
             elif row[2]:
@@ -287,11 +287,11 @@ for popname,s,l,i in populations:
 
     # Define folders
     folders = {}
-    folders['control/sessions/__first__'] = flat(surveys[f"{popname}_control_dose_1"])
+    folders['control/sessions/__first__'] = flat(surveys,f"{popname}_control_dose_1")
     folders['treatment/sessions/__flow__.json'] = {"mode":"select", "column_count":2, "text": domain_selection_text(), "title":"MindTrails Movement"}
-    folders['treatment/sessions/__first__'] = flat(surveys[f"{popname}_dose_1"])
-    folders['treatment/sessions/__before__'] = flat(surveys[f"{popname}_beforedomain_all"])
-    folders['treatment/sessions/__after__'] = flat(surveys[f"{popname}_afterdomain_all"])
+    folders['treatment/sessions/__first__'] = flat(surveys,f"{popname}_dose_1")
+    folders['treatment/sessions/__before__'] = flat(surveys,f"{popname}_beforedomain_all")
+    folders['treatment/sessions/__after__'] = flat(surveys,f"{popname}_afterdomain_all")
     folders['treatment/sessions/Discrimination'] = discrim_dose
     for domain, doses in domain_doses.items():
         folders[f'treatment/sessions/{dir_safe(domain)}/__flow__.json'] ={"mode":"sequential", "size":1, "repeat":True}

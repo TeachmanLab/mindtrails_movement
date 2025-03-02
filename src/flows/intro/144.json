@@ -1,0 +1,10 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Instructions: This questionnaire will ask you about your experiences of daily living. There are 13 questions. We are trying to be thorough, and some of these questions may therefore not apply to you now or ever. If you do not have the problem, simply mark 0 for NO. Please read each one carefully and read all answers before selecting the one that best applies to you. We are interested in your average or usual function over the past week including today. Some patients can do things better at one time of the day than at others. However, only one answer is allowed for each question, so please mark the answer that best describes what you can do most of the time. You may have other medical conditions besides Parkinson's disease. Do not worry about separating Parkinson's disease from other conditions. Just answer the question with your best response. Use only 0, 1, 2, 3, 4 for answers, nothing else. Do not leave any blanks."
+        }
+    ]
+}
