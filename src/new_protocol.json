@@ -42,20 +42,12 @@
 	},
 
 	"sessions": "flow://flows/doses",
-	
+
 	"menu": {
-		"home": {
-			"text": "Home",
-			"icon": "/assets/menu_home.png"
-		},
 		"unenroll": {
 			"text": "Unenroll",
 			"icon": "/assets/menu_unenroll.png",
 			"action": "flow://flows/reasons for ending"
-		},
-		"log_out": {
-			"text": "Log Out",
-			"icon": "/assets/menu_logout.png"
 		},
 		"custom": [
 			{

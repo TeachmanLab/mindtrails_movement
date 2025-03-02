@@ -20,7 +20,7 @@
 		"button_br": {
 			"text": "Resources",
 			"icon": "/assets/home_resources.png",
-			"action": "page://flows/resources.json"
+			"action": "page://flows/resources"
 		},
 		"button_bl": {
 			"text": "What is Anxiety?",
@@ -29,21 +29,13 @@
 		}
 	},
 
-	"sessions": "flow://flows/doses",
+	"sessions": "flow://flows/sessions",
 
 	"menu": {
-		"home": {
-			"text": "Home",
-			"icon": "/assets/menu_home.png"
-		},
 		"unenroll": {
 			"text": "Unenroll",
 			"icon": "/assets/menu_unenroll.png",
 			"action": "flow://flows/reasons for ending"
-		},
-		"log_out": {
-			"text": "Log Out",
-			"icon": "/assets/menu_logout.png"
 		},
 		"custom": [
 			{
@@ -69,7 +61,7 @@
 			{
 				"text": "Resources",
 				"icon": "/assets/menu_resources.png",
-				"action": "flow://flows/resources.json"
+				"action": "flow://flows/resources"
 			},
 			{
 				"text": "F.A.Q.",
