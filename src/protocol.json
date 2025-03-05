@@ -8,7 +8,7 @@
 		"banner_icon": "/assets/home_banner.png",
 
 		"button_tl": {
-			"text": "Who is MindTrails?",
+			"text": "What is MindTrails?",
 			"icon": "/assets/home_mindtrails.png",
 			"action": "flow://flows/rationale.json"
 		},
