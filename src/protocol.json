@@ -41,60 +41,57 @@
 		}
 	},
 
-	"menu": {
-		"unenroll": {
-			"text": "Unenroll",
-			"icon": "/assets/menu_unenroll.png",
-			"action": "flow://flows/reasons for ending"
-		},
-		"custom": [
-			{
-				"text": "What is MindTrails?",
-				"icon": "/assets/menu_mindtrails.png",
-				"action": "flow://flows/rationale.json"
-			},
-			{
-				"text": "<INTRO>",
-				"icon": "/assets/menu_mindtrails.png",
-				"action": "flow://flows/intro"
-			},
-			{
-				"text": "Instructions",
-				"icon": "/assets/menu_instructions.png",
-				"action": "flow://flows/instructions.json"
-			},
-			{
-				"text": "What is Anxiety?",
-				"icon": "/assets/menu_anxiety.png",
-				"action": "flow://flows/what is anxiety.json"
-			},
-			{
-				"text": "Resources",
-				"icon": "/assets/menu_resources.png",
-				"action": "flow://flows/resources.json"
-			},
-			{
-				"text": "F.A.Q.",
-				"icon": "/assets/menu_faq.png",
-				"action": "flow://flows/faq.json"
-			},
-			{
-				"text": "Meet the Team",
-				"icon": "/assets/menu_team.png",
-				"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"
-			},
-			{
-				"text": "Get Help",
-				"icon": "/assets/menu_help.png",
-				"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
-			},
-			{
-				"text": "Disclaimer",
-				"icon": "/assets/menu_disclaimer.png",
-				"action": "flow://flows/disclaimer.json"
-			}
-		]
+	"settings": {
+		"unenroll":"flow://flows/reasons for ending"
 	},
+
+	"menu": [
+		{
+			"text": "What is MindTrails?",
+			"icon": "/assets/menu_mindtrails.png",
+			"action": "flow://flows/rationale.json"
+		},
+		{
+			"text": "<INTRO>",
+			"icon": "/assets/menu_mindtrails.png",
+			"action": "flow://flows/intro"
+		},
+		{
+			"text": "Instructions",
+			"icon": "/assets/menu_instructions.png",
+			"action": "flow://flows/instructions.json"
+		},
+		{
+			"text": "What is Anxiety?",
+			"icon": "/assets/menu_anxiety.png",
+			"action": "flow://flows/what is anxiety.json"
+		},
+		{
+			"text": "Resources",
+			"icon": "/assets/menu_resources.png",
+			"action": "flow://flows/resources.json"
+		},
+		{
+			"text": "F.A.Q.",
+			"icon": "/assets/menu_faq.png",
+			"action": "flow://flows/faq.json"
+		},
+		{
+			"text": "Meet the Team",
+			"icon": "/assets/menu_team.png",
+			"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"
+		},
+		{
+			"text": "Get Help",
+			"icon": "/assets/menu_help.png",
+			"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
+		},
+		{
+			"text": "Disclaimer",
+			"icon": "/assets/menu_disclaimer.png",
+			"action": "flow://flows/disclaimer.json"
+		}
+	],
 
 	"triggers": [
 		{
