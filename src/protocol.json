@@ -14,7 +14,7 @@
 		"button_rs": {
 			"text": "Launch Session",
 			"icon": "/assets/unlocked.png",
-			"action": "flow://flows/doses"
+			"action": "flow://flows/sessions"
 		},
 		"button_surveys": {
 			"text": "Show Surveys"
