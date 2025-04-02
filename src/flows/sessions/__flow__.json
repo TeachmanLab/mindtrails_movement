@@ -1,6 +1,7 @@
 {
     "mode": "select",
+    "title_case": true,
     "column_count": 2,
-    "text": "Los dominios enumerados aquí son algunas áreas que pueden hacerte sentir ansioso. Seleccione en qué le gustaría trabajar durante el día de hoyformación. \n\nTe animamos a elegir diferentes dominios para practicar ¡Pensar con flexibilidad en todas las áreas de tu vida!",
+    "text": "The domains listed here are some areas that may cause you to feel anxious. Please select the one that you'd like to work on during today's training.\n\nWe encourage you to choose different domains to practice thinking flexibly across areas of your life!",
     "title": "MindTrails Movement"
 }

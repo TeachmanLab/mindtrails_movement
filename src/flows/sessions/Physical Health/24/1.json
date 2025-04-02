@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Disease_test.jpg"
+            "url": "./images/Disease_test.jpeg"
         }
     ]
 }

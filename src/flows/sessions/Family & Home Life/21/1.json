@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Loud_Music.jpg"
+            "url": "./images/Loud_Music.jpeg"
         }
     ]
 }

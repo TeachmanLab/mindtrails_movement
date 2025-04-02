@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Getting_Coffee.jpg"
+            "url": "./images/Getting_Coffee.jpeg"
         }
     ]
 }

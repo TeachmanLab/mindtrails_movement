@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Daily_Tasks.jpg"
+            "url": "./images/Daily_Tasks.jpeg"
         }
     ]
 }

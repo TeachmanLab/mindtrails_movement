@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": " \n \t\t\n\nThe person you met at the event will probably...\n"
+            "Text": " \r\n \t\t\r\n\r\nThe person you met at the event will probably...\r\n"
         },
         {
             "type": "Buttons",
@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Say no if you suggest meeting again.",
-                "Say yes if you suggest meeting again"
+                "Say yes if you suggest meeting again",
+                "Say no if you suggest meeting again."
             ],
             "columnCount": 1,
             "correct_value": "Say yes if you suggest meeting again"

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/A_Birthday_Cake.jpg"
+            "url": "./images/A_Birthday_Cake.jpeg"
         }
     ]
 }

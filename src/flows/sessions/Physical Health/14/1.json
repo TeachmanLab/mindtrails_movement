@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Health_evaluation.jpg"
+            "url": "./images/Health_evaluation.jpeg"
         }
     ]
 }

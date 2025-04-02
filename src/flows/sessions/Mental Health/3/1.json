@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Leaving_the_House.jpg"
+            "url": "./images/Leaving_the_House.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Night_Out.jpg"
+            "url": "./images/Night_Out.jpeg"
         }
     ]
 }

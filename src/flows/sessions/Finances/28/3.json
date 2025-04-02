@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Not change much about the careful way you spend.",
-                "Hurt you financially by leading to debt."
+                "Hurt you financially by leading to debt.",
+                "Not change much about the careful way you spend."
             ],
             "columnCount": 1,
             "correct_value": "Not change much about the careful way you spend."

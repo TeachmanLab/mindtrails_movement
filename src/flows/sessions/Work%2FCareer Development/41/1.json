@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Deleted_Project.jpg"
+            "url": "./images/Deleted_Project.jpeg"
         }
     ]
 }

@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Will enjoy your company outside the book club.",
-                "Will not want to be friends outside of the book club."
+                "Will not want to be friends outside of the book club.",
+                "Will enjoy your company outside the book club."
             ],
             "columnCount": 1,
             "correct_value": "Will enjoy your company outside the book club."

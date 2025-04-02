@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/House_Cleaning.jpg"
+            "url": "./images/House_Cleaning.jpeg"
         }
     ]
 }

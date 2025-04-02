@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "A pleasant return to the way things used to be.",
-                "A yelling match that ends with both of you still upset."
+                "A yelling match that ends with both of you still upset.",
+                "A pleasant return to the way things used to be."
             ],
             "columnCount": 1,
             "correct_value": "A yelling match that ends with both of you still upset."

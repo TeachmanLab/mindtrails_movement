@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Riding_a_boat.jpg"
+            "url": "./images/Riding_a_boat.jpeg"
         }
     ]
 }

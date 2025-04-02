@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/A_different_haircut.jpg"
+            "url": "./images/A_different_haircut.jpeg"
         }
     ]
 }

@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Are probably not strong enough to make you stand out.",
-                "Put you in a good position to get an interview."
+                "Put you in a good position to get an interview.",
+                "Are probably not strong enough to make you stand out."
             ],
             "columnCount": 1,
             "correct_value": "Put you in a good position to get an interview."

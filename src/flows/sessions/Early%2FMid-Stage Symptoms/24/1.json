@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Dropped_Plate.jpg"
+            "url": "./images/Dropped_Plate.jpeg"
         }
     ]
 }

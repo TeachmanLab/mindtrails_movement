@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Comfortable_couch.jpg"
+            "url": "./images/Comfortable_couch.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Morning_errands.jpg"
+            "url": "./images/Morning_errands.jpeg"
         }
     ]
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "General Interpretation Scale",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Instructions: In this section, 14 situations are presented in which it is not quite clear what is happening. Please rate the extent to which you think each of the three explanations for a situation would be likely to be true if you found yourself in that situation. Do not worry if your ratings appear to be different from your previous answers, and please do not change any of your original answers."
+        }
+    ]
+}

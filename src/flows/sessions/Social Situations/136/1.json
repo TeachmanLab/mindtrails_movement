@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Trick_or_Treat.jpg"
+            "url": "./images/Trick_or_Treat.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Beach_Vacation.jpg"
+            "url": "./images/Beach_Vacation.jpeg"
         }
     ]
 }

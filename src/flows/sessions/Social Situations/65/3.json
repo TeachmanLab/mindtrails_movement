@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Distracted and unaware of their surroundings.",
-                "Thinking that you are an unfriendly person."
+                "Thinking that you are an unfriendly person.",
+                "Distracted and unaware of their surroundings."
             ],
             "columnCount": 1,
             "correct_value": "Distracted and unaware of their surroundings."

@@ -7,7 +7,7 @@ from itertools import islice, count
 import numpy as np
 
 # leaving this seed unchanged means
-# that huge diff won't be generated
+# that a huge diff won't be generated
 # every time the output of these
 # scripts is deployed. This state 
 # needs to be global in order for 

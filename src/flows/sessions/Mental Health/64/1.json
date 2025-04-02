@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Driving_flashback.jpg"
+            "url": "./images/Driving_flashback.jpeg"
         }
     ]
 }

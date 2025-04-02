@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "How much you have improved since you started.",
-                "How little your skills have continued to improve."
+                "How little your skills have continued to improve.",
+                "How much you have improved since you started."
             ],
             "columnCount": 1,
             "correct_value": "How little your skills have continued to improve."

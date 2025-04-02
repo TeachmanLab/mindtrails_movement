@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Finger_cut.jpg"
+            "url": "./images/Finger_cut.jpeg"
         }
     ]
 }

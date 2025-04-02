@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/The_Movies_Solo.jpg"
+            "url": "./images/The_Movies_Solo.jpeg"
         }
     ]
 }

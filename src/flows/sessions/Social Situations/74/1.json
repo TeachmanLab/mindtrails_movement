@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Small_Party.jpg"
+            "url": "./images/Small_Party.jpeg"
         }
     ]
 }

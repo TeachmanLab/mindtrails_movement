@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Unprepared and lacking. ",
-                "Effective"
+                "Effective",
+                "Unprepared and lacking. "
             ],
             "columnCount": 1,
             "correct_value": "Unprepared and lacking. "

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Holiday_Gifts.jpg"
+            "url": "./images/Holiday_Gifts.jpeg"
         }
     ]
 }

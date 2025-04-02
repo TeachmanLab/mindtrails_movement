@@ -30,7 +30,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefer not to answer"]}
     if tipe == "entry"    : return {"type": "Entry" }
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
-    if tipe == "scheduler": return {"type": "Scheduler", "message": "¡Es hora de practicar el pensamiento flexible! Dirígete a MindTrails Español para tu sesión programada."}
+    if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session."}
     if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multi_select": True }
     if tipe == "timedtext": return {"type": "TimedText", "text": text,  "Duration": 15 }
     if tipe == "puzzle"   : return {
@@ -42,7 +42,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     }
     return None
 
-def create_long_pages(label, scenario_description, unique_image, thoughts, feelings, behaviors):
+def create_long_pages(label, scenario_description, unique_image, thoughts, feelings, behaviors, image_url):
     """
     :param unique_image: Bool, False means that the photos for each group are all the same
     :param label: The title of the long scenario
@@ -63,11 +63,6 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
 
             title = row[0].replace("[Scenario_Name]", label)
             descr = clean_up_unicode(row[4].replace("[Scenario_Description]", scenario_description))
-
-            if unique_image:
-                image_url = f"/images/{label.replace(' ', '_')}.jpg"
-            else:
-                image_url = f"/images/{label.replace(' ', '_')}.jpg"
 
             text  = {"type": "Text", "text": descr}
             media = {"type": "Media", "url": image_url, "border": True} if is_image else None
@@ -103,7 +98,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
 def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, comp_question,
                           answers, correct_answer, unique_image, row_num, word_2=None,
                           puzzle_text_2=None, letters_missing=1, lessons_learned=False,
-                          lessons_learned_dict=None):
+                          lessons_learned_dict=None, image_url=None):
     """
     :param unique_image: Bool, False means that the photos for each group are all the sameunique
     :param domain: domain (e.g., "Romantic Relationships" or "Physical Health")
@@ -152,12 +147,6 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                         "seem possible, but we want you to imagine you are handling the situation well.",
             }]
         })
-
-
-    if unique_image:
-        image_url = f"/images/{label.strip().replace(' ','_')}.jpg"
-    else:
-        image_url = f"/images/{label.strip().replace(' ', '_')}.jpg"
 
     pages.append({  # adding the image page
         "header_text": label,

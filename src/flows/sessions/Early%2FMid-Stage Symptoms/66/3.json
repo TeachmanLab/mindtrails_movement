@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Communicating",
-                "Avoiding them"
+                "Avoiding them",
+                "Communicating"
             ],
             "columnCount": 1,
             "correct_value": "Communicating"

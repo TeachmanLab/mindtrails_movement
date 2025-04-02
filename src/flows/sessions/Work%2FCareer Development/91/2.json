@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Ready_to_Work.jpg"
+            "url": "./images/Ready_to_Work.jpeg"
         }
     ]
 }

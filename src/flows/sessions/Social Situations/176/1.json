@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Playing_the_Piano.jpg"
+            "url": "./images/Playing_the_Piano.jpeg"
         }
     ]
 }

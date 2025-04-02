@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Feeling_Different.jpg"
+            "url": "./images/Feeling_Different.jpeg"
         }
     ]
 }

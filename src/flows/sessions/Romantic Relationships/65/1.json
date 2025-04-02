@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Single_Friend.jpg"
+            "url": "./images/Single_Friend.jpeg"
         }
     ]
 }

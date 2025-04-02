@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Make it safely to a sitting position.",
-                "Get hurt."
+                "Get hurt.",
+                "Make it safely to a sitting position."
             ],
             "columnCount": 1,
             "correct_value": "Make it safely to a sitting position."

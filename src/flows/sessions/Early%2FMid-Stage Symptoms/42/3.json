@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They are grateful you are present at the dinner",
-                "They are embarrassed by you"
+                "They are embarrassed by you",
+                "They are grateful you are present at the dinner"
             ],
             "columnCount": 1,
             "correct_value": "They are grateful you are present at the dinner"

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Gardening.jpg"
+            "url": "./images/Gardening.jpeg"
         }
     ]
 }

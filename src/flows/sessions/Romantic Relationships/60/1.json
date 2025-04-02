@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Third_Wheel.jpg"
+            "url": "./images/Third_Wheel.jpeg"
         }
     ]
 }

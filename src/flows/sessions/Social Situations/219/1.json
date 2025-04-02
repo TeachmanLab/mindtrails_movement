@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Book_Club_Dinner.jpg"
+            "url": "./images/Book_Club_Dinner.jpeg"
         }
     ]
 }

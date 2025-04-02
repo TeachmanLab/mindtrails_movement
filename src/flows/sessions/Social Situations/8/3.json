@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You have terrible ideas.",
-                "You have innovative ideas."
+                "You have innovative ideas.",
+                "You have terrible ideas."
             ],
             "columnCount": 1,
             "correct_value": "You have terrible ideas."

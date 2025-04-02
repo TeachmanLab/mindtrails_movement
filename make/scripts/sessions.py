@@ -34,6 +34,7 @@ def _create_practice_pages(i):
             domain, label = row_1[0].strip(), row_1[3]
             puzzle1,puzzle2 = map(create_puzzle,row_1[i:i+2])
             question, choices, answer = row_1[i+2], row_1[i+3:i+5], row_1[i+3]
+            image_url = row_1[9]
 
             shuffle(choices)
 
@@ -43,7 +44,7 @@ def _create_practice_pages(i):
                                                     comp_question=question, answers=choices,
                                                     correct_answer=answer, word_2=puzzle2[1],
                                                     puzzle_text_2=puzzle2[0], unique_image=False,
-                                                    row_num=dose1_scenario_num)
+                                                    row_num=dose1_scenario_num, image_url=image_url)
 
             if dose1_scenario_num == 0:
                 make_it_your_own_text = ("We want Mindtrails Movement to meet your needs. When you "
@@ -89,10 +90,10 @@ def _create_survey_page(row):
 
 def domain_selection_text():
     return (
-        "Los dominios enumerados aquí son algunas áreas que pueden hacerte sentir "
-        "ansioso. Seleccione en qué le gustaría trabajar durante el día de hoy"
-        "formación. \n\nTe animamos a elegir diferentes dominios para practicar "
-        "¡Pensar con flexibilidad en todas las áreas de tu vida!"
+        "The domains listed here are some areas that may cause you to feel anxious. " 
+        "Please select the one that you'd like to work on during today's training."
+        "\n\nWe encourage you to choose different domains to practice thinking "
+        "flexibly across areas of your life!"
     )
 
 def create_lessons_learned(popname):
@@ -111,17 +112,19 @@ def create_long_doses(popname,i):
                 domain_1 = row[0].strip()
                 domain_2 = row[1].strip() if row[1] else None
                 label = row[3]
+                image_url = row[5]
                 scenario_description = row[i]
                 thoughts = row[i+2:i+7]
                 feelings = row[i+7:i+12]
                 behaviors = row[i+12:i+17]
                 unique_image = False
+                
 
                 if not has_value(scenario_description) or not has_value(label): continue
 
                 dose = create_long_pages(label=label, scenario_description=scenario_description,
                                           unique_image=unique_image, thoughts=thoughts,
-                                          feelings=feelings, behaviors=behaviors)
+                                          feelings=feelings, behaviors=behaviors, image_url=image_url)
                 # add page group to correct domain's list
                 long_doses[domain_1].append(dose)
                 # if it also belongs to a second domain, add the page group to that list
@@ -144,8 +147,9 @@ def create_short_doses(popname,i):
     with open(f"{dir_csv}/MTM Short Scenarios by Session - Initial Protocol {popname}.csv","r", encoding="utf-8", newline='') as read_obj:
 
         for row in islice(csv.reader(read_obj),1,None):
-            domain_1 = row[0].strip() #Broad domain 1
-            label    = row[3]  # scenario name, Hoos TC title column
+            domain_1  = row[0].strip() #Broad domain 1
+            label     = row[3]  # scenario name, Hoos TC title column
+            image_url = row[9]
 
             if not domain_1 or not label: continue
 
@@ -184,7 +188,8 @@ def create_short_doses(popname,i):
                                          lessons_learned=lessons_learned,
                                          lessons_learned_dict=lessons_learned_dict,
                                          unique_image=unique_image,
-                                         row_num=domain_ndoses[domain_1])
+                                         row_num=domain_ndoses[domain_1],
+                                         image_url=image_url)
 
             domain_rindex[domain_1] += 1
             domain_ndoses[domain_1] += 1
@@ -288,7 +293,7 @@ for popname,s,l,i in populations:
     # Define folders
     folders = {}
     folders['control/sessions/__first__'] = flat(surveys,f"{popname}_control_dose_1")
-    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "column_count":2, "text": domain_selection_text(), "title":"MindTrails Movement"}
+    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Movement"}
     folders['treatment/sessions/__first__'] = flat(surveys,f"{popname}_dose_1")
     folders['treatment/sessions/__before__'] = flat(surveys,f"{popname}_beforedomain_all")
     folders['treatment/sessions/__after__'] = flat(surveys,f"{popname}_afterdomain_all")

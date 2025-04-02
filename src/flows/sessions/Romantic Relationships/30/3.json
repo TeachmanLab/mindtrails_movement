@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Lonely without a significant other.",
-                "With a loving partner."
+                "With a loving partner.",
+                "Lonely without a significant other."
             ],
             "columnCount": 1,
             "correct_value": "With a loving partner."

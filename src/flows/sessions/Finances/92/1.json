@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Burn_Out.jpg"
+            "url": "./images/Burn_Out.jpeg"
         }
     ]
 }

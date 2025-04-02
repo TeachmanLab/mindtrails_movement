@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Hiking_with_Friends.jpg"
+            "url": "./images/Hiking_with_Friends.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/House_For_Sale.jpg"
+            "url": "./images/House_For_Sale.jpeg"
         }
     ]
 }

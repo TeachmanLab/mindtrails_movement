@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Dinner_Alone.jpg"
+            "url": "./images/Dinner_Alone.jpeg"
         }
     ]
 }

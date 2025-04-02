@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Not end up fulfilling your dreams, and feel disappointed with where you end up.",
-                "Get the job and advance your career even further. "
+                "Get the job and advance your career even further. ",
+                "Not end up fulfilling your dreams, and feel disappointed with where you end up."
             ],
             "columnCount": 1,
             "correct_value": "Not end up fulfilling your dreams, and feel disappointed with where you end up."

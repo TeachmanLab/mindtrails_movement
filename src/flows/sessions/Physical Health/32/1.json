@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Sudden_noise.jpg"
+            "url": "./images/Sudden_noise.jpeg"
         }
     ]
 }

@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Slim, because saving up enough money is unlikely.",
-                "Good, because you will be able to save more money in the coming months."
+                "Good, because you will be able to save more money in the coming months.",
+                "Slim, because saving up enough money is unlikely."
             ],
             "columnCount": 1,
             "correct_value": "Good, because you will be able to save more money in the coming months."

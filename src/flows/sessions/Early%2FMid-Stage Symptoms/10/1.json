@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Lost_Things.jpg"
+            "url": "./images/Lost_Things.jpeg"
         }
     ]
 }

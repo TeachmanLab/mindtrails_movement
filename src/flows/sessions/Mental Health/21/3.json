@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tolerating your heart racing and focusing on the conversation.",
-                "Continuing to worry about whether you have a medical issue."
+                "Continuing to worry about whether you have a medical issue.",
+                "Tolerating your heart racing and focusing on the conversation."
             ],
             "columnCount": 1,
             "correct_value": "Tolerating your heart racing and focusing on the conversation."

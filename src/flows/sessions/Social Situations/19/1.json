@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/A_new_camera.jpg"
+            "url": "./images/A_new_camera.jpeg"
         }
     ]
 }

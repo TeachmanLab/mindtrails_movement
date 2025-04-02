@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/First_meeting.jpg"
+            "url": "./images/First_meeting.jpeg"
         }
     ]
 }

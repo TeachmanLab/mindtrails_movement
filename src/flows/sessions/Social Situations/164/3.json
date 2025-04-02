@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "How much trouble you had giving the talk.",
-                "How well you did in your talk."
+                "How well you did in your talk.",
+                "How much trouble you had giving the talk."
             ],
             "columnCount": 1,
             "correct_value": "How much trouble you had giving the talk."

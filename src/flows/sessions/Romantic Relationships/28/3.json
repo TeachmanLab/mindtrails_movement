@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "End like all the rest have.",
-                "Develop into something even more meaningful to you."
+                "Develop into something even more meaningful to you.",
+                "End like all the rest have."
             ],
             "columnCount": 1,
             "correct_value": "Develop into something even more meaningful to you."

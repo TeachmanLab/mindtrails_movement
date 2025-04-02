@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Rainy_Weather.jpg"
+            "url": "./images/Rainy_Weather.jpeg"
         }
     ]
 }

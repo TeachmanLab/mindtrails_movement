@@ -40,7 +40,7 @@ for popname in ["HD","PD"]:
             domains[domain][subdomain].append(resource_text(res_name,res_link,res_text))
 
     # Define folders
-    folders = {'__flow__.json': {"mode":"select", "column_count": 2, "text":resource_domain_selection_text()}}
+    folders = {'__flow__.json': {"mode":"select", "column_count": 2, "title_case": True, "text":resource_domain_selection_text()}}
     for domain, subdomains in domains.items():
         folders[f"{dir_safe(domain)}/__flow__.json"] = {"mode":"select", "text":resource_subdomain_selection_text()}
         for subdomain, resources in subdomains.items():

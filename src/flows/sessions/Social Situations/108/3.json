@@ -5,7 +5,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you anxious about playing this game in front of your coworker?\n"
+            "Text": "Are you anxious about playing this game in front of your coworker?\r\n"
         },
         {
             "type": "Buttons",

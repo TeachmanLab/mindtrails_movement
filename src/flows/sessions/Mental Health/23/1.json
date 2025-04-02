@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Your_Bowling_Skills.jpg"
+            "url": "./images/Your_Bowling_Skills.jpeg"
         }
     ]
 }

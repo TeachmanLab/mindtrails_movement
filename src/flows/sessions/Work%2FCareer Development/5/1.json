@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Public_speaking.jpg"
+            "url": "./images/Public_speaking.jpeg"
         }
     ]
 }

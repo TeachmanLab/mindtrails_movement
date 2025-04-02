@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Day_in_the_Park.jpg"
+            "url": "./images/Day_in_the_Park.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/An_international_flight.jpg"
+            "url": "./images/An_international_flight.jpeg"
         }
     ]
 }

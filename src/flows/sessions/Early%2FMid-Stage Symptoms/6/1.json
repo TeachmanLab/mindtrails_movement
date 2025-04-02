@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/House_Play.jpg"
+            "url": "./images/House_Play.jpeg"
         }
     ]
 }

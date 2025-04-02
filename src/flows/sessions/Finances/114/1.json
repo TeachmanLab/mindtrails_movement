@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Food_Costs.jpg"
+            "url": "./images/Food_Costs.jpeg"
         }
     ]
 }

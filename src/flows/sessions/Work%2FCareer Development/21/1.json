@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Correction.jpg"
+            "url": "./images/Correction.jpeg"
         }
     ]
 }

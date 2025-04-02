@@ -1,0 +1,18 @@
+{
+    "header_text": "Nightly Survey",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are encouraged to complete 2 short MindTrails-Movement programs tomorrow. Thinking ahead to your day tomorrow, are there specific times you would like to receive a notification to complete a ~5 minute program to help manage a stressful or upsetting situation?"
+        },
+        {
+            "type": "Scheduler",
+            "days_ahead": 1,
+            "flow": "flow://flows/sessions",
+            "count": 2,
+            "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session.",
+            "name": "schedule_session"
+        }
+    ]
+}

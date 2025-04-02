@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Inside_Jokes.jpg"
+            "url": "./images/Inside_Jokes.jpeg"
         }
     ]
 }

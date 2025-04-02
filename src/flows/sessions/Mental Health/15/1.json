@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Safe_Driving.jpg"
+            "url": "./images/Safe_Driving.jpeg"
         }
     ]
 }

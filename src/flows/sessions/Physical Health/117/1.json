@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Longer_Walks.jpg"
+            "url": "./images/Longer_Walks.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Hospital_waiting_room.jpg"
+            "url": "./images/Hospital_waiting_room.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Office_Talk.jpg"
+            "url": "./images/Office_Talk.jpeg"
         }
     ]
 }

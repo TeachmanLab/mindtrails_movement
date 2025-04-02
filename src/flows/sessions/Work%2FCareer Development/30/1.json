@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Brief_call.jpg"
+            "url": "./images/Brief_call.jpeg"
         }
     ]
 }

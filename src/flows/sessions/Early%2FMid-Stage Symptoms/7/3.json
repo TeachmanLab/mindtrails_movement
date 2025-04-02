@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Happy to be with you.",
-                "Feeling impatient."
+                "Feeling impatient.",
+                "Happy to be with you."
             ],
             "columnCount": 1,
             "correct_value": "Happy to be with you."

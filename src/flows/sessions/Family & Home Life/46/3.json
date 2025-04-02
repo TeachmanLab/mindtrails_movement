@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You also think about how much you enjoy seeing them, and believe that you will always be close to them.",
-                "You worry that you will lose them from your life."
+                "You worry that you will lose them from your life.",
+                "You also think about how much you enjoy seeing them, and believe that you will always be close to them."
             ],
             "columnCount": 1,
             "correct_value": "You worry that you will lose them from your life."

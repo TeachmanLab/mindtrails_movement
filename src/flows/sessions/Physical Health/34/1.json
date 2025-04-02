@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Flashing_movie.jpg"
+            "url": "./images/Flashing_movie.jpeg"
         }
     ]
 }

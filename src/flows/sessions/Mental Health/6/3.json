@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Worry about whether you locked the door. ",
-                "Rest and spend time with friends."
+                "Rest and spend time with friends.",
+                "Worry about whether you locked the door. "
             ],
             "columnCount": 1,
             "correct_value": "Rest and spend time with friends."

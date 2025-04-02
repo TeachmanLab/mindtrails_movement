@@ -15,7 +15,7 @@
             "incorrect_delay": 5000,
             "buttons": [
                 "Support your ideas.",
-                "Dislike your ideas. "
+                "Dislike your ideas."
             ],
             "columnCount": 1,
             "correct_value": "Support your ideas."

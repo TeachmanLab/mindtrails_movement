@@ -75,21 +75,21 @@ for pop_name in populations:
     # Define folders
     folders = {
         #TREATMENT
-        f"{pop_name}/treatment/eod": flat(survey_pages[("all",f"{pop_name}_eod")]),
+        f"{pop_name}/treatment/end of day": flat(survey_pages[("all",f"{pop_name}_eod")]),
         f"{pop_name}/treatment/reasons for ending": flat(survey_pages[("all",f"{pop_name}_reasonsforending")]),
-        f"{pop_name}/treatment/biweekly/__flow__.json": {"mode":"sequential","size":1},
-        f"{pop_name}/treatment/biweekly/1": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 2" ,f"{pop_name}_biweekly")]),
-        f"{pop_name}/treatment/biweekly/2": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 4" ,f"{pop_name}_biweekly")]),
-        f"{pop_name}/treatment/biweekly/3": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 6" ,f"{pop_name}_biweekly")]),
-        f"{pop_name}/treatment/biweekly/4": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 10",f"{pop_name}_biweekly")]),
+        f"{pop_name}/treatment/track your progress/__flow__.json": {"mode":"sequential","size":1},
+        f"{pop_name}/treatment/track your progress/1": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 2" ,f"{pop_name}_biweekly")]),
+        f"{pop_name}/treatment/track your progress/2": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 4" ,f"{pop_name}_biweekly")]),
+        f"{pop_name}/treatment/track your progress/3": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 6" ,f"{pop_name}_biweekly")]),
+        f"{pop_name}/treatment/track your progress/4": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 10",f"{pop_name}_biweekly")]),
         #CONTROL
-        f"{pop_name}/control/eod": flat(survey_pages[("all","eod")]),
+        f"{pop_name}/control/end of day": flat(survey_pages[("all","eod")]),
         f"{pop_name}/control/reasons for ending": flat(survey_pages[("all",f"{pop_name}_reasonsforending_control")]),
-        f"{pop_name}/control/biweekly/__flow__.json": {"mode":"sequential","size":1},
-        f"{pop_name}/control/biweekly/1": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
-        f"{pop_name}/control/biweekly/2": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
-        f"{pop_name}/control/biweekly/3": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
-        f"{pop_name}/control/biweekly/4": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
+        f"{pop_name}/control/track your progress/__flow__.json": {"mode":"sequential","size":1},
+        f"{pop_name}/control/track your progress/1": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
+        f"{pop_name}/control/track your progress/2": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
+        f"{pop_name}/control/track your progress/3": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
+        f"{pop_name}/control/track your progress/4": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
     }
 
     # Delete old JSON

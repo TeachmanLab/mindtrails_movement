@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Out_of_Breath.jpg"
+            "url": "./images/Out_of_Breath.jpeg"
         }
     ]
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Out_on_a_boat.jpg"
+            "url": "./images/Out_on_a_boat.jpeg"
         }
     ]
 }

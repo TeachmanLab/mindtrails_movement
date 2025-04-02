@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Accept your offer, because you two had a great time on the train.",
-                "Turn you down, because they're not interested in seeing you again."
+                "Turn you down, because they're not interested in seeing you again.",
+                "Accept your offer, because you two had a great time on the train."
             ],
             "columnCount": 1,
             "correct_value": "Accept your offer, because you two had a great time on the train."

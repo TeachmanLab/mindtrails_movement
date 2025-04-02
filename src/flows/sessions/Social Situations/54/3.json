@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Exciting because you have a chance to meet new people.",
-                "Awkward and uncomfortable because you do not know many people."
+                "Awkward and uncomfortable because you do not know many people.",
+                "Exciting because you have a chance to meet new people."
             ],
             "columnCount": 1,
             "correct_value": "Exciting because you have a chance to meet new people."

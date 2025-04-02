@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Jacket_Return.jpg"
+            "url": "./images/Jacket_Return.jpeg"
         }
     ]
 }

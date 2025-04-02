@@ -42,7 +42,7 @@
 	},
 
 	"settings": {
-		"unenroll":"flow://flows/reasons for ending"
+		"unenroll":"flow://flows/reasons for ending/"
 	},
 
 	"menu": [
@@ -99,14 +99,14 @@
 			"frequency": "1",
 			"time": "20:00",
 			"action": "notification",
-			"content": "flow://flows/eod"
+			"content": "flow://flows/end of day/"
 		},
 		{
 			"type": "timing",
 			"frequency": "14",
 			"time": "20:00",
 			"action": "notification",
-			"content": "flow://flows/biweekly"
+			"content": "flow://flows/track your progress/"
 		}
 	]
 }

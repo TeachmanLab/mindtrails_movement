@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/How_You_Look.jpg"
+            "url": "./images/How_You_Look.jpeg"
         }
     ]
 }

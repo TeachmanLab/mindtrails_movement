@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You are stupid and incompetent.",
-                "You are thoughtful and collected."
+                "You are thoughtful and collected.",
+                "You are stupid and incompetent."
             ],
             "columnCount": 1,
             "correct_value": "You are thoughtful and collected."

@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Rest with a bottle of water and a post-walk snack",
-                "Make an emergency call because this is a sign of something serious."
+                "Make an emergency call because this is a sign of something serious.",
+                "Rest with a bottle of water and a post-walk snack"
             ],
             "columnCount": 1,
             "correct_value": "Rest with a bottle of water and a post-walk snack"

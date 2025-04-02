@@ -14,8 +14,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "A serious illness.",
-                "A new medication."
+                "A new medication.",
+                "A serious illness."
             ],
             "columnCount": 1,
             "correct_value": "A new medication."

@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Trivia_Team.jpg"
+            "url": "./images/Trivia_Team.jpeg"
         }
     ]
 }

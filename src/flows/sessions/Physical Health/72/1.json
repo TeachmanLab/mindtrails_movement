@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Doctor's_Appointment.jpg"
+            "url": "./images/Doctor's_Appointment.jpeg"
         }
     ]
 }

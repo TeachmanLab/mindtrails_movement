@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "/images/Dancing_class.jpg"
+            "url": "./images/Dancing_class.jpeg"
         }
     ]
 }
