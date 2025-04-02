@@ -8,7 +8,7 @@
         },
         {
             "type": "Media",
-            "url": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/protocol1/media/images/lemon/pic2.jpeg",
+            "url": "./images/lemon_pic2.jpeg",
             "border": true
         }
     ],

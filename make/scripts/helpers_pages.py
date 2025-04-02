@@ -65,7 +65,7 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
             descr = clean_up_unicode(row[4].replace("[Scenario_Description]", scenario_description))
 
             text  = {"type": "Text", "text": descr}
-            media = {"type": "Media", "url": image_url, "border": True} if is_image else None
+            media = {"type": "Media", "url": image_url.lower(), "border": True} if is_image else None
 
             timeout = {"timeout": int(timeout) } if timeout else {}
 
@@ -153,7 +153,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         "header_icon": "assets/subtitle.png",
         "elements": [
             {"type": "Label", "text": label },
-            {"type": "Media", "url": image_url }
+            {"type": "Media", "url": image_url.lower() }
         ]
     })
 
@@ -300,7 +300,7 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
     """
 
     textinput  = {"type": "Text", "text": text} if has_value(text) else None
-    mediainput = {"type": "Media", "url": media, "border": image_framed.lower() == "true"} if media else None
+    mediainput = {"type": "Media", "url": media.lower(), "border": image_framed.lower() == "true"} if media else None
 
     input1 = create_input(input_1, items, minimum, maximum)
     input2 = create_input(input_2, items, minimum, maximum)

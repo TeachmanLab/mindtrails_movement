@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Media",
-            "url": "https://github.com/TeachmanLab/MindtrailsMobile_Resources/raw/main/HTC/protocols/MTM/media/Program_Rationale/Lemon_Image.jpeg",
+            "url": "./images/lemon_image.jpeg",
             "border": false
         }
     ]
