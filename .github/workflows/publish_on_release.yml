@@ -14,4 +14,4 @@ jobs:
       - name: checkout protocol
         uses: actions/checkout@v4
       - name: release protocol
-        uses: digital-trails/protocol-releaser@v1.6.1
+        uses: digital-trails/protocol-releaser@v1.6.2
