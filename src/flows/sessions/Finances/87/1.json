@@ -1,14 +1,14 @@
 {
-    "header_text": "Planning Payments",
+    "header_text": "Affording Expenses",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planning Payments"
+            "text": "Affording Expenses"
         },
         {
             "type": "Media",
-            "url": "./images/planning_payments.jpeg"
+            "url": "./images/affording_expenses.jpeg"
         }
     ]
 }

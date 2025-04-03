@@ -1,15 +1,15 @@
 {
-    "header_text": "Unconditional Love",
+    "header_text": "Spiritual Journey",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your spouse stop loving you because of your recent behavior?"
+            "Text": "Will you find new ways of continuing your spiritual practice?"
         },
         {
             "type": "Buttons",
-            "name": "Unconditional Love_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Spiritual Journey_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

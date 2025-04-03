@@ -1,14 +1,14 @@
 {
-    "header_text": "A Little Stumble",
+    "header_text": "Running Late",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel..."
+            "type": "Label",
+            "text": "Running Late"
         },
         {
-            "type": "Entry",
-            "name": "A Little Stumble_Work/Career Development_entry1"
+            "type": "Media",
+            "url": "./images/running_late.jpeg"
         }
     ]
 }

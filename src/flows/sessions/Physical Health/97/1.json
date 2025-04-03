@@ -1,14 +1,14 @@
 {
-    "header_text": "Spring Allergies",
+    "header_text": "Wearing a Mask to Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Spring Allergies"
+            "text": "Wearing a Mask to Work"
         },
         {
             "type": "Media",
-            "url": "./images/spring_allergies.jpeg"
+            "url": "./images/wearing_a_mask_to_work.jpeg"
         }
     ]
 }

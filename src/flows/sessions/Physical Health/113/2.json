@@ -1,21 +1,10 @@
 {
-    "header_text": "Late Communication",
+    "header_text": "New grocery store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend invites you to a dinner party and after you leave, they casually mention that one of the people there had been sick and was waiting on a test result. You can’t believe your friend wouldn’t tell you this before they took you to the party. You decide to talk to your friend about it, and they decide to communicate better about risky..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Late Communication_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "words": [
-                "situations"
-            ],
-            "missing_letter_count": 1
+            "text": "The goal of this exercise is to help you learn that there are lots of different reactions that you might have in a scary situation, and not all of these thoughts, feelings, and behaviors have to be negative. \n\nAfter you see some thoughts, you'll be asked to write your own example of a helpful thought that you might have in that situation. You'll do the same thing for feelings and behaviors."
         }
     ]
 }

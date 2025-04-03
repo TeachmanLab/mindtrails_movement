@@ -1,14 +1,14 @@
 {
-    "header_text": "Book Club",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Book Club"
+            "text": "Creating Art "
         },
         {
             "type": "Media",
-            "url": "./images/book_club.jpeg"
+            "url": "./images/creating_art.jpeg"
         }
     ]
 }

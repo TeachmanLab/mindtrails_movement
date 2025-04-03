@@ -1,24 +1,10 @@
 {
-    "header_text": "Intoxication Situation",
+    "header_text": "Hanging out without you",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you end up staying relaxed?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Intoxication Situation_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "text": "Picture yourself in the situation on the next page."
         }
     ]
 }

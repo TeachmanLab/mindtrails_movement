@@ -1,14 +1,14 @@
 {
-    "header_text": "Spiritual Journey",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Spiritual Journey"
+            "text": "New Conflict With Spouse"
         },
         {
             "type": "Media",
-            "url": "./images/spiritual_journey.jpeg"
+            "url": "./images/new_conflict_with_spouse.jpeg"
         }
     ]
 }

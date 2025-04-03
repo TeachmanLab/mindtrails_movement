@@ -1,14 +1,14 @@
 {
-    "header_text": "Healthy But Expensive ",
+    "header_text": "Affording Expenses",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Healthy But Expensive "
+            "text": "Affording Expenses"
         },
         {
             "type": "Media",
-            "url": "./images/healthy_but_expensive.jpeg"
+            "url": "./images/affording_expenses.jpeg"
         }
     ]
 }

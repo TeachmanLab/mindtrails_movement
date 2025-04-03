@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Stress",
+    "header_text": "Dry Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Managing Stress"
+            "text": "Dry Difficulty"
         },
         {
             "type": "Media",
-            "url": "./images/managing_stress.jpeg"
+            "url": "./images/dry_difficulty.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Longer Walks",
+    "header_text": "Rescheduled Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Longer Walks"
+            "text": "Rescheduled Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/longer_walks.jpeg"
+            "url": "./images/rescheduled_vacation.jpeg"
         }
     ]
 }

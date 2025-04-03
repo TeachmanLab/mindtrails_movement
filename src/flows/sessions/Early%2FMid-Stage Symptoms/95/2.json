@@ -1,19 +1,19 @@
 {
-    "header_text": "Travel Dreams",
+    "header_text": "Farmer's Market",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You haven't gotten to travel very much in your life due to family and other commitments. You always told yourself you would start traveling later in life, but your diagnosis of PD is giving you doubts. Despite the concern, you book a flight, anticipating the opportunity to..."
+            "text": "You enjoy going to the local farmer's market every week. Lately, you've been struggling to get the motivation to go, fearing that others will notice your PD symptoms, but you get the courage to go today. When you arrive at the market, you see many familiar faces that look at you with a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Travel Dreams_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Farmer's Market_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "explore"
+                "smile"
             ],
             "missing_letter_count": 1
         }

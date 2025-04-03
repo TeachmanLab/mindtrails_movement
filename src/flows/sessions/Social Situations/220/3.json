@@ -1,24 +1,21 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "New Environment",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Since you have been out of touch, your friend is probably thinking"
+            "text": "You think about the camping trip a little more and realize you're enjoying the experience too much to be scared. You feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Keeping Up With Friends _Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "New Environment_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "\"I'm sure things are just really busy right now.\"",
-                "\"I guess this friendship isn't worth very much.\""
+            "words": [
+                "calmer"
             ],
-            "columnCount": 1,
-            "correct_value": "\"I guess this friendship isn't worth very much.\""
+            "missing_letter_count": 1
         }
     ]
 }

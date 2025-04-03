@@ -1,14 +1,14 @@
 {
-    "header_text": "Different Personalities ",
+    "header_text": "Past Experiences",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Different Personalities "
+            "text": "Past Experiences"
         },
         {
             "type": "Media",
-            "url": "./images/different_personalities.jpeg"
+            "url": "./images/past_experiences.jpeg"
         }
     ]
 }

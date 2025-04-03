@@ -1,19 +1,19 @@
 {
-    "header_text": "Holiday Away From Home",
+    "header_text": "Book Club Dinner ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your significant other's children have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own children will be disappointed that you are not with them. When you think about telling your children you would like to spend the holidays with your partner, you believe that they will be..."
+            "text": "You have recently joined a local book club and think the other members are very cool. You would like to hang out more often, but you worry about whether they will want to be friends outside of the book club. You consider inviting them over for dinner, and you think that they will think you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Holiday Away From Home_Social Situations_puzzle1",
+            "name": "Book Club Dinner _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "empathetic"
+                "fun"
             ],
             "missing_letter_count": 1
         }

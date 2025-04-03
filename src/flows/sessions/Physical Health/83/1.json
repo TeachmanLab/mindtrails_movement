@@ -1,14 +1,14 @@
 {
-    "header_text": "Dry Difficulty",
+    "header_text": "Normal Functions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dry Difficulty"
+            "text": "Normal Functions "
         },
         {
             "type": "Media",
-            "url": "./images/dry_difficulty.jpeg"
+            "url": "./images/normal_functions.jpeg"
         }
     ]
 }

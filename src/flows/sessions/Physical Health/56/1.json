@@ -1,10 +1,10 @@
 {
-    "header_text": "Manage Your Feelings: Physical Health",
+    "header_text": "Walking up stairs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Try to put a specific label on your feelings (are you sad, angry, disgusted, nervous, terrfiied, etc.?) - feelings are easier to manage when we can describe them fully."
+            "text": "Next, you're going to see a scenario that might make you anxious. As you read the short story, picture yourself in that situation. After you picture yourself in the situation, click \"Next\" and then you'll see examples of thoughts, feelings, and behaviors that might happen in that situation. \n\nSome of the thoughts, feelings, and behaviors will be helpful and some won't be."
         }
     ]
 }

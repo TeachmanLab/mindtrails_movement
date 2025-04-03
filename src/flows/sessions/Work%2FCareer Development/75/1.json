@@ -1,14 +1,14 @@
 {
-    "header_text": "First Impressions",
+    "header_text": "Troublesome Typos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "First Impressions"
+            "text": "Troublesome Typos"
         },
         {
             "type": "Media",
-            "url": "./images/first_impressions.jpeg"
+            "url": "./images/troublesome_typos.jpeg"
         }
     ]
 }

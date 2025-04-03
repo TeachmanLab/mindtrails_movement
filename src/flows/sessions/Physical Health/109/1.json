@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Hiking with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking with a Friend"
+            "text": "Hiking with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/walking_with_a_friend.jpeg"
+            "url": "./images/hiking_with_friends.jpeg"
         }
     ]
 }

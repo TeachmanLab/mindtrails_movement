@@ -1,14 +1,14 @@
 {
-    "header_text": "Troublesome Typos",
+    "header_text": "Discussing the Evaluation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Troublesome Typos"
+            "text": "Discussing the Evaluation "
         },
         {
             "type": "Media",
-            "url": "./images/troublesome_typos.jpeg"
+            "url": "./images/discussing_the_evaluation.jpeg"
         }
     ]
 }

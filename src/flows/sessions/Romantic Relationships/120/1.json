@@ -1,14 +1,14 @@
 {
-    "header_text": "Supporting Partner",
+    "header_text": "Family Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Supporting Partner"
+            "text": "Family Communication"
         },
         {
             "type": "Media",
-            "url": "./images/supporting_partner.jpeg"
+            "url": "./images/family_communication.jpeg"
         }
     ]
 }

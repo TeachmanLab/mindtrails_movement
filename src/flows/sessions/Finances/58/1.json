@@ -1,14 +1,14 @@
 {
-    "header_text": "Budgeting Your Income",
+    "header_text": "Comparing Financial Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Budgeting Your Income"
+            "text": "Comparing Financial Situations"
         },
         {
             "type": "Media",
-            "url": "./images/budgeting_your_income.jpeg"
+            "url": "./images/comparing_financial_situations.jpeg"
         }
     ]
 }

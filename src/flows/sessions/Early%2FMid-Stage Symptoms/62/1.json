@@ -1,14 +1,14 @@
 {
-    "header_text": "Meal Program Volunteering",
+    "header_text": "Paying With Cash",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meal Program Volunteering"
+            "text": "Paying With Cash"
         },
         {
             "type": "Media",
-            "url": "./images/meal_program_volunteering.jpeg"
+            "url": "./images/paying_with_cash.jpeg"
         }
     ]
 }

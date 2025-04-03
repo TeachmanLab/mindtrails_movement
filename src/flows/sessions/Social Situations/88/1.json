@@ -1,14 +1,14 @@
 {
-    "header_text": "Disrupting the Silence",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Disrupting the Silence"
+            "text": "Zoning Out"
         },
         {
             "type": "Media",
-            "url": "./images/disrupting_the_silence.jpeg"
+            "url": "./images/zoning_out.jpeg"
         }
     ]
 }

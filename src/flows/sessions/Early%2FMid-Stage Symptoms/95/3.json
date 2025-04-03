@@ -1,24 +1,24 @@
 {
-    "header_text": "Travel Dreams",
+    "header_text": "Farmer's Market",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "The thought of traveling despite your PD is..."
+            "Text": "The familiar vendors greet you with..."
         },
         {
             "type": "Buttons",
-            "name": "Travel Dreams_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Farmer's Market_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Thrilling",
-                "Terrifying"
+                "Joy",
+                "Suspicion"
             ],
             "columnCount": 1,
-            "correct_value": "Thrilling"
+            "correct_value": "Joy"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Decision",
+    "header_text": "Going to a Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Making a Decision"
+            "text": "Going to a Wedding"
         },
         {
             "type": "Media",
-            "url": "./images/making_a_decision.jpeg"
+            "url": "./images/going_to_a_wedding.jpeg"
         }
     ]
 }

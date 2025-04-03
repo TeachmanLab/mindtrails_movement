@@ -1,14 +1,14 @@
 {
-    "header_text": "Having a New Friend Over",
+    "header_text": "Taking a Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Having a New Friend Over"
+            "text": "Taking a Call"
         },
         {
             "type": "Media",
-            "url": "./images/having_a_new_friend_over.jpeg"
+            "url": "./images/taking_a_call.jpeg"
         }
     ]
 }

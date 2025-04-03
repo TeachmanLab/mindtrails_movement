@@ -1,14 +1,14 @@
 {
-    "header_text": "A Crucial Call",
+    "header_text": "Social Media Feedback",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Crucial Call"
+            "text": "Social Media Feedback"
         },
         {
             "type": "Media",
-            "url": "./images/a_crucial_call.jpeg"
+            "url": "./images/social_media_feedback.jpeg"
         }
     ]
 }

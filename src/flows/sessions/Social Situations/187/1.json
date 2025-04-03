@@ -1,14 +1,14 @@
 {
-    "header_text": "The Dance Showcase",
+    "header_text": "New Training Plan",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "The Dance Showcase"
+            "text": "New Training Plan"
         },
         {
             "type": "Media",
-            "url": "./images/the_dance_showcase.jpeg"
+            "url": "./images/new_training_plan.jpeg"
         }
     ]
 }

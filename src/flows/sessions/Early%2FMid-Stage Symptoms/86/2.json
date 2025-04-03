@@ -1,19 +1,19 @@
 {
-    "header_text": "Name Recall ",
+    "header_text": "Replying to Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both..."
+            "text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, your boss has sent you a message, and you worry that he is... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Name Recall _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Replying to Email_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "laugh"
+                "disappointed"
             ],
             "missing_letter_count": 1
         }

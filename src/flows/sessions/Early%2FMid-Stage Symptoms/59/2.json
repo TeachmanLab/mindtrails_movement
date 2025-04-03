@@ -1,19 +1,19 @@
 {
-    "header_text": "Unconditional Love",
+    "header_text": "Spiritual Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your marriage is extremely important to you. Lately, you have been lashing out at your spouse more often, and you worry about how this will affect your marriage. You seek the advice of a counselor and remember that your spouse's love is..."
+            "text": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Unconditional Love_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Spiritual Journey_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "unconditional"
+                "adapt"
             ],
             "missing_letter_count": 1
         }

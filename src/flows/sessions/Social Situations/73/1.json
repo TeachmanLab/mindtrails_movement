@@ -1,14 +1,14 @@
 {
-    "header_text": "Brief Introduction",
+    "header_text": "Your Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Brief Introduction"
+            "text": "Your Birthday Party"
         },
         {
             "type": "Media",
-            "url": "./images/brief_introduction.jpeg"
+            "url": "./images/your_birthday_party.jpeg"
         }
     ]
 }

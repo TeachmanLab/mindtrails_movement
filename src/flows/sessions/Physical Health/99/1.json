@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking in the Cold",
+    "header_text": "Feeling Faint",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking in the Cold"
+            "text": "Feeling Faint"
         },
         {
             "type": "Media",
-            "url": "./images/walking_in_the_cold.jpeg"
+            "url": "./images/feeling_faint.jpeg"
         }
     ]
 }

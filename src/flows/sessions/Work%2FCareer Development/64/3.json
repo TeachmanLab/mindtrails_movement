@@ -1,21 +1,24 @@
 {
-    "header_text": "1, 2, 3. Eyes on Me",
+    "header_text": "Peer Evaluations",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You give yourself a moment to collect your thoughts and begin the presentation. During the presentation, you feel..."
+            "Text": "Are you worried about the debate?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "1, 2, 3. Eyes on Me_Work/Career Development_puzzle_word2",
+            "type": "Buttons",
+            "name": "Peer Evaluations_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "prepared"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

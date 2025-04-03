@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching up to Friends",
+    "header_text": "Doctor's Appointment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Catching up to Friends"
+            "text": "Doctor's Appointment"
         },
         {
             "type": "Media",
-            "url": "./images/catching_up_to_friends.jpeg"
+            "url": "./images/doctor's_appointment.jpeg"
         }
     ]
 }

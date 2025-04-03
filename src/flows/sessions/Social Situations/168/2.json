@@ -1,0 +1,21 @@
+{
+    "header_text": "Confirming Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A good friend of yours told you they'd meet you at your favorite restaurant for dinner one night. You text them that morning to ask what time to meet, but they haven't answered by early afternoon. You're quite upset at first, but then you realize they are probably just busy at... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Confirming Plans_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "work"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

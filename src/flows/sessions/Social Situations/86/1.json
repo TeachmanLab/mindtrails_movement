@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Abandoned By a Close Friend",
+    "header_text": "Jacket Return",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Abandoned By a Close Friend"
+            "text": "Jacket Return"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_abandoned_by_a_close_friend.jpeg"
+            "url": "./images/jacket_return.jpeg"
         }
     ]
 }

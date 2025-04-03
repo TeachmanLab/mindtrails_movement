@@ -1,24 +1,24 @@
 {
-    "header_text": "Important Presentation ",
+    "header_text": "Feeling Excluded on Social Media",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "After your presentation, people in the audience will probably think about"
+            "Text": "Can you handle that sometimes your friends hang out without you?"
         },
         {
             "type": "Buttons",
-            "name": "Important Presentation _Social Situations_comp_question",
+            "name": "Feeling Excluded on Social Media_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "How well you did in your talk.",
-                "How much trouble you had giving the talk."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "How much trouble you had giving the talk."
+            "correct_value": "Yes"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Committing to Activities",
+    "header_text": "Misunderstanding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize that being back in-person is an adjustment, and it will take some time to get used to the business of an in-person workplace. You think that with everything you have going on, you're doing a great... "
+            "text": "After explaining what happened to the head of your department, he says he understands. You feel like you will still be able make a good..."
         },
         {
             "type": "Entry",
-            "name": "Committing to Activities_Work/Career Development_entry2"
+            "name": "Misunderstanding_Work/Career Development_entry2"
         }
     ]
 }

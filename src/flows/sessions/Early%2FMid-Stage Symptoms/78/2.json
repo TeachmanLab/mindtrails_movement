@@ -1,0 +1,21 @@
+{
+    "header_text": "Family Wedding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're helping your granddaughter prepare for her wedding. When you meet with the bridal party, you forget the groom's name. Desperate to hide this from her, you secretively ask your daughter for his name while your granddaughter glances over at you with a look of..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Family Wedding_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "disappointment"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Dealing with Divorce",
+    "header_text": "Making Introductions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dealing with Divorce"
+            "text": "Making Introductions"
         },
         {
             "type": "Media",
-            "url": "./images/dealing_with_divorce.jpeg"
+            "url": "./images/making_introductions.jpeg"
         }
     ]
 }

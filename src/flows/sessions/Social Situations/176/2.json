@@ -1,14 +1,21 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Voicing Your Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player, and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself, these people are going to be... "
+            "text": "Your partner takes you out to dinner. They mention something that upsets you, but you worry about confronting them in public. Ultimately, you decide to tell them what they said upset you, and they apologize..."
         },
         {
-            "type": "Entry",
-            "name": "Playing the Piano_Social Situations_entry1"
+            "type": "WordPuzzle",
+            "name": "Voicing Your Feelings_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "genuinely"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

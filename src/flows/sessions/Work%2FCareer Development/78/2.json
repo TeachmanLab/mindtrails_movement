@@ -1,0 +1,14 @@
+{
+    "header_text": "Different Expectations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You check online to see if you were selected for a raise. You see that you were not, although you expected to be. You think about what this will mean for your future, and know everything will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Different Expectations_Work/Career Development_entry1"
+        }
+    ]
+}

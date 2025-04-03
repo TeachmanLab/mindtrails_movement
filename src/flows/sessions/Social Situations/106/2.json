@@ -1,14 +1,14 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping in a grocery store. As you are browsing some shelves, you accidently knock several cans on the floor and shoppers turn to look at you. The shoppers see the cans on the floor and respond with..."
+            "text": "While working on a collaborative project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the..."
         },
         {
             "type": "Entry",
-            "name": "Grocery Store Experience_Social Situations_entry1"
+            "name": "Expressing Your Ideas_Social Situations_entry1"
         }
     ]
 }

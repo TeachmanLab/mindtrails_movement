@@ -1,14 +1,14 @@
 {
-    "header_text": "Testing Positive for Strep",
+    "header_text": "Out of Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Testing Positive for Strep"
+            "text": "Out of Breath"
         },
         {
             "type": "Media",
-            "url": "./images/testing_positive_for_strep.jpeg"
+            "url": "./images/out_of_breath.jpeg"
         }
     ]
 }

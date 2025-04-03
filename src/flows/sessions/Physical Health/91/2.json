@@ -1,14 +1,14 @@
 {
-    "header_text": "Meeting Someone New",
+    "header_text": "Seeing an Old Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meeting Someone New"
+            "text": "Seeing an Old Friend"
         },
         {
             "type": "Media",
-            "url": "./images/meeting_someone_new.jpeg"
+            "url": "./images/seeing_an_old_friend.jpeg"
         }
     ]
 }

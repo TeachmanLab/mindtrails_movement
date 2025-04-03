@@ -1,24 +1,24 @@
 {
-    "header_text": "Speaking Up at Work",
+    "header_text": "New Skill",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you embarrassed that you raised your hand?"
+            "Text": "You will most likely"
         },
         {
             "type": "Buttons",
-            "name": "Speaking Up at Work_Work/Career Development_comp_question",
+            "name": "New Skill_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Quit this program because you are doing poorly.",
+                "Complete the program and learn some useful data science skills."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Quit this program because you are doing poorly."
         }
     ]
 }

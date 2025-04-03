@@ -1,14 +1,14 @@
 {
-    "header_text": "Trying Out a Funny Caption",
+    "header_text": "Not Feeling Supported",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trying Out a Funny Caption"
+            "text": "Not Feeling Supported"
         },
         {
             "type": "Media",
-            "url": "./images/trying_out_a_funny_caption.jpeg"
+            "url": "./images/not_feeling_supported.jpeg"
         }
     ]
 }

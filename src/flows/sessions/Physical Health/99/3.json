@@ -1,24 +1,14 @@
 {
-    "header_text": "Walking in the Cold",
+    "header_text": "Feeling Faint",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your rapid heartbeat scary?"
+            "text": "Instead of panicking, you decide to take a deep breathe. Slowly, your dizziness disappears and your stomach feels..."
         },
         {
-            "type": "Buttons",
-            "name": "Walking in the Cold_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "Feeling Faint_Physical Health_entry2"
         }
     ]
 }

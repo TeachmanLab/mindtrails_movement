@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Choice",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Making a Choice"
+            "text": "A Little Stumble"
         },
         {
             "type": "Media",
-            "url": "./images/making_a_choice.jpeg"
+            "url": "./images/a_little_stumble.jpeg"
         }
     ]
 }

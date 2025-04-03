@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Feedback",
+    "header_text": "Putting in the Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You sent an email to your department a few hours ago, asking for responses on a topic. You check to see who's responded and notice that your boss hasn't responded yet. You think about how your boss didn't read the email from you and you feel..."
+            "text": "This year, you've decided to take on more weekly hours. This is your first time working this many hours and you've heard from your peers that it's difficult. When you think about the workload, you think that you will be able to handle it..."
         },
         {
             "type": "Entry",
-            "name": "Social Media Feedback_Work/Career Development_entry1"
+            "name": "Putting in the Work_Work/Career Development_entry1"
         }
     ]
 }

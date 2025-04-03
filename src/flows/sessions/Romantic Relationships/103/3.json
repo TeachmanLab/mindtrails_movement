@@ -1,24 +1,24 @@
 {
-    "header_text": "For the First Time",
+    "header_text": "Marrying Your Partner",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be miserable on the date?"
+            "Text": "When you imagine a marriage to your significant other, you see"
         },
         {
             "type": "Buttons",
-            "name": "For the First Time_Romantic Relationships_comp_question",
+            "name": "Marrying Your Partner_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "The two of you growing together for the rest of your lives.",
+                "The relationship eventually breaking down."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "The relationship eventually breaking down."
         }
     ]
 }

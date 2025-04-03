@@ -1,15 +1,15 @@
 {
-    "header_text": "Worrying About Savings",
+    "header_text": "Paying for College",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you concerned about not saving right now?"
+            "Text": "Do you think you will have enough money to help pay for your grandchildren's college expenses?"
         },
         {
             "type": "Buttons",
-            "name": "Worrying About Savings_Finances_comp_question",
+            "name": "Paying for College_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

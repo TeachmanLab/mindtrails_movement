@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Down",
+    "header_text": "Rainy Weather",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Down"
+            "text": "Rainy Weather"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_down.jpeg"
+            "url": "./images/rainy_weather.jpeg"
         }
     ]
 }

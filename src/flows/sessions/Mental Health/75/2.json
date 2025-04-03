@@ -1,14 +1,14 @@
 {
-    "header_text": "Not Feeling Prepared",
+    "header_text": "High Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In one of your meetings recently, your boss asks everyone to raise their hands if they've heard of a work technique before. When you look around, you notice the majority of your coworkers have their hands raised, but you don't. This makes you feel like you're not prepared to do the..."
+            "text": "This year, you've been feeling very anxious, and you haven't been able to enjoy your life without worrying. You wonder what people in you life would think of you if you got help. You think that they would consider you to be... "
         },
         {
             "type": "Entry",
-            "name": "Not Feeling Prepared_Mental Health_entry1"
+            "name": "High Anxiety_Mental Health_entry1"
         }
     ]
 }

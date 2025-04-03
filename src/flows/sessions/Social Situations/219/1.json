@@ -1,14 +1,14 @@
 {
-    "header_text": "Book Club Dinner ",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Book Club Dinner "
+            "text": "Party with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/book_club_dinner.jpeg"
+            "url": "./images/party_with_friends.jpeg"
         }
     ]
 }

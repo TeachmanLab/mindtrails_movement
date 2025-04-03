@@ -1,14 +1,14 @@
 {
-    "header_text": "Disclosing Your Mental Health",
+    "header_text": "Family Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Disclosing Your Mental Health"
+            "text": "Family Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/disclosing_your_mental_health.jpeg"
+            "url": "./images/family_dinner.jpeg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Supporting Partner",
+    "header_text": "Family Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For the past few weeks, your partner has become more isolated and distant. You want to check in on their mental health, but this isn’t something you tend to talk about and you’re not sure how they’ll react. You decide to be upfront about your concerns, and they are very... "
+            "text": "Your family has not approved of your partner from the beginning and it is starting to get on your nerves. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation and you think it will go... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Supporting Partner_Romantic Relationships_puzzle1",
+            "name": "Family Communication_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "appreciative"
+                "well"
             ],
             "missing_letter_count": 1
         }

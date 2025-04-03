@@ -1,19 +1,19 @@
 {
-    "header_text": "Spiritual Journey",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will..."
+            "text": "You and your spouse have been married for a long time. Recently, you find yourself becoming easily angered with them over things that haven't made you upset in the past. Instead of fearing the future, you realize how your marriage is a... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Spiritual Journey_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "New Conflict With Spouse_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "adapt"
+                "commitment"
             ],
             "missing_letter_count": 1
         }

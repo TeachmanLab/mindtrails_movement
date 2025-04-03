@@ -1,19 +1,19 @@
 {
-    "header_text": "Visiting a New Friend",
+    "header_text": "Having Someone Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been invited to a friend's house for a holiday and you want to bring a gift, but can't afford to buy one. You decide to write a poem and recite it for their family. As you picture yourself reading it, you feel ..."
+            "text": "You invite a coworker over for dinner one night and you're in charge of the food. You aren't the best cook and you might embarrass yourself in front of your coworker. As your coworker arrives, you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Visiting a New Friend_Social Situations_puzzle1",
+            "name": "Having Someone Over_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "excited"
+                "calm"
             ],
             "missing_letter_count": 2
         }

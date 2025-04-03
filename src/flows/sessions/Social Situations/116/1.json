@@ -1,14 +1,14 @@
 {
-    "header_text": "Smelly Lunch",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Smelly Lunch"
+            "text": "Friends Hanging Out"
         },
         {
             "type": "Media",
-            "url": "./images/smelly_lunch.jpeg"
+            "url": "./images/friends_hanging_out.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Financial Dependence ",
+    "header_text": "Burn Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Financial Dependence "
+            "text": "Burn Out"
         },
         {
             "type": "Media",
-            "url": "./images/financial_dependence.jpeg"
+            "url": "./images/burn_out.jpeg"
         }
     ]
 }

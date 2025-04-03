@@ -1,14 +1,14 @@
 {
-    "header_text": "Breakfast with Friends",
+    "header_text": "New Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your friends want to grab breakfast together. You don’t want to miss out on spending time with them, but you’re trying not to eat out as much. When you tell them you’ll eat the food you have at home, you think they’ll be... "
+            "type": "Label",
+            "text": "New Home"
         },
         {
-            "type": "Entry",
-            "name": "Breakfast with Friends_Finances_entry1"
+            "type": "Media",
+            "url": "./images/new_home.jpeg"
         }
     ]
 }

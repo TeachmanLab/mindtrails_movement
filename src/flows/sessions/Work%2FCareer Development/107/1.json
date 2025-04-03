@@ -1,14 +1,14 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Getting an Opportunity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reviewing Your Work "
+            "text": "Getting an Opportunity"
         },
         {
             "type": "Media",
-            "url": "./images/reviewing_your_work.jpeg"
+            "url": "./images/getting_an_opportunity.jpeg"
         }
     ]
 }

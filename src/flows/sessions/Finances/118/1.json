@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Expenses",
+    "header_text": "Vacation Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Affording Expenses"
+            "text": "Vacation Costs"
         },
         {
             "type": "Media",
-            "url": "./images/affording_expenses.jpeg"
+            "url": "./images/vacation_costs.jpeg"
         }
     ]
 }

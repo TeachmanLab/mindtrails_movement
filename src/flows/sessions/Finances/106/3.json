@@ -1,15 +1,15 @@
 {
-    "header_text": "Partner's Spending",
+    "header_text": "Treating a Friend",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your partner be mad that you brought this up?"
+            "Text": "Will your friend be angry that you didn’t go out to eat?"
         },
         {
             "type": "Buttons",
-            "name": "Partner's Spending_Finances_comp_question",
+            "name": "Treating a Friend_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

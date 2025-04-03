@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching Your Breath",
+    "header_text": "A Toothache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Catching Your Breath"
+            "text": "A Toothache"
         },
         {
             "type": "Media",
-            "url": "./images/catching_your_breath.jpeg"
+            "url": "./images/a_toothache.jpeg"
         }
     ]
 }

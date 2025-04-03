@@ -1,14 +1,14 @@
 {
-    "header_text": "Positive Test",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Positive Test"
+            "text": "Walking with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/positive_test.jpeg"
+            "url": "./images/walking_with_a_friend.jpeg"
         }
     ]
 }

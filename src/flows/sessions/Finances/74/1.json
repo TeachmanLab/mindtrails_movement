@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend's Birthday",
+    "header_text": "Paying Credit Card",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friend's Birthday"
+            "text": "Paying Credit Card"
         },
         {
             "type": "Media",
-            "url": "./images/friend's_birthday.jpeg"
+            "url": "./images/paying_credit_card.jpeg"
         }
     ]
 }

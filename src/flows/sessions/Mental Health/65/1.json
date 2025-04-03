@@ -1,14 +1,14 @@
 {
-    "header_text": "Trying New Foods",
+    "header_text": "Driving flashback ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trying New Foods"
+            "text": "Driving flashback "
         },
         {
             "type": "Media",
-            "url": "./images/trying_new_foods.jpeg"
+            "url": "./images/driving_flashback.jpeg"
         }
     ]
 }

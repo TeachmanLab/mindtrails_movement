@@ -1,24 +1,15 @@
 {
-    "header_text": "Work Comparisons",
+    "header_text": "Not a lot of likes",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Were your coworkers trying to make you feel insecure about having trouble with your paperwork?"
+            "text": "You decide to reply all to a department-wide email to share an idea. It's been a few hours and no one has responded to your suggestion yet. \n\nClick Next to see some thoughts."
         },
         {
-            "type": "Buttons",
-            "name": "Work Comparisons_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/not_a_lot_of_likes.jpeg",
+            "border": true
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Learning Social Media Dances",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Learning Social Media Dances"
+            "text": "Important Opinion"
         },
         {
             "type": "Media",
-            "url": "./images/learning_social_media_dances.jpeg"
+            "url": "./images/important_opinion.jpeg"
         }
     ]
 }

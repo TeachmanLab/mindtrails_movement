@@ -1,19 +1,19 @@
 {
-    "header_text": "Taking Precautions ",
+    "header_text": "Longer Walks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your grandchildren are in elementary school. You're worried that a classmate might give them the flu, and your grandchildren might get really sick. You decide you'll help make sure they stay up to date on their flu shots and learn to wash their hands properly to keep them..."
+            "text": "You have been walking laps in your neighborhood and are thinking about walking a longer trail in the park. You enjoy the feeling of accomplishment when you finish walking, but you are worried about whether you have what it takes to push yourself more when you are farther away from..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Taking Precautions _Physical Health_puzzle1",
+            "name": "Longer Walks_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "safe"
+                "home"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Sharing With Support Group ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be... "
+            "text": "You have been asked to talk about your journey with PD in your support group. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people in the support group will react to your story, you believe they will be... "
         },
         {
             "type": "Entry",
-            "name": "Pool Time_Social Situations_entry1"
+            "name": "Sharing With Support Group _Social Situations_entry1"
         }
     ]
 }

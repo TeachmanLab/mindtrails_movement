@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentation Panic",
+    "header_text": "Dry Mouth Dilemma",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentation Panic"
+            "text": "Dry Mouth Dilemma"
         },
         {
             "type": "Media",
-            "url": "./images/presentation_panic.jpeg"
+            "url": "./images/dry_mouth_dilemma.jpeg"
         }
     ]
 }

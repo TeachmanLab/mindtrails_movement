@@ -1,19 +1,19 @@
 {
-    "header_text": "Issues While Shopping",
+    "header_text": "Coffee Shop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're hosting a dinner at your place with some neighborhood friends. When you go grocery shopping for the event, the price was more than you anticipated, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help..."
+            "text": "You are working on a project with a coworker at a small table in a coffee shop, and when your coffee arrives, you accidentally spill it all over their papers, which makes them jump in..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Issues While Shopping_Social Situations_puzzle1",
+            "name": "Coffee Shop_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "out"
+                "distress"
             ],
             "missing_letter_count": 1
         }

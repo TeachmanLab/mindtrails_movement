@@ -1,14 +1,14 @@
 {
-    "header_text": "Filing Your Taxes",
+    "header_text": "Insurance Claim",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Filing Your Taxes"
+            "text": "Insurance Claim"
         },
         {
             "type": "Media",
-            "url": "./images/filing_your_taxes.jpeg"
+            "url": "./images/insurance_claim.jpeg"
         }
     ]
 }

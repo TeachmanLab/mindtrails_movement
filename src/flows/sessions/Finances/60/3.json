@@ -1,15 +1,15 @@
 {
-    "header_text": "Managing Your Credit Card",
+    "header_text": "Dinner with Friends",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you continue to be anxious about paying your credit card?"
+            "Text": "Will your friends judge you for saying no?"
         },
         {
             "type": "Buttons",
-            "name": "Managing Your Credit Card_Finances_comp_question",
+            "name": "Dinner with Friends_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

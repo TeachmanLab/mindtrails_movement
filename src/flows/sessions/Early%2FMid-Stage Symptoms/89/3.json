@@ -1,0 +1,24 @@
+{
+    "header_text": "Holding the Phone",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your symptoms are affecting your social life..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Holding the Phone_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Positively",
+                "Negatively"
+            ],
+            "columnCount": 1,
+            "correct_value": "Negatively"
+        }
+    ]
+}

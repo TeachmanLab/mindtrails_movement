@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Resume",
+    "header_text": "Scheduling Conflicts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Resume"
+            "text": "Scheduling Conflicts"
         },
         {
             "type": "Media",
-            "url": "./images/your_resume.jpeg"
+            "url": "./images/scheduling_conflicts.jpeg"
         }
     ]
 }

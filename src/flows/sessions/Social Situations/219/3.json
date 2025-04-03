@@ -1,24 +1,24 @@
 {
-    "header_text": "Book Club Dinner ",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "The other book club members probably"
+            "Text": "Does your friend agree with you about not engaging with others?"
         },
         {
             "type": "Buttons",
-            "name": "Book Club Dinner _Social Situations_comp_question",
+            "name": "Party with Friends_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Will not want to be friends outside of the book club.",
-                "Will enjoy your company outside the book club."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Will enjoy your company outside the book club."
+            "correct_value": "Yes"
         }
     ]
 }

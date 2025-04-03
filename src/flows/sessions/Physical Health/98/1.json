@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Faint",
+    "header_text": "Spring Allergies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Faint"
+            "text": "Spring Allergies"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_faint.jpeg"
+            "url": "./images/spring_allergies.jpeg"
         }
     ]
 }

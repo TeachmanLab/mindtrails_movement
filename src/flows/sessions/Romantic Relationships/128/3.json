@@ -1,15 +1,15 @@
 {
-    "header_text": "Making Introductions",
+    "header_text": "New Partner",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you ask your kids about meeting your new partner?"
+            "Text": "Will your family approve of your partner?"
         },
         {
             "type": "Buttons",
-            "name": "Making Introductions_Romantic Relationships_comp_question",
+            "name": "New Partner_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

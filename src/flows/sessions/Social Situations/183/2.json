@@ -1,14 +1,14 @@
 {
-    "header_text": "New Apartment to Yourself",
+    "header_text": "Long Weekend Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You just moved to a new apartment and you are living alone for the first time in a while. Your days are very quiet and you often find yourself staying in on the weekends with much fewer plans  than you had when you were living with people. This feels like a relaxing change of..."
+            "type": "Label",
+            "text": "Long Weekend Alone"
         },
         {
-            "type": "Entry",
-            "name": "New Apartment to Yourself_Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/long_weekend_alone.jpeg"
         }
     ]
 }

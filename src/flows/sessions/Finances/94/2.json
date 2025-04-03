@@ -1,14 +1,14 @@
 {
-    "header_text": "Making Changes",
+    "header_text": "Financial Dependence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are doing your taxes and start worrying about what the coming years hold, especially in terms of your finances. When you think about the coming years, you know that you will be financially... "
+            "text": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be... "
         },
         {
             "type": "Entry",
-            "name": "Making Changes_Finances_entry1"
+            "name": "Financial Dependence _Finances_entry1"
         }
     ]
 }

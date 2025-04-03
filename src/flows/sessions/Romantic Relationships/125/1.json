@@ -1,14 +1,10 @@
 {
-    "header_text": "Future Relationships",
+    "header_text": "Manage Your Feelings: Romantic Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Future Relationships"
-        },
-        {
-            "type": "Media",
-            "url": "./images/future_relationships.jpeg"
+            "type": "Text",
+            "text": "Before you hang out with someone, plan a few talking-points to bring up during your conversation."
         }
     ]
 }

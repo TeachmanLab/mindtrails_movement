@@ -1,21 +1,21 @@
 {
-    "header_text": "Ghosting ",
+    "header_text": "Life Changes ",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be hung up on this experience forever? "
+            "Text": "Will distance make your relationship fall apart? "
         },
         {
             "type": "Buttons",
-            "name": "Ghosting _Romantic Relationships_comp_question",
+            "name": "Life Changes _Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"

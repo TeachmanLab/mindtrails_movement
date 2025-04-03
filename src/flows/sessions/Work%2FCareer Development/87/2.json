@@ -1,14 +1,14 @@
 {
-    "header_text": "A Crucial Call",
+    "header_text": "Social Media Feedback",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is..."
+            "text": "You sent an email to your department a few hours ago, asking for responses on a topic. You check to see who's responded and notice that your boss hasn't responded yet. You think about how your boss didn't read the email from you and you feel..."
         },
         {
             "type": "Entry",
-            "name": "A Crucial Call_Work/Career Development_entry1"
+            "name": "Social Media Feedback_Work/Career Development_entry1"
         }
     ]
 }

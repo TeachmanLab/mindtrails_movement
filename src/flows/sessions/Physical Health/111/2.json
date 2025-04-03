@@ -1,0 +1,21 @@
+{
+    "header_text": "Positive Test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently got tested for strep throat, and are expecting your results today. You are in the middle of a meeting when you hear your phone vibrating, and you wonder if you tested positive or negative. You check your voicemail and see that you tested... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Positive Test_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "positive"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

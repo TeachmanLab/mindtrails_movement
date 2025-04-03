@@ -1,14 +1,14 @@
 {
-    "header_text": "Discussing the Evaluation ",
+    "header_text": "Supportive Person ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Discussing the Evaluation "
+            "text": "Supportive Person "
         },
         {
             "type": "Media",
-            "url": "./images/discussing_the_evaluation.jpeg"
+            "url": "./images/supportive_person.jpeg"
         }
     ]
 }

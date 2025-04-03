@@ -1,14 +1,14 @@
 {
-    "header_text": "Life Changes ",
+    "header_text": "Big Families ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Life Changes "
+            "text": "Big Families "
         },
         {
             "type": "Media",
-            "url": "./images/life_changes.jpeg"
+            "url": "./images/big_families.jpeg"
         }
     ]
 }

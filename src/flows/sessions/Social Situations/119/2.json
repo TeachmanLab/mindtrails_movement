@@ -1,19 +1,19 @@
 {
-    "header_text": "Coffee Shop",
+    "header_text": "Borrowing from a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are working on a project with a coworker at a small table in a coffee shop, and when your coffee arrives, you accidentally spill it all over their papers, which makes them jump in..."
+            "text": "You borrowed your friend's charger today. When you get home, you notice that the charger is still in your backpack. You think that your friend will..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Coffee Shop_Social Situations_puzzle1",
+            "name": "Borrowing from a Friend_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "distress"
+                "understand"
             ],
             "missing_letter_count": 1
         }

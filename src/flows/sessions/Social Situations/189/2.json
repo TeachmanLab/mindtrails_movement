@@ -1,14 +1,14 @@
 {
-    "header_text": "New Opportunity for Friends",
+    "header_text": "New City New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have recently joined a new department within your job.  When you go to the first team meeting, you notice that most people have other friends to sit with. As you take a seat alone, you realize that there is always an opportunity make new friendships as the year..."
+            "text": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on and miss your close friends from your old city. You decide to spend more time with the people you have met so you can become closer..."
         },
         {
             "type": "Entry",
-            "name": "New Opportunity for Friends_Social Situations_entry1"
+            "name": "New City New Friends_Social Situations_entry1"
         }
     ]
 }

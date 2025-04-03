@@ -1,24 +1,24 @@
 {
-    "header_text": "Haircut Headache ",
+    "header_text": "Trying New Foods",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are others going to judge you when they see your haircut in the picture?"
+            "Text": "You respond to the spicy food by..."
         },
         {
             "type": "Buttons",
-            "name": "Haircut Headache _Mental Health_comp_question",
+            "name": "Trying New Foods_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Tolerating your heart racing and focusing on the conversation.",
+                "Continuing to worry about whether you have a medical issue."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Tolerating your heart racing and focusing on the conversation."
         }
     ]
 }

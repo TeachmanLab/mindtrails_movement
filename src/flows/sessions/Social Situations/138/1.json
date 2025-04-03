@@ -1,14 +1,14 @@
 {
-    "header_text": "Dinner at a Friend's House",
+    "header_text": "Trick or Treat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dinner at a Friend's House"
+            "text": "Trick or Treat"
         },
         {
             "type": "Media",
-            "url": "./images/dinner_at_a_friend's_house.jpeg"
+            "url": "./images/trick_or_treat.jpeg"
         }
     ]
 }

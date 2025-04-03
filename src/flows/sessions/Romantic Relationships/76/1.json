@@ -1,14 +1,14 @@
 {
-    "header_text": "Significant Other's Friend",
+    "header_text": "Divorce Statistics",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Significant Other's Friend"
+            "text": "Divorce Statistics"
         },
         {
             "type": "Media",
-            "url": "./images/significant_other's_friend.jpeg"
+            "url": "./images/divorce_statistics.jpeg"
         }
     ]
 }

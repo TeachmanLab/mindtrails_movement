@@ -1,21 +1,24 @@
 {
-    "header_text": "Hiking with Friends",
+    "header_text": "Sitting at the Library",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You look around and your friends are tiring too. You decide you will probably be..."
+            "Text": "Do you make the right decision to talk to the person sitting next to you?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Hiking with Friends_Physical Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "Sitting at the Library_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "alright"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Yes "
         }
     ]
 }

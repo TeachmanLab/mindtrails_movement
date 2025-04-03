@@ -1,15 +1,15 @@
 {
-    "header_text": "Joining a New Club",
+    "header_text": "Looking at your Resume",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you be involved in the book club discussion?"
+            "Text": "Are you qualified for these new jobs?"
         },
         {
             "type": "Buttons",
-            "name": "Joining a New Club_Mental Health_comp_question",
+            "name": "Looking at your Resume_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

@@ -1,24 +1,21 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Meeting New People",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your qualifications will"
+            "text": "You decide to take initiative and ask for their numbers. You feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Getting an Opportunity_Work/Career Development_comp_question",
+            "type": "WordPuzzle",
+            "name": "Meeting New People_Work/Career Development_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Put you in a good position to get an interview.",
-                "Are probably not strong enough to make you stand out."
+            "words": [
+                "hopeful"
             ],
-            "columnCount": 1,
-            "correct_value": "Put you in a good position to get an interview."
+            "missing_letter_count": 1
         }
     ]
 }

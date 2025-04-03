@@ -1,14 +1,14 @@
 {
-    "header_text": "Stress in Your Relationship",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Stress in Your Relationship"
+            "type": "Text",
+            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your..."
         },
         {
-            "type": "Media",
-            "url": "./images/stress_in_your_relationship.jpeg"
+            "type": "Entry",
+            "name": "Texting Your Crush_Romantic Relationships_entry1"
         }
     ]
 }

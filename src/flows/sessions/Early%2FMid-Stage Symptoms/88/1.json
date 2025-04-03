@@ -1,14 +1,14 @@
 {
-    "header_text": "Holding the Phone",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Holding the Phone"
+            "text": "Dismissive Doctor"
         },
         {
             "type": "Media",
-            "url": "./images/holding_the_phone.jpeg"
+            "url": "./images/dismissive_doctor.jpeg"
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "header_text": "Long Distance Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You reach the end of the trail and your friends are taking pictures. Even though you're anxious, you go look around and..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Long Distance Walk_Physical Health_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "smile"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

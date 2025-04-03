@@ -1,19 +1,19 @@
 {
-    "header_text": "Morning Meeting",
+    "header_text": "Social Media Self-Confidence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You arrive to a morning meeting exactly on time, but you are the last one to arrive. Your coworkers look at you as you pull out your chair, and it squeaks loudly. They all turn to look at you with a slight..."
+            "text": "You meet an attractive new coworker during a meeting. After work, they request to follow you on social media. Before you let them follow you, you look over your own feed and feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Morning Meeting_Social Situations_puzzle1",
+            "name": "Social Media Self-Confidence_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "frown"
+                "confident"
             ],
             "missing_letter_count": 1
         }

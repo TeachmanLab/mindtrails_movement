@@ -1,14 +1,14 @@
 {
-    "header_text": "Dry Difficulty",
+    "header_text": "Normal Functions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are talking to your friend about your day and suddenly you feel your throat go dry. You cough a little and reach for a glass of water. The water helps a little, and you realize that the dry throat was probably..."
+            "text": "You wear a shirt to work that hangs tightly around your armpits. In the middle of the day, you notice that you have sweat marks. After thinking about it, you realize that sweating throughout the day is..."
         },
         {
             "type": "Entry",
-            "name": "Dry Difficulty_Physical Health_entry1"
+            "name": "Normal Functions _Physical Health_entry1"
         }
     ]
 }

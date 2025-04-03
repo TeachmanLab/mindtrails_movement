@@ -1,0 +1,22 @@
+{
+    "header_text": "New grocery store: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're at a new grocery store and you're looking for bread. Suddenly you notice that your heart is beating quickly and pounding. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "My heartbeat is distracting me, but I will focus on my grocery list to stay grounded.",
+                "I must be having a panic attack!",
+                "I like the challenge of finding my favorite foods at this new store.",
+                "I wonder if I'm really sick, but I know this feeling won't last forever.",
+                "I probably feel my heart beating because I'm excited to try this new store."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

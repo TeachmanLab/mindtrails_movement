@@ -1,15 +1,15 @@
 {
-    "header_text": "Virtual Worry",
+    "header_text": "1, 2, 3. Eyes on Me",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did the other people think you sounded dumb? "
+            "Text": "Are you feeling prepared for your presentation?"
         },
         {
             "type": "Buttons",
-            "name": "Virtual Worry_Work/Career Development_comp_question",
+            "name": "1, 2, 3. Eyes on Me_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

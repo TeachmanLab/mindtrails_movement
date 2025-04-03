@@ -1,14 +1,14 @@
 {
-    "header_text": "Sitting at the Library",
+    "header_text": "Masks with Sensitive Skin",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sitting at the Library"
+            "text": "Masks with Sensitive Skin"
         },
         {
             "type": "Media",
-            "url": "./images/sitting_at_the_library.jpeg"
+            "url": "./images/masks_with_sensitive_skin.jpeg"
         }
     ]
 }

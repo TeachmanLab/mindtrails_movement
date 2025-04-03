@@ -1,14 +1,10 @@
 {
-    "header_text": "Unknown Sensations",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Unknown Sensations"
-        },
-        {
-            "type": "Media",
-            "url": "./images/unknown_sensations.jpeg"
+            "type": "Text",
+            "text": "Motivational Statement #21 \n\n A calmer mind is within reach. Practice your flexible thinking today! "
         }
     ]
 }

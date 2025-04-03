@@ -1,14 +1,14 @@
 {
-    "header_text": "Out of Your Control",
+    "header_text": "First Impressions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Out of Your Control"
+            "text": "First Impressions"
         },
         {
             "type": "Media",
-            "url": "./images/out_of_your_control.jpeg"
+            "url": "./images/first_impressions.jpeg"
         }
     ]
 }

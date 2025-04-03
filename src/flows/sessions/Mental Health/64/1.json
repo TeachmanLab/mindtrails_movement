@@ -1,14 +1,14 @@
 {
-    "header_text": "Driving flashback ",
+    "header_text": "Getting Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Driving flashback "
+            "text": "Getting Help"
         },
         {
             "type": "Media",
-            "url": "./images/driving_flashback.jpeg"
+            "url": "./images/getting_help.jpeg"
         }
     ]
 }

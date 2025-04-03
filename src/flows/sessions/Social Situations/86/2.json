@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Abandoned By a Close Friend",
+    "header_text": "Jacket Return",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you scroll through your social media accounts, you see that your closest friend is hanging out with someone you don't know. You wonder who this person is, and why you haven't heard about them. When you think about your friendship with this friend, you feel..."
+            "text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile, and stare at you looking very..."
         },
         {
             "type": "Entry",
-            "name": "Feeling Abandoned By a Close Friend_Social Situations_entry1"
+            "name": "Jacket Return_Social Situations_entry1"
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "header_text": "Asking Out Your Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Asking Out Your Friend_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "friendship"
+            ],
+            "missing_letter_count": 1
+        }
+    ]
+}

@@ -1,21 +1,24 @@
 {
-    "header_text": "Friend's Get Together",
+    "header_text": "Luncheon Looks",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize you told your friends you had a lot of other things you needed to do tonight. This makes you feel..."
+            "Text": "Did everyone at the luncheon like your new outfit?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Friend's Get Together_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Luncheon Looks_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ]
 }

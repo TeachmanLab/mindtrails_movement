@@ -1,14 +1,14 @@
 {
-    "header_text": "Dinner with Friends",
+    "header_text": "Budgeting Your Income",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dinner with Friends"
+            "text": "Budgeting Your Income"
         },
         {
             "type": "Media",
-            "url": "./images/dinner_with_friends.jpeg"
+            "url": "./images/budgeting_your_income.jpeg"
         }
     ]
 }

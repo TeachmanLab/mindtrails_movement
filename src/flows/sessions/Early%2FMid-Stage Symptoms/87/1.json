@@ -1,14 +1,14 @@
 {
-    "header_text": "Dismissive Doctor",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dismissive Doctor"
+            "text": "Name Recall "
         },
         {
             "type": "Media",
-            "url": "./images/dismissive_doctor.jpeg"
+            "url": "./images/name_recall.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Dating Apps",
+    "header_text": "Staying Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dating Apps"
+            "text": "Staying Together"
         },
         {
             "type": "Media",
-            "url": "./images/dating_apps.jpeg"
+            "url": "./images/staying_together.jpeg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "No Notifications",
+    "header_text": "Silent Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's pretty late in the day, and you haven't talked to your partner at all. You don't think you did anything to upset them, but it seems like they're ignoring you. You realize that they're probably just having a busy..."
+            "text": "You and your partner had a disagreement earlier that turned into a large fight. They haven't talked to you since then, and it's been a few hours. You think that they probably just need some alone time, and you'll talk again..."
         },
         {
             "type": "WordPuzzle",
-            "name": "No Notifications_Romantic Relationships_puzzle1",
+            "name": "Silent Partner_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "week"
+                "soon"
             ],
             "missing_letter_count": 2
         }

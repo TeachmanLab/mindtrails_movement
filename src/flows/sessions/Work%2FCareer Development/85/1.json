@@ -1,14 +1,14 @@
 {
-    "header_text": "Putting in the Work",
+    "header_text": "Prepare to Succeed",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Putting in the Work"
+            "text": "Prepare to Succeed"
         },
         {
             "type": "Media",
-            "url": "./images/putting_in_the_work.jpeg"
+            "url": "./images/prepare_to_succeed.jpeg"
         }
     ]
 }

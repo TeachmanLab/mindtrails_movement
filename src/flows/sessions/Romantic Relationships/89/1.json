@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #29 \n\n You are strong to confront the uncomfortable. Keep going."
+            "type": "Label",
+            "text": "Online Dating"
+        },
+        {
+            "type": "Media",
+            "url": "./images/online_dating.jpeg"
         }
     ]
 }

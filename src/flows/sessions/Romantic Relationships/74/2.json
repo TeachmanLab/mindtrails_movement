@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Rushed",
+    "header_text": "Dating Apps",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are single and pretty content with it. One day, your parents start pressuring you and telling you that you are running out of time to meet someone. You tell yourself that as long as you are content, there's no need to..."
+            "text": "You have been single for a while and would really like to meet someone. Your friends keep suggesting dating apps, but you don’t think this approach will work for you. You think about the many different ways to meet someone and feel... "
         },
         {
             "type": "Entry",
-            "name": "Feeling Rushed_Romantic Relationships_entry1"
+            "name": "Dating Apps_Romantic Relationships_entry1"
         }
     ]
 }

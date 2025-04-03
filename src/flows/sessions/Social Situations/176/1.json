@@ -1,14 +1,14 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Voicing Your Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Playing the Piano"
+            "text": "Voicing Your Feelings"
         },
         {
             "type": "Media",
-            "url": "./images/playing_the_piano.jpeg"
+            "url": "./images/voicing_your_feelings.jpeg"
         }
     ]
 }

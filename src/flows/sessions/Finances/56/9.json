@@ -1,0 +1,22 @@
+{
+    "header_text": "The Birthday gift: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend is having a huge birthday party and most of the people in your friend group will be there. Many of your friends are wealthier than you and can afford to give more expensive gifts. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I feel grateful to be invited.",
+                "I feel excited to get the party started.",
+                "I feel guilty about bringing a cheaper gift, but remind myself that my friend will probably still appreciate it.",
+                "I feel sad that I don't make as much money as my friends",
+                "I feel ashamed, but decide that thoughtful gifts are more meaningful than expensive ones."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

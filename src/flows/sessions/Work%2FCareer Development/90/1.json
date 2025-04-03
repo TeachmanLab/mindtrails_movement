@@ -1,14 +1,10 @@
 {
-    "header_text": "Lessons Learned",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Great job! You're making great progress trying out new perspectives tied to work and career development! Take a few minutes to reflect on the short stories you've read so far. What have you learned? What are your main takeaways? For instance, you might notice that nobody is perfect and it's normal to make mistakes sometimes."
-        },
-        {
-            "type": "Entry",
-            "name": "lessons_learned_Work/Career Development_80"
+            "text": "Motivational Statement #2 \n\n While you may not always feel like you're making progress, taking the time to try and change your thinking patterns combine to make a lot of small steps into a big difference in the right direction."
         }
     ]
 }

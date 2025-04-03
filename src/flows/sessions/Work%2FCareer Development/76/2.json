@@ -1,14 +1,14 @@
 {
-    "header_text": "Out of Your Control",
+    "header_text": "First Impressions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel..."
+            "text": "A new supervisor is hired for the department you are in, and you hear that he is very precise on how things are to be done. You meet him for the first time and talk about the upcoming month. Getting up to leave at the end of your meeting, you think that he found you to be..."
         },
         {
             "type": "Entry",
-            "name": "Out of Your Control_Work/Career Development_entry1"
+            "name": "First Impressions_Work/Career Development_entry1"
         }
     ]
 }

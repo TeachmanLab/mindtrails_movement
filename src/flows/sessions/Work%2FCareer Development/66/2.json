@@ -1,14 +1,21 @@
 {
-    "header_text": "Feeling Prepared ",
+    "header_text": "Virtual Worry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are giving a presentation at a meeting tomorrow. You know that the quality of your presentation will be taken into account by your boss. As you think about the presentation, you feel..."
+            "text": "Your boss asks a question to the group in your virtual meeting. You click the \"raise hand\" button and prepare your response. You think that you'll sound..."
         },
         {
-            "type": "Entry",
-            "name": "Feeling Prepared _Work/Career Development_entry1"
+            "type": "WordPuzzle",
+            "name": "Virtual Worry_Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "dumb"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cough After Going Out ",
+    "header_text": "Play Cancellation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cough After Going Out "
+            "text": "Play Cancellation"
         },
         {
             "type": "Media",
-            "url": "./images/cough_after_going_out.jpeg"
+            "url": "./images/play_cancellation.jpeg"
         }
     ]
 }

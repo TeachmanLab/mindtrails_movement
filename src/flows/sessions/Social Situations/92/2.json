@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Comparisons",
+    "header_text": "Being Talked About",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You notice there are a lot of attractive people posting pictures on a social media site. You are a bit uncomfortable posting a picture of yourself, but post anyway. You feel..."
+            "type": "Label",
+            "text": "Being Talked About"
         },
         {
-            "type": "Entry",
-            "name": "Social Media Comparisons_Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/being_talked_about.jpeg"
         }
     ]
 }

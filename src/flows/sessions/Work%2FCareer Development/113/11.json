@@ -1,0 +1,15 @@
+{
+    "header_text": "Trying your best: Write Some Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are presenting your progress on a project to your boss next week. Your personal life has been hectic recently, and you haven't had much time to devote to the project, leaving you with fewer updates to report than usual.\n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "show_buttons": "AfterTimeout",
+    "timeout": 30
+}

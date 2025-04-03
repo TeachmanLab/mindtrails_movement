@@ -1,0 +1,15 @@
+{
+    "header_text": "Spilled Coffee: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends are meeting for coffee. You go to the cafe and get coffee, and accidentally spill your coffee down the front of your new white shirt.\n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "show_buttons": "AfterTimeout",
+    "timeout": 30
+}

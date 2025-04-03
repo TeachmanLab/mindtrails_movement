@@ -1,14 +1,14 @@
 {
-    "header_text": "Disrupting the Silence",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You walk into a quiet meeting room a few minutes late. The door squeaks really loudly as you enter and your coworkers look in your direction. They are probably feeling..."
+            "text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question and you didn't hear it. You ask her to repeat her question and this makes you feel ..."
         },
         {
             "type": "Entry",
-            "name": "Disrupting the Silence_Social Situations_entry1"
+            "name": "Zoning Out_Social Situations_entry1"
         }
     ]
 }

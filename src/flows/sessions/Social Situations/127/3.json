@@ -1,21 +1,21 @@
 {
-    "header_text": "Social Media Self-Confidence",
+    "header_text": "Creative Confidence ",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you worried about what the other person thinks of your feed?"
+            "Text": "Are the people there negatively judging your costume?"
         },
         {
             "type": "Buttons",
-            "name": "Social Media Self-Confidence_Social Situations_comp_question",
+            "name": "Creative Confidence _Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"

@@ -1,14 +1,14 @@
 {
-    "header_text": "Different Music Tastes",
+    "header_text": "Visiting a New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Different Music Tastes"
+            "text": "Visiting a New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/different_music_tastes.jpeg"
+            "url": "./images/visiting_a_new_friend.jpeg"
         }
     ]
 }

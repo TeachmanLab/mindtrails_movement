@@ -1,14 +1,14 @@
 {
-    "header_text": "Late Friend",
+    "header_text": "Work Comparisons",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Late Friend"
+            "text": "Work Comparisons"
         },
         {
             "type": "Media",
-            "url": "./images/late_friend.jpeg"
+            "url": "./images/work_comparisons.jpeg"
         }
     ]
 }

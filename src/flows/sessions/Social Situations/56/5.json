@@ -1,0 +1,22 @@
+{
+    "header_text": "Spilled Coffee: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends are meeting for coffee. You go to the cafe and get coffee, and accidentally spill your coffee down the front of your new white shirt.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "My friends will get a kick out of this.",
+                "I will look clumsy in front of my friends.",
+                "My friends are embarrassed by me, but they won't remember this for very long.",
+                "This has probably happened to a lot of people.",
+                "I ruined the shirt, but now I have a reason to buy a new one."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

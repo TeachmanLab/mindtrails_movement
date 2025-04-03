@@ -1,24 +1,14 @@
 {
-    "header_text": "Managing Responsibilities",
+    "header_text": "Committing to Activities",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it okay to turn down additional responsibility?"
+            "text": "You realize that being back in-person is an adjustment, and it will take some time to get used to the business of an in-person workplace. You think that with everything you have going on, you're doing a great... "
         },
         {
-            "type": "Buttons",
-            "name": "Managing Responsibilities_Work/Career Development_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "Committing to Activities_Work/Career Development_entry2"
         }
     ]
 }

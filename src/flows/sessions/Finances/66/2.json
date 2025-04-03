@@ -1,14 +1,21 @@
 {
-    "header_text": "Starting a Small Business",
+    "header_text": "Worrying About Savings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are considering leaving your job to start your own small business and are ready to work hard. You are excited, but you also know that many start-ups can end up crashing and burning. Thinking about the future of your business, it will be... "
+            "text": "You hung out with some friends you haven't seen in a while, and you ended up on the topic of finances. While you thought your financial situation was stable, your friends start talking about the money they're putting away in savings for retirement. You've been using your money to pay for necessities, and haven't thought about starting to..."
         },
         {
-            "type": "Entry",
-            "name": "Starting a Small Business_Finances_entry1"
+            "type": "WordPuzzle",
+            "name": "Worrying About Savings_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "save"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

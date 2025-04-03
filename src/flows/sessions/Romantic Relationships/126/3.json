@@ -1,24 +1,21 @@
 {
-    "header_text": "New Partner",
+    "header_text": "Dating a Stranger ",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your family approve of your partner?"
+            "text": "As you think about going on your first date, you do not think that you will make a bad impression. You believe that your date will think you are..."
         },
         {
-            "type": "Buttons",
-            "name": "New Partner_Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dating a Stranger _Romantic Relationships_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "words": [
+                "interesting"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Sensational Party",
+    "header_text": "Friendly Neighbor",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "People will probably ..."
+            "Text": "Has your elder neighbor likely been sick?"
         },
         {
             "type": "Buttons",
-            "name": "Sensational Party_Physical Health_comp_question",
+            "name": "Friendly Neighbor_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Not see you sweat since the room is dimly lit.",
-                "Notice that you are sweating."
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Not see you sweat since the room is dimly lit."
+            "correct_value": "No"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Overhearing an Argument",
+    "header_text": "Third Wheel",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be... "
+            "text": "Two of your best friends are married to each other. While you enjoy hanging out with them, you can't help but feel like you're a third wheel. You realize that they hang with you together because they both think you're... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Overhearing an Argument_Romantic Relationships_puzzle1",
+            "name": "Third Wheel_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "okay"
+                "enjoyable"
             ],
             "missing_letter_count": 2
         }

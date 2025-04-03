@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching up to Friends",
+    "header_text": "Doctor's Appointment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means, and realize that it probably means that you walked..."
+            "text": "At your routine doctor's appointment, your doctor decides to run a few tests to evaluate your health. Your results will be ready within a week. While waiting for your results, you think that there will be no new..."
         },
         {
             "type": "Entry",
-            "name": "Catching up to Friends_Physical Health_entry1"
+            "name": "Doctor's Appointment_Physical Health_entry1"
         }
     ]
 }

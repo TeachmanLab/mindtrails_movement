@@ -1,14 +1,14 @@
 {
-    "header_text": "New Training Plan",
+    "header_text": "Friends Excluding You",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize your coworkers are more interested in your presentation than your hands. You continue your presentation, and as time passes, you discover that your nerves are..."
+            "text": "Your friends are planning a dinner for someone's birthday. You would have liked to have joined in, but your friends didn't include you. You feel..."
         },
         {
             "type": "Entry",
-            "name": "New Training Plan_Social Situations_entry2"
+            "name": "Friends Excluding You_Social Situations_entry1"
         }
     ]
 }

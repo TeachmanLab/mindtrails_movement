@@ -1,19 +1,19 @@
 {
-    "header_text": "Balancing Responsibilities",
+    "header_text": "Travel decisions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner's birthday is coming up, and you planned on buying them something nice. On top of this expense, your child broke their phone and needs a new one, and you don't know if you can afford both things at once. You decide to sit down and write out a budget to figure out a way to pay for both, and you feel... "
+            "text": "You are considering multiple options for where to go for vacation. You have only a little bit of information about each potential destination before you make your choice. When you decide, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Balancing Responsibilities_Family & Home Life_puzzle1",
+            "name": "Travel decisions_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "confident"
+                "satisfied"
             ],
             "missing_letter_count": 2
         }

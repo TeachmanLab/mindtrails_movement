@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Anxious",
+    "header_text": "Feeling Numb",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Anxious"
+            "text": "Feeling Numb"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_anxious.jpeg"
+            "url": "./images/feeling_numb.jpeg"
         }
     ]
 }

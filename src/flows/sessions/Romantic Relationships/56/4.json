@@ -1,0 +1,15 @@
+{
+    "header_text": "Attractive person on social media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While scrolling through a dating app, you see an attractive person you met at the grocery store last week. You decide to like their profile. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/attractive_person_on_social_media.jpeg",
+            "border": true
+        }
+    ]
+}

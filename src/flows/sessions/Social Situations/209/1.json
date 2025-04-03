@@ -1,14 +1,14 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Meeting New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Close Friend's Birthday"
+            "text": "Meeting New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/close_friend's_birthday.jpeg"
+            "url": "./images/meeting_new_friends.jpeg"
         }
     ]
 }

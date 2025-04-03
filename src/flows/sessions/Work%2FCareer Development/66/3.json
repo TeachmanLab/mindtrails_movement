@@ -1,0 +1,21 @@
+{
+    "header_text": "Virtual Worry",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You get called on and say your answer. Everyone probably thought you sounded.."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Virtual Worry_Work/Career Development_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "knowledgeable"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

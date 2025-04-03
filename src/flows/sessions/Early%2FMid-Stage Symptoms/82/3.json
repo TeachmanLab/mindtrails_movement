@@ -1,24 +1,24 @@
 {
-    "header_text": "Garden Planting",
+    "header_text": "Shopping For Party Supplies",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Taking a slower approach to garden work makes the experience more..."
+            "Text": "With the support of your spouse, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Garden Planting_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Shopping For Party Supplies_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Troublesome",
-                "Peaceful"
+                "Agitated",
+                "Grateful"
             ],
             "columnCount": 1,
-            "correct_value": "Peaceful"
+            "correct_value": "Grateful"
         }
     ]
 }

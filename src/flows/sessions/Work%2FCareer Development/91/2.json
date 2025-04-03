@@ -1,14 +1,14 @@
 {
-    "header_text": "Ready to Work",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ready to Work"
+            "text": "Waking Up Ready"
         },
         {
             "type": "Media",
-            "url": "./images/ready_to_work.jpeg"
+            "url": "./images/waking_up_ready.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Old Friends ",
+    "header_text": "Posting about Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Old Friends "
+            "text": "Posting about Family"
         },
         {
             "type": "Media",
-            "url": "./images/old_friends.jpeg"
+            "url": "./images/posting_about_family.jpeg"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "header_text": "Talking with Your Friend",
+    "header_text": "Posting New Content",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you looking forward to asking your friend a question?"
+            "Text": "Do you let the challenge of making creative posts hold you back? "
         },
         {
             "type": "Buttons",
-            "name": "Talking with Your Friend_Social Situations_comp_question",
+            "name": "Posting New Content_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ]
 }

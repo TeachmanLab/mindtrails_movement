@@ -1,24 +1,15 @@
 {
-    "header_text": "Texting Your Crush",
+    "header_text": "Clashing viewpoints",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your coworker want to ask you out on a date?"
+            "text": "You and your partner both have strong opinions and you don't always agree with each other. Over dinner one evening, you get into a heated argument about a topic that is a passion of yours.\n\nClick Next to see some thoughts."
         },
         {
-            "type": "Buttons",
-            "name": "Texting Your Crush_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/clashing_viewpoints.jpeg",
+            "border": true
         }
     ]
 }

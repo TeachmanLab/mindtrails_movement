@@ -1,14 +1,14 @@
 {
-    "header_text": "Intimacy and Communication",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Intimacy and Communication"
+            "text": "April Proposal"
         },
         {
             "type": "Media",
-            "url": "./images/intimacy_and_communication.jpeg"
+            "url": "./images/april_proposal.jpeg"
         }
     ]
 }

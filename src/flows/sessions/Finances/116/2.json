@@ -1,19 +1,19 @@
 {
-    "header_text": "Vacation Costs",
+    "header_text": "Food Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have... "
+            "text": "Recently, you've just wanted to spend time alone and don't have much motivation to get out of bed. You ordered delivery a few nights in a row, and spent much more money on takeout than you normally do. You realize that there are some easy meals you can handle making next week and start... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Vacation Costs_Finances_puzzle1",
+            "name": "Food Costs_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "fun"
+                "planning"
             ],
             "missing_letter_count": 2
         }

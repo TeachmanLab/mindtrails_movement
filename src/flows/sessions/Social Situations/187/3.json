@@ -1,0 +1,14 @@
+{
+    "header_text": "New Training Plan",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You realize your coworkers are more interested in your presentation than your hands. You continue your presentation, and as time passes, you discover that your nerves are..."
+        },
+        {
+            "type": "Entry",
+            "name": "New Training Plan_Social Situations_entry2"
+        }
+    ]
+}

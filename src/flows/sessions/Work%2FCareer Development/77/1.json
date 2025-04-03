@@ -1,14 +1,14 @@
 {
-    "header_text": "Different Expectations",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Different Expectations"
+            "text": "Out of Your Control"
         },
         {
             "type": "Media",
-            "url": "./images/different_expectations.jpeg"
+            "url": "./images/out_of_your_control.jpeg"
         }
     ]
 }

@@ -1,21 +1,24 @@
 {
-    "header_text": "Masks with Sensitive Skin",
+    "header_text": "Hard Walk",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "After thinking about it, you realize that you tend to notice aspects about yourself that others don't. You feel good about how you're protecting people by wearing your..."
+            "Text": "Is your struggle to walk a sign of being sick?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Masks with Sensitive Skin_Physical Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "Hard Walk_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "mask"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Work-Life Balance",
+    "header_text": "Feeling Pressure Going Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Work-Life Balance"
+            "text": "Feeling Pressure Going Out"
         },
         {
             "type": "Media",
-            "url": "./images/work-life_balance.jpeg"
+            "url": "./images/feeling_pressure_going_out.jpeg"
         }
     ]
 }

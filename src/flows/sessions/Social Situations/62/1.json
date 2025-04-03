@@ -1,14 +1,14 @@
 {
-    "header_text": "Overhearing your name",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overhearing your name"
+            "text": "Loud friend"
         },
         {
             "type": "Media",
-            "url": "./images/overhearing_your_name.jpeg"
+            "url": "./images/loud_friend.jpeg"
         }
     ]
 }

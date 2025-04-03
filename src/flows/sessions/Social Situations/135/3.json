@@ -1,21 +1,24 @@
 {
-    "header_text": "Saving Money",
+    "header_text": "Leaning on your Peers",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You need to save money so you always bring meals from home. When you eat with your friends, you notice that they all go out to eat every lunch. You realize that you have a different situation than your friends and that's..."
+            "Text": "Will your peers judge you for getting more negative evaluation results than them?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Saving Money_Social Situations_puzzle1",
+            "type": "Buttons",
+            "name": "Leaning on your Peers_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "ok"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

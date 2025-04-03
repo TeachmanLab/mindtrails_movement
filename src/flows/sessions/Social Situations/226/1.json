@@ -1,14 +1,10 @@
 {
-    "header_text": "Your Friend's Support",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Your Friend's Support"
-        },
-        {
-            "type": "Media",
-            "url": "./images/your_friend's_support.jpeg"
+            "type": "Text",
+            "text": "If you've had difficulty sleeping recently, try putting away your phone half an hour before bedtime."
         }
     ]
 }

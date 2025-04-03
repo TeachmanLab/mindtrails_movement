@@ -1,0 +1,22 @@
+{
+    "header_text": "Struggling with a Presentation: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During today's meeting, you have to present in front of your colleagues and boss. You've been struggling to put this presentation together, but you haven't reached out to your boss about it yet. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I feel insecure about the quality of my presentation, but nothing that I do will be perfect.",
+                "I'm worried about what my boss will say about my presentation.",
+                "I'm glad I have the self-awareness to know I need to talk to my boss soon.",
+                "I'm uneasy right now, but I can take a deep breath to help myself feel calmer.",
+                "I feel calm knowing that I tried my hardest no matter what happens."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

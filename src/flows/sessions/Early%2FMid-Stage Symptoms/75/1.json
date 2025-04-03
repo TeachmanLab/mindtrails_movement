@@ -1,14 +1,14 @@
 {
-    "header_text": "Thinking fast at work",
+    "header_text": "Book Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Thinking fast at work"
+            "text": "Book Club"
         },
         {
             "type": "Media",
-            "url": "./images/thinking_fast_at_work.jpeg"
+            "url": "./images/book_club.jpeg"
         }
     ]
 }

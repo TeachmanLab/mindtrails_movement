@@ -1,21 +1,14 @@
 {
-    "header_text": "Learning Social Media Dances",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're thinking about a new game you bought while you're at work. You really want to invite people over and learn how to play it, but you don't want to embarrass yourself in front of your coworkers. You decide not to bring it up since you are nervous, and you feel..."
+            "text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Learning Social Media Dances_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "words": [
-                "sad"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Important Opinion_Social Situations_entry1"
         }
     ]
 }

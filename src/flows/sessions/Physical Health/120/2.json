@@ -1,19 +1,19 @@
 {
-    "header_text": "Longer Walks",
+    "header_text": "Rescheduled Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been walking laps in your neighborhood and are thinking about walking a longer trail in the park. You enjoy the feeling of accomplishment when you finish walking, but you are worried about whether you have what it takes to push yourself more when you are farther away from..."
+            "text": "You've been wanting to go on a summer vacation to Europe for a few years. You rescheduled your trip from last summer to this upcoming summer, but you're worried getting sick will prevent you from finally going. You decide to see what happens, and you can always reschedule again if you need... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Longer Walks_Physical Health_puzzle1",
+            "name": "Rescheduled Vacation_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "home"
+                "to"
             ],
             "missing_letter_count": 1
         }

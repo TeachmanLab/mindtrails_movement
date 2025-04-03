@@ -1,14 +1,14 @@
 {
-    "header_text": "Zoning Out",
+    "header_text": "Feeling Abandoned By a Close Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question and you didn't hear it. You ask her to repeat her question and this makes you feel ..."
+            "text": "As you scroll through your social media accounts, you see that your closest friend is hanging out with someone you don't know. You wonder who this person is, and why you haven't heard about them. When you think about your friendship with this friend, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Zoning Out_Social Situations_entry1"
+            "name": "Feeling Abandoned By a Close Friend_Social Situations_entry1"
         }
     ]
 }

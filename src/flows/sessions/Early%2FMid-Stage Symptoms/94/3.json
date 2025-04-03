@@ -1,24 +1,21 @@
 {
-    "header_text": "Farmer's Market",
+    "header_text": "Difficulty Baking",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "The familiar vendors greet you with..."
+            "text": "You ask about how they're feeling, and they respond that they're trying to remember the answer to your question. This makes you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Farmer's Market_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Difficulty Baking_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Joy",
-                "Suspicion"
+            "words": [
+                "comforted"
             ],
-            "columnCount": 1,
-            "correct_value": "Joy"
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Breaking Up",
+    "header_text": "Meeting the Parents",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Breaking Up"
+            "text": "Meeting the Parents"
         },
         {
             "type": "Media",
-            "url": "./images/breaking_up.jpeg"
+            "url": "./images/meeting_the_parents.jpeg"
         }
     ]
 }

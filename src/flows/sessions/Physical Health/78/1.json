@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Stomach Ache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #21 \n\n A calmer mind is within reach. Practice your flexible thinking today! "
+            "type": "Label",
+            "text": "Stomach Ache"
+        },
+        {
+            "type": "Media",
+            "url": "./images/stomach_ache.jpeg"
         }
     ]
 }

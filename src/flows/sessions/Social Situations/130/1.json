@@ -1,14 +1,14 @@
 {
-    "header_text": "Meeting Rush",
+    "header_text": "Inside Jokes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meeting Rush"
+            "text": "Inside Jokes "
         },
         {
             "type": "Media",
-            "url": "./images/meeting_rush.jpeg"
+            "url": "./images/inside_jokes.jpeg"
         }
     ]
 }

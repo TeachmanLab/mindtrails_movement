@@ -1,24 +1,24 @@
 {
-    "header_text": "Catching Your Breath",
+    "header_text": "A Toothache",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does feeling winded scare you?"
+            "Text": "Can you handle going to the dentist?"
         },
         {
             "type": "Buttons",
-            "name": "Catching Your Breath_Physical Health_comp_question",
+            "name": "A Toothache_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

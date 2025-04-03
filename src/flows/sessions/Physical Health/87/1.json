@@ -1,14 +1,14 @@
 {
-    "header_text": "Upset Stomach",
+    "header_text": "Presentation Panic",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Upset Stomach"
+            "text": "Presentation Panic"
         },
         {
             "type": "Media",
-            "url": "./images/upset_stomach.jpeg"
+            "url": "./images/presentation_panic.jpeg"
         }
     ]
 }

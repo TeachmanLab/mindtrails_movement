@@ -1,21 +1,24 @@
 {
-    "header_text": "Creating Art ",
+    "header_text": "Talking to friends",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You then realize that you can adapt the way you currently create. Knowing that there are many ways to be an artist leaves you feeling..."
+            "Text": "When you talk, your friends are..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Creating Art _Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Talking to friends_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "hopeful"
+            "buttons": [
+                "Engaged",
+                "Confused"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Engaged"
         }
     ]
 }

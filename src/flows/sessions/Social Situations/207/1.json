@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Family's Car",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Family's Car"
+            "text": "Cooking a Casserole"
         },
         {
             "type": "Media",
-            "url": "./images/your_family's_car.jpeg"
+            "url": "./images/cooking_a_casserole.jpeg"
         }
     ]
 }

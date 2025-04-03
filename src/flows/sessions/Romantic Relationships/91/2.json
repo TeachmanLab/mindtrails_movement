@@ -1,14 +1,14 @@
 {
-    "header_text": "Yourself in Old Age ",
+    "header_text": "Long-Term Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yourself in Old Age "
+            "text": "Long-Term Relationship"
         },
         {
             "type": "Media",
-            "url": "./images/yourself_in_old_age.jpeg"
+            "url": "./images/long-term_relationship.jpeg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Ignored by a Friend",
+    "header_text": "Dinner at a Friend's House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You used your phone to send a photo to a friend, and you can see that they opened it but didn't respond to you. You've seen them posting other things online, so they're definitely on their phone. Your friend probably didn't respond because they..."
+            "text": "Your family doesn't do sit-down dinners together. Your friend invites you to join her family for dinner, and when you arrive, everyone sits at the table and starts asking questions about each other's days. When it's your turn, you're not sure how to respond, but after you say something, you feel.."
         },
         {
             "type": "WordPuzzle",
-            "name": "Ignored by a Friend_Social Situations_puzzle1",
+            "name": "Dinner at a Friend's House_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "forgot"
+                "calm"
             ],
             "missing_letter_count": 1
         }

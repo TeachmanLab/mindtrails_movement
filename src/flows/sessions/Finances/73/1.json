@@ -1,14 +1,14 @@
 {
-    "header_text": "Paying Credit Card",
+    "header_text": "Managing Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Paying Credit Card"
+            "text": "Managing Jobs"
         },
         {
             "type": "Media",
-            "url": "./images/paying_credit_card.jpeg"
+            "url": "./images/managing_jobs.jpeg"
         }
     ]
 }

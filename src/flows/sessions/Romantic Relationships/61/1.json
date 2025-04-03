@@ -1,14 +1,14 @@
 {
-    "header_text": "Overhearing an Argument",
+    "header_text": "Third Wheel",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overhearing an Argument"
+            "text": "Third Wheel"
         },
         {
             "type": "Media",
-            "url": "./images/overhearing_an_argument.jpeg"
+            "url": "./images/third_wheel.jpeg"
         }
     ]
 }

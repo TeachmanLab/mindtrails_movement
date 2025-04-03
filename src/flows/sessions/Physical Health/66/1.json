@@ -1,14 +1,14 @@
 {
-    "header_text": "An accidental bang",
+    "header_text": "Long Distance Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An accidental bang"
+            "text": "Long Distance Walk"
         },
         {
             "type": "Media",
-            "url": "./images/an_accidental_bang.jpeg"
+            "url": "./images/long_distance_walk.jpeg"
         }
     ]
 }

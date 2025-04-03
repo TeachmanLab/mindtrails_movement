@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Friend Neglecting Chores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "If you notice that you’re not feeling well, remember that there are a variety of low-stakes reasons why you might be feeling that way (e.g., you may be tired, you may have eaten something bad, etc.)"
+            "type": "Label",
+            "text": "Friend Neglecting Chores"
+        },
+        {
+            "type": "Media",
+            "url": "./images/friend_neglecting_chores.jpeg"
         }
     ]
 }

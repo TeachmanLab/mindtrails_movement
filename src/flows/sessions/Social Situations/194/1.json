@@ -1,14 +1,14 @@
 {
-    "header_text": "Vaccination Reassurance",
+    "header_text": "Sore Throat at Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vaccination Reassurance"
+            "text": "Sore Throat at Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/vaccination_reassurance.jpeg"
+            "url": "./images/sore_throat_at_dinner.jpeg"
         }
     ]
 }

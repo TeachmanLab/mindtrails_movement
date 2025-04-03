@@ -1,14 +1,14 @@
 {
-    "header_text": "Jacket Return",
+    "header_text": "Practicing Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that the person at the counter was very stressed out because of a previous customer, and once they started helping you, they were very..."
+            "text": "After the presentation, you realize that these mistakes are common. The supervisor probably thinks your recovery and ability to continue presenting was very..."
         },
         {
             "type": "Entry",
-            "name": "Jacket Return_Social Situations_entry2"
+            "name": "Practicing Presentation_Social Situations_entry2"
         }
     ]
 }

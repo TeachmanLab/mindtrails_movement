@@ -1,24 +1,24 @@
 {
-    "header_text": "Loan Repayment",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Taking steps to assess your finances makes you feel..."
+            "Text": "Swimming in the ocean with your nieces and nephews will be..."
         },
         {
             "type": "Buttons",
-            "name": "Loan Repayment_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Beach Vacation_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Organized",
-                "Ruined"
+                "Amusing",
+                "Unpleasant"
             ],
             "columnCount": 1,
-            "correct_value": "Organized"
+            "correct_value": "Amusing"
         }
     ]
 }

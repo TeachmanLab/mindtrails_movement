@@ -1,14 +1,14 @@
 {
-    "header_text": "No Response",
+    "header_text": "Your Friend's Support",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No Response"
+            "text": "Your Friend's Support"
         },
         {
             "type": "Media",
-            "url": "./images/no_response.jpeg"
+            "url": "./images/your_friend's_support.jpeg"
         }
     ]
 }

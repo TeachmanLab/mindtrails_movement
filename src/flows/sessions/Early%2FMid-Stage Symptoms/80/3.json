@@ -1,24 +1,21 @@
 {
-    "header_text": "Therapist after Diagnosis",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "You should be able to help your patients…"
+            "text": "You think about leaving your groceries and walking out before you remember a breathing exercise you learned in therapy. After a minute of this technique, you start to feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Therapist after Diagnosis_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Crowded Grocery Store_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Heal",
-                "Fail"
+            "words": [
+                "good"
             ],
-            "columnCount": 1,
-            "correct_value": "Heal"
+            "missing_letter_count": 1
         }
     ]
 }

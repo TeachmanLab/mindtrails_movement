@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Your Credit Card",
+    "header_text": "Dinner with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Managing Your Credit Card"
+            "text": "Dinner with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/managing_your_credit_card.jpeg"
+            "url": "./images/dinner_with_friends.jpeg"
         }
     ]
 }

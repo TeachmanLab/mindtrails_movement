@@ -1,14 +1,14 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "Close Friend's Birthday",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Keeping Up With Friends "
+            "text": "Close Friend's Birthday"
         },
         {
             "type": "Media",
-            "url": "./images/keeping_up_with_friends.jpeg"
+            "url": "./images/close_friend's_birthday.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "New Skill",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Skill"
+            "text": "Taking a Break"
         },
         {
             "type": "Media",
-            "url": "./images/new_skill.jpeg"
+            "url": "./images/taking_a_break.jpeg"
         }
     ]
 }

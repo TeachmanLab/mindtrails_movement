@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Expenses",
+    "header_text": "Treating Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at... "
+            "text": "You've had a lot going on recently, and haven't felt like yourself. You want to treat yourself to something you enjoy, but you aren't sure you have room in your budget. You decide to buy yourself something small that you can definitely..."
         },
         {
             "type": "Entry",
-            "name": "Affording Expenses_Finances_entry1"
+            "name": "Treating Yourself_Finances_entry1"
         }
     ]
 }

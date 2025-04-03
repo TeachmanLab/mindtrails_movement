@@ -1,14 +1,14 @@
 {
-    "header_text": "Ghosting ",
+    "header_text": "Life Changes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ghosting "
+            "text": "Life Changes "
         },
         {
             "type": "Media",
-            "url": "./images/ghosting.jpeg"
+            "url": "./images/life_changes.jpeg"
         }
     ]
 }

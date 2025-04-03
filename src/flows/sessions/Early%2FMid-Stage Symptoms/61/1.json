@@ -1,14 +1,14 @@
 {
-    "header_text": "Paying With Cash",
+    "header_text": "Symptoms at Shopping Mall",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Paying With Cash"
+            "text": "Symptoms at Shopping Mall"
         },
         {
             "type": "Media",
-            "url": "./images/paying_with_cash.jpeg"
+            "url": "./images/symptoms_at_shopping_mall.jpeg"
         }
     ]
 }

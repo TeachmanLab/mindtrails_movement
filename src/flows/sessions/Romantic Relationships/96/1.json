@@ -1,14 +1,14 @@
 {
-    "header_text": "Awkward Conversations",
+    "header_text": "Shy Significant Other",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Awkward Conversations"
+            "text": "Shy Significant Other"
         },
         {
             "type": "Media",
-            "url": "./images/awkward_conversations.jpeg"
+            "url": "./images/shy_significant_other.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Wearing Something Old",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Wearing Something Old"
+            "text": "Sharing Favorite Shows"
         },
         {
             "type": "Media",
-            "url": "./images/wearing_something_old.jpeg"
+            "url": "./images/sharing_favorite_shows.jpeg"
         }
     ]
 }

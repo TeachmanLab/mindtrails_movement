@@ -1,24 +1,21 @@
 {
-    "header_text": "Sitting at the Library",
+    "header_text": "Masks with Sensitive Skin",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you make the right decision to talk to the person sitting next to you?"
+            "text": "After thinking about it, you realize that you tend to notice aspects about yourself that others don't. You feel good about how you're protecting people by wearing your..."
         },
         {
-            "type": "Buttons",
-            "name": "Sitting at the Library_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Masks with Sensitive Skin_Physical Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "words": [
+                "mask"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes "
+            "missing_letter_count": 1
         }
     ]
 }

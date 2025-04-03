@@ -1,14 +1,14 @@
 {
-    "header_text": "Asking Out Your Friend",
+    "header_text": "Significant Other's Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your... "
+            "text": "Your spouse took you to hang out with one of their good friends. Watching them interact, you feel like the friend is romantically interested in your partner. You remind yourself that your partner sees this person as a..."
         },
         {
             "type": "Entry",
-            "name": "Asking Out Your Friend_Romantic Relationships_entry1"
+            "name": "Significant Other's Friend_Romantic Relationships_entry1"
         }
     ]
 }

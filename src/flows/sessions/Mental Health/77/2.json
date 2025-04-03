@@ -1,14 +1,14 @@
 {
-    "header_text": "New Style ",
+    "header_text": "A Moment of Forgetfulness",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You go shopping at your favorite clothes store. You see an outfit that you love but do not believe it is right for your body type. After you get it and try it on, you want to buy it despite it not being something you typically... "
+            "text": "You remembered that you need milk from the store, so on your way home, you stop to get it. When you walk into the store, you suddenly forget why you are there, which you find a bit troubling. You check your to-do list and decide you can still continue on with your day with..."
         },
         {
             "type": "Entry",
-            "name": "New Style _Mental Health_entry1"
+            "name": "A Moment of Forgetfulness_Mental Health_entry1"
         }
     ]
 }

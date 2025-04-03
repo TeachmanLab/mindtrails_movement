@@ -1,14 +1,14 @@
 {
-    "header_text": "Staying Together",
+    "header_text": "Finding The One",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Staying Together"
+            "text": "Finding The One"
         },
         {
             "type": "Media",
-            "url": "./images/staying_together.jpeg"
+            "url": "./images/finding_the_one.jpeg"
         }
     ]
 }

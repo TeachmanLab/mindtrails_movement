@@ -1,14 +1,14 @@
 {
-    "header_text": "Sensational Party",
+    "header_text": "Friendly Neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sensational Party"
+            "text": "Friendly Neighbor"
         },
         {
             "type": "Media",
-            "url": "./images/sensational_party.jpeg"
+            "url": "./images/friendly_neighbor.jpeg"
         }
     ]
 }

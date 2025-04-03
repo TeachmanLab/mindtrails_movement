@@ -1,0 +1,22 @@
+{
+    "header_text": "Spilled Coffee: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends are meeting for coffee. You go to the cafe and get coffee, and accidentally spill your coffee down the front of your new white shirt.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I'm embarrassed that I have this stain on my white shirt, but no one was hurt and it's not a big deal.",
+                "I'm mad that I wasted my money, but know that I'll be ok.",
+                "I feel lucky I didn't drop the whole coffee.",
+                "I feel like a fool.",
+                "I'm confident that I will get the stain out."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

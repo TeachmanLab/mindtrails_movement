@@ -1,19 +1,19 @@
 {
-    "header_text": "Taking a Call",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After you hang up, you realize that although everyone could hear your conversation, it was a short call and you were being as quiet as possible. You believe that your coworkers probably think calling your father from work means you are..."
+            "text": "After a moment, you remember situations where you and your coworkers have laughed about things unrelated to who is speaking. You move on from their laughter and complete your presentation..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Taking a Call_Social Situations_puzzle_word2",
+            "name": "Corner Laughter_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "caring"
+                "successfully"
             ],
             "missing_letter_count": 1
         }

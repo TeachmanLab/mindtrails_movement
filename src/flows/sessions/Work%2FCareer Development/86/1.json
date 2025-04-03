@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Feedback",
+    "header_text": "Putting in the Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Feedback"
+            "text": "Putting in the Work"
         },
         {
             "type": "Media",
-            "url": "./images/social_media_feedback.jpeg"
+            "url": "./images/putting_in_the_work.jpeg"
         }
     ]
 }

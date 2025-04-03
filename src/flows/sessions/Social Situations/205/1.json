@@ -1,14 +1,14 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Pool Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Close Friend's Birthday"
+            "text": "Pool Time"
         },
         {
             "type": "Media",
-            "url": "./images/close_friend's_birthday.jpeg"
+            "url": "./images/pool_time.jpeg"
         }
     ]
 }

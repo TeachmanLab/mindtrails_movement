@@ -1,0 +1,14 @@
+{
+    "header_text": "An accidental bang",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One evening, you are climbing the stairs and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has..."
+        },
+        {
+            "type": "Entry",
+            "name": "An accidental bang_Physical Health_entry1"
+        }
+    ]
+}

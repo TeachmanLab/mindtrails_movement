@@ -1,14 +1,14 @@
 {
-    "header_text": "Shopping For Party Supplies",
+    "header_text": "Therapist after Diagnosis",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Shopping For Party Supplies"
+            "text": "Therapist after Diagnosis"
         },
         {
             "type": "Media",
-            "url": "./images/shopping_for_party_supplies.jpeg"
+            "url": "./images/therapist_after_diagnosis.jpeg"
         }
     ]
 }

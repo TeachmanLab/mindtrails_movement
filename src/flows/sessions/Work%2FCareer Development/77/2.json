@@ -1,14 +1,14 @@
 {
-    "header_text": "Different Expectations",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You check online to see if you were selected for a raise. You see that you were not, although you expected to be. You think about what this will mean for your future, and know everything will be..."
+            "text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel..."
         },
         {
             "type": "Entry",
-            "name": "Different Expectations_Work/Career Development_entry1"
+            "name": "Out of Your Control_Work/Career Development_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Asking Out Your Friend",
+    "header_text": "Significant Other's Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Asking Out Your Friend"
+            "text": "Significant Other's Friend"
         },
         {
             "type": "Media",
-            "url": "./images/asking_out_your_friend.jpeg"
+            "url": "./images/significant_other's_friend.jpeg"
         }
     ]
 }

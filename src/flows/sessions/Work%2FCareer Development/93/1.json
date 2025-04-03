@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconnecting With People",
+    "header_text": "Taking Your Own Career Path",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconnecting With People"
+            "text": "Taking Your Own Career Path"
         },
         {
             "type": "Media",
-            "url": "./images/reconnecting_with_people.jpeg"
+            "url": "./images/taking_your_own_career_path.jpeg"
         }
     ]
 }

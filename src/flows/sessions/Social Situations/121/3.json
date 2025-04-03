@@ -1,24 +1,21 @@
 {
-    "header_text": "Issues While Shopping",
+    "header_text": "Coffee Shop",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are your friends upset with you about dessert?"
+            "text": "After you clean up the mess as best as you can, you realize that their response was a normal, knee-jerk reaction. They say that they are not upset with you, and you believe that they are..."
         },
         {
-            "type": "Buttons",
-            "name": "Issues While Shopping_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Coffee Shop_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "sincere"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

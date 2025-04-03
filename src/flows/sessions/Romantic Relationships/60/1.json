@@ -1,14 +1,14 @@
 {
-    "header_text": "Third Wheel",
+    "header_text": "Family Not Approving of Significant Other",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Third Wheel"
+            "text": "Family Not Approving of Significant Other"
         },
         {
             "type": "Media",
-            "url": "./images/third_wheel.jpeg"
+            "url": "./images/family_not_approving_of_significant_other.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Rushed",
+    "header_text": "Dating Apps",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Rushed"
+            "text": "Dating Apps"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_rushed.jpeg"
+            "url": "./images/dating_apps.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Noisy Neighbors",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Noisy Neighbors"
+            "text": "Using Different Technology"
         },
         {
             "type": "Media",
-            "url": "./images/noisy_neighbors.jpeg"
+            "url": "./images/using_different_technology.jpeg"
         }
     ]
 }

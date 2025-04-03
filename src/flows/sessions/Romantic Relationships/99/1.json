@@ -1,14 +1,14 @@
 {
-    "header_text": "Putting Yourself Out There",
+    "header_text": "Jealousy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Putting Yourself Out There"
+            "text": "Jealousy"
         },
         {
             "type": "Media",
-            "url": "./images/putting_yourself_out_there.jpeg"
+            "url": "./images/jealousy.jpeg"
         }
     ]
 }

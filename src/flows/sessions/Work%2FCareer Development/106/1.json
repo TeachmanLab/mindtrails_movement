@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Meeting New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting an Opportunity"
+            "text": "Meeting New People"
         },
         {
             "type": "Media",
-            "url": "./images/getting_an_opportunity.jpeg"
+            "url": "./images/meeting_new_people.jpeg"
         }
     ]
 }

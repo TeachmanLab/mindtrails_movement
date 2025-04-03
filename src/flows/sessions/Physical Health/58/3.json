@@ -1,24 +1,24 @@
 {
-    "header_text": "Trampoline Safety",
+    "header_text": "Riding a boat",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "As you continue to watch your kids on the trampoline, you will probably ..."
+            "Text": "Once you reach the turn, you will probably ..."
         },
         {
             "type": "Buttons",
-            "name": "Trampoline Safety_Physical Health_comp_question",
+            "name": "Riding a boat_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Worry they will hurt themselves.",
-                "Enjoy seeing them have fun."
+                "Clear it and continue boating fine.",
+                "Flip the boat"
             ],
             "columnCount": 1,
-            "correct_value": "Enjoy seeing them have fun."
+            "correct_value": "Clear it and continue boating fine."
         }
     ]
 }

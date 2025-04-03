@@ -1,14 +1,10 @@
 {
-    "header_text": "An international flight",
+    "header_text": "Manage Your Feelings: Mental Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "An international flight"
-        },
-        {
-            "type": "Media",
-            "url": "./images/an_international_flight.jpeg"
+            "type": "Text",
+            "text": "Make a list of activities you enjoy that do not cost any money."
         }
     ]
 }

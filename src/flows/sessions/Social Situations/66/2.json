@@ -1,19 +1,19 @@
 {
-    "header_text": "Old friend ",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a festival, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are..."
+            "text": "After a long day of shopping, you enter a cafe with a lot of bags and notice that the only empty seat is across from somebody else. As you sit down, the customer across from you doesn’t look at you. This is probably because they are lost in..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Old friend _Social Situations_puzzle1",
+            "name": "Busy cafe_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "distracted"
+                "thought"
             ],
             "missing_letter_count": 2
         }

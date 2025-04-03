@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Money Troubles",
+    "header_text": "Recovering from the Flu",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Money Troubles"
+            "text": "Recovering from the Flu"
         },
         {
             "type": "Media",
-            "url": "./images/family_money_troubles.jpeg"
+            "url": "./images/recovering_from_the_flu.jpeg"
         }
     ]
 }

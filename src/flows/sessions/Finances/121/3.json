@@ -1,24 +1,21 @@
 {
-    "header_text": "Worrying About Spending",
+    "header_text": "Planning Payments",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you comfortable passing up on this dinner?"
+            "text": "You do not see yourself making a big mistake, and think that the plan you choose will leave you in a financial position that is..."
         },
         {
-            "type": "Buttons",
-            "name": "Worrying About Spending_Finances_comp_question",
+            "type": "WordPuzzle",
+            "name": "Planning Payments_Finances_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "words": [
+                "solid"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ]
 }

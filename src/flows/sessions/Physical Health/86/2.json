@@ -1,14 +1,14 @@
 {
-    "header_text": "Presentation Panic",
+    "header_text": "Dry Mouth Dilemma",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are giving a presentation that you have been really nervous to give. As you talk, you feel a lump in your throat and you start to cough. These feelings probably mean that you are..."
+            "text": "You have experienced a dry mouth for a few days. This is something you haven't felt before. The likelihood that dry mouth means a serious health problem is..."
         },
         {
             "type": "Entry",
-            "name": "Presentation Panic_Physical Health_entry1"
+            "name": "Dry Mouth Dilemma_Physical Health_entry1"
         }
     ]
 }

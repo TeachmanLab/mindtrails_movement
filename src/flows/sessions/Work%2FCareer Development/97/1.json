@@ -1,14 +1,14 @@
 {
-    "header_text": "Misunderstanding",
+    "header_text": "Wrapping Up Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Misunderstanding"
+            "text": "Wrapping Up Work"
         },
         {
             "type": "Media",
-            "url": "./images/misunderstanding.jpeg"
+            "url": "./images/wrapping_up_work.jpeg"
         }
     ]
 }

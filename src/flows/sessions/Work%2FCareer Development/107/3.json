@@ -1,24 +1,24 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Getting an Opportunity",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your boss likely feels that"
+            "Text": "Your qualifications will"
         },
         {
             "type": "Buttons",
-            "name": "Reviewing Your Work _Work/Career Development_comp_question",
+            "name": "Getting an Opportunity_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Most of your work has been of very high quality.",
-                "Your mistakes have been serious and unacceptable."
+                "Put you in a good position to get an interview.",
+                "Are probably not strong enough to make you stand out."
             ],
             "columnCount": 1,
-            "correct_value": "Most of your work has been of very high quality."
+            "correct_value": "Put you in a good position to get an interview."
         }
     ]
 }

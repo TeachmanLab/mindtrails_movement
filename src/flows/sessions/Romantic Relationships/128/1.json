@@ -1,14 +1,14 @@
 {
-    "header_text": "Making Introductions",
+    "header_text": "New Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Making Introductions"
+            "text": "New Partner"
         },
         {
             "type": "Media",
-            "url": "./images/making_introductions.jpeg"
+            "url": "./images/new_partner.jpeg"
         }
     ]
 }

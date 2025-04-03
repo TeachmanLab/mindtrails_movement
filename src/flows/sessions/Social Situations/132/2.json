@@ -1,19 +1,19 @@
 {
-    "header_text": "Taking Charge",
+    "header_text": "Meeting Rush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "During your department meeting over Zoom, you're placed into breakout rooms. When you start the discussion, your camera is on but everyone else leaves their cameras off and their mics muted. You think that the others will think that you are..."
+            "text": "You run to a meeting at work because you think you might be late. You make it to the meeting room on time, but you are breathing heavily and feel embarrassed because people are looking at you. As you sit down, to calm yourself, you decide to focus on your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Taking Charge_Social Situations_puzzle1",
+            "name": "Meeting Rush_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "ready"
+                "breath"
             ],
             "missing_letter_count": 1
         }

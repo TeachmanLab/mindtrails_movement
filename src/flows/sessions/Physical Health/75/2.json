@@ -1,14 +1,14 @@
 {
-    "header_text": "Long Walk Outside",
+    "header_text": "Dry Mouth",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is..."
+            "text": "You have experienced dry mouth for a few days. This is something you haven't felt before. The likelihood that dry mouth means a serious health problem is..."
         },
         {
             "type": "Entry",
-            "name": "Long Walk Outside_Physical Health_entry1"
+            "name": "Dry Mouth_Physical Health_entry1"
         }
     ]
 }

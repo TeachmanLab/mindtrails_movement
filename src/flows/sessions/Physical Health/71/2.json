@@ -1,14 +1,14 @@
 {
-    "header_text": "Poisonous Snakes",
+    "header_text": "Broken Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend convinces you to go on a walk through a local park. You have heard that there are poisonous snakes in that park and start to feel worried. You think that the chances that you will see that kind of snake are ..."
+            "text": "Your car is broken again and you have to walk a few blocks to get to where you need to go. You feel your chest tighten and you feel out of breath as you reach your destination. You feel..."
         },
         {
             "type": "Entry",
-            "name": "Poisonous Snakes_Physical Health_entry1"
+            "name": "Broken Car_Physical Health_entry1"
         }
     ]
 }

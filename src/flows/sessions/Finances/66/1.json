@@ -1,14 +1,14 @@
 {
-    "header_text": "Starting a Small Business",
+    "header_text": "Worrying About Savings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Starting a Small Business"
+            "text": "Worrying About Savings"
         },
         {
             "type": "Media",
-            "url": "./images/starting_a_small_business.jpeg"
+            "url": "./images/worrying_about_savings.jpeg"
         }
     ]
 }

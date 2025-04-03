@@ -1,14 +1,14 @@
 {
-    "header_text": "Stomach Ache",
+    "header_text": "Walking Hard",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Stomach Ache"
+            "text": "Walking Hard"
         },
         {
             "type": "Media",
-            "url": "./images/stomach_ache.jpeg"
+            "url": "./images/walking_hard.jpeg"
         }
     ]
 }

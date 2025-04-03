@@ -1,15 +1,15 @@
 {
-    "header_text": "No Response",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it okay that your boss still hasn't answered your email yet?"
+            "Text": "Will your friends make fun of your sweat marks on your shirt? "
         },
         {
             "type": "Buttons",
-            "name": "No Response_Social Situations_comp_question",
+            "name": "Sweat Stains_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ]
 }

@@ -1,24 +1,21 @@
 {
-    "header_text": "Mental Health Resources",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you unable to help your partner? "
+            "text": "Your coworker doesn't seem to be asking for work reasons and will probably use your phone number to ask you.."
         },
         {
-            "type": "Buttons",
-            "name": "Mental Health Resources_Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Texting Your Crush_Romantic Relationships_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "words": [
+                "out"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

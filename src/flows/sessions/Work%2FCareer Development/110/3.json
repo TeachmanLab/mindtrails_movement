@@ -1,21 +1,24 @@
 {
     "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "As you look over your resume, you do not anticipate your potential employer writing you off, and you think that the interviewer will be..."
+            "Text": "Your potential employer will probably think"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your Resume_Work/Career Development_puzzle_word2",
+            "type": "Buttons",
+            "name": "Your Resume_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "impressed"
+            "buttons": [
+                "That your listed skills are unimpressive.",
+                "That your previous experience is a good fit for the job."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "That your previous experience is a good fit for the job."
         }
     ]
 }

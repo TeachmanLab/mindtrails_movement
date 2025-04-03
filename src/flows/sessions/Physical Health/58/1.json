@@ -1,14 +1,14 @@
 {
-    "header_text": "Trampoline Safety",
+    "header_text": "Riding a boat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trampoline Safety"
+            "text": "Riding a boat"
         },
         {
             "type": "Media",
-            "url": "./images/trampoline_safety.jpeg"
+            "url": "./images/riding_a_boat.jpeg"
         }
     ]
 }

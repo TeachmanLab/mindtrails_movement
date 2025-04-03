@@ -1,14 +1,14 @@
 {
-    "header_text": "Doctor's Appointment",
+    "header_text": "Poisonous Snakes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Doctor's Appointment"
+            "text": "Poisonous Snakes"
         },
         {
             "type": "Media",
-            "url": "./images/doctor's_appointment.jpeg"
+            "url": "./images/poisonous_snakes.jpeg"
         }
     ]
 }

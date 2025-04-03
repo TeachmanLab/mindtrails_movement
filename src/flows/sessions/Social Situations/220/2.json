@@ -1,19 +1,19 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "New Environment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be..."
+            "text": "You are afraid of the wilderness. This weekend, you are going walking with friends and you know wild animals have been frequently spotted in the area. As you think about the outing, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Keeping Up With Friends _Social Situations_puzzle1",
+            "name": "New Environment_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "upset"
+                "scared"
             ],
             "missing_letter_count": 1
         }

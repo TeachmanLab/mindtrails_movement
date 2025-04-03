@@ -1,0 +1,22 @@
+{
+    "header_text": "Financial responsibilities: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner was in the hospital recently and you have been helping to pay their medical bills. You wonder what this will mean for your finances moving forward.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I want to avoid the situation, but I choose to tackle it head-on.",
+                "I want to bury my emotions, but I decide to share how I'm feeling with my partner.",
+                "I avoid dealing with the medical bills.",
+                "I adjust my budget so I can be prepared for situations like this in the future.",
+                "I talk to my partner about our finances and make a plan."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

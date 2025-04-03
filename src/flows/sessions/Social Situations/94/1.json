@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding a Place to Sit",
+    "header_text": "Using What You Have",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Finding a Place to Sit"
+            "text": "Using What You Have"
         },
         {
             "type": "Media",
-            "url": "./images/finding_a_place_to_sit.jpeg"
+            "url": "./images/using_what_you_have.jpeg"
         }
     ]
 }

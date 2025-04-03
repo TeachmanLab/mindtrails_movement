@@ -1,24 +1,21 @@
 {
     "header_text": "Affording Expenses",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "In the coming month, you see yourself"
+            "text": "Thinking about your ability to make the payment, you don't expect to be late on your rent, and your funds will be..."
         },
         {
-            "type": "Buttons",
-            "name": "Affording Expenses_Finances_comp_question",
+            "type": "WordPuzzle",
+            "name": "Affording Expenses_Finances_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Falling behind on your rent.",
-                "Paying your rent bill fully."
+            "words": [
+                "enough"
             ],
-            "columnCount": 1,
-            "correct_value": "Falling behind on your rent."
+            "missing_letter_count": 2
         }
     ]
 }

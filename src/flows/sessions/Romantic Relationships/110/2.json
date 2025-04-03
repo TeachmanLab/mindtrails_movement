@@ -1,19 +1,19 @@
 {
-    "header_text": "Asking Out Your Friend",
+    "header_text": "Ghosting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your... "
+            "text": "You’ve been talking to someone from a dating app. About a week ago, they stopped texting you and you haven’t heard anything since. Though you enjoyed the conversation, you are moving on and that’s... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Asking Out Your Friend_Romantic Relationships_puzzle1",
+            "name": "Ghosting _Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "friendship"
+                "okay"
             ],
             "missing_letter_count": 1
         }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Old friend ",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend probably did not reply to you because ..."
+            "Text": "The customer across from you is probably ..."
         },
         {
             "type": "Buttons",
-            "name": "Old friend _Social Situations_comp_question",
+            "name": "Busy cafe_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They did not see you call out to them.",
-                "They do not like you."
+                "Thinking that you are an unfriendly person.",
+                "Distracted and unaware of their surroundings."
             ],
             "columnCount": 1,
-            "correct_value": "They did not see you call out to them."
+            "correct_value": "Distracted and unaware of their surroundings."
         }
     ]
 }

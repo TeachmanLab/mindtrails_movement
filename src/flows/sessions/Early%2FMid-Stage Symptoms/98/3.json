@@ -1,24 +1,21 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend thinks that your desire to continue an activity you love is..."
+            "text": "One of your friends finds the perfect walking stick and hands it to you. You continue on your walk feeling..."
         },
         {
-            "type": "Buttons",
-            "name": "Hiking Hiatus_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "A Tricky Hike_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Healthy",
-                "Foolish"
+            "words": [
+                "supported"
             ],
-            "columnCount": 1,
-            "correct_value": "Healthy"
+            "missing_letter_count": 1
         }
     ]
 }

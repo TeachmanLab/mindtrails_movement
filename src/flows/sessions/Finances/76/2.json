@@ -1,14 +1,14 @@
 {
-    "header_text": "Planning Payments",
+    "header_text": "Affording Expenses",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have just started a new job, and need to select one of the retirement plans that your company offers. You have been doing some research into the different types of plans, but you feel a little overwhelmed and your deadline to choose is fast... "
+            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at... "
         },
         {
             "type": "Entry",
-            "name": "Planning Payments_Finances_entry1"
+            "name": "Affording Expenses_Finances_entry1"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Smelly Lunch",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You packed a lunch today and you get it out in front of your friends. It smells really strongly as you notice your friends make faces. You tell your friends about what you're eating, and you feel..."
+            "text": "As you scroll through your social media, you see that your friends hung out without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you and that next time you can..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Smelly Lunch_Social Situations_puzzle1",
+            "name": "Friends Hanging Out_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "proud"
+                "initiate"
             ],
             "missing_letter_count": 1
         }

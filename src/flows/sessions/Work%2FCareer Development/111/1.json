@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Work/Career Development",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "6"
+            "type": "Label",
+            "text": "Your Resume"
+        },
+        {
+            "type": "Media",
+            "url": "./images/your_resume.jpeg"
         }
     ]
 }

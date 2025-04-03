@@ -3,7 +3,7 @@ import random
 
 from itertools import islice
 
-from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int
+from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle
 
 random.seed(1) #give a fixed seed so that diffs don't make it look like we changed a lot every time we generate
 
@@ -42,7 +42,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     }
     return None
 
-def create_long_pages(label, scenario_description, unique_image, thoughts, feelings, behaviors, image_url):
+def create_long_pages(label, scenario_description, thoughts, feelings, behaviors, image_url):
     """
     :param unique_image: Bool, False means that the photos for each group are all the same
     :param label: The title of the long scenario
@@ -55,6 +55,10 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
 
     pages = []
     label = label.strip()
+
+    thoughts  = [t.strip() for t in thoughts ]
+    feelings  = [f.strip() for f in feelings ]
+    behaviors = [b.strip() for b in behaviors]
 
     with open(f"{dir_csv}/MTM_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
         for row in islice(csv.reader(csvfile),1,None):
@@ -70,20 +74,24 @@ def create_long_pages(label, scenario_description, unique_image, thoughts, feeli
             timeout = {"timeout": int(timeout) } if timeout else {}
 
             show_buttons = {}
-            if input_1 == "TimedText":
+            if input_1.lower() == "timedtext":
                 show_buttons = {"show_buttons": "WhenCorrect" }
             elif timeout:
                 show_buttons = {"show_buttons": "AfterTimeout" }
 
-            text = None
-            if "pensamientos" in descr:
-                text = thoughts
-            elif "sentimientos" in descr:
-                text = feelings
-            elif "comportamientos" in descr:
-                text = behaviors
+            if input_1.lower() != "timedtext":
+                timedtext = None
+            elif "thoughts" in descr.lower():
+                timedtext = list(thoughts)
+            elif "feelings" in descr.lower():
+                timedtext = list(feelings)
+            elif "behaviors" in descr:
+                timedtext = list(behaviors)
 
-            input = create_input(input_1,text=text)
+            if timedtext: shuffle(timedtext,"long_pages")
+
+            #input_1 is either timedtext or entry
+            input = create_input(input_1,text=timedtext)
 
             pages.append({
                 "header_text": title,

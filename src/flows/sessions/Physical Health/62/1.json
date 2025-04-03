@@ -1,14 +1,14 @@
 {
-    "header_text": "A Toothache",
+    "header_text": "Being Near Someone Sick",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Toothache"
+            "text": "Being Near Someone Sick"
         },
         {
             "type": "Media",
-            "url": "./images/a_toothache.jpeg"
+            "url": "./images/being_near_someone_sick.jpeg"
         }
     ]
 }

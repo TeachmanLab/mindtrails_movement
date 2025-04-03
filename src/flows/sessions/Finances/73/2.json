@@ -1,14 +1,14 @@
 {
-    "header_text": "Paying Credit Card",
+    "header_text": "Managing Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "This month you spent more money on groceries than you usually do, and you used a credit card to pay for it. Thinking about your spending, you're worried you won't be able to cover the credit card bill, and you'll go into debt. When the bill comes in, you see that you have enough... "
+            "text": "You’ve recently taken on extra responsibilities at work to help support your family financially. As the workload at your job gets heavier, you worry about managing your work and family responsibilities, but know you could really use the extra money. You decide to explain the situation to your supervisor, and realize that it’s okay to ask for help when... "
         },
         {
             "type": "Entry",
-            "name": "Paying Credit Card_Finances_entry1"
+            "name": "Managing Jobs_Finances_entry1"
         }
     ]
 }

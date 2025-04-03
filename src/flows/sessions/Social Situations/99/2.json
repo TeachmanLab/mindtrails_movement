@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend in the Hospital",
+    "header_text": "Wearing Something Old",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel..."
+            "text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look..."
         },
         {
             "type": "Entry",
-            "name": "Friend in the Hospital_Social Situations_entry1"
+            "name": "Wearing Something Old_Social Situations_entry1"
         }
     ]
 }

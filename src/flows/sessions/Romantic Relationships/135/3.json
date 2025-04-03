@@ -1,21 +1,24 @@
 {
-    "header_text": "Dating a Stranger ",
+    "header_text": "Asking Someone Out ",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You are getting ready to go on a first date with someone you haven't previously met in person. You believe you two have a lot in common, but you are worried that sometimes you become very shy when you are... "
+            "Text": "If you ask the other person to coffee, the other passenger will probably"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dating a Stranger _Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Asking Someone Out _Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "nervous"
+            "buttons": [
+                "Accept your offer, because you two had a great time on the train.",
+                "Turn you down, because they're not interested in seeing you again."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Accept your offer, because you two had a great time on the train."
         }
     ]
 }

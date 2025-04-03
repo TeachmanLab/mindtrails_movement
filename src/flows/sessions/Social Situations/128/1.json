@@ -1,14 +1,14 @@
 {
-    "header_text": "Inside Jokes ",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inside Jokes "
+            "text": "Missed Connection"
         },
         {
             "type": "Media",
-            "url": "./images/inside_jokes.jpeg"
+            "url": "./images/missed_connection.jpeg"
         }
     ]
 }

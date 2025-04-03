@@ -1,19 +1,19 @@
 {
-    "header_text": "For the First Time",
+    "header_text": "Marrying Your Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been asked out on a date for the first time in awhile! You feel nervous about this somewhat new experience and you worry you might do something embarrassing. When you think about the date, you feel..."
+            "text": "Your significant other of four years has recently asked how you feel about marriage. You feel very much in love with your significant other, but worry about the high rates of divorce and whether that could happen to you. Reflecting on the idea of marrying your partner, you believe your marriage would be a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "For the First Time_Romantic Relationships_puzzle1",
+            "name": "Marrying Your Partner_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "excited"
+                "mistake"
             ],
             "missing_letter_count": 1
         }

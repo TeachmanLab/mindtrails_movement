@@ -1,19 +1,19 @@
 {
-    "header_text": "Funny Photos",
+    "header_text": "Quiet Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You send an intentionally bad picture of yourself to your friend over text. They text back saying that they took a screenshot of your photo. Your friend probably thinks that you look..."
+            "text": "One afternoon you are hanging out with a friend, and you notice that the conversation has died down. Neither of you says anything for a while, and your friend can sense that you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Funny Photos_Social Situations_puzzle1",
+            "name": "Quiet Time_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "awful"
+                "uncomfortable"
             ],
             "missing_letter_count": 2
         }

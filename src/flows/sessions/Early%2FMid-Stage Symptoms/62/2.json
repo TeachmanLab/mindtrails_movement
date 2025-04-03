@@ -1,19 +1,19 @@
 {
-    "header_text": "Meal Program Volunteering",
+    "header_text": "Paying With Cash",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You love volunteering with the local senior meal program weekly. You slipped and hurt yourself a week ago, and your doctor told you that it would be at least a month before you should volunteer again. The thought of not helping others makes you feel..."
+            "text": "You are at the grocery store restocking food for the week. When you go to give cash to the cashier, all of your change falls to the floor. You look to the people behind you in line, and they offer to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Meal Program Volunteering_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Paying With Cash_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "sad"
+                "help"
             ],
             "missing_letter_count": 1
         }

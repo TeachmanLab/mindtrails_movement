@@ -1,14 +1,14 @@
 {
-    "header_text": "Being Talked About",
+    "header_text": "Nerves at a Big Moment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Over the weekend you decide to post a video and a few pictures on your social media. When you get to work on Monday, you overhear your coworkers gossiping about your pictures and videos. They probably think that you are..."
+            "text": "You are about to give a presentation and you feel your body tremble. You don't usually feel this way when you speak in front of people. These trembling feelings mean that you are..."
         },
         {
             "type": "Entry",
-            "name": "Being Talked About_Social Situations_entry1"
+            "name": "Nerves at a Big Moment_Social Situations_entry1"
         }
     ]
 }

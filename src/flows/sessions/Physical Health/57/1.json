@@ -1,14 +1,10 @@
 {
-    "header_text": "Riding a boat",
+    "header_text": "Manage Your Feelings: Physical Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Riding a boat"
-        },
-        {
-            "type": "Media",
-            "url": "./images/riding_a_boat.jpeg"
+            "type": "Text",
+            "text": "Try to put a specific label on your feelings (are you sad, angry, disgusted, nervous, terrfiied, etc.?) - feelings are easier to manage when we can describe them fully."
         }
     ]
 }

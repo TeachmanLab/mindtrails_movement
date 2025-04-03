@@ -1,14 +1,14 @@
 {
-    "header_text": "First meeting",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "First meeting"
+            "text": "Working to Get Ahead"
         },
         {
             "type": "Media",
-            "url": "./images/first_meeting.jpeg"
+            "url": "./images/working_to_get_ahead.jpeg"
         }
     ]
 }

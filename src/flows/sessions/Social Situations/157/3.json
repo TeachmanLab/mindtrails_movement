@@ -1,24 +1,21 @@
 {
-    "header_text": "Trying Out a Funny Caption",
+    "header_text": "Not Feeling Supported",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you worried what your followers will think of your joke?"
+            "text": "You remember why you worked on the project in the first place. After you think about it, you appreciate how hard you worked, and you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Trying Out a Funny Caption_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Not Feeling Supported_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "better"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

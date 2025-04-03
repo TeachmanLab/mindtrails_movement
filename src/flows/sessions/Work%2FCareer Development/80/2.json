@@ -1,14 +1,14 @@
 {
-    "header_text": "Class Clowns",
+    "header_text": "Expectations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Class Clowns"
+            "type": "Text",
+            "text": "The year just ended and your boss wants to meet with you about your performance. They have high expectations for you, but you performed worse than previous years. Your boss will be..."
         },
         {
-            "type": "Media",
-            "url": "./images/class_clowns.jpeg"
+            "type": "Entry",
+            "name": "Expectations_Work/Career Development_entry1"
         }
     ]
 }

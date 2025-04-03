@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Down",
+    "header_text": "Rainy Weather",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have had a busy and stressful week. You are usually happy, but you've felt flat and sad all for the past few days. You remember that it's normal to have some hard..."
+            "text": "You wake up and look out the window to see that it's rainy and gloomy out. You stay inside all day and when you look back on the day you realize you felt sad for most for it. You decide that it was probably because you were not able to go... "
         },
         {
             "type": "Entry",
-            "name": "Feeling Down_Mental Health_entry1"
+            "name": "Rainy Weather_Mental Health_entry1"
         }
     ]
 }

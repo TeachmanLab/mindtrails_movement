@@ -1,14 +1,14 @@
 {
-    "header_text": "Longer Walks",
+    "header_text": "Plans to Visit Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Longer Walks"
+            "text": "Plans to Visit Family"
         },
         {
             "type": "Media",
-            "url": "./images/longer_walks.jpeg"
+            "url": "./images/plans_to_visit_family.jpeg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Replying to Email",
+    "header_text": "At Home Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, your boss has sent you a message, and you worry that he is... "
+            "text": "Your PD symptoms have been unpredictable since your diagnosis, and being home alone gives you an uneasy feeling. Your spouse told you last night they have to go into work tomorrow, meaning you will be home alone for several hours. You remember you have a cell phone easily accessible, and that gives you... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Replying to Email_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "At Home Alone_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "disappointed"
+                "peace"
             ],
             "missing_letter_count": 1
         }

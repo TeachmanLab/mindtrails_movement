@@ -1,14 +1,14 @@
 {
-    "header_text": "Missed Connection",
+    "header_text": "Jokes with Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Missed Connection"
+            "text": "Jokes with Friends "
         },
         {
             "type": "Media",
-            "url": "./images/missed_connection.jpeg"
+            "url": "./images/jokes_with_friends.jpeg"
         }
     ]
 }

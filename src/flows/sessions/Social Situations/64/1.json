@@ -1,14 +1,14 @@
 {
-    "header_text": "Funny Photos",
+    "header_text": "Quiet Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Funny Photos"
+            "text": "Quiet Time"
         },
         {
             "type": "Media",
-            "url": "./images/funny_photos.jpeg"
+            "url": "./images/quiet_time.jpeg"
         }
     ]
 }

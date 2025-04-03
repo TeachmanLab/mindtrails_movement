@@ -1,19 +1,19 @@
 {
-    "header_text": "Joining a New Club",
+    "header_text": "Looking at your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are trying to meet new people and you decide to join a book club. The book for the week is really interesting, but when you show up at the meeting people are asking questions about the book that seem more in depth than you can answer. You remember that you read the book too and have valuable thoughts just like everyone..."
+            "text": "You are in a new town and need to start applying for jobs. You start looking at the qualifications for jobs and even though you've worked hard to put together you're resume, you wonder if it will be enough. You look back on your accomplishments and know that you've done more than..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Joining a New Club_Mental Health_puzzle1",
+            "name": "Looking at your Resume_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "else"
+                "enough"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "New Opportunity for Friends",
+    "header_text": "New City New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Opportunity for Friends"
+            "text": "New City New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/new_opportunity_for_friends.jpeg"
+            "url": "./images/new_city_new_friends.jpeg"
         }
     ]
 }

@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Managing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #3 \n\n Progress is a process -- Just Keep Swimming!"
+            "type": "Label",
+            "text": "Managing Responsibilities"
+        },
+        {
+            "type": "Media",
+            "url": "./images/managing_responsibilities.jpeg"
         }
     ]
 }

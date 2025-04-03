@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at work.  Thinking about your ability to make the payment, your funds will be..."
+            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at... "
         },
         {
             "type": "WordPuzzle",
@@ -13,7 +13,7 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "insufficient"
+                "work"
             ],
             "missing_letter_count": 2
         }

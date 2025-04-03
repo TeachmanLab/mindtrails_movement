@@ -1,14 +1,14 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hiking Hiatus"
+            "text": "A Tricky Hike"
         },
         {
             "type": "Media",
-            "url": "./images/hiking_hiatus.jpeg"
+            "url": "./images/a_tricky_hike.jpeg"
         }
     ]
 }

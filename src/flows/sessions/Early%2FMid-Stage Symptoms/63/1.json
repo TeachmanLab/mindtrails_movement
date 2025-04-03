@@ -1,14 +1,14 @@
 {
-    "header_text": "Moving to a New City",
+    "header_text": "Meal Program Volunteering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Moving to a New City"
+            "text": "Meal Program Volunteering"
         },
         {
             "type": "Media",
-            "url": "./images/moving_to_a_new_city.jpeg"
+            "url": "./images/meal_program_volunteering.jpeg"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you let the challenge of making creative posts hold you back? "
+            "Text": "Are you worried about what your coworker thinks of your presentation?"
         },
         {
             "type": "Buttons",
-            "name": "Posting New Content_Social Situations_comp_question",
+            "name": "Sharing with Someone New_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

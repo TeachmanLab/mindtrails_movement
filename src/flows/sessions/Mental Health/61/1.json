@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking about Housing",
+    "header_text": "Coming up with Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talking about Housing"
+            "text": "Coming up with Questions"
         },
         {
             "type": "Media",
-            "url": "./images/talking_about_housing.jpeg"
+            "url": "./images/coming_up_with_questions.jpeg"
         }
     ]
 }

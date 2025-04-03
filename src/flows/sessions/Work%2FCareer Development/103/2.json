@@ -1,19 +1,19 @@
 {
-    "header_text": "Speaking Up at Work",
+    "header_text": "New Skill",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your boss is talking about one of your role models in your field of work during a meeting, and she asks if anyone knows about their work. You quickly raise your hand in front of everyone, and your colleagues turn to you. You realize that you feel..."
+            "text": "You have enrolled in a data science program offered by your workplace because you think it will be a useful skill to acquire going forward. You know the demand for people with data science experience is increasing, but the course is very difficult. Imagining how you will do in the program, you believe your efforts to learn some data science skills will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Speaking Up at Work_Work/Career Development_puzzle1",
+            "name": "New Skill_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "confident"
+                "futile"
             ],
             "missing_letter_count": 1
         }

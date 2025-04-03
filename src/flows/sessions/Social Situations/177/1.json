@@ -1,14 +1,14 @@
 {
-    "header_text": "Attending Wedding Alone",
+    "header_text": "Saturday Without Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attending Wedding Alone"
+            "text": "Saturday Without Plans"
         },
         {
             "type": "Media",
-            "url": "./images/attending_wedding_alone.jpeg"
+            "url": "./images/saturday_without_plans.jpeg"
         }
     ]
 }

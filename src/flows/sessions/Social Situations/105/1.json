@@ -1,14 +1,14 @@
 {
-    "header_text": "Expressing Your Ideas",
+    "header_text": "Trivia Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Expressing Your Ideas"
+            "text": "Trivia Night"
         },
         {
             "type": "Media",
-            "url": "./images/expressing_your_ideas.jpeg"
+            "url": "./images/trivia_night.jpeg"
         }
     ]
 }

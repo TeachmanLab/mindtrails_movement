@@ -1,0 +1,14 @@
+{
+    "header_text": "Class Clowns",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a staff meeting, you are called on to share your thoughts. As you start to talk, you hear a loud burst of laughter behind you. Your fellow coworkers are laughing at a..."
+        },
+        {
+            "type": "Entry",
+            "name": "Class Clowns_Work/Career Development_entry1"
+        }
+    ]
+}

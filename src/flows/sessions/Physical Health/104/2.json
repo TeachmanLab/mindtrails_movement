@@ -1,19 +1,19 @@
 {
-    "header_text": "Computer Screen Problems",
+    "header_text": "Headache at the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While doing work on your computer, you notice your head starting to hurt. Your headache persists, and you begin to worry that it means you are getting sick. You haven't been exposed to anyone who has been ill, so you conclude that your headache is from looking at your computer for too..."
+            "text": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, something you have been experiencing but didn’t recognize as an issue, and that scares you because you remember how sick your friends got with COVID. You remember that you can focus on your health and rest until you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Computer Screen Problems_Physical Health_puzzle1",
+            "name": "Headache at the Doctor's Office_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "long"
+                "better"
             ],
             "missing_letter_count": 1
         }

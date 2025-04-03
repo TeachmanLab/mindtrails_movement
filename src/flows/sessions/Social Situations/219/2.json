@@ -1,19 +1,19 @@
 {
-    "header_text": "Book Club Dinner ",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have recently joined a local book club and think the other members are very cool. You would like to hang out more often, but you worry about whether they will want to be friends outside of the book club. You consider inviting them over for dinner, and you think that they will think you are..."
+            "text": "You're at a party, and some of the partygoers notice your symptoms and stare. You feel uncomfortable and decide not to engage in conversation with them. You confide in your close friend that is also at the party, and your friend thinks that your decision is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Book Club Dinner _Social Situations_puzzle1",
+            "name": "Party with Friends_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "fun"
+                "justified"
             ],
             "missing_letter_count": 1
         }

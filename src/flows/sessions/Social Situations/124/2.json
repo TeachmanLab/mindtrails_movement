@@ -1,19 +1,19 @@
 {
-    "header_text": "Jokes with Friends ",
+    "header_text": "Alternative Contact ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A group of your co-workers are whispering and looking in your direction. Some of them are laughing really hard. You don't have time to go say hi, and you think they were probably laughing at a..."
+            "text": "You meet a new staff member in your online meeting for your department and they ask if you have Facebook. When you tell them that you don't have Facebook, they grow quiet. They could be brainstorming other ways to contact you, which makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Jokes with Friends _Social Situations_puzzle1",
+            "name": "Alternative Contact _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "joke"
+                "happy"
             ],
             "missing_letter_count": 1
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Inside Jokes ",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You post a short video. Your friend comments something really embarrassing. Your followers will think that you and your friend are..."
+            "text": "You are sitting at a coffee shop when you see your friend. They walk past you and sit down next to someone else. They must have been..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Inside Jokes _Social Situations_puzzle1",
+            "name": "Missed Connection_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "close"
+                "distracted"
             ],
             "missing_letter_count": 1
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Bringing a New Friend Home",
+    "header_text": "Old Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You live with a few extended family members. Your friend asks if they can come over for dinner one day, but they don't know how many people live in your home. As you picture your friend coming into your home, you think they will be..."
+            "text": "You are volunteering at a community event and notice two old friends who you have not seen in a while. They come up to say hi as they are passing. They probably think that you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Bringing a New Friend Home_Social Situations_puzzle1",
+            "name": "Old Friends _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "surprised"
+                "selfless"
             ],
             "missing_letter_count": 1
         }

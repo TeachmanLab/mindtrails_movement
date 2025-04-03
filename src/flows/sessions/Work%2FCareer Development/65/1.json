@@ -1,14 +1,14 @@
 {
-    "header_text": "Virtual Worry",
+    "header_text": "1, 2, 3. Eyes on Me",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Virtual Worry"
+            "text": "1, 2, 3. Eyes on Me"
         },
         {
             "type": "Media",
-            "url": "./images/virtual_worry.jpeg"
+            "url": "./images/1,_2,_3._eyes_on_me.jpeg"
         }
     ]
 }

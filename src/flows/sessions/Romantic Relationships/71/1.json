@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding The One",
+    "header_text": "Waiting Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Finding The One"
+            "text": "Waiting Game"
         },
         {
             "type": "Media",
-            "url": "./images/finding_the_one.jpeg"
+            "url": "./images/waiting_game.jpeg"
         }
     ]
 }

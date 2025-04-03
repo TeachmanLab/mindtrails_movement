@@ -1,14 +1,14 @@
 {
-    "header_text": "Being Near Someone Sick",
+    "header_text": "Sensational Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Being Near Someone Sick"
+            "text": "Sensational Party"
         },
         {
             "type": "Media",
-            "url": "./images/being_near_someone_sick.jpeg"
+            "url": "./images/sensational_party.jpeg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Shopping For Party Supplies",
+    "header_text": "Therapist after Diagnosis",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel..."
+            "text": "You are dedicated to your job as a therapist. Since your PD diagnosis, you have been worried about maintaining your relationship with patients. You reassure yourself that even if your symptoms slow you down, your years of experience will help you continue to do your job..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Shopping For Party Supplies_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Therapist after Diagnosis_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "supported"
+                "well"
             ],
             "missing_letter_count": 1
         }

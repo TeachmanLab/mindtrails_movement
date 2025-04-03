@@ -1,14 +1,14 @@
 {
-    "header_text": "Friendly Neighbor",
+    "header_text": "Trampoline Safety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friendly Neighbor"
+            "text": "Trampoline Safety"
         },
         {
             "type": "Media",
-            "url": "./images/friendly_neighbor.jpeg"
+            "url": "./images/trampoline_safety.jpeg"
         }
     ]
 }

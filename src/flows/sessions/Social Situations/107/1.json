@@ -1,14 +1,14 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Important Opinion"
+            "text": "Grocery Store Experience"
         },
         {
             "type": "Media",
-            "url": "./images/important_opinion.jpeg"
+            "url": "./images/grocery_store_experience.jpeg"
         }
     ]
 }

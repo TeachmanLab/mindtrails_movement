@@ -1,14 +1,14 @@
 {
-    "header_text": "Luncheon Looks",
+    "header_text": "Your Family's Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Luncheon Looks"
+            "text": "Your Family's Car"
         },
         {
             "type": "Media",
-            "url": "./images/luncheon_looks.jpeg"
+            "url": "./images/your_family's_car.jpeg"
         }
     ]
 }

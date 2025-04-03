@@ -1,14 +1,14 @@
 {
-    "header_text": "Taking Precautions ",
+    "header_text": "Longer Walks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking Precautions "
+            "text": "Longer Walks"
         },
         {
             "type": "Media",
-            "url": "./images/taking_precautions.jpeg"
+            "url": "./images/longer_walks.jpeg"
         }
     ]
 }

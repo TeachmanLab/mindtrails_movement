@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Financial responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflect on the stories you just read and how the anxiety-provoking situations were resolved. What do you see as some of the key takeaways? Which of these new ways of thinking could you see yourself applying to your own life, and why?"
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #2_entry"
+            "text": "Next, you're going to see a scenario that might make you anxious. As you read the short story, picture yourself in that situation. After you picture yourself in the situation, click \"Next\" and then you'll see examples of thoughts, feelings, and behaviors that might happen in that situation. \n\nSome of the thoughts, feelings, and behaviors will be helpful and some won't be."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Gift Giving",
+    "header_text": "Saving up Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gift Giving"
+            "text": "Saving up Money"
         },
         {
             "type": "Media",
-            "url": "./images/gift_giving.jpeg"
+            "url": "./images/saving_up_money.jpeg"
         }
     ]
 }

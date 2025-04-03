@@ -1,0 +1,22 @@
+{
+    "header_text": "The Birthday gift: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend is having a huge birthday party and most of the people in your friend group will be there. Many of your friends are wealthier than you and can afford to give more expensive gifts. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I'm tempted to leave before the presents are opened, but remind myself that I'm actually having fun.",
+                "I want to skip the party to deal with my anxiety about the gift, but decide to push myself to go anyway.",
+                "I smile at all of my friends.",
+                "I try to sneak by my friend so they don't notice me when I walk in.",
+                "I have fun dancing at the party."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

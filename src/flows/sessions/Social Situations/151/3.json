@@ -1,21 +1,24 @@
 {
-    "header_text": "Recovering From a Mistake",
+    "header_text": "Social Media Scores",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "Later that day, you realize that it is common to make mistakes when presenting. The audience probably thought your delivery after starting over was..."
+            "Text": "Do you care that people know you don't use this app very much?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Recovering From a Mistake_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Social Media Scores_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "admirable"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

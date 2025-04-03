@@ -1,19 +1,19 @@
 {
-    "header_text": "Recovering from the Flu",
+    "header_text": "Trip After Car Problem",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost..."
+            "text": "You want to take a trip to destress. Due to a recent problem with your car, your funds are lower than normal. Despite this, you think that a trip that works for your budget and improves your mental health will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Recovering from the Flu_Finances_puzzle1",
+            "name": "Trip After Car Problem_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "time"
+                "doable"
             ],
             "missing_letter_count": 1
         }

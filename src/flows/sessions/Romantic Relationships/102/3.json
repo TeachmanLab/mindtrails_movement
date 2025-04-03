@@ -1,24 +1,14 @@
 {
-    "header_text": "Marrying Your Partner",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you imagine a marriage to your significant other, you see"
+            "text": "After a while, you realize that it is very normal to not be in a relationship. You think that you enjoy being single, and the right person will come along when you are...  "
         },
         {
-            "type": "Buttons",
-            "name": "Marrying Your Partner_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "The two of you growing together for the rest of your lives.",
-                "The relationship eventually breaking down."
-            ],
-            "columnCount": 1,
-            "correct_value": "The relationship eventually breaking down."
+            "type": "Entry",
+            "name": "Friends in Relationships_Romantic Relationships_entry2"
         }
     ]
 }

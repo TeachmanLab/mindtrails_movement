@@ -1,14 +1,14 @@
 {
-    "header_text": "Coming up with Questions",
+    "header_text": "Presenting your Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coming up with Questions"
+            "text": "Presenting your Work"
         },
         {
             "type": "Media",
-            "url": "./images/coming_up_with_questions.jpeg"
+            "url": "./images/presenting_your_work.jpeg"
         }
     ]
 }

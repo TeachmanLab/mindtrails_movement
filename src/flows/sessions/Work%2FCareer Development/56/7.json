@@ -1,0 +1,15 @@
+{
+    "header_text": "Struggling with a Presentation: Write Some Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During today's meeting, you have to present in front of your colleagues and boss. You've been struggling to put this presentation together, but you haven't reached out to your boss about it yet. \n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "show_buttons": "AfterTimeout",
+    "timeout": 30
+}

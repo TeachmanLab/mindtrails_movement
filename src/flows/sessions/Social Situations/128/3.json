@@ -1,15 +1,15 @@
 {
-    "header_text": "Inside Jokes ",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do others judge you for your friend's comment on your post?"
+            "Text": "Is your friend upset with you?"
         },
         {
             "type": "Buttons",
-            "name": "Inside Jokes _Social Situations_comp_question",
+            "name": "Missed Connection_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

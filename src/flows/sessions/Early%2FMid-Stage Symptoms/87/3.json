@@ -1,24 +1,24 @@
 {
-    "header_text": "Dismissive Doctor",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "You know you've had long days before and decide to be..."
+            "Text": "The new friend's response is a sign of..."
         },
         {
             "type": "Buttons",
-            "name": "Dismissive Doctor_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Name Recall _Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Empathetic",
-                "Impatient"
+                "Relief",
+                "Frustration"
             ],
             "columnCount": 1,
-            "correct_value": "Empathetic"
+            "correct_value": "Relief"
         }
     ]
 }

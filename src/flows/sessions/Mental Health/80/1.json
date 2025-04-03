@@ -1,14 +1,14 @@
 {
-    "header_text": "Monday Morning",
+    "header_text": "An international flight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Monday Morning"
+            "text": "An international flight"
         },
         {
             "type": "Media",
-            "url": "./images/monday_morning.jpeg"
+            "url": "./images/an_international_flight.jpeg"
         }
     ]
 }

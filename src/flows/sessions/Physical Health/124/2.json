@@ -1,19 +1,19 @@
 {
-    "header_text": "Dinner Party Supplies",
+    "header_text": "Medical Guilt",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are co-hosting a dinner party at your friend's apartment, and you just finished all the shopping. You start to sweat and feel your heart pounding after a couple of trips carrying the groceries up to the third floor. You feel a bit scared of these sensations. Unsure of whether they are good or bad, you decide to simply accept..."
+            "text": "After noticing your throat hurting a bit, you decide to go to the doctor. Your partner barely goes to the doctor because it's so expensive, and you think they'll be mad at you for the cost. You hope that they'll forgive you easily, because getting sick isn't fully in your... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Dinner Party Supplies_Physical Health_puzzle1",
+            "name": "Medical Guilt_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "them"
+                "control"
             ],
             "missing_letter_count": 1
         }

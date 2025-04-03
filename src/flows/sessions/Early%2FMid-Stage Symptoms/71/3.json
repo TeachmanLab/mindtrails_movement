@@ -1,24 +1,21 @@
 {
-    "header_text": "Coffee Ordering",
+    "header_text": "Avid Traveler",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "The employee is probably feeling..."
+            "text": "You remind yourself that you can still find fulfillment in traveling more locally. Focusing on other aspects of travel that you enjoy gives you... "
         },
         {
-            "type": "Buttons",
-            "name": "Coffee Ordering_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Avid Traveler_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Frustrated",
-                "Interested"
+            "words": [
+                "peace"
             ],
-            "columnCount": 1,
-            "correct_value": "Interested"
+            "missing_letter_count": 1
         }
     ]
 }

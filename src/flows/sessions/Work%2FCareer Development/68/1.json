@@ -1,14 +1,14 @@
 {
-    "header_text": "Approaching Deadline",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Approaching Deadline"
+            "type": "Text",
+            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
         },
         {
-            "type": "Media",
-            "url": "./images/approaching_deadline.jpeg"
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

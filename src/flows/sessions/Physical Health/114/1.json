@@ -1,14 +1,14 @@
 {
-    "header_text": "Safe Delivery",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Safe Delivery"
+            "type": "Text",
+            "text": "Think about a challenging situation that's coming up soon. What are some ways you could apply what you learned from this training to manage your own situation? "
         },
         {
-            "type": "Media",
-            "url": "./images/safe_delivery.jpeg"
+            "type": "Entry",
+            "name": "Consejo #7_entry"
         }
     ]
 }

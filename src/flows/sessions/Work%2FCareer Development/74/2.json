@@ -1,14 +1,14 @@
 {
-    "header_text": "Troublesome Typos",
+    "header_text": "Discussing the Evaluation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just sent an important email. As you reread what you've sent, you see a typo in the first sentence. You believe that you should be..."
+            "text": "You just received your performance evaluation, and you noticed their are some critiques about your work that you did not realize were an issue. While waiting for your meeting with your boss, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Troublesome Typos_Work/Career Development_entry1"
+            "name": "Discussing the Evaluation _Work/Career Development_entry1"
         }
     ]
 }

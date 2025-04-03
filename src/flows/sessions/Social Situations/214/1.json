@@ -1,14 +1,14 @@
 {
-    "header_text": "Not Getting an Invite",
+    "header_text": "On a Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Not Getting an Invite"
+            "text": "On a Walk"
         },
         {
             "type": "Media",
-            "url": "./images/not_getting_an_invite.jpeg"
+            "url": "./images/on_a_walk.jpeg"
         }
     ]
 }

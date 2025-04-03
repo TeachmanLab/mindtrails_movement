@@ -1,14 +1,14 @@
 {
-    "header_text": "Being Talked About",
+    "header_text": "Nerves at a Big Moment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Being Talked About"
+            "text": "Nerves at a Big Moment"
         },
         {
             "type": "Media",
-            "url": "./images/being_talked_about.jpeg"
+            "url": "./images/nerves_at_a_big_moment.jpeg"
         }
     ]
 }

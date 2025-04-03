@@ -1,14 +1,14 @@
 {
-    "header_text": "April Proposal",
+    "header_text": "Lunch with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "April Proposal"
+            "text": "Lunch with New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/april_proposal.jpeg"
+            "url": "./images/lunch_with_new_friend.jpeg"
         }
     ]
 }

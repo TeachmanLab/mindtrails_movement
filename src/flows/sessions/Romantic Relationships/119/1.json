@@ -1,14 +1,14 @@
 {
-    "header_text": "Opening Up",
+    "header_text": "Getting Over It",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Opening Up"
+            "text": "Getting Over It"
         },
         {
             "type": "Media",
-            "url": "./images/opening_up.jpeg"
+            "url": "./images/getting_over_it.jpeg"
         }
     ]
 }

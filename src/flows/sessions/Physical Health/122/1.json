@@ -1,14 +1,14 @@
 {
-    "header_text": "Medical Guilt",
+    "header_text": "Longer Walks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Medical Guilt"
+            "text": "Longer Walks"
         },
         {
             "type": "Media",
-            "url": "./images/medical_guilt.jpeg"
+            "url": "./images/longer_walks.jpeg"
         }
     ]
 }

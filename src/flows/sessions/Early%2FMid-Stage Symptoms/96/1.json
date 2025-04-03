@@ -1,14 +1,14 @@
 {
-    "header_text": "Disease and Identity",
+    "header_text": "Travel Dreams",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Disease and Identity"
+            "text": "Travel Dreams"
         },
         {
             "type": "Media",
-            "url": "./images/disease_and_identity.jpeg"
+            "url": "./images/travel_dreams.jpeg"
         }
     ]
 }

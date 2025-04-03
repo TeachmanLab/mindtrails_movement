@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparing Salaries",
+    "header_text": "Managing Your Credit Card",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparing Salaries"
+            "text": "Managing Your Credit Card"
         },
         {
             "type": "Media",
-            "url": "./images/comparing_salaries.jpeg"
+            "url": "./images/managing_your_credit_card.jpeg"
         }
     ]
 }

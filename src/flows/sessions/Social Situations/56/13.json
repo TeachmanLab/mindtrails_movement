@@ -1,0 +1,22 @@
+{
+    "header_text": "Spilled Coffee: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends are meeting for coffee. You go to the cafe and get coffee, and accidentally spill your coffee down the front of your new white shirt.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I want to go home, but stay at the cafe.",
+                "I clean up and keep talking to my friends.",
+                "I stay silent the rest of the time we're at the cafe.",
+                "I laugh with my friends about my spill.",
+                "I feel like crying, but take a deep breath."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

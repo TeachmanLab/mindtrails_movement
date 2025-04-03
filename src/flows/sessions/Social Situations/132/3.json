@@ -1,15 +1,15 @@
 {
-    "header_text": "Taking Charge",
+    "header_text": "Meeting Rush",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are the others in the meeting judging you?"
+            "Text": "Does observing your breathing make you more anxious?"
         },
         {
             "type": "Buttons",
-            "name": "Taking Charge_Social Situations_comp_question",
+            "name": "Meeting Rush_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

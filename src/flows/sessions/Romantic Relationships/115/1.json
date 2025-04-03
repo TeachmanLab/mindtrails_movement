@@ -1,14 +1,14 @@
 {
-    "header_text": "Mental Health Resources",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mental Health Resources"
+            "text": "Texting Your Crush"
         },
         {
             "type": "Media",
-            "url": "./images/mental_health_resources.jpeg"
+            "url": "./images/texting_your_crush.jpeg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Quiet Time",
+    "header_text": "Overhearing your name",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One afternoon you are hanging out with a friend, and you notice that the conversation has died down. Neither of you says anything for a while, and your friend can sense that you feel..."
+            "text": "At work you overhear some coworkers discussing other people and hear your name mentioned. You do not hear everything they say, but when you walk by, they suddenly look away with..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Quiet Time_Social Situations_puzzle1",
+            "name": "Overhearing your name_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "uncomfortable"
+                "guilt"
             ],
             "missing_letter_count": 2
         }

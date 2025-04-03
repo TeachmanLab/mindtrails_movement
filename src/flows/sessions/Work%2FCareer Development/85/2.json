@@ -1,14 +1,14 @@
 {
-    "header_text": "Putting in the Work",
+    "header_text": "Prepare to Succeed",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "This year, you've decided to take on more weekly hours. This is your first time working this many hours and you've heard from your peers that it's difficult. When you think about the workload, you think that you will be able to handle it..."
+            "text": "In your meeting today, you have an important presentation. In order to follow your boss's instructions, you must present for 15 minutes. When you think about completing this presentation, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Putting in the Work_Work/Career Development_entry1"
+            "name": "Prepare to Succeed_Work/Career Development_entry1"
         }
     ]
 }

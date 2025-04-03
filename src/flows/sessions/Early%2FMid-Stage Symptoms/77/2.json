@@ -1,19 +1,19 @@
 {
-    "header_text": "Family Wedding",
+    "header_text": "Day in the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're helping your granddaughter prepare for her wedding. When you meet with the bridal party, you forget the groom's name. Desperate to hide this from her, you secretively ask your daughter for his name while your granddaughter glances over at you with a look of..."
+            "text": "You are at the park with your grandchild. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your grandchild notices, you do not lose confidence in your role as a loving grandparent to your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Family Wedding_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Day in the Park_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "disappointment"
+                "grandchild"
             ],
             "missing_letter_count": 1
         }

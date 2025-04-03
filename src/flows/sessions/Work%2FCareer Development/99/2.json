@@ -1,21 +1,14 @@
 {
-    "header_text": "Managing Responsibilities",
+    "header_text": "Committing to Activities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have started to volunteer at a local organization and have had a difficult time managing it with work. One of the volunteer leaders asked if you would be willing to help her out with a project outside of your usual responsibilities,and you are worried if she will be disappointed if you say no. After thinking on it, you tell her that you can't help out with this project because of work, but are willing to help out on the next..."
+            "text": "You were very excited to return to in-person office work and decided to commit to a lot of activities. You've found it challenging to meet all of your responsibilities, and you worry that you are failing at... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Managing Responsibilities_Work/Career Development_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "words": [
-                "one"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Committing to Activities_Work/Career Development_entry1"
         }
     ]
 }

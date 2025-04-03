@@ -1,14 +1,14 @@
 {
-    "header_text": "Ending Long Distance",
+    "header_text": "Tough Topics",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ending Long Distance"
+            "text": "Tough Topics"
         },
         {
             "type": "Media",
-            "url": "./images/ending_long_distance.jpeg"
+            "url": "./images/tough_topics.jpeg"
         }
     ]
 }

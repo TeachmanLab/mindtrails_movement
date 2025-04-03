@@ -1,14 +1,14 @@
 {
-    "header_text": "Committing to Activities",
+    "header_text": "Misunderstanding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were very excited to return to in-person office work and decided to commit to a lot of activities. You've found it challenging to meet all of your responsibilities, and you worry that you are failing at... "
+            "text": "You are in a meeting and reach to put your phone away as the new head of your department starts talking. He mistakes this for you texting during the meeting and calls you out in front of everyone. You go up to apologize afterwards and you can't read your head of department's..."
         },
         {
             "type": "Entry",
-            "name": "Committing to Activities_Work/Career Development_entry1"
+            "name": "Misunderstanding_Work/Career Development_entry1"
         }
     ]
 }

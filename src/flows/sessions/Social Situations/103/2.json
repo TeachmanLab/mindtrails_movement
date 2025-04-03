@@ -1,14 +1,14 @@
 {
-    "header_text": "Your New Post",
+    "header_text": "Hanging Out with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You just posted a new picture an hour ago. When you check how many likes it's gotten, you see no one has liked it yet. It's late at night, which means that everyone is..."
+            "type": "Label",
+            "text": "Hanging Out with Friends"
         },
         {
-            "type": "Entry",
-            "name": "Your New Post_Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/hanging_out_with_friends.jpeg"
         }
     ]
 }

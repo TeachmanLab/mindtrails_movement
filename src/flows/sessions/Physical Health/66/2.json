@@ -1,14 +1,21 @@
 {
-    "header_text": "An accidental bang",
+    "header_text": "Long Distance Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One evening, you are climbing the stairs and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has..."
+            "text": "You are on a walk with a group of friends and everyone you're with wants to go along a 5 mile path. As you walk the trail, you see that there is still a long time to go. You think that this walk will be..."
         },
         {
-            "type": "Entry",
-            "name": "An accidental bang_Physical Health_entry1"
+            "type": "WordPuzzle",
+            "name": "Long Distance Walk_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "tiring"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

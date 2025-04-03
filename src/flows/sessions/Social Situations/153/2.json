@@ -1,19 +1,19 @@
 {
-    "header_text": "Fundraiser presentation",
+    "header_text": "Recovering From a Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are put in charge of your office's fundraising efforts and quickly realize that your coworkers are not very interested in the fundraising. At a meeting, you give a presentation about the importance of helping with the fundraising, during which your coworkers remain quiet. As you sit down after your presentation, you think they seemed..."
+            "text": "You are giving a presentation at a meeting and accidentally skip a section so have to start again. You are embarrassed by the mistake and worry what the audience thought of you. The audience probably thinks your delivery after starting over was..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Fundraiser presentation_Social Situations_puzzle1",
+            "name": "Recovering From a Mistake_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "bored"
+                "awkward"
             ],
             "missing_letter_count": 2
         }

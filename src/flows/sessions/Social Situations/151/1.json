@@ -1,14 +1,14 @@
 {
-    "header_text": "Recovering From a Mistake",
+    "header_text": "Social Media Scores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recovering From a Mistake"
+            "text": "Social Media Scores"
         },
         {
             "type": "Media",
-            "url": "./images/recovering_from_a_mistake.jpeg"
+            "url": "./images/social_media_scores.jpeg"
         }
     ]
 }

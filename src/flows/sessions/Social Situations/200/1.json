@@ -1,14 +1,14 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Trivia Team",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Playing the Piano"
+            "text": "Trivia Team"
         },
         {
             "type": "Media",
-            "url": "./images/playing_the_piano.jpeg"
+            "url": "./images/trivia_team.jpeg"
         }
     ]
 }

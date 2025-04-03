@@ -1,14 +1,14 @@
 {
-    "header_text": "Partner's Spending",
+    "header_text": "Treating a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Partner's Spending"
+            "text": "Treating a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/partner's_spending.jpeg"
+            "url": "./images/treating_a_friend.jpeg"
         }
     ]
 }

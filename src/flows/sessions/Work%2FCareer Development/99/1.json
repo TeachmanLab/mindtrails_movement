@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Responsibilities",
+    "header_text": "Committing to Activities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Managing Responsibilities"
+            "text": "Committing to Activities"
         },
         {
             "type": "Media",
-            "url": "./images/managing_responsibilities.jpeg"
+            "url": "./images/committing_to_activities.jpeg"
         }
     ]
 }

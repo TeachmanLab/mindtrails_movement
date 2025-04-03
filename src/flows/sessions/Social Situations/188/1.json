@@ -1,14 +1,14 @@
 {
-    "header_text": "Overwhelming Options",
+    "header_text": "Absent Sister",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overwhelming Options"
+            "text": "Absent Sister"
         },
         {
             "type": "Media",
-            "url": "./images/overwhelming_options.jpeg"
+            "url": "./images/absent_sister.jpeg"
         }
     ]
 }

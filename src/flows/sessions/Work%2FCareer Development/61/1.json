@@ -1,14 +1,14 @@
 {
-    "header_text": "The Meeting",
+    "header_text": "Changing Your Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "The Meeting"
+            "text": "Changing Your Plans"
         },
         {
             "type": "Media",
-            "url": "./images/the_meeting.jpeg"
+            "url": "./images/changing_your_plans.jpeg"
         }
     ]
 }

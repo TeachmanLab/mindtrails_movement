@@ -1,14 +1,21 @@
 {
-    "header_text": "Long-Term Relationship",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your significant other, whom you have been dating for a few years, wants to talk about where your relationship is going. This is the first time you have dated someone for such a long time. You see your relationship fizzling..."
+            "text": "Your coworker doesn't seem to be asking for work reasons and will probably use your phone number to ask you.."
         },
         {
-            "type": "Entry",
-            "name": "Long-Term Relationship_Romantic Relationships_entry1"
+            "type": "WordPuzzle",
+            "name": "Texting Your Crush_Romantic Relationships_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "out"
+            ],
+            "missing_letter_count": 2
         }
     ]
 }

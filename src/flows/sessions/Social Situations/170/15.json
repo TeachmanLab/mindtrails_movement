@@ -1,0 +1,15 @@
+{
+    "header_text": "Hanging out without you: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at work and hear some of your coworkers having a conversation behind you. As you listen, you realize that you were not invited to a small gathering, and a few of your coworkers and friends were all hanging out without you. \n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "show_buttons": "AfterTimeout",
+    "timeout": 30
+}

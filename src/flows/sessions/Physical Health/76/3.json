@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking Hard",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You really want to go somewhere private so that you're away from others. You decide to stay instead and breathe..."
+            "text": "You remember that this is the first time you have been on a long walk for a couple weeks. You are probably feeling your heart race because of the..."
         },
         {
             "type": "Entry",
-            "name": "Walking Hard_Physical Health_entry2"
+            "name": "Long Walk Outside_Physical Health_entry2"
         }
     ]
 }

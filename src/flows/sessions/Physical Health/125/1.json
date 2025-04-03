@@ -1,14 +1,10 @@
 {
-    "header_text": "Hot day ",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Hot day "
-        },
-        {
-            "type": "Media",
-            "url": "./images/hot_day.jpeg"
+            "type": "Text",
+            "text": "Motivational Statement #24 \n\n Take one more step to overcome anxiety and manage stressful thoughts."
         }
     ]
 }

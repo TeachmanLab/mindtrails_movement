@@ -1,19 +1,19 @@
 {
-    "header_text": "Attention in Store",
+    "header_text": "Smelly Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in a store and accidentally knock over a few picture frames in one of the aisles. You feel your cheeks become hot as people in the store turn and look at you. When the shop owner comes over to rearrange the picture frames, they are..."
+            "text": "You packed a lunch today and you get it out in front of your friends. It smells really strongly as you notice your friends make faces. You tell your friends about what you're eating, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Attention in Store_Social Situations_puzzle1",
+            "name": "Smelly Lunch_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "frowning"
+                "proud"
             ],
             "missing_letter_count": 1
         }

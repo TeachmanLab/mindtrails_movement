@@ -1,14 +1,14 @@
 {
-    "header_text": "Joining a New Club",
+    "header_text": "Looking at your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Joining a New Club"
+            "text": "Looking at your Resume"
         },
         {
             "type": "Media",
-            "url": "./images/joining_a_new_club.jpeg"
+            "url": "./images/looking_at_your_resume.jpeg"
         }
     ]
 }

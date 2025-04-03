@@ -1,14 +1,14 @@
 {
-    "header_text": "Planning Payments",
+    "header_text": "Affording Expenses",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You do not see yourself making a big mistake, and think that the plan you choose will leave you in a financial position that is..."
+            "text": "Thinking about your ability to make the payment, you don't expect to be late on your rent, and your funds will be..."
         },
         {
             "type": "Entry",
-            "name": "Planning Payments_Finances_entry2"
+            "name": "Affording Expenses_Finances_entry2"
         }
     ]
 }

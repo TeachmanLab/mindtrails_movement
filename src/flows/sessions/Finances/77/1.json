@@ -1,14 +1,14 @@
 {
-    "header_text": "Providing for Family",
+    "header_text": "Planning Payments",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Providing for Family"
+            "text": "Planning Payments"
         },
         {
             "type": "Media",
-            "url": "./images/providing_for_family.jpeg"
+            "url": "./images/planning_payments.jpeg"
         }
     ]
 }

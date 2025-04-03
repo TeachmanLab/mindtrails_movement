@@ -1,19 +1,19 @@
 {
-    "header_text": "Noisy Neighbors",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your neighbors were really loud last night so you couldn't sleep. You have a huge presentation to give to your coworkers this morning on a complicated topic. As you think about how you'll do in the presentation, you feel..."
+            "text": "You recently replaced your laptop and had to go with a cheaper option. Your boss asks you to complete a project that will require an application that your new computer doesn’t have. When you think about completing your work for this project, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Noisy Neighbors_Work/Career Development_puzzle1",
+            "name": "Using Different Technology_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "prepared"
+                "capable"
             ],
             "missing_letter_count": 2
         }

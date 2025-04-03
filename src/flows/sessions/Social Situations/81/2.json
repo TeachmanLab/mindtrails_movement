@@ -1,14 +1,14 @@
 {
-    "header_text": "A Homemade Gift",
+    "header_text": "Fear of Missing Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your friend is having a huge birthday party with all of your friends attending. You know you can't afford a gift for your friend. You show up with a homemade card, your friend is..."
+            "type": "Label",
+            "text": "Fear of Missing Out"
         },
         {
-            "type": "Entry",
-            "name": "A Homemade Gift_Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/fear_of_missing_out.jpeg"
         }
     ]
 }

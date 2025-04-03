@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting Over It",
+    "header_text": "Mental Health Resources",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting Over It"
+            "text": "Mental Health Resources"
         },
         {
             "type": "Media",
-            "url": "./images/getting_over_it.jpeg"
+            "url": "./images/mental_health_resources.jpeg"
         }
     ]
 }

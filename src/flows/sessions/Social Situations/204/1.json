@@ -1,14 +1,14 @@
 {
-    "header_text": "Cooking a Casserole",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Cooking a Casserole"
+            "type": "Text",
+            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
         },
         {
-            "type": "Media",
-            "url": "./images/cooking_a_casserole.jpeg"
+            "type": "Entry",
+            "name": "Consejo #9_entry"
         }
     ]
 }

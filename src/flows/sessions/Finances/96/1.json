@@ -1,14 +1,14 @@
 {
-    "header_text": "Healthy But Expensive ",
+    "header_text": "Funding Good Habits ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Healthy But Expensive "
+            "text": "Funding Good Habits "
         },
         {
             "type": "Media",
-            "url": "./images/healthy_but_expensive.jpeg"
+            "url": "./images/funding_good_habits.jpeg"
         }
     ]
 }

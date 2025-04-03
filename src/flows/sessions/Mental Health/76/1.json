@@ -1,14 +1,14 @@
 {
-    "header_text": "A Moment of Forgetfulness",
+    "header_text": "Not Feeling Prepared",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Moment of Forgetfulness"
+            "text": "Not Feeling Prepared"
         },
         {
             "type": "Media",
-            "url": "./images/a_moment_of_forgetfulness.jpeg"
+            "url": "./images/not_feeling_prepared.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Trivia Team",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player, and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself that everyone will enjoy...  "
+            "text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be... "
         },
         {
             "type": "Entry",
-            "name": "Playing the Piano_Social Situations_entry1"
+            "name": "Trivia Team_Social Situations_entry1"
         }
     ]
 }

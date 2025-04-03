@@ -1,14 +1,14 @@
 {
-    "header_text": "Alone at Lunch",
+    "header_text": "Not Having Much to Say",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Alone at Lunch"
+            "text": "Not Having Much to Say"
         },
         {
             "type": "Media",
-            "url": "./images/alone_at_lunch.jpeg"
+            "url": "./images/not_having_much_to_say.jpeg"
         }
     ]
 }

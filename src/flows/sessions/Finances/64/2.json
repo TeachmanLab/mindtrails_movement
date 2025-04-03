@@ -1,19 +1,19 @@
 {
-    "header_text": "Paying for College",
+    "header_text": "Work-Life Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You want your family to have good educational opportunities. You want your grandkids to be able to attend good colleges but understand that this comes with a high price tag. You wonder if you should pitch in and help with their college..."
+            "text": "Last month, you accepted an offer to take on extra responsibilities at work for a pay increase. However, this has caused you to spend much less time on other important areas of your life, like family and friends. You talk with your supervisor and make a plan to reduce your responsibilities slightly, which makes you feel... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Paying for College_Finances_puzzle1",
+            "name": "Work-Life Balance_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "tuition"
+                "relieved"
             ],
             "missing_letter_count": 2
         }

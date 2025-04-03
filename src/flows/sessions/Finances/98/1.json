@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Worried by the News",
+    "header_text": "Weekend Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Worried by the News"
+            "text": "Weekend Plans"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_worried_by_the_news.jpeg"
+            "url": "./images/weekend_plans.jpeg"
         }
     ]
 }

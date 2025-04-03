@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Romantic Relationships",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Try to imagine yourself as an outsider watching your conversation. Ask yourself if they would think about how you're doing in the same way you are."
+            "type": "Label",
+            "text": "Asking Out Your Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/asking_out_your_friend.jpeg"
         }
     ]
 }

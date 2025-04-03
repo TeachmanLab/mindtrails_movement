@@ -1,0 +1,14 @@
+{
+    "header_text": "Hiking Hiatus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hiking Hiatus"
+        },
+        {
+            "type": "Media",
+            "url": "./images/hiking_hiatus.jpeg"
+        }
+    ]
+}

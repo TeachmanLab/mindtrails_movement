@@ -1,14 +1,14 @@
 {
-    "header_text": "Tough Topics",
+    "header_text": "Mask Insecurities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tough Topics"
+            "text": "Mask Insecurities"
         },
         {
             "type": "Media",
-            "url": "./images/tough_topics.jpeg"
+            "url": "./images/mask_insecurities.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Questions",
+    "header_text": "Opening Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Questions"
+            "text": "Opening Up"
         },
         {
             "type": "Media",
-            "url": "./images/family_questions.jpeg"
+            "url": "./images/opening_up.jpeg"
         }
     ]
 }

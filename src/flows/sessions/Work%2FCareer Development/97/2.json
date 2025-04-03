@@ -1,14 +1,14 @@
 {
-    "header_text": "Misunderstanding",
+    "header_text": "Wrapping Up Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in a meeting and reach to put your phone away as the new head of your department starts talking. He mistakes this for you texting during the meeting and calls you out in front of everyone. You go up to apologize afterwards and you can't read your head of department's..."
+            "text": "Work has been piling up at your job recently, and you were going to take the weekend to catch up. However, your friend reminded you of an event this weekend that you committed to, and it would be rude to cancel last minute. You think that completing your work will be..."
         },
         {
             "type": "Entry",
-            "name": "Misunderstanding_Work/Career Development_entry1"
+            "name": "Wrapping Up Work_Work/Career Development_entry1"
         }
     ]
 }

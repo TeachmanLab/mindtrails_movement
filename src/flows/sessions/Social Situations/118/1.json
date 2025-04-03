@@ -1,14 +1,14 @@
 {
-    "header_text": "Attention in Store",
+    "header_text": "Smelly Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attention in Store"
+            "text": "Smelly Lunch"
         },
         {
             "type": "Media",
-            "url": "./images/attention_in_store.jpeg"
+            "url": "./images/smelly_lunch.jpeg"
         }
     ]
 }

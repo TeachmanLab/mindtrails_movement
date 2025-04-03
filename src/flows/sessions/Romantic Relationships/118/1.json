@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Communication",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Communication"
+            "text": "Mental Health Issues"
         },
         {
             "type": "Media",
-            "url": "./images/family_communication.jpeg"
+            "url": "./images/mental_health_issues.jpeg"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Monday Morning",
+    "header_text": "An international flight",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it necessary to get out of the car because you feel your heart beating rapidly?"
+            "Text": "Is it exhilarating to be so high up?"
         },
         {
             "type": "Buttons",
-            "name": "Monday Morning_Mental Health_comp_question",
+            "name": "An international flight_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

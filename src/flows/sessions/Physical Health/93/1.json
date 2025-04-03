@@ -1,14 +1,14 @@
 {
-    "header_text": "Recent Exposure",
+    "header_text": "Waking Up Dizzy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recent Exposure"
+            "text": "Waking Up Dizzy"
         },
         {
             "type": "Media",
-            "url": "./images/recent_exposure.jpeg"
+            "url": "./images/waking_up_dizzy.jpeg"
         }
     ]
 }

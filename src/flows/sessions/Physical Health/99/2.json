@@ -1,21 +1,14 @@
 {
-    "header_text": "Walking in the Cold",
+    "header_text": "Feeling Faint",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a cold day, and you are outside walking. Your heart starts to beat quickly a few minutes in. You decide that this feeling is..."
+            "text": "You decide to spin yourself really quickly on an office chair. You feel butterflies in your stomach and your head gets dizzy as the chair slows down from spinning. These feelings probably mean that you are going to..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Walking in the Cold_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "words": [
-                "scary"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Feeling Faint_Physical Health_entry1"
         }
     ]
 }

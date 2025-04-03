@@ -1,14 +1,14 @@
 {
-    "header_text": "Issues While Shopping",
+    "header_text": "Coffee Shop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Issues While Shopping"
+            "text": "Coffee Shop"
         },
         {
             "type": "Media",
-            "url": "./images/issues_while_shopping.jpeg"
+            "url": "./images/coffee_shop.jpeg"
         }
     ]
 }

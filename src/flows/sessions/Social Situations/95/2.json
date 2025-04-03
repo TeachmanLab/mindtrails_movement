@@ -1,14 +1,14 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Finding a Place to Sit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping in a grocery store. As you are browsing some shelves, you accidently knock several cans on the floor and shoppers turn to look at you. The shoppers see the cans on the floor and respond with..."
+            "text": "You are at your first staff meeting in a new department and you arrive early. A group of people goes quiet after you ask them if you can sit at their table. They are probably..."
         },
         {
             "type": "Entry",
-            "name": "Grocery Store Experience_Social Situations_entry1"
+            "name": "Finding a Place to Sit_Social Situations_entry1"
         }
     ]
 }

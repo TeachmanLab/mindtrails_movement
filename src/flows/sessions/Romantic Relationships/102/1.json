@@ -1,14 +1,14 @@
 {
-    "header_text": "Marrying Your Partner",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Marrying Your Partner"
+            "text": "Friends in Relationships"
         },
         {
             "type": "Media",
-            "url": "./images/marrying_your_partner.jpeg"
+            "url": "./images/friends_in_relationships.jpeg"
         }
     ]
 }

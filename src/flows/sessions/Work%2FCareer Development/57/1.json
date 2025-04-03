@@ -1,14 +1,10 @@
 {
-    "header_text": "Using Different Technology",
+    "header_text": "Manage Your Feelings: Work/Career Development",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Using Different Technology"
-        },
-        {
-            "type": "Media",
-            "url": "./images/using_different_technology.jpeg"
+            "type": "Text",
+            "text": "4"
         }
     ]
 }

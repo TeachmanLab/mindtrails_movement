@@ -1,14 +1,14 @@
 {
-    "header_text": "Taking Charge",
+    "header_text": "Meeting Rush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking Charge"
+            "text": "Meeting Rush"
         },
         {
             "type": "Media",
-            "url": "./images/taking_charge.jpeg"
+            "url": "./images/meeting_rush.jpeg"
         }
     ]
 }

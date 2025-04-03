@@ -1,14 +1,10 @@
 {
-    "header_text": "Expectations",
+    "header_text": "Manage Your Feelings: Work/Career Development",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Expectations"
-        },
-        {
-            "type": "Media",
-            "url": "./images/expectations.jpeg"
+            "type": "Text",
+            "text": "5"
         }
     ]
 }

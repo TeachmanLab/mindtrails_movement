@@ -1,14 +1,14 @@
 {
-    "header_text": "Loud friend",
+    "header_text": "Dancing class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Loud friend"
+            "text": "Dancing class"
         },
         {
             "type": "Media",
-            "url": "./images/loud_friend.jpeg"
+            "url": "./images/dancing_class.jpeg"
         }
     ]
 }

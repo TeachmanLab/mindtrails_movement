@@ -1,21 +1,21 @@
 {
-    "header_text": "Work-Life Balance",
+    "header_text": "Feeling Pressure Going Out",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your job continue to take up all of your time?"
+            "Text": "Will you go over your budget this month? "
         },
         {
             "type": "Buttons",
-            "name": "Work-Life Balance_Finances_comp_question",
+            "name": "Feeling Pressure Going Out_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"

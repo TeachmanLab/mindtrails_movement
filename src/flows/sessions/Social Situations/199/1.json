@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing With Support Group ",
+    "header_text": "Coughing at the Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing With Support Group "
+            "text": "Coughing at the Store"
         },
         {
             "type": "Media",
-            "url": "./images/sharing_with_support_group.jpeg"
+            "url": "./images/coughing_at_the_store.jpeg"
         }
     ]
 }

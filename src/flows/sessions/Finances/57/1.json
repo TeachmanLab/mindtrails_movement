@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparing Financial Situations",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Comparing Financial Situations"
+            "type": "Text",
+            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
         },
         {
-            "type": "Media",
-            "url": "./images/comparing_financial_situations.jpeg"
+            "type": "Entry",
+            "name": "Consejo #1_entry"
         }
     ]
 }

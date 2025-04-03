@@ -1,19 +1,19 @@
 {
-    "header_text": "Family Money Troubles",
+    "header_text": "Recovering from the Flu",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your sibling is in a tight spot and is asking for money. You love your sibling and really want to help them, but you are dealing with your own financial challenges and need to put your money toward rent. Thinking about the other types of support you can offer your sibling, you think they will be... "
+            "text": "You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Family Money Troubles_Finances_puzzle1",
+            "name": "Recovering from the Flu_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "grateful"
+                "time"
             ],
             "missing_letter_count": 1
         }

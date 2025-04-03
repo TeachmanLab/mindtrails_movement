@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Finances",
+    "header_text": "Affording Education",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "It's okay if you need a break from your loved ones. Give yourself the space you need to recharge."
+            "type": "Label",
+            "text": "Affording Education"
+        },
+        {
+            "type": "Media",
+            "url": "./images/affording_education.jpeg"
         }
     ]
 }

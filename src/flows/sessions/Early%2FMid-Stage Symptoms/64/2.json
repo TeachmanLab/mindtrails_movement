@@ -1,19 +1,19 @@
 {
-    "header_text": "Lunch with New Friend",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you..."
+            "text": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Lunch with New Friend_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Moving to a New City_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "strangely"
+                "exciting"
             ],
             "missing_letter_count": 1
         }

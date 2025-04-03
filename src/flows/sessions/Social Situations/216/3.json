@@ -1,24 +1,21 @@
 {
-    "header_text": "Party with Friends",
+    "header_text": "Friend's Get Together",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your friend agree with you about not engaging with others?"
+            "text": "You realize you told your friends you had a lot of other things you needed to do tonight. This makes you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Party with Friends_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Friend's Get Together_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "relieved"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ]
 }

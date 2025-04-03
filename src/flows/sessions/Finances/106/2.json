@@ -1,19 +1,19 @@
 {
-    "header_text": "Partner's Spending",
+    "header_text": "Treating a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be... "
+            "text": "Your friend has been supporting you through a tough time and you are really grateful for their support. You want to thank them by treating them to dinner, but you don’t have enough money to take them out to a restaurant. You decide to make them a home-cooked dinner and think that they will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Partner's Spending_Finances_puzzle1",
+            "name": "Treating a Friend_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "understanding"
+                "appreciative"
             ],
             "missing_letter_count": 1
         }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to come up with a creative post that is very different from what you usually post. You post something new and do not get any responses yet. When you think about the challenge of making creative content, you feel..."
+            "text": "You're talking to a coworker about a presentation you're working on, and they seem really interested. They ask if they can look at it, and you agree. Before you send the slides to them, you look over it and feel... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Posting New Content_Social Situations_puzzle1",
+            "name": "Sharing with Someone New_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "excited"
+                "good"
             ],
             "missing_letter_count": 2
         }

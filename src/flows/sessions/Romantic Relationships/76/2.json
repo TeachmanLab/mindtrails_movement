@@ -1,14 +1,14 @@
 {
-    "header_text": "Significant Other's Friend",
+    "header_text": "Divorce Statistics",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spouse took you to hang out with one of their good friends. Watching them interact, you feel like the friend is romantically interested in your partner. You remind yourself that your partner sees this person as a..."
+            "text": "You are reading something for class that talks about the rising divorce rate. You’ve been with your spouse for awhile now, but you start to wonder whether your relationship will last. You remind yourself that things are stable right now and that your relationship is..."
         },
         {
             "type": "Entry",
-            "name": "Significant Other's Friend_Romantic Relationships_entry1"
+            "name": "Divorce Statistics_Romantic Relationships_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking to friends",
+    "header_text": "Coffee Ordering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talking to friends"
+            "text": "Coffee Ordering"
         },
         {
             "type": "Media",
-            "url": "./images/talking_to_friends.jpeg"
+            "url": "./images/coffee_ordering.jpeg"
         }
     ]
 }

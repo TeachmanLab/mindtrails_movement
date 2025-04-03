@@ -1,19 +1,19 @@
 {
-    "header_text": "Presenting your Work",
+    "header_text": "Joining a New Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been working hard all year on a project and your your department head has invited you to talk about it at an event. A lot of your friends and coworkers will be there, and you don't think your work will be enough to impress them. You think that your department head invited you for a reason and your work is worth..."
+            "text": "You are trying to meet new people and you decide to join a book club. The book for the week is really interesting, but when you show up at the meeting people are asking questions about the book that seem more in depth than you can answer. You remember that you read the book too and have valuable thoughts just like everyone..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Presenting your Work_Mental Health_puzzle1",
+            "name": "Joining a New Club_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "seeing"
+                "else"
             ],
             "missing_letter_count": 2
         }

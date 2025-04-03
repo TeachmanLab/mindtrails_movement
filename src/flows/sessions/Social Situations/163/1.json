@@ -1,14 +1,14 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Posting New Content"
+            "text": "Sharing with Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/posting_new_content.jpeg"
+            "url": "./images/sharing_with_someone_new.jpeg"
         }
     ]
 }

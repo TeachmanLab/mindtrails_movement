@@ -1,14 +1,14 @@
 {
-    "header_text": "Recovering from the Flu",
+    "header_text": "Trip After Car Problem",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recovering from the Flu"
+            "text": "Trip After Car Problem"
         },
         {
             "type": "Media",
-            "url": "./images/recovering_from_the_flu.jpeg"
+            "url": "./images/trip_after_car_problem.jpeg"
         }
     ]
 }

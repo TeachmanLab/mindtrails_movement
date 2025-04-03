@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Toast",
+    "header_text": "Greeting Someone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Making a Toast"
+            "text": "Greeting Someone"
         },
         {
             "type": "Media",
-            "url": "./images/making_a_toast.jpeg"
+            "url": "./images/greeting_someone.jpeg"
         }
     ]
 }

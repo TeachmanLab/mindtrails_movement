@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Prepared ",
+    "header_text": "Virtual Worry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Prepared "
+            "text": "Virtual Worry"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_prepared.jpeg"
+            "url": "./images/virtual_worry.jpeg"
         }
     ]
 }

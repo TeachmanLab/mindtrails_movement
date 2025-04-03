@@ -1,24 +1,21 @@
 {
-    "header_text": "Name Recall ",
+    "header_text": "Replying to Email",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "The new friend's response is a sign of..."
+            "text": "You decide to check in with your boss to see how he's feeling. His nice response leaves you feeling..."
         },
         {
-            "type": "Buttons",
-            "name": "Name Recall _Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Replying to Email_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Relief",
-                "Frustration"
+            "words": [
+                "upbeat"
             ],
-            "columnCount": 1,
-            "correct_value": "Relief"
+            "missing_letter_count": 1
         }
     ]
 }

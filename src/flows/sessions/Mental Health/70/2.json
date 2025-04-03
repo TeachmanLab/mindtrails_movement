@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Numb",
+    "header_text": "Applying to Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have been going dealing with some stressful situations recently. You are reflecting on the past few weeks and realize you haven't been very emotional which makes you think you've become numb. You remember that you've been coping well and likely have just kept your emotions..."
+            "type": "Label",
+            "text": "Applying to Jobs"
         },
         {
-            "type": "Entry",
-            "name": "Feeling Numb_Mental Health_entry1"
+            "type": "Media",
+            "url": "./images/applying_to_jobs.jpeg"
         }
     ]
 }

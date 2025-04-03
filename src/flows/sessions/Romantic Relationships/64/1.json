@@ -1,14 +1,14 @@
 {
-    "header_text": "Work Friend",
+    "header_text": "No Notifications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Work Friend"
+            "text": "No Notifications"
         },
         {
             "type": "Media",
-            "url": "./images/work_friend.jpeg"
+            "url": "./images/no_notifications.jpeg"
         }
     ]
 }

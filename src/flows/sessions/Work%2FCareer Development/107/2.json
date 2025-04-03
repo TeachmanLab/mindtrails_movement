@@ -1,19 +1,19 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Getting an Opportunity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your..."
+            "text": "You have submitted a resume and an application for a job that you have been hoping to get. You hope to get an interview for the job after they review your application, but you know it is very competitive. With your qualifications, you expect to get a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reviewing Your Work _Work/Career Development_puzzle1",
+            "name": "Getting an Opportunity_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "successes"
+                "call"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Completion Complications",
+    "header_text": "Noisy Neighbors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Completion Complications"
+            "text": "Noisy Neighbors"
         },
         {
             "type": "Media",
-            "url": "./images/completion_complications.jpeg"
+            "url": "./images/noisy_neighbors.jpeg"
         }
     ]
 }

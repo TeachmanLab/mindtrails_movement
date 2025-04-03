@@ -1,14 +1,14 @@
 {
-    "header_text": "Borrowing from a Friend",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Borrowing from a Friend"
+            "text": "A Rude Comment"
         },
         {
             "type": "Media",
-            "url": "./images/borrowing_from_a_friend.jpeg"
+            "url": "./images/a_rude_comment.jpeg"
         }
     ]
 }

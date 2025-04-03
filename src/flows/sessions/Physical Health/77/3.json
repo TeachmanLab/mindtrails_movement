@@ -1,0 +1,14 @@
+{
+    "header_text": "Walking Hard",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You really want to go somewhere private so that you're away from others. You decide to stay instead and breathe..."
+        },
+        {
+            "type": "Entry",
+            "name": "Walking Hard_Physical Health_entry2"
+        }
+    ]
+}

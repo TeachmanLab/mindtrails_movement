@@ -1,14 +1,14 @@
 {
-    "header_text": "Therapist after Diagnosis",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Therapist after Diagnosis"
+            "text": "Crowded Grocery Store"
         },
         {
             "type": "Media",
-            "url": "./images/therapist_after_diagnosis.jpeg"
+            "url": "./images/crowded_grocery_store.jpeg"
         }
     ]
 }

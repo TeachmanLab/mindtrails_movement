@@ -1,14 +1,14 @@
 {
-    "header_text": "Texting Other People",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner is very extroverted and has a lot of friends. You really enjoy the time you spend with your partner, but you sometimes wonder if they’d rather be hanging out with their other friends. Reflecting on your relationship with them so far, you feel... "
+            "text": "Your friends have set you up on a date and you're getting ready. The closer you get to leaving, the more you wonder if you look okay and if the person you're meeting will be attracted to you. You remember that one person will not dictate your... "
         },
         {
             "type": "Entry",
-            "name": "Texting Other People_Romantic Relationships_entry1"
+            "name": "Getting Ready for a Date_Romantic Relationships_entry1"
         }
     ]
 }

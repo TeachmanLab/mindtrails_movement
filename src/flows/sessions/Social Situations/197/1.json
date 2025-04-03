@@ -1,14 +1,14 @@
 {
-    "header_text": "Trivia Team",
+    "header_text": "Vaccination Reassurance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trivia Team"
+            "text": "Vaccination Reassurance"
         },
         {
             "type": "Media",
-            "url": "./images/trivia_team.jpeg"
+            "url": "./images/vaccination_reassurance.jpeg"
         }
     ]
 }

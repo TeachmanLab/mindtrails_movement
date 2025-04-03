@@ -1,21 +1,21 @@
 {
-    "header_text": "Family Wedding",
+    "header_text": "Day in the Park",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did your memory lapse upset your granddaughter?"
+            "Text": "Will your grandchild still feel loved by you?"
         },
         {
             "type": "Buttons",
-            "name": "Family Wedding_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Day in the Park_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Therapy",
+    "header_text": "Breakfast with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been wanting to go to therapy for a while. However, you aren't sure whether you have the budget to pay for it. You think that it's likely that you will find a provider whose services are... "
+            "text": "Your friends want to grab breakfast together. You don’t want to miss out on spending time with them, but you’re trying not to eat out as much. When you tell them you’ll eat the food you have at home, you think they’ll be... "
         },
         {
             "type": "Entry",
-            "name": "Affording Therapy_Finances_entry1"
+            "name": "Breakfast with Friends_Finances_entry1"
         }
     ]
 }

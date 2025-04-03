@@ -1,14 +1,14 @@
 {
-    "header_text": "New Environment",
+    "header_text": "Not Getting an Invite",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Environment"
+            "text": "Not Getting an Invite"
         },
         {
             "type": "Media",
-            "url": "./images/new_environment.jpeg"
+            "url": "./images/not_getting_an_invite.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording a Trip ",
+    "header_text": "Making a Plan",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Affording a Trip "
+            "text": "Making a Plan"
         },
         {
             "type": "Media",
-            "url": "./images/affording_a_trip.jpeg"
+            "url": "./images/making_a_plan.jpeg"
         }
     ]
 }

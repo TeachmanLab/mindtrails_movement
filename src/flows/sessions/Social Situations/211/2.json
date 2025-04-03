@@ -1,21 +1,14 @@
 {
-    "header_text": "On a Walk",
+    "header_text": "Keeping Up With Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are outside walking and see a group of people ahead of you. As you pass them, you stumble slightly and feel a little foolish. You hear them laugh as you pass by and assume that they are laughing at jokes that aren't about..."
+            "text": "You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "On a Walk_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "words": [
-                "you"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Keeping Up With Friends _Social Situations_entry1"
         }
     ]
 }

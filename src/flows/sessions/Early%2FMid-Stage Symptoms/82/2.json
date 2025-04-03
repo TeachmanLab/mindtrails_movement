@@ -1,19 +1,19 @@
 {
-    "header_text": "Garden Planting",
+    "header_text": "Shopping For Party Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the spring, you notice your friends and neighbors have planted their gardens already. You are taking much longer than expected to plant your garden due to recent changes in your balance. You remember to take the planting one row at a time and remain..."
+            "text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Garden Planting_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Shopping For Party Supplies_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "patient"
+                "supported"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Not Approving of Significant Other",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Not Approving of Significant Other"
+            "text": "Online Dating"
         },
         {
             "type": "Media",
-            "url": "./images/family_not_approving_of_significant_other.jpeg"
+            "url": "./images/online_dating.jpeg"
         }
     ]
 }

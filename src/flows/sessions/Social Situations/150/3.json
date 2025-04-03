@@ -1,21 +1,24 @@
 {
-    "header_text": "Different Music Tastes",
+    "header_text": "Visiting a New Friend",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "After having a discussion about the pros and cons of different music styles, you realize that she probably does not mind that your tastes clash and simply sees you as..."
+            "Text": "Are you worried about reciting a poem for your friend's family? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Different Music Tastes_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Visiting a New Friend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "knowledgeable"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

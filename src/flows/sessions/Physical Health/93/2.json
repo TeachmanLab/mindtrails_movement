@@ -1,14 +1,14 @@
 {
-    "header_text": "Recent Exposure",
+    "header_text": "Waking Up Dizzy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were recently exposed to someone who had a virus, but you haven't experienced any symptoms. Your friends invite you to get dinner with them, and you wonder if you should go. You feel well and decide to go out with your... "
+            "text": "As you wake up in the morning, you sit up quickly. Your vision goes blurry, and then goes black for a moment. Your vision comes back after a moment, and you tell yourself that it happened because you sat up..."
         },
         {
             "type": "Entry",
-            "name": "Recent Exposure_Physical Health_entry1"
+            "name": "Waking Up Dizzy_Physical Health_entry1"
         }
     ]
 }

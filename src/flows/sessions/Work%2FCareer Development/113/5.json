@@ -1,0 +1,22 @@
+{
+    "header_text": "Trying your best: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are presenting your progress on a project to your boss next week. Your personal life has been hectic recently, and you haven't had much time to devote to the project, leaving you with fewer updates to report than usual.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I'm a good employee.",
+                "I'm lazy for not working more.",
+                "I'll do my best on making progress next week.",
+                "Even if I do poorly on one progress report, that doesn't mean I'll lose my job.",
+                "My boss may not be impressed with my progress, but I can make more progress next time around."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

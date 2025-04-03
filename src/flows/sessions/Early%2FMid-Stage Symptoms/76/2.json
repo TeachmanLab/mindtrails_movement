@@ -1,19 +1,19 @@
 {
-    "header_text": "Day in the Park",
+    "header_text": "Thinking fast at work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the park with your grandchild. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your grandchild notices, you do not lose confidence in your role as a loving grandparent to your..."
+            "text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Day in the Park_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Thinking fast at work_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "grandchild"
+                "competence"
             ],
             "missing_letter_count": 1
         }

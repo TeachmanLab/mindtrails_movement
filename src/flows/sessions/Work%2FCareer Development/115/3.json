@@ -1,24 +1,24 @@
 {
-    "header_text": "Taking Your Time",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to answer the question?"
+            "Text": "Given you experience and skills"
         },
         {
             "type": "Buttons",
-            "name": "Taking Your Time_Work/Career Development_comp_question",
+            "name": "Changing Your Trajectory_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "You will probably be stuck in a job you don't enjoy.",
+                "You stand a good chance of landing a rewarding position."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "You stand a good chance of landing a rewarding position."
         }
     ]
 }

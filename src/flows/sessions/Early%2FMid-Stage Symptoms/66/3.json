@@ -1,24 +1,24 @@
 {
-    "header_text": "Intimacy and Communication",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "You respond to your spouse's upset reaction by... "
+            "Text": "You are confident that as your PD progresses, your fiancé will..."
         },
         {
             "type": "Buttons",
-            "name": "Intimacy and Communication_Early/Mid-Stage Symptoms_comp_question",
+            "name": "April Proposal_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Avoiding them",
-                "Communicating"
+                "Abandon you",
+                "Support you"
             ],
             "columnCount": 1,
-            "correct_value": "Communicating"
+            "correct_value": "Support you"
         }
     ]
 }

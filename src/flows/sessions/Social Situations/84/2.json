@@ -1,14 +1,14 @@
 {
-    "header_text": "Practicing Presentation",
+    "header_text": "Getting to Know New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big..."
+            "text": "You're hanging out with a new group of people. You tell a funny joke that you think goes along with the topic of conversation, and no one laughs. The new friends will find you... "
         },
         {
             "type": "Entry",
-            "name": "Practicing Presentation_Social Situations_entry1"
+            "name": "Getting to Know New People_Social Situations_entry1"
         }
     ]
 }

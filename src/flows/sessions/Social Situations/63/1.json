@@ -1,14 +1,14 @@
 {
-    "header_text": "Quiet Time",
+    "header_text": "Overhearing your name",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Quiet Time"
+            "text": "Overhearing your name"
         },
         {
             "type": "Media",
-            "url": "./images/quiet_time.jpeg"
+            "url": "./images/overhearing_your_name.jpeg"
         }
     ]
 }

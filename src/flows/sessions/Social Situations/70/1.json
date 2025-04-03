@@ -1,14 +1,14 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Participation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Greeting Someone"
+            "text": "Participation "
         },
         {
             "type": "Media",
-            "url": "./images/greeting_someone.jpeg"
+            "url": "./images/participation.jpeg"
         }
     ]
 }

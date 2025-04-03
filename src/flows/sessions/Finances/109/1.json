@@ -1,14 +1,14 @@
 {
-    "header_text": "Saving up Money",
+    "header_text": "Worrying About Savings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saving up Money"
+            "text": "Worrying About Savings"
         },
         {
             "type": "Media",
-            "url": "./images/saving_up_money.jpeg"
+            "url": "./images/worrying_about_savings.jpeg"
         }
     ]
 }

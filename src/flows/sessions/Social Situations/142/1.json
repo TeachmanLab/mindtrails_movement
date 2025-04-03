@@ -1,14 +1,14 @@
 {
-    "header_text": "Masks for Guests",
+    "header_text": "Ignored by a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Masks for Guests"
+            "text": "Ignored by a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/masks_for_guests.jpeg"
+            "url": "./images/ignored_by_a_friend.jpeg"
         }
     ]
 }

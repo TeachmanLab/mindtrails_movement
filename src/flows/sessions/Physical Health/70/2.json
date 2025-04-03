@@ -1,14 +1,14 @@
 {
-    "header_text": "Broken Car",
+    "header_text": "Feeling Dizzy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your car is broken again and you have to walk a few blocks to get to where you need to go. You feel your chest tighten and you feel out of breath as you reach your destination. You feel..."
+            "type": "Label",
+            "text": "Feeling Dizzy"
         },
         {
-            "type": "Entry",
-            "name": "Broken Car_Physical Health_entry1"
+            "type": "Media",
+            "url": "./images/feeling_dizzy.jpeg"
         }
     ]
 }

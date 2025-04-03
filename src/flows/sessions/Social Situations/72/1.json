@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Birthday Party",
+    "header_text": "Making a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Birthday Party"
+            "text": "Making a Toast"
         },
         {
             "type": "Media",
-            "url": "./images/your_birthday_party.jpeg"
+            "url": "./images/making_a_toast.jpeg"
         }
     ]
 }

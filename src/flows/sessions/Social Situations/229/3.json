@@ -1,24 +1,21 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your friends make fun of your sweat marks on your shirt? "
+            "text": "When you think about the next 10 years, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends but know that it will be difficult. When you imagine yourself in 10 years, you see you and your close friends having stayed..."
         },
         {
-            "type": "Buttons",
-            "name": "Sweat Stains_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Friendships in the Future_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "close"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

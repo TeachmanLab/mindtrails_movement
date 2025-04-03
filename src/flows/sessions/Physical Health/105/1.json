@@ -1,14 +1,14 @@
 {
-    "header_text": "Hard Walk",
+    "header_text": "Computer Screen Problems",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hard Walk"
+            "text": "Computer Screen Problems"
         },
         {
             "type": "Media",
-            "url": "./images/hard_walk.jpeg"
+            "url": "./images/computer_screen_problems.jpeg"
         }
     ]
 }

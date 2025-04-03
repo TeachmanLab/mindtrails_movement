@@ -1,14 +1,14 @@
 {
-    "header_text": "Dating Apps",
+    "header_text": "Staying Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been single for a while and would really like to meet someone. Your friends keep suggesting dating apps, but you don’t think this approach will work for you. You think about the many different ways to meet someone and feel... "
+            "text": "You and your partner have been getting into arguments more often recently. You care about them a lot, but worry they don't feel the same. When you think about staying with your partner, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Dating Apps_Romantic Relationships_entry1"
+            "name": "Staying Together_Romantic Relationships_entry1"
         }
     ]
 }

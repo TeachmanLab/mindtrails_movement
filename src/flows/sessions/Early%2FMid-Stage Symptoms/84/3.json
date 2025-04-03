@@ -1,24 +1,24 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Arcade Games",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Being home alone with a cell phone makes you more..."
+            "Text": "Your family is being..."
         },
         {
             "type": "Buttons",
-            "name": "At Home Alone_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Arcade Games_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Relaxed",
-                "Fearful"
+                "Judgmental",
+                "Playful"
             ],
             "columnCount": 1,
-            "correct_value": "Relaxed"
+            "correct_value": "Playful"
         }
     ]
 }

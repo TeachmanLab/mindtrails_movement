@@ -1,14 +1,14 @@
 {
-    "header_text": "Treating Yourself",
+    "header_text": "Unexpected Medical Visit ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Treating Yourself"
+            "text": "Unexpected Medical Visit "
         },
         {
             "type": "Media",
-            "url": "./images/treating_yourself.jpeg"
+            "url": "./images/unexpected_medical_visit.jpeg"
         }
     ]
 }

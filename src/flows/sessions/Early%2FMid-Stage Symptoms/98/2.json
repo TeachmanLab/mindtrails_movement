@@ -1,19 +1,19 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You love to go hiking, but since your PD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is..."
+            "text": "You love the great outdoors but have discovered recent unsteadiness in your footing when hiking. Friends notice the change and ask you about what's going on. When you answer, your friends realize that your fun escape has become a tricky..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Hiking Hiatus_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "A Tricky Hike_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "good"
+                "challenge"
             ],
             "missing_letter_count": 1
         }

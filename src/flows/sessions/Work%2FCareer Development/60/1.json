@@ -1,14 +1,14 @@
 {
-    "header_text": "Changing Your Plans",
+    "header_text": "Completion Complications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Changing Your Plans"
+            "text": "Completion Complications"
         },
         {
             "type": "Media",
-            "url": "./images/changing_your_plans.jpeg"
+            "url": "./images/completion_complications.jpeg"
         }
     ]
 }

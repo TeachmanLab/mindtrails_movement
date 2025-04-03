@@ -1,14 +1,14 @@
 {
-    "header_text": "Paying for College",
+    "header_text": "Work-Life Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Paying for College"
+            "text": "Work-Life Balance"
         },
         {
             "type": "Media",
-            "url": "./images/paying_for_college.jpeg"
+            "url": "./images/work-life_balance.jpeg"
         }
     ]
 }

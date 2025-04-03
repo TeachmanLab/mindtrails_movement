@@ -1,19 +1,19 @@
 {
-    "header_text": "Waiting for a Reply ",
+    "header_text": "Receiving Explicit Email Messages",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel..."
+            "text": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Waiting for a Reply _Social Situations_puzzle1",
+            "name": "Receiving Explicit Email Messages_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "better"
+                "relaxed"
             ],
             "missing_letter_count": 2
         }

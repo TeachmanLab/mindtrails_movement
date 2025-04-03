@@ -1,14 +1,14 @@
 {
-    "header_text": "Shy Significant Other",
+    "header_text": "Ending Long Distance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Shy Significant Other"
+            "text": "Ending Long Distance"
         },
         {
             "type": "Media",
-            "url": "./images/shy_significant_other.jpeg"
+            "url": "./images/ending_long_distance.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Jacket Return",
+    "header_text": "Practicing Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile, and stare at you looking very..."
+            "text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big..."
         },
         {
             "type": "Entry",
-            "name": "Jacket Return_Social Situations_entry1"
+            "name": "Practicing Presentation_Social Situations_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Haircut Headache ",
+    "header_text": "Trying New Foods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Haircut Headache "
+            "text": "Trying New Foods"
         },
         {
             "type": "Media",
-            "url": "./images/haircut_headache.jpeg"
+            "url": "./images/trying_new_foods.jpeg"
         }
     ]
 }

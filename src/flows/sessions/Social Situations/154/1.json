@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend Neglecting Chores",
+    "header_text": "Lightening the Mood",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friend Neglecting Chores"
+            "text": "Lightening the Mood"
         },
         {
             "type": "Media",
-            "url": "./images/friend_neglecting_chores.jpeg"
+            "url": "./images/lightening_the_mood.jpeg"
         }
     ]
 }

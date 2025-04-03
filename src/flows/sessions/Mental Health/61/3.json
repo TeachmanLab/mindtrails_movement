@@ -1,15 +1,15 @@
 {
-    "header_text": "Talking about Housing",
+    "header_text": "Coming up with Questions",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you figure out housing?"
+            "Text": "Are everyone else's questions better than yours?"
         },
         {
             "type": "Buttons",
-            "name": "Talking about Housing_Mental Health_comp_question",
+            "name": "Coming up with Questions_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ]
 }

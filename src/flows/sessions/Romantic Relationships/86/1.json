@@ -1,14 +1,14 @@
 {
-    "header_text": "Meeting the Parents",
+    "header_text": "Texting Other People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meeting the Parents"
+            "text": "Texting Other People"
         },
         {
             "type": "Media",
-            "url": "./images/meeting_the_parents.jpeg"
+            "url": "./images/texting_other_people.jpeg"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Moving to a New City",
+    "header_text": "Meal Program Volunteering",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Moving to a new city with PD will be a/an..."
+            "Text": "Your doctor's orders are..."
         },
         {
             "type": "Buttons",
-            "name": "Moving to a New City_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Meal Program Volunteering_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Adventure",
-                "Burden"
+                "Disappointing",
+                "Welcomed"
             ],
             "columnCount": 1,
-            "correct_value": "Adventure"
+            "correct_value": "Disappointing"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Funding Good Habits ",
+    "header_text": "Making Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Funding Good Habits "
+            "text": "Making Changes"
         },
         {
             "type": "Media",
-            "url": "./images/funding_good_habits.jpeg"
+            "url": "./images/making_changes.jpeg"
         }
     ]
 }

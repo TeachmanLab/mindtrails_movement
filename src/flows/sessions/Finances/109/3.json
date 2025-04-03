@@ -1,24 +1,21 @@
 {
-    "header_text": "Saving up Money",
+    "header_text": "Worrying About Savings",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "When it is time to book the upcoming trip, you will probably"
+            "text": "When you think about it, you know that you have lots of time to save still, and finances don't look the same for... "
         },
         {
-            "type": "Buttons",
-            "name": "Saving up Money_Finances_comp_question",
+            "type": "WordPuzzle",
+            "name": "Worrying About Savings_Finances_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Have to cancel because of money issues.",
-                "Be able to choose a pretty nice hotel."
+            "words": [
+                "everyone"
             ],
-            "columnCount": 1,
-            "correct_value": "Have to cancel because of money issues."
+            "missing_letter_count": 1
         }
     ]
 }

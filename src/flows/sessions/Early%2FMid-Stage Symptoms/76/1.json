@@ -1,14 +1,14 @@
 {
-    "header_text": "Day in the Park",
+    "header_text": "Thinking fast at work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Day in the Park"
+            "text": "Thinking fast at work"
         },
         {
             "type": "Media",
-            "url": "./images/day_in_the_park.jpeg"
+            "url": "./images/thinking_fast_at_work.jpeg"
         }
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "header_text": "Trying your best: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are presenting your progress on a project to your boss next week. Your personal life has been hectic recently, and you haven't had much time to devote to the project, leaving you with fewer updates to report than usual.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I really don't want to work extra hours, but I will anyway because I know it'll be helpful for the report.",
+                "I'll tell my boss why I haven't been able to make much progress.",
+                "I'll tell my boss why I haven't been able to make much progress.",
+                "I want to avoid asking for help, but I reach out to my boss anyway.",
+                "I'll avoid working on the report when I feel anxious."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

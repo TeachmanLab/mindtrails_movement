@@ -1,14 +1,14 @@
 {
-    "header_text": "Texting Other People",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Texting Other People"
+            "text": "Getting Ready for a Date"
         },
         {
             "type": "Media",
-            "url": "./images/texting_other_people.jpeg"
+            "url": "./images/getting_ready_for_a_date.jpeg"
         }
     ]
 }

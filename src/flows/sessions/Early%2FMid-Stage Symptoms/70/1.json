@@ -1,14 +1,14 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Avid Traveler"
+            "text": "At the Park"
         },
         {
             "type": "Media",
-            "url": "./images/avid_traveler.jpeg"
+            "url": "./images/at_the_park.jpeg"
         }
     ]
 }

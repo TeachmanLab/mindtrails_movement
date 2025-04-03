@@ -1,14 +1,14 @@
 {
-    "header_text": "Busy cafe",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Busy cafe"
+            "text": "Funny Photos"
         },
         {
             "type": "Media",
-            "url": "./images/busy_cafe.jpeg"
+            "url": "./images/funny_photos.jpeg"
         }
     ]
 }

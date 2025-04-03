@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #27 \n\n Take time for yourself and practice flexible thinking!"
+            "type": "Label",
+            "text": "Asking Out Your Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/asking_out_your_friend.jpeg"
         }
     ]
 }

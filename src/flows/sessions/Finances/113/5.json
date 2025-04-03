@@ -1,0 +1,22 @@
+{
+    "header_text": "The Birthday gift: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend is having a huge birthday party and most of the people in your friend group will be there. Many of your friends are wealthier than you and can afford to give more expensive gifts. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "People might judge me for my gift, but I know that I put a lot of thought and effort into finding something special.",
+                "My friend will be embarrassed to have me as a friend because my gift isn't as nice as everyone else's.",
+                "It'll be good to see lots of my friends.",
+                "My friend will be happy that I'm able to go.",
+                "My friend may be disapointed with my gift, but I'm still glad I came and showed I cared."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

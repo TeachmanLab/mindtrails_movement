@@ -1,24 +1,24 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Trying Out a Funny Caption",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you happy to have your supervisor come to your school event? "
+            "Text": "Are you worried what your followers will think of your joke?"
         },
         {
             "type": "Buttons",
-            "name": "An Invitation_Social Situations_comp_question",
+            "name": "Trying Out a Funny Caption_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ]
 }

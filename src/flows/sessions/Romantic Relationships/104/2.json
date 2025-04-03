@@ -1,19 +1,19 @@
 {
-    "header_text": "Past Experiences",
+    "header_text": "For the First Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise... "
+            "text": "You have been asked out on a date for the first time in awhile! You feel nervous about this somewhat new experience and you worry you might do something embarrassing. When you think about the date, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Past Experiences_Romantic Relationships_puzzle1",
+            "name": "For the First Time_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "together"
+                "excited"
             ],
             "missing_letter_count": 1
         }

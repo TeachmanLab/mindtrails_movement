@@ -1,19 +1,19 @@
 {
-    "header_text": "Long Distance Walk",
+    "header_text": "Catching Transportation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You reach the end of the trail and your friends are taking pictures. Even though you're anxious, you go look around and..."
+            "text": "You have a strong urge to get off the plane and go back home, but you sit down at the nearest seat. Instead of exiting, you decide to observe these sensations and stay..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Long Distance Walk_Physical Health_puzzle_word2",
+            "name": "Catching Transportation_Physical Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "smile"
+                "seated"
             ],
             "missing_letter_count": 2
         }

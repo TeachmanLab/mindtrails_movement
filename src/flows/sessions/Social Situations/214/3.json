@@ -1,24 +1,24 @@
 {
-    "header_text": "Not Getting an Invite",
+    "header_text": "On a Walk",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Were you not invited because you were busy?"
+            "Text": "The group of walkers were probably laughing because ..."
         },
         {
             "type": "Buttons",
-            "name": "Not Getting an Invite_Social Situations_comp_question",
+            "name": "On a Walk_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "They saw you stumble.",
+                "Someone told a funny joke that was not about you."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Someone told a funny joke that was not about you."
         }
     ]
 }

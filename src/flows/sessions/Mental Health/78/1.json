@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Mental Health",
+    "header_text": "New Style ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Make a list of activities you enjoy that do not cost any money."
+            "type": "Label",
+            "text": "New Style "
+        },
+        {
+            "type": "Media",
+            "url": "./images/new_style.jpeg"
         }
     ]
 }

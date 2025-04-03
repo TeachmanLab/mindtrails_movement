@@ -1,24 +1,14 @@
 {
-    "header_text": "Luncheon Looks",
+    "header_text": "Your Family's Car",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did everyone at the luncheon like your new outfit?"
+            "text": "As you're getting out of the car, you see a few acquaintances. They smile and wave at you, and you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Luncheon Looks_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "Your Family's Car_Social Situations_entry2"
         }
     ]
 }

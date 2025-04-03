@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Expenses",
+    "header_text": "Treating Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Affording Expenses"
+            "text": "Treating Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/affording_expenses.jpeg"
+            "url": "./images/treating_yourself.jpeg"
         }
     ]
 }

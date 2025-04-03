@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Pressure Going Out",
+    "header_text": "Comparing Salaries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Pressure Going Out"
+            "text": "Comparing Salaries"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_pressure_going_out.jpeg"
+            "url": "./images/comparing_salaries.jpeg"
         }
     ]
 }

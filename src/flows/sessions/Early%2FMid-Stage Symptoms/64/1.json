@@ -1,14 +1,14 @@
 {
-    "header_text": "Lunch with New Friend",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lunch with New Friend"
+            "text": "Moving to a New City"
         },
         {
             "type": "Media",
-            "url": "./images/lunch_with_new_friend.jpeg"
+            "url": "./images/moving_to_a_new_city.jpeg"
         }
     ]
 }

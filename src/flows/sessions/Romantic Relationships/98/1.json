@@ -1,14 +1,14 @@
 {
-    "header_text": "Jealousy",
+    "header_text": "Flu Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Jealousy"
+            "text": "Flu Worries"
         },
         {
             "type": "Media",
-            "url": "./images/jealousy.jpeg"
+            "url": "./images/flu_worries.jpeg"
         }
     ]
 }

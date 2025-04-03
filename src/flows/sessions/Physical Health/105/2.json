@@ -1,19 +1,19 @@
 {
-    "header_text": "Hard Walk",
+    "header_text": "Computer Screen Problems",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After finding out a friend has a virus, you decide to take yourself to the park for a relaxing day. When you try to go walk for a long time, you feel tired. This is probably because you've been..."
+            "text": "While doing work on your computer, you notice your head starting to hurt. Your headache persists, and you begin to worry that it means you are getting sick. You haven't been exposed to anyone who has been ill, so you conclude that your headache is from looking at your computer for too..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Hard Walk_Physical Health_puzzle1",
+            "name": "Computer Screen Problems_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "stressed"
+                "long"
             ],
             "missing_letter_count": 1
         }

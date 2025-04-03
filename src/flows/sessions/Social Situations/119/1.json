@@ -1,14 +1,14 @@
 {
-    "header_text": "Coffee Shop",
+    "header_text": "Borrowing from a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coffee Shop"
+            "text": "Borrowing from a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/coffee_shop.jpeg"
+            "url": "./images/borrowing_from_a_friend.jpeg"
         }
     ]
 }

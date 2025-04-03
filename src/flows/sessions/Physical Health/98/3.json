@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Faint",
+    "header_text": "Spring Allergies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Instead of panicking, you decide to take a deep breathe. Slowly, your dizziness disappears and your stomach feels..."
+            "text": "Looking around, you see all the pollen flying in the air. You realize that you usually get a stuffy nose with seasonal allergies and are probably tired from playing soccer for the last hour. You feel..."
         },
         {
             "type": "Entry",
-            "name": "Feeling Faint_Physical Health_entry2"
+            "name": "Spring Allergies_Physical Health_entry2"
         }
     ]
 }

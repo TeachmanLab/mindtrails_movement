@@ -1,15 +1,15 @@
 {
-    "header_text": "Not Having Much to Say",
+    "header_text": "Seeing Others Hanging Out",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it normal to not share all of the time?"
+            "Text": "Did your colleagues exclude you on purpose?"
         },
         {
             "type": "Buttons",
-            "name": "Not Having Much to Say_Social Situations_comp_question",
+            "name": "Seeing Others Hanging Out_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ]
 }

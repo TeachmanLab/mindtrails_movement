@@ -1,14 +1,14 @@
 {
-    "header_text": "Vacation Costs",
+    "header_text": "Food Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacation Costs"
+            "text": "Food Costs"
         },
         {
             "type": "Media",
-            "url": "./images/vacation_costs.jpeg"
+            "url": "./images/food_costs.jpeg"
         }
     ]
 }

@@ -1,14 +1,10 @@
 {
-    "header_text": "An Acquaintance",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "An Acquaintance"
-        },
-        {
-            "type": "Media",
-            "url": "./images/an_acquaintance.jpeg"
+            "type": "Text",
+            "text": "If you are experiencing physical discomfort, try to notice and name what you are experiencing. Remind yourself that discomfort usually passes or gets less intense over time. "
         }
     ]
 }

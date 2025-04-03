@@ -1,14 +1,14 @@
 {
-    "header_text": "Divorce Statistics",
+    "header_text": "Feeling Rushed",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Divorce Statistics"
+            "text": "Feeling Rushed"
         },
         {
             "type": "Media",
-            "url": "./images/divorce_statistics.jpeg"
+            "url": "./images/feeling_rushed.jpeg"
         }
     ]
 }

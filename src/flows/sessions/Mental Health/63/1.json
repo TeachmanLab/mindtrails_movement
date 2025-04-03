@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting Help",
+    "header_text": "Teaching Others",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting Help"
+            "text": "Teaching Others"
         },
         {
             "type": "Media",
-            "url": "./images/getting_help.jpeg"
+            "url": "./images/teaching_others.jpeg"
         }
     ]
 }

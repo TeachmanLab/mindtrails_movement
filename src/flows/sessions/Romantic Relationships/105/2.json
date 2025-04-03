@@ -1,19 +1,19 @@
 {
-    "header_text": "Different Personalities ",
+    "header_text": "Past Experiences",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are a homebody, while your partner enjoys going out. You want to stay in for the night, but your partner wants to go to a bar. You think you can work together to figure out a... "
+            "text": "Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Different Personalities _Romantic Relationships_puzzle1",
+            "name": "Past Experiences_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "compromise"
+                "together"
             ],
             "missing_letter_count": 1
         }

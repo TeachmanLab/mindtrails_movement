@@ -1,21 +1,14 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "It's a warm day and you and your friends are taking a walk outside. You notice that you are starting to sweat, and you can see some marks on your shirt. You know these friends well, and they will not..."
+            "type": "Label",
+            "text": "Friendships in the Future"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sweat Stains_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "words": [
-                "care"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/friendships_in_the_future.jpeg"
         }
     ]
 }

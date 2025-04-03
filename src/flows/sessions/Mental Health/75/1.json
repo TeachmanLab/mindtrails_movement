@@ -1,14 +1,14 @@
 {
-    "header_text": "Not Feeling Prepared",
+    "header_text": "High Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Not Feeling Prepared"
+            "text": "High Anxiety"
         },
         {
             "type": "Media",
-            "url": "./images/not_feeling_prepared.jpeg"
+            "url": "./images/high_anxiety.jpeg"
         }
     ]
 }

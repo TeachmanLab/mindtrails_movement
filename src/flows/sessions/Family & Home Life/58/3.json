@@ -1,15 +1,15 @@
 {
-    "header_text": "Balancing Responsibilities",
+    "header_text": "Travel decisions",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to give both your partner and child what they want?"
+            "Text": "Are you content with your decision for where to go on vacation?"
         },
         {
             "type": "Buttons",
-            "name": "Balancing Responsibilities_Family & Home Life_comp_question",
+            "name": "Travel decisions_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

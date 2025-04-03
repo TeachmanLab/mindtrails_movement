@@ -1,24 +1,21 @@
 {
-    "header_text": "Funny Photos",
+    "header_text": "Quiet Time",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your friend think you look good?"
+            "text": "That evening, you realize that it is completely normal to have silent breaks during conversations. You believe that your friend thinks it was better to stay silent than to make up things to say, and was probably..."
         },
         {
-            "type": "Buttons",
-            "name": "Funny Photos_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Quiet Time_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "glad"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

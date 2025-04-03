@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Scores",
+    "header_text": "Watching a Movie with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Scores"
+            "text": "Watching a Movie with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/social_media_scores.jpeg"
+            "url": "./images/watching_a_movie_with_friends.jpeg"
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "header_text": "Your Birthday Party",
+    "header_text": "Making a Toast",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you excited about having people there to celebrate your birthday?"
+            "Text": "Did your friends enjoy your toast?"
         },
         {
             "type": "Buttons",
-            "name": "Your Birthday Party_Social Situations_comp_question",
+            "name": "Making a Toast_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

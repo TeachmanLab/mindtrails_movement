@@ -1,14 +1,14 @@
 {
-    "header_text": "Treating a Friend",
+    "header_text": "Social Function",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Treating a Friend"
+            "text": "Social Function"
         },
         {
             "type": "Media",
-            "url": "./images/treating_a_friend.jpeg"
+            "url": "./images/social_function.jpeg"
         }
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "header_text": "Starting a Small Business",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are considering leaving your job to start your own small business and are ready to work hard. You are excited, but you also know that many start-ups can end up crashing and burning. Thinking about the future of your business, it will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Starting a Small Business_Finances_entry1"
+        }
+    ]
+}

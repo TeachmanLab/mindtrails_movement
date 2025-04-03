@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Multiple Positions",
+    "header_text": "Not Invited to Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently decided to join a new neighborhood organization on top of your job. At a meeting for the new group, you brought the wrong notebook and have notes for your job, which aren't useful here. You think managing being in this new group will be..."
+            "text": "You just started at a new job and you work with lots of new people. You hear a few of them laughing together and talking about going out to dinner and you wait for them to invite you, eager to make friends, but they don't. You feel okay with this and look forward to reaching out next..."
         },
         {
             "type": "Entry",
-            "name": "Managing Multiple Positions_Work/Career Development_entry1"
+            "name": "Not Invited to Dinner_Work/Career Development_entry1"
         }
     ]
 }

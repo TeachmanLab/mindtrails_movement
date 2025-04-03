@@ -1,14 +1,14 @@
 {
-    "header_text": "Replying to Email",
+    "header_text": "At Home Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Replying to Email"
+            "text": "At Home Alone"
         },
         {
             "type": "Media",
-            "url": "./images/replying_to_email.jpeg"
+            "url": "./images/at_home_alone.jpeg"
         }
     ]
 }

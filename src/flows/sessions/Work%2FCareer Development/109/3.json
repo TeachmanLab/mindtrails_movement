@@ -1,24 +1,21 @@
 {
-    "header_text": "Your Resume",
+    "header_text": "Scheduling Conflicts",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your potential employer will probably think"
+            "text": "You realize that you will have greater flexibility in the next few weeks to see your friend and that they will understand that you need to..."
         },
         {
-            "type": "Buttons",
-            "name": "Your Resume_Work/Career Development_comp_question",
+            "type": "WordPuzzle",
+            "name": "Scheduling Conflicts_Work/Career Development_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "That your listed skills are unimpressive.",
-                "That your previous experience is a good fit for the job."
+            "words": [
+                "work"
             ],
-            "columnCount": 1,
-            "correct_value": "That your previous experience is a good fit for the job."
+            "missing_letter_count": 1
         }
     ]
 }

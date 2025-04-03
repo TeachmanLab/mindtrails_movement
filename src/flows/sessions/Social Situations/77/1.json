@@ -1,14 +1,14 @@
 {
-    "header_text": "Turning Down a Drink",
+    "header_text": "Feeling Different",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Turning Down a Drink"
+            "text": "Feeling Different"
         },
         {
             "type": "Media",
-            "url": "./images/turning_down_a_drink.jpeg"
+            "url": "./images/feeling_different.jpeg"
         }
     ]
 }

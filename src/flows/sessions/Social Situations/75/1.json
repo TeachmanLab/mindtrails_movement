@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Comments",
+    "header_text": "Small Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Comments"
+            "text": "Small Party"
         },
         {
             "type": "Media",
-            "url": "./images/social_media_comments.jpeg"
+            "url": "./images/small_party.jpeg"
         }
     ]
 }

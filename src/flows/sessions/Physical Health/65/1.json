@@ -1,14 +1,14 @@
 {
-    "header_text": "Long Distance Walk",
+    "header_text": "Catching Transportation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Long Distance Walk"
+            "text": "Catching Transportation"
         },
         {
             "type": "Media",
-            "url": "./images/long_distance_walk.jpeg"
+            "url": "./images/catching_transportation.jpeg"
         }
     ]
 }

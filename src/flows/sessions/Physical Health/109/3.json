@@ -1,19 +1,19 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Hiking with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think that tomorrow you will not fall behind, and the chances you can keep up with your friend are..."
+            "text": "You look around and your friends are tiring too. You decide you will probably be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Walking with a Friend_Physical Health_puzzle_word2",
+            "name": "Hiking with Friends_Physical Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "good"
+                "alright"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Confirming Plans",
+    "header_text": "Important Presentation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confirming Plans"
+            "text": "Important Presentation "
         },
         {
             "type": "Media",
-            "url": "./images/confirming_plans.jpeg"
+            "url": "./images/important_presentation.jpeg"
         }
     ]
 }

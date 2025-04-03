@@ -1,19 +1,19 @@
 {
-    "header_text": "Brief Introduction",
+    "header_text": "Your Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a workshop, and the leader asks all attendees to stand up and introduce themselves. During your brief presentation, you momentarily forget what you planned to say, and the audience stares at you looking... "
+            "text": "Your best friend is organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Brief Introduction_Social Situations_puzzle1",
+            "name": "Your Birthday Party_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "annoyed"
+                "excited"
             ],
             "missing_letter_count": 2
         }

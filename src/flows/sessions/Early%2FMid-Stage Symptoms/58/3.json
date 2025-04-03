@@ -1,24 +1,24 @@
 {
-    "header_text": "Spiritual Journey",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you find new ways of continuing your spiritual practice?"
+            "Text": "Reflecting on your relationship with your spouse, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Spiritual Journey_Early/Mid-Stage Symptoms_comp_question",
+            "name": "New Conflict With Spouse_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Afraid",
+                "Committed"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Committed"
         }
     ]
 }

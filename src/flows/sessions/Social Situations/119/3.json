@@ -1,21 +1,24 @@
 {
-    "header_text": "Coffee Shop",
+    "header_text": "Borrowing from a Friend",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "After you clean up the mess as best as you can, you realize that their response was a normal, knee-jerk reaction. They say that they are not upset with you, and you believe that they are..."
+            "Text": "Will your friend think that you took their charger on purpose?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Coffee Shop_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Borrowing from a Friend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "sincere"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

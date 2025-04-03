@@ -1,14 +1,14 @@
 {
-    "header_text": "Coffee Ordering",
+    "header_text": "Avid Traveler",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coffee Ordering"
+            "text": "Avid Traveler"
         },
         {
             "type": "Media",
-            "url": "./images/coffee_ordering.jpeg"
+            "url": "./images/avid_traveler.jpeg"
         }
     ]
 }

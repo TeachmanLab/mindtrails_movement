@@ -1,14 +1,14 @@
 {
-    "header_text": "New City New Friends",
+    "header_text": "New Apartment to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New City New Friends"
+            "text": "New Apartment to Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/new_city_new_friends.jpeg"
+            "url": "./images/new_apartment_to_yourself.jpeg"
         }
     ]
 }

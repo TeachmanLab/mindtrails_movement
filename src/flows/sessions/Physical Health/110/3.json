@@ -1,24 +1,21 @@
 {
-    "header_text": "Positive Test",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you test positive?"
+            "text": "You think that tomorrow you will not fall behind, and the chances you can keep up with your friend are..."
         },
         {
-            "type": "Buttons",
-            "name": "Positive Test_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Walking with a Friend_Physical Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "words": [
+                "good"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes "
+            "missing_letter_count": 1
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Not Having Much to Say",
+    "header_text": "Seeing Others Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're..."
+            "text": "You see from social media stories that a group of your colleagues are hanging out together. You weren't invited, and it looks like they're having a great time. Your colleagues probably didn't invite you because they..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Not Having Much to Say_Social Situations_puzzle1",
+            "name": "Seeing Others Hanging Out_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "boring"
+                "forgot"
             ],
             "missing_letter_count": 2
         }

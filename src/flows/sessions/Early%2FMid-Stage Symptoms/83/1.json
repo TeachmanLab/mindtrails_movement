@@ -1,14 +1,14 @@
 {
-    "header_text": "Arcade Games",
+    "header_text": "Garden Planting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Arcade Games"
+            "text": "Garden Planting"
         },
         {
             "type": "Media",
-            "url": "./images/arcade_games.jpeg"
+            "url": "./images/garden_planting.jpeg"
         }
     ]
 }

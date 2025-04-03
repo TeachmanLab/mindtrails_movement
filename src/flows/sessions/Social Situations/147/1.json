@@ -1,14 +1,10 @@
 {
-    "header_text": "Watching a Movie with Friends",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Watching a Movie with Friends"
-        },
-        {
-            "type": "Media",
-            "url": "./images/watching_a_movie_with_friends.jpeg"
+            "type": "Text",
+            "text": "Motivational Statement #9 \n\n You're doing a great job keeping a positive perspective. Keep it up!"
         }
     ]
 }

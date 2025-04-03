@@ -1,15 +1,15 @@
 {
-    "header_text": "Supporting Partner",
+    "header_text": "Family Communication",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your partner mad that you asked about their mental health? "
+            "Text": "Will the conversation with your family will go well? "
         },
         {
             "type": "Buttons",
-            "name": "Supporting Partner_Romantic Relationships_comp_question",
+            "name": "Family Communication_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

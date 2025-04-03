@@ -1,14 +1,14 @@
 {
-    "header_text": "Visiting your Partner's Parents",
+    "header_text": "Making a Decision",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visiting your Partner's Parents"
+            "text": "Making a Decision"
         },
         {
             "type": "Media",
-            "url": "./images/visiting_your_partner's_parents.jpeg"
+            "url": "./images/making_a_decision.jpeg"
         }
     ]
 }

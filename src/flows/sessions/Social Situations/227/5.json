@@ -1,0 +1,22 @@
+{
+    "header_text": "Not a lot of likes: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to reply all to a department-wide email to share an idea. It's been a few hours and no one has responded to your suggestion yet. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "People ignored the idea.",
+                "My colleagues may not like my idea, and I can accept that.",
+                "My suggestion wasn't the best, but I don't have to be perfect.",
+                "People haven't checked their email yet.",
+                "I am proud of my idea."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

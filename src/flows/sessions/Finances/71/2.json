@@ -1,14 +1,14 @@
 {
-    "header_text": "Filing Your Taxes",
+    "header_text": "Insurance Claim",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are filing your taxes for the previous year. You have several forms to include and you find the process confusing. You believe that you are trying your... "
+            "text": "You receive an insurance claim from a recent medical appointment that doesn't make sense. You call your insurance company to learn more, and you are anxious about what they are going to say. After the phone call, you feel... "
         },
         {
             "type": "Entry",
-            "name": "Filing Your Taxes_Finances_entry1"
+            "name": "Insurance Claim_Finances_entry1"
         }
     ]
 }

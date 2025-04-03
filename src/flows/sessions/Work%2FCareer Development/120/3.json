@@ -1,0 +1,24 @@
+{
+    "header_text": "Achieving Your Goals",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You believe that you will probably"
+        },
+        {
+            "type": "Buttons",
+            "name": "Achieving Your Goals_Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Get the job and advance your career even further. ",
+                "Not end up fulfilling your dreams, and feel disappointed with where you end up."
+            ],
+            "columnCount": 1,
+            "correct_value": "Not end up fulfilling your dreams, and feel disappointed with where you end up."
+        }
+    ]
+}

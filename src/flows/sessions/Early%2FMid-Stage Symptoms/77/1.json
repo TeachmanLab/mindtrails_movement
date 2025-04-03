@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Wedding",
+    "header_text": "Day in the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Wedding"
+            "text": "Day in the Park"
         },
         {
             "type": "Media",
-            "url": "./images/family_wedding.jpeg"
+            "url": "./images/day_in_the_park.jpeg"
         }
     ]
 }

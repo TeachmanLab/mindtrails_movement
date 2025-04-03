@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Think of times in your past when you were worried about an aspect of your physical health that ended up being perfectly normal."
+            "type": "Label",
+            "text": "Taking Charge"
+        },
+        {
+            "type": "Media",
+            "url": "./images/taking_charge.jpeg"
         }
     ]
 }

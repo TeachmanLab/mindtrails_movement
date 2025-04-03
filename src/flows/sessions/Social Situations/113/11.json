@@ -1,0 +1,15 @@
+{
+    "header_text": "Halloween party: Write Some Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "show_buttons": "AfterTimeout",
+    "timeout": 30
+}

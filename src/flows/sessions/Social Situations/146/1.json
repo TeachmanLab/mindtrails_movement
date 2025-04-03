@@ -1,14 +1,14 @@
 {
-    "header_text": "Having Someone Over",
+    "header_text": "Sharing Social Media with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Having Someone Over"
+            "text": "Sharing Social Media with New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/having_someone_over.jpeg"
+            "url": "./images/sharing_social_media_with_new_friend.jpeg"
         }
     ]
 }

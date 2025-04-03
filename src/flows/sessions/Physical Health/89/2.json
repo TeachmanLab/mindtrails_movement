@@ -1,0 +1,14 @@
+{
+    "header_text": "Driving with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are in the car with a friend and they are driving the speed limit on the highway. You feel butterflies in your stomach as you see cars passing quickly by. This makes you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Driving with a Friend_Physical Health_entry1"
+        }
+    ]
+}

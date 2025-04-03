@@ -1,24 +1,24 @@
 {
-    "header_text": "Thinking fast at work",
+    "header_text": "Book Club",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "If you fail to recall the steps needed to complete the task, you will..."
+            "Text": "Will you still be able to have discussions with your book club?"
         },
         {
             "type": "Buttons",
-            "name": "Thinking fast at work_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Book Club_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Still be able to do your job",
-                "Be judged by your colleagues"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Still be able to do your job"
+            "correct_value": "Yes"
         }
     ]
 }

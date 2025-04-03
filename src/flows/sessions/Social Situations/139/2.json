@@ -1,19 +1,19 @@
 {
-    "header_text": "Corner Laughter",
+    "header_text": "Comedic Genius",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are giving a presentation during your evening meeting. As you talk, you hear a few of your coworkers laughing in the corner. You look over at them and realize they were probably laughing at..."
+            "text": "You're out to lunch with a group of your friends. You make a joke that you think is really funny, but no one really laughs. They were probably..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Corner Laughter_Social Situations_puzzle1",
+            "name": "Comedic Genius_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "you"
+                "distracted"
             ],
             "missing_letter_count": 1
         }

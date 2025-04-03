@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Keeping Up With Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "If you've had difficulty sleeping recently, try putting away your phone half an hour before bedtime."
+            "type": "Label",
+            "text": "Keeping Up With Friends "
+        },
+        {
+            "type": "Media",
+            "url": "./images/keeping_up_with_friends.jpeg"
         }
     ]
 }

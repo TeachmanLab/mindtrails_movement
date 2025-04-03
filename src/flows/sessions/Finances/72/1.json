@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Jobs",
+    "header_text": "Filing Your Taxes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Managing Jobs"
+            "text": "Filing Your Taxes"
         },
         {
             "type": "Media",
-            "url": "./images/managing_jobs.jpeg"
+            "url": "./images/filing_your_taxes.jpeg"
         }
     ]
 }

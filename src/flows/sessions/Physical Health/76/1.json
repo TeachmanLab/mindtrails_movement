@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking Hard",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking Hard"
+            "text": "Long Walk Outside"
         },
         {
             "type": "Media",
-            "url": "./images/walking_hard.jpeg"
+            "url": "./images/long_walk_outside.jpeg"
         }
     ]
 }

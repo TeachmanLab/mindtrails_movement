@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Bringing a New Friend Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Every body is different. Take a moment to appreciate all that your body does to support you through life."
+            "type": "Label",
+            "text": "Bringing a New Friend Home"
+        },
+        {
+            "type": "Media",
+            "url": "./images/bringing_a_new_friend_home.jpeg"
         }
     ]
 }

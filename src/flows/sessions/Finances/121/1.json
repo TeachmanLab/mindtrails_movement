@@ -1,14 +1,14 @@
 {
-    "header_text": "Worrying About Spending",
+    "header_text": "Planning Payments",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Worrying About Spending"
+            "text": "Planning Payments"
         },
         {
             "type": "Media",
-            "url": "./images/worrying_about_spending.jpeg"
+            "url": "./images/planning_payments.jpeg"
         }
     ]
 }

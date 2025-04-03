@@ -1,21 +1,14 @@
 {
-    "header_text": "Marrying Your Partner",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your significant other of four years has recently asked how you feel about marriage. You feel very much in love with your significant other, but worry about the high rates of divorce and whether that could happen to you. Reflecting on the idea of marrying your partner, you believe your marriage would be a..."
+            "text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Marrying Your Partner_Romantic Relationships_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "words": [
-                "mistake"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Friends in Relationships_Romantic Relationships_entry1"
         }
     ]
 }

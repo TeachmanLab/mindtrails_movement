@@ -1,14 +1,14 @@
 {
-    "header_text": "Time to Yourself",
+    "header_text": "Alone at Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Time to Yourself"
+            "text": "Alone at Lunch"
         },
         {
             "type": "Media",
-            "url": "./images/time_to_yourself.jpeg"
+            "url": "./images/alone_at_lunch.jpeg"
         }
     ]
 }

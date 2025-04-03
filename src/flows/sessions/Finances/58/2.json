@@ -1,19 +1,19 @@
 {
-    "header_text": "Budgeting Your Income",
+    "header_text": "Comparing Financial Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize that you just received your paycheck a week ago. You notice that your bank account is lower than expected. You are worried about your spending, but know you can budget... "
+            "text": "You are talking to your friends about taking a trip together. You overhear that their partners are helping them pay for it and you start to worry about keeping up with them since you are supporting yourself. You think you will have enough to go on the..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Budgeting Your Income_Finances_puzzle1",
+            "name": "Comparing Financial Situations_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "effectively"
+                "trip"
             ],
             "missing_letter_count": 2
         }

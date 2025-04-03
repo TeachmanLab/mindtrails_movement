@@ -1,0 +1,14 @@
+{
+    "header_text": "Stomach Ache",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from... "
+        },
+        {
+            "type": "Entry",
+            "name": "Stomach Ache_Physical Health_entry1"
+        }
+    ]
+}

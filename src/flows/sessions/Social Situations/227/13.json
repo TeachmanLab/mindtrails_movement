@@ -1,0 +1,22 @@
+{
+    "header_text": "Not a lot of likes: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to reply all to a department-wide email to share an idea. It's been a few hours and no one has responded to your suggestion yet. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I dwell on the idea and sulk.",
+                "I continue my work without focusing on the email.",
+                "The next time my department emails me about an idea, I'll share it.",
+                "I want to tell people to forget about my idea, but I leave it as is.",
+                "I sit and check if anyone has replied, but decide to go out and enjoy the day."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking about TV",
+    "header_text": "A Homemade Gift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talking about TV"
+            "text": "A Homemade Gift"
         },
         {
             "type": "Media",
-            "url": "./images/talking_about_tv.jpeg"
+            "url": "./images/a_homemade_gift.jpeg"
         }
     ]
 }

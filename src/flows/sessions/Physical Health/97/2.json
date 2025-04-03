@@ -1,14 +1,14 @@
 {
-    "header_text": "Spring Allergies",
+    "header_text": "Wearing a Mask to Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a chilly spring day, and you are walking outside in the park. As you pass by the trees, you feel increasingly stuffy and sore. You start feeling..."
+            "text": "You are immunocompromised and have been taking precautions to protect yourself from the flu, such as getting this season's flu shot. A colleague tells you that they refuse to get the flu vaccine. You decide to start wearing a mask to work since you're immunocompromised and don't want to risk complications from the... "
         },
         {
             "type": "Entry",
-            "name": "Spring Allergies_Physical Health_entry1"
+            "name": "Wearing a Mask to Work_Physical Health_entry1"
         }
     ]
 }

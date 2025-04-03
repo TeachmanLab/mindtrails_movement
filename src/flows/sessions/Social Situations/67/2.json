@@ -1,0 +1,21 @@
+{
+    "header_text": "Old friend ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While at a festival, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Old friend _Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "distracted"
+            ],
+            "missing_letter_count": 2
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cooking a Casserole",
+    "header_text": "Unmasked Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cooking a Casserole"
+            "text": "Unmasked Peers"
         },
         {
             "type": "Media",
-            "url": "./images/cooking_a_casserole.jpeg"
+            "url": "./images/unmasked_peers.jpeg"
         }
     ]
 }

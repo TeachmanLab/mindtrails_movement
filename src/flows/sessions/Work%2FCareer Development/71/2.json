@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Choice",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel..."
+            "text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel..."
         },
         {
             "type": "Entry",
-            "name": "Making a Choice_Work/Career Development_entry1"
+            "name": "A Little Stumble_Work/Career Development_entry1"
         }
     ]
 }

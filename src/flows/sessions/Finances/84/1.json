@@ -1,14 +1,14 @@
 {
-    "header_text": "Unexpected Medical Visit ",
+    "header_text": "Holiday Gifts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Unexpected Medical Visit "
+            "text": "Holiday Gifts"
         },
         {
             "type": "Media",
-            "url": "./images/unexpected_medical_visit.jpeg"
+            "url": "./images/holiday_gifts.jpeg"
         }
     ]
 }

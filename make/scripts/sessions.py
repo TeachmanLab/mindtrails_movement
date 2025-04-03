@@ -117,14 +117,12 @@ def create_long_doses(popname,i):
                 thoughts = row[i+2:i+7]
                 feelings = row[i+7:i+12]
                 behaviors = row[i+12:i+17]
-                unique_image = False
                 
-
                 if not has_value(scenario_description) or not has_value(label): continue
 
                 dose = create_long_pages(label=label, scenario_description=scenario_description,
-                                          unique_image=unique_image, thoughts=thoughts,
-                                          feelings=feelings, behaviors=behaviors, image_url=image_url)
+                                        thoughts=thoughts, feelings=feelings, behaviors=behaviors, 
+                                        image_url=image_url)
                 # add page group to correct domain's list
                 long_doses[domain_1].append(dose)
                 # if it also belongs to a second domain, add the page group to that list
@@ -285,7 +283,7 @@ for popname,s,l,i in populations:
                 domain_doses[domain].append(resources(domain))
 
             if dose_count % 50 == 0:
-                long_dose = next(long_doses[domain])
+                domain_doses[domain].append(next(long_doses[domain]))
                 domain_doses[domain].append(resources(domain))
 
             dose_count += 1

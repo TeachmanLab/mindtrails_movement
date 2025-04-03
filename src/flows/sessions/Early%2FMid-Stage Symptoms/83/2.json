@@ -1,19 +1,19 @@
 {
-    "header_text": "Arcade Games",
+    "header_text": "Garden Planting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at an arcade with your family. You have always loved playing pinball to try to win prizes for your family members, but you can't pull back the pin as far as you used to and lose the game. You look at your family, and you all share a..."
+            "text": "In the spring, you notice your friends and neighbors have planted their gardens already. You are taking much longer than expected to plant your garden due to recent changes in your balance. You remember to take the planting one row at a time and remain..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Arcade Games_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Garden Planting_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "laugh"
+                "patient"
             ],
             "missing_letter_count": 1
         }

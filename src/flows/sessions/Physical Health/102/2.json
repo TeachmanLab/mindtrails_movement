@@ -1,19 +1,19 @@
 {
-    "header_text": "Testing Positive for Strep",
+    "header_text": "Out of Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A few days after attending a birthday party with lots of people and you notice that your throat hurts. You go to the doctor to take a test and find out that you have strep throat. You think about how your health will be affected and think that you will be able to handle the challenges as they..."
+            "text": "On a walk over the weekend, you noticed you were getting out of breath faster than usual. You remember that the flu causes shortness of breath, and you start to panic. Luckily, you know you've had your flu shot and have done everything you could to prevent the..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Testing Positive for Strep_Physical Health_puzzle1",
+            "name": "Out of Breath_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "come"
+                "flu"
             ],
             "missing_letter_count": 1
         }

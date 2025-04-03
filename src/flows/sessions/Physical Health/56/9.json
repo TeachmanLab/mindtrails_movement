@@ -1,0 +1,22 @@
+{
+    "header_text": "Walking up stairs: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are meeting with your boss. To make it on-time, you just walked up two flights of stairs quickly, and feel your heart beating very rapidly.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I'm worried that there's something really wrong with me.",
+                "I'm feeling excited now that my blood is pumping.",
+                "I'm worried that something's wrong with me, but I remind myself that it's normal to feel out of breath after walking up a bunch of stairs.",
+                "I'm happy I made the meeting on time.",
+                "I feel embarrassed about being out of breath, but I'm able to focus on what my boss has to say."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

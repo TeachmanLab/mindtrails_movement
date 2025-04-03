@@ -1,0 +1,14 @@
+{
+    "header_text": "Making New Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Making New Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/making_new_friends.jpeg"
+        }
+    ]
+}

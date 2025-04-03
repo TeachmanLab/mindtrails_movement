@@ -1,14 +1,14 @@
 {
-    "header_text": "Holiday Gifts",
+    "header_text": "Affording Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A holiday that your family celebrates is coming up. You want to buy gifts for everyone, but you can't afford it. You decide to buy one gift for your family to share, and you think that it will be... "
+            "text": "You've been wanting to go to therapy for a while. However, you aren't sure whether you have the budget to pay for it. You think that it's likely that you will find a provider whose services are... "
         },
         {
             "type": "Entry",
-            "name": "Holiday Gifts_Finances_entry1"
+            "name": "Affording Therapy_Finances_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Old friend ",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Old friend "
+            "text": "Busy cafe"
         },
         {
             "type": "Media",
-            "url": "./images/old_friend.jpeg"
+            "url": "./images/busy_cafe.jpeg"
         }
     ]
 }

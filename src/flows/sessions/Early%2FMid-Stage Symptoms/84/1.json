@@ -1,14 +1,14 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Arcade Games",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At Home Alone"
+            "text": "Arcade Games"
         },
         {
             "type": "Media",
-            "url": "./images/at_home_alone.jpeg"
+            "url": "./images/arcade_games.jpeg"
         }
     ]
 }

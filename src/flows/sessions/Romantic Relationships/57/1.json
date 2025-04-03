@@ -1,14 +1,14 @@
 {
-    "header_text": "Long-Term Relationship",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Long-Term Relationship"
+            "type": "Text",
+            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
         },
         {
-            "type": "Media",
-            "url": "./images/long-term_relationship.jpeg"
+            "type": "Entry",
+            "name": "Consejo #10_entry"
         }
     ]
 }

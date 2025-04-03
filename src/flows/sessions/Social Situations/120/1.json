@@ -1,14 +1,14 @@
 {
-    "header_text": "Balancing Home Life and Friends",
+    "header_text": "Attention in Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Balancing Home Life and Friends"
+            "text": "Attention in Store"
         },
         {
             "type": "Media",
-            "url": "./images/balancing_home_life_and_friends.jpeg"
+            "url": "./images/attention_in_store.jpeg"
         }
     ]
 }

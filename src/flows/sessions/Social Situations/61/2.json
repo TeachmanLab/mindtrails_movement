@@ -1,19 +1,19 @@
 {
-    "header_text": "Loud friend",
+    "header_text": "Dancing class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is..."
+            "text": "You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Loud friend_Social Situations_puzzle1",
+            "name": "Dancing class_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "tolerable"
+                "dancing"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Sore Throat at Dinner",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sore Throat at Dinner"
+            "text": "Overwhelming Options"
         },
         {
             "type": "Media",
-            "url": "./images/sore_throat_at_dinner.jpeg"
+            "url": "./images/overwhelming_options.jpeg"
         }
     ]
 }

@@ -1,24 +1,24 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Learning Social Media Dances",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your friends make fun of your sweat marks on your shirt? "
+            "Text": "Are you anxious about playing this game in front of your coworker?\r\n"
         },
         {
             "type": "Buttons",
-            "name": "Sweat Stains_Social Situations_comp_question",
+            "name": "Learning Social Media Dances_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

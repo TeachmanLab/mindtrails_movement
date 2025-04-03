@@ -1,14 +1,14 @@
 {
-    "header_text": "Applying to Jobs",
+    "header_text": "Answering Unexpected Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Applying to Jobs"
+            "type": "Text",
+            "text": "You are presenting your work to a group of your peers. After you present, someone asks you a very specific question that you do not know the answer to and you feel like you are unqualified. You remember that you did a lot of research, and this question may just not be..."
         },
         {
-            "type": "Media",
-            "url": "./images/applying_to_jobs.jpeg"
+            "type": "Entry",
+            "name": "Answering Unexpected Questions_Mental Health_entry1"
         }
     ]
 }

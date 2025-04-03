@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Decision",
+    "header_text": "Going to a Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse have to make a big decision. The conversation gets heated and turns into an argument that makes you wonder whether you and your spouse will ever be able to reach a compromise. You remind yourself that hard conversations can be a good way for you both to learn more about effective..."
+            "text": "It is wedding season and you are super excited to go to your friend's wedding. When you get there, you notice that most people have a date and you don't. You remember how excited you are for your friend and have a great time..."
         },
         {
             "type": "Entry",
-            "name": "Making a Decision_Romantic Relationships_entry1"
+            "name": "Going to a Wedding_Romantic Relationships_entry1"
         }
     ]
 }

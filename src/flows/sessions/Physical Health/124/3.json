@@ -1,15 +1,15 @@
 {
-    "header_text": "Dinner Party Supplies",
+    "header_text": "Medical Guilt",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Could you accept your racing heart as neither good nor bad?"
+            "Text": "Do you think your partner will stay mad at you?"
         },
         {
             "type": "Buttons",
-            "name": "Dinner Party Supplies_Physical Health_comp_question",
+            "name": "Medical Guilt_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -18,7 +18,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ]
 }

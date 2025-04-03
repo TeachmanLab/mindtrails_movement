@@ -1,14 +1,14 @@
 {
-    "header_text": "Trivia Night",
+    "header_text": "Your New Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trivia Night"
+            "text": "Your New Post"
         },
         {
             "type": "Media",
-            "url": "./images/trivia_night.jpeg"
+            "url": "./images/your_new_post.jpeg"
         }
     ]
 }

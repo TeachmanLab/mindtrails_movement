@@ -1,19 +1,19 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Meeting New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have submitted a resume and an application for a job that you have been hoping to get. You hope to get an interview for the job after they review your application, but you know it is very competitive. With your qualifications, you expect to get a..."
+            "text": "You started working at a new job this fall. Since your job is remote, you haven't been able to meet any of your colleagues in person. You have seen photos of some of them hanging out, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Getting an Opportunity_Work/Career Development_puzzle1",
+            "name": "Meeting New People_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "call"
+                "lonely"
             ],
             "missing_letter_count": 1
         }

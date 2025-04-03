@@ -1,14 +1,14 @@
 {
-    "header_text": "Name Recall ",
+    "header_text": "Replying to Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Name Recall "
+            "text": "Replying to Email"
         },
         {
             "type": "Media",
-            "url": "./images/name_recall.jpeg"
+            "url": "./images/replying_to_email.jpeg"
         }
     ]
 }

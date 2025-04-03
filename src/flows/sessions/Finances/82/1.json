@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Therapy",
+    "header_text": "Breakfast with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Affording Therapy"
+            "text": "Breakfast with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/affording_therapy.jpeg"
+            "url": "./images/breakfast_with_friends.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "High Anxiety",
+    "header_text": "Feeling Down",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "This year, you've been feeling very anxious, and you haven't been able to enjoy your life without worrying. You wonder what people in you life would think of you if you got help. You think that they would consider you to be... "
+            "text": "You have had a busy and stressful week. You are usually happy, but you've felt flat and sad all for the past few days. You remember that it's normal to have some hard..."
         },
         {
             "type": "Entry",
-            "name": "High Anxiety_Mental Health_entry1"
+            "name": "Feeling Down_Mental Health_entry1"
         }
     ]
 }

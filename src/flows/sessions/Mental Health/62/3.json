@@ -1,21 +1,21 @@
 {
-    "header_text": "Teaching Others",
+    "header_text": "Talking about Housing",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you lead the course well?"
+            "Text": "Will you figure out housing?"
         },
         {
             "type": "Buttons",
-            "name": "Teaching Others_Mental Health_comp_question",
+            "name": "Talking about Housing_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

@@ -1,19 +1,19 @@
 {
-    "header_text": "Work Friend",
+    "header_text": "No Notifications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner let you know that they're getting dinner with a friend from work. You've never heard your partner talk about any work friends, and you're concerned about who your partner is having dinner with. However, you trust your partner, and tell them to enjoy their..."
+            "text": "It's pretty late in the day, and you haven't talked to your partner at all. You don't think you did anything to upset them, but it seems like they're ignoring you. You realize that they're probably just having a busy..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Work Friend_Romantic Relationships_puzzle1",
+            "name": "No Notifications_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "dinner"
+                "week"
             ],
             "missing_letter_count": 2
         }

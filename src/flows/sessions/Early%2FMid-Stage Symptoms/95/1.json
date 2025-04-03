@@ -1,14 +1,14 @@
 {
-    "header_text": "Travel Dreams",
+    "header_text": "Farmer's Market",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Travel Dreams"
+            "text": "Farmer's Market"
         },
         {
             "type": "Media",
-            "url": "./images/travel_dreams.jpeg"
+            "url": "./images/farmer's_market.jpeg"
         }
     ]
 }

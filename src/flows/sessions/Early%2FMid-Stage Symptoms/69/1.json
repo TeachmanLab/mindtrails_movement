@@ -1,14 +1,14 @@
 {
-    "header_text": "At the Park",
+    "header_text": "Crowded Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At the Park"
+            "text": "Crowded Waiting Room"
         },
         {
             "type": "Media",
-            "url": "./images/at_the_park.jpeg"
+            "url": "./images/crowded_waiting_room.jpeg"
         }
     ]
 }

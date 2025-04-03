@@ -1,14 +1,14 @@
 {
-    "header_text": "1, 2, 3. Eyes on Me",
+    "header_text": "Peer Evaluations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "1, 2, 3. Eyes on Me"
+            "text": "Peer Evaluations"
         },
         {
             "type": "Media",
-            "url": "./images/1,_2,_3._eyes_on_me.jpeg"
+            "url": "./images/peer_evaluations.jpeg"
         }
     ]
 }

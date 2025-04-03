@@ -1,19 +1,19 @@
 {
-    "header_text": "Masks with Sensitive Skin",
+    "header_text": "Hard Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have sensitive skin, and wearing a mask makes you break out. When you see people without masks on, their skin is completely clear. You feel insecure about how much acne you... "
+            "text": "After finding out a friend has a virus, you decide to take yourself to the park for a relaxing day. When you try to go walk for a long time, you feel tired. This is probably because you've been..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Masks with Sensitive Skin_Physical Health_puzzle1",
+            "name": "Hard Walk_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "have"
+                "stressed"
             ],
             "missing_letter_count": 1
         }

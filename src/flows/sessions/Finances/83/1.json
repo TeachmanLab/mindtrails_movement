@@ -1,14 +1,14 @@
 {
-    "header_text": "Holiday Gifts",
+    "header_text": "Affording Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Holiday Gifts"
+            "text": "Affording Therapy"
         },
         {
             "type": "Media",
-            "url": "./images/holiday_gifts.jpeg"
+            "url": "./images/affording_therapy.jpeg"
         }
     ]
 }

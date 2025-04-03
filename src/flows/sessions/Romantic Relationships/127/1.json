@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Dinner",
+    "header_text": "Future Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Dinner"
+            "text": "Future Relationships"
         },
         {
             "type": "Media",
-            "url": "./images/family_dinner.jpeg"
+            "url": "./images/future_relationships.jpeg"
         }
     ]
 }

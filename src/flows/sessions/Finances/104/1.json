@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Function",
+    "header_text": "Family Money Troubles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Function"
+            "text": "Family Money Troubles"
         },
         {
             "type": "Media",
-            "url": "./images/social_function.jpeg"
+            "url": "./images/family_money_troubles.jpeg"
         }
     ]
 }

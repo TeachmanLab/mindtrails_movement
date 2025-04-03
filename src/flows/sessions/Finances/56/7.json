@@ -1,0 +1,15 @@
+{
+    "header_text": "The Birthday gift: Write Some Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend is having a huge birthday party and most of the people in your friend group will be there. Many of your friends are wealthier than you and can afford to give more expensive gifts. \n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "show_buttons": "AfterTimeout",
+    "timeout": 30
+}

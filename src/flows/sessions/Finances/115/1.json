@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Plan",
+    "header_text": "Session Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Making a Plan"
+            "text": "Session Costs"
         },
         {
             "type": "Media",
-            "url": "./images/making_a_plan.jpeg"
+            "url": "./images/session_costs.jpeg"
         }
     ]
 }

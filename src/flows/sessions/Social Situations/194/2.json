@@ -1,14 +1,14 @@
 {
-    "header_text": "Vaccination Reassurance",
+    "header_text": "Sore Throat at Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got... "
+            "text": "You make plans to go out to dinner with a friend, but you aren't sure if they've been around a large group of people recently. When they arrive to dinner, they keep taking sips of water, explaining that their throat tickles. You figure it's probably from talking a lot at... "
         },
         {
             "type": "Entry",
-            "name": "Vaccination Reassurance_Social Situations_entry1"
+            "name": "Sore Throat at Dinner_Social Situations_entry1"
         }
     ]
 }

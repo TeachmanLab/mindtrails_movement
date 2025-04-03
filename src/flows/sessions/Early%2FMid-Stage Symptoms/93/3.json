@@ -1,21 +1,24 @@
 {
-    "header_text": "Difficulty Baking",
+    "header_text": "Loan Repayment",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You ask about how they're feeling, and they respond that they're trying to remember the answer to your question. This makes you feel..."
+            "Text": "Taking steps to assess your finances makes you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Difficulty Baking_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Loan Repayment_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "comforted"
+            "buttons": [
+                "Organized",
+                "Ruined"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Organized"
         }
     ]
 }

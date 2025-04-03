@@ -1,0 +1,22 @@
+{
+    "header_text": "Halloween party: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I want to throw this costume away and never think of tonight again, but then remember that my friend complimented me earlier on it.",
+                "I walk up to some friends and start a conversation.",
+                "I'll post a picture of myself in this costume because I look great.",
+                "I'll leave the party immediately.",
+                "I want to change into something else, but decide to wear what I came in."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

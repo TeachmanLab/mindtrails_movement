@@ -1,14 +1,14 @@
 {
-    "header_text": "Long Weekend Alone",
+    "header_text": "Attending Wedding Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Long Weekend Alone"
+            "type": "Text",
+            "text": "It is a long weekend, and you are invited to a friend's wedding. When you arrive to the venue, you notice that many people have brought a plus one, and you came alone. You realize that you can still enjoy yourself at the wedding and get to know other guests even while being..."
         },
         {
-            "type": "Media",
-            "url": "./images/long_weekend_alone.jpeg"
+            "type": "Entry",
+            "name": "Attending Wedding Alone_Social Situations_entry1"
         }
     ]
 }

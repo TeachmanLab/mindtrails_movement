@@ -1,19 +1,19 @@
 {
-    "header_text": "Taking a Call",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You work in a large office with your supervisors. One morning you have to call your father and discuss an important matter. Everyone else is working quietly, and several colleagues look up and seem..."
+            "text": "You are giving a presentation during your evening meeting. As you talk, you hear a few of your coworkers laughing in the corner. You look over at them and realize they were probably laughing at..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Taking a Call_Social Situations_puzzle1",
+            "name": "Corner Laughter_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "annoyed"
+                "you"
             ],
             "missing_letter_count": 1
         }

@@ -1,0 +1,24 @@
+{
+    "header_text": "Keeping Up With Friends ",
+    "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Since you have been out of touch, your friend is probably thinking"
+        },
+        {
+            "type": "Buttons",
+            "name": "Keeping Up With Friends _Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "\"I'm sure things are just really busy right now.\"",
+                "\"I guess this friendship isn't worth very much.\""
+            ],
+            "columnCount": 1,
+            "correct_value": "\"I guess this friendship isn't worth very much.\""
+        }
+    ]
+}

@@ -1,19 +1,19 @@
 {
-    "header_text": "Symptoms at Shopping Mall",
+    "header_text": "Unconditional Love",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While you're in a shopping mall, your chorea is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to make an appointment, and as you place the call, you feel..."
+            "text": "Your marriage is extremely important to you. Lately, you have been lashing out at your spouse more often, and you worry about how this will affect your marriage. You seek the advice of a counselor and remember that your spouse's love is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Symptoms at Shopping Mall_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Unconditional Love_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "nervous"
+                "unconditional"
             ],
             "missing_letter_count": 1
         }

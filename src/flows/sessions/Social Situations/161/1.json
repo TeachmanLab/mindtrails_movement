@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing with Someone New",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing with Someone New"
+            "text": "An Invitation"
         },
         {
             "type": "Media",
-            "url": "./images/sharing_with_someone_new.jpeg"
+            "url": "./images/an_invitation.jpeg"
         }
     ]
 }

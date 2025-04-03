@@ -1,0 +1,22 @@
+{
+    "header_text": "New grocery store: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're at a new grocery store and you're looking for bread. Suddenly you notice that your heart is beating quickly and pounding. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I'm happy that I finally decided to come here.",
+                "I'm scared about this feeling in my chest, but think about all the times my heart has pounded and I've wound up fine.",
+                "I'm terrified my heart pounding means something bad is happening.",
+                "I'm excited to see what this new grocery store has.",
+                "I'm nervous about my heart, but remember that sometimes my heart beats quickly when I'm excited."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Small Party",
+    "header_text": "Brief Introduction",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Small Party"
+            "text": "Brief Introduction"
         },
         {
             "type": "Media",
-            "url": "./images/small_party.jpeg"
+            "url": "./images/brief_introduction.jpeg"
         }
     ]
 }

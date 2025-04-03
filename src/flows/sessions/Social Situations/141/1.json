@@ -1,14 +1,14 @@
 {
-    "header_text": "Taking a Call",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking a Call"
+            "text": "Corner Laughter"
         },
         {
             "type": "Media",
-            "url": "./images/taking_a_call.jpeg"
+            "url": "./images/corner_laughter.jpeg"
         }
     ]
 }

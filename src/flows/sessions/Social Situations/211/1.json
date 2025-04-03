@@ -1,14 +1,14 @@
 {
-    "header_text": "On a Walk",
+    "header_text": "Keeping Up With Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "On a Walk"
+            "text": "Keeping Up With Friends "
         },
         {
             "type": "Media",
-            "url": "./images/on_a_walk.jpeg"
+            "url": "./images/keeping_up_with_friends.jpeg"
         }
     ]
 }

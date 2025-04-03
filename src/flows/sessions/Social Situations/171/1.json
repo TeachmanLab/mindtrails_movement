@@ -1,14 +1,10 @@
 {
-    "header_text": "Call Ending Suddenly",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Call Ending Suddenly"
-        },
-        {
-            "type": "Media",
-            "url": "./images/call_ending_suddenly.jpeg"
+            "type": "Text",
+            "text": "Motivational Statement #10 \n\n You are stronger than you know and are taking the right steps to think more positively."
         }
     ]
 }

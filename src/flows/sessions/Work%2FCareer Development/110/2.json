@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow, and you know that a good resume will be an important... "
+            "text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow, and you know that a good resume will be an important factor. As you look over your resume, you think that the interviewer will be..."
         },
         {
             "type": "WordPuzzle",
@@ -13,7 +13,7 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "factor"
+                "favorable"
             ],
             "missing_letter_count": 1
         }

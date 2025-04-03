@@ -1,19 +1,19 @@
 {
-    "header_text": "Confirming Plans",
+    "header_text": "Important Presentation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A good friend of yours told you they'd meet you at your favorite restaurant for dinner one night. You text them that morning to ask what time to meet, but they haven't answered by early afternoon. You're quite upset at first, but then you realize they are probably just busy at... "
+            "text": "You have been asked to give a presentation about some of your latest projects at a major conference. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people at the conference will react to your presentation, you believe they will think you looked..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Confirming Plans_Social Situations_puzzle1",
+            "name": "Important Presentation _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "work"
+                "nervous"
             ],
             "missing_letter_count": 2
         }

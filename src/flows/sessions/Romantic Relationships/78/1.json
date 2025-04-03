@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #28 \n\n Taking steps to help yourself is a difficult, but rewarding process. You are doing great!"
+            "type": "Label",
+            "text": "Asking Out Your Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/asking_out_your_friend.jpeg"
         }
     ]
 }

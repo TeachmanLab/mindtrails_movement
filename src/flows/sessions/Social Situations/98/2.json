@@ -1,14 +1,14 @@
 {
-    "header_text": "Wearing Something Old",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look..."
+            "text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are..."
         },
         {
             "type": "Entry",
-            "name": "Wearing Something Old_Social Situations_entry1"
+            "name": "Sharing Favorite Shows_Social Situations_entry1"
         }
     ]
 }

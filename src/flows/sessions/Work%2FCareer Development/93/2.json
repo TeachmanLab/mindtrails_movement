@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconnecting With People",
+    "header_text": "Taking Your Own Career Path",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have had a lot of work pile up these past couple of weeks. As a result, you have not been able to spend time with friends or family as much as you would want and have often times felt lonely. Once your workload lessens, you plan on reconnecting with people who mean a lot to..."
+            "text": "You've decided to take time off work to travel. You don't know anyone who has taken this type of break, and all of your friends are questioning it. When you think about your decision, you feel like it's..."
         },
         {
             "type": "Entry",
-            "name": "Reconnecting With People_Work/Career Development_entry1"
+            "name": "Taking Your Own Career Path_Work/Career Development_entry1"
         }
     ]
 }

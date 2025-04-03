@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching Transportation",
+    "header_text": "Catching Your Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Catching Transportation"
+            "text": "Catching Your Breath"
         },
         {
             "type": "Media",
-            "url": "./images/catching_transportation.jpeg"
+            "url": "./images/catching_your_breath.jpeg"
         }
     ]
 }

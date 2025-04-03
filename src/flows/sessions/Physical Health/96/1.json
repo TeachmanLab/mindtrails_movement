@@ -1,14 +1,14 @@
 {
-    "header_text": "Wearing a Mask to Work",
+    "header_text": "Cough After Going Out ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Wearing a Mask to Work"
+            "text": "Cough After Going Out "
         },
         {
             "type": "Media",
-            "url": "./images/wearing_a_mask_to_work.jpeg"
+            "url": "./images/cough_after_going_out.jpeg"
         }
     ]
 }

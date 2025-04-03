@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Driving with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #22 \n\n Outer circumstances may be fixed, but our inner world is ours to transform. Embrace mindfulness."
+            "type": "Label",
+            "text": "Driving with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/driving_with_a_friend.jpeg"
         }
     ]
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Trampoline Safety",
+    "header_text": "Riding a boat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your children are bouncing on a trampoline. They are having fun but you also consider their safety, knowing that trampolines can be dangerous. While watching them bouncing up and down on the trampoline, you feel they are quite..."
+            "text": "You are on holiday at a lake and are riding a speed boat for the first time. You're buckled in. Your friend is about to make a turn at moderate speed and think that riding a boat is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trampoline Safety_Physical Health_puzzle1",
+            "name": "Riding a boat_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "safe"
+                "exhilarating"
             ],
             "missing_letter_count": 2
         }

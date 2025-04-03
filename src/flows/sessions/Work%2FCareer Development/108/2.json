@@ -1,19 +1,19 @@
 {
-    "header_text": "Scheduling Conflicts",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are currently have a lot going on with work. Your friend who you have not seen in a while has asked you to hang out the night before a deadline. You know that you need to do prioritize your work but worry that your friend will be upset for not making time for... "
+            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Scheduling Conflicts_Work/Career Development_puzzle1",
+            "name": "Reviewing Your Work _Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "them"
+                "successes"
             ],
             "missing_letter_count": 1
         }

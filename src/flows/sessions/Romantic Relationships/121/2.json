@@ -1,19 +1,19 @@
 {
-    "header_text": "Family Questions",
+    "header_text": "Opening Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it..."
+            "text": "You've recently been feeling more anxious than usual, and this is affecting your ability to do things with your partner. You've never told your partner about your anxiety, and you wonder if they'll judge you for it. When you talk to your partner about your mental health, you expect them to be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Family Questions_Romantic Relationships_puzzle1",
+            "name": "Opening Up_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "slow"
+                "understanding"
             ],
             "missing_letter_count": 1
         }

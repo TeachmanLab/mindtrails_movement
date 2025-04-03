@@ -1,19 +1,19 @@
 {
-    "header_text": "Dismissive Doctor",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a visit with your doctor today in regards to some new symptoms of PD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been... "
+            "text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dismissive Doctor_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Name Recall _Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "long"
+                "laugh"
             ],
             "missing_letter_count": 1
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Online Dating",
+    "header_text": "Breaking Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Online Dating"
+            "text": "Breaking Up"
         },
         {
             "type": "Media",
-            "url": "./images/online_dating.jpeg"
+            "url": "./images/breaking_up.jpeg"
         }
     ]
 }

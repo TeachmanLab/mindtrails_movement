@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend in the Hospital",
+    "header_text": "Wearing Something Old",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friend in the Hospital"
+            "text": "Wearing Something Old"
         },
         {
             "type": "Media",
-            "url": "./images/friend_in_the_hospital.jpeg"
+            "url": "./images/wearing_something_old.jpeg"
         }
     ]
 }

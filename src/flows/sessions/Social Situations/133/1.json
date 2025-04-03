@@ -1,14 +1,14 @@
 {
-    "header_text": "Leaning on your Peers",
+    "header_text": "Risky Behavior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Leaning on your Peers"
+            "text": "Risky Behavior"
         },
         {
             "type": "Media",
-            "url": "./images/leaning_on_your_peers.jpeg"
+            "url": "./images/risky_behavior.jpeg"
         }
     ]
 }

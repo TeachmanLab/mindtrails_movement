@@ -1,24 +1,21 @@
 {
-    "header_text": "Book Club",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you still be able to have discussions with your book club?"
+            "text": "You then realize that you can adapt the way you currently create. Knowing that there are many ways to be an artist leaves you feeling..."
         },
         {
-            "type": "Buttons",
-            "name": "Book Club_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Creating Art _Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "hopeful"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ]
 }

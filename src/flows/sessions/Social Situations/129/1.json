@@ -1,14 +1,14 @@
 {
-    "header_text": "Morning Meeting",
+    "header_text": "Social Media Self-Confidence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Morning Meeting"
+            "text": "Social Media Self-Confidence"
         },
         {
             "type": "Media",
-            "url": "./images/morning_meeting.jpeg"
+            "url": "./images/social_media_self-confidence.jpeg"
         }
     ]
 }

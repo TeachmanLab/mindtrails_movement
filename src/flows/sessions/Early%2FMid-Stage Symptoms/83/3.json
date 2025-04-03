@@ -1,24 +1,24 @@
 {
-    "header_text": "Arcade Games",
+    "header_text": "Garden Planting",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your family is being..."
+            "Text": "Taking a slower approach to garden work makes the experience more..."
         },
         {
             "type": "Buttons",
-            "name": "Arcade Games_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Garden Planting_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Judgmental",
-                "Playful"
+                "Troublesome",
+                "Peaceful"
             ],
             "columnCount": 1,
-            "correct_value": "Playful"
+            "correct_value": "Peaceful"
         }
     ]
 }

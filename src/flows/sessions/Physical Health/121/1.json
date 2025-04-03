@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Taking Precautions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking with a Friend"
+            "text": "Taking Precautions "
         },
         {
             "type": "Media",
-            "url": "./images/walking_with_a_friend.jpeg"
+            "url": "./images/taking_precautions.jpeg"
         }
     ]
 }

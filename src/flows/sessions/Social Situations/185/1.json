@@ -1,14 +1,14 @@
 {
-    "header_text": "Absent Sister",
+    "header_text": "Taking Yourself to a Movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Absent Sister"
+            "text": "Taking Yourself to a Movie"
         },
         {
             "type": "Media",
-            "url": "./images/absent_sister.jpeg"
+            "url": "./images/taking_yourself_to_a_movie.jpeg"
         }
     ]
 }

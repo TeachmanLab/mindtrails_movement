@@ -1,14 +1,14 @@
 {
-    "header_text": "Trivia Night",
+    "header_text": "Your New Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on your way home after a trivia night that you participated in. As your mind wanders, you think about the one question you missed. Overall, you consider your performance a..."
+            "text": "You just posted a new picture an hour ago. When you check how many likes it's gotten, you see no one has liked it yet. It's late at night, which means that everyone is..."
         },
         {
             "type": "Entry",
-            "name": "Trivia Night_Social Situations_entry1"
+            "name": "Your New Post_Social Situations_entry1"
         }
     ]
 }

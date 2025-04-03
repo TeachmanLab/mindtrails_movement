@@ -1,15 +1,15 @@
 {
-    "header_text": "Family Communication",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will the conversation with your family will go well? "
+            "Text": "Will you partner be understanding?"
         },
         {
             "type": "Buttons",
-            "name": "Family Communication_Romantic Relationships_comp_question",
+            "name": "Mental Health Issues_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

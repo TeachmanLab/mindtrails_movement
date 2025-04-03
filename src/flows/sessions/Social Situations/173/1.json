@@ -1,14 +1,14 @@
 {
-    "header_text": "Voicing Your Feelings",
+    "header_text": "Intoxication Situation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Voicing Your Feelings"
+            "text": "Intoxication Situation"
         },
         {
             "type": "Media",
-            "url": "./images/voicing_your_feelings.jpeg"
+            "url": "./images/intoxication_situation.jpeg"
         }
     ]
 }

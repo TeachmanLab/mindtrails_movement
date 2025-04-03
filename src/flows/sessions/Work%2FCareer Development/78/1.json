@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Work/Career Development",
+    "header_text": "Different Expectations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "5"
+            "type": "Label",
+            "text": "Different Expectations"
+        },
+        {
+            "type": "Media",
+            "url": "./images/different_expectations.jpeg"
         }
     ]
 }

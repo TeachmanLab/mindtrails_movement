@@ -1,19 +1,19 @@
 {
-    "header_text": "Taking Your Time",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your boss calls on you to answer a question about the presentation just given. You don't know what to say, and your mind goes blank. After a few moments, you prepare your answer and feel..."
+            "text": "You have been in the same post for five years, and you are beginning to feel bored and unchallenged in your job. You would like to try for a new position, but you worry if you will be competitive on the job market. Thinking about your career trajectory, you believe your chances of finding a new job that you find fulfilling are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Taking Your Time_Work/Career Development_puzzle1",
+            "name": "Changing Your Trajectory_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "ok"
+                "likely"
             ],
             "missing_letter_count": 1
         }

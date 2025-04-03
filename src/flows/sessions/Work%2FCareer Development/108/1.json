@@ -1,14 +1,14 @@
 {
-    "header_text": "Scheduling Conflicts",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Scheduling Conflicts"
+            "text": "Reviewing Your Work "
         },
         {
             "type": "Media",
-            "url": "./images/scheduling_conflicts.jpeg"
+            "url": "./images/reviewing_your_work.jpeg"
         }
     ]
 }

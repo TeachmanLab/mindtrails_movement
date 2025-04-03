@@ -1,14 +1,14 @@
 {
-    "header_text": "Jacket Return",
+    "header_text": "Practicing Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Jacket Return"
+            "text": "Practicing Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/jacket_return.jpeg"
+            "url": "./images/practicing_presentation.jpeg"
         }
     ]
 }

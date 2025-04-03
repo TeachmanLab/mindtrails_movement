@@ -1,0 +1,15 @@
+{
+    "header_text": "Symptomatic in Public: Write Some Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A random person comes up to you to ask you a question, but all you can manage in response is a quiet mumble they can't hear. You start wondering what their response will be.\n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "show_buttons": "AfterTimeout",
+    "timeout": 30
+}

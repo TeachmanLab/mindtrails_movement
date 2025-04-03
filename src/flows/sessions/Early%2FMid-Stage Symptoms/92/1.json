@@ -1,14 +1,14 @@
 {
-    "header_text": "Loan Repayment",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Loan Repayment"
+            "text": "Beach Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/loan_repayment.jpeg"
+            "url": "./images/beach_vacation.jpeg"
         }
     ]
 }

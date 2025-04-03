@@ -1,19 +1,19 @@
 {
-    "header_text": "Meeting Rush",
+    "header_text": "Inside Jokes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You run to a meeting at work because you think you might be late. You make it to the meeting room on time, but you are breathing heavily and feel embarrassed because people are looking at you. As you sit down, to calm yourself, you decide to focus on your..."
+            "text": "You post a short video. Your friend comments something really embarrassing. Your followers will think that you and your friend are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Meeting Rush_Social Situations_puzzle1",
+            "name": "Inside Jokes _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "breath"
+                "close"
             ],
             "missing_letter_count": 1
         }

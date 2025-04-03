@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Family's Car",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your family shares one older car that has a big dent in the front. Today, you are driving it around town. When you think about people you know seeing your car, you feel..."
+            "text": "You are going to a potluck dinner party, and you want to make your family's macaroni casserole to bring. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes..."
         },
         {
             "type": "Entry",
-            "name": "Your Family's Car_Social Situations_entry1"
+            "name": "Cooking a Casserole_Social Situations_entry1"
         }
     ]
 }

@@ -1,21 +1,21 @@
 {
-    "header_text": "Taking a Call",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Were others judging you negatively because you called your father from work?"
+            "Text": "Were your coworkers laughing at you?"
         },
         {
             "type": "Buttons",
-            "name": "Taking a Call_Social Situations_comp_question",
+            "name": "Corner Laughter_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"

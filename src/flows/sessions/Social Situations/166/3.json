@@ -1,24 +1,24 @@
 {
-    "header_text": "Confirming Plans",
+    "header_text": "Important Presentation ",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did your friend forget about you?"
+            "Text": "After your presentation, people in the audience will probably think about"
         },
         {
             "type": "Buttons",
-            "name": "Confirming Plans_Social Situations_comp_question",
+            "name": "Important Presentation _Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "How well you did in your talk.",
+                "How much trouble you had giving the talk."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "How much trouble you had giving the talk."
         }
     ]
 }

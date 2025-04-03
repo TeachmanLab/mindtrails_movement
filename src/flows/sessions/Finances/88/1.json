@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Education",
+    "header_text": "Planning Payments",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Affording Education"
+            "text": "Planning Payments"
         },
         {
             "type": "Media",
-            "url": "./images/affording_education.jpeg"
+            "url": "./images/planning_payments.jpeg"
         }
     ]
 }

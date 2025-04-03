@@ -1,14 +1,14 @@
 {
-    "header_text": "Worrying About Savings",
+    "header_text": "Paying for College",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Worrying About Savings"
+            "text": "Paying for College"
         },
         {
             "type": "Media",
-            "url": "./images/worrying_about_savings.jpeg"
+            "url": "./images/paying_for_college.jpeg"
         }
     ]
 }

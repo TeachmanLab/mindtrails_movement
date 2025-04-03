@@ -1,14 +1,14 @@
 {
-    "header_text": "Committing to Activities",
+    "header_text": "Misunderstanding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Committing to Activities"
+            "text": "Misunderstanding"
         },
         {
             "type": "Media",
-            "url": "./images/committing_to_activities.jpeg"
+            "url": "./images/misunderstanding.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "For the First Time",
+    "header_text": "Marrying Your Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "For the First Time"
+            "text": "Marrying Your Partner"
         },
         {
             "type": "Media",
-            "url": "./images/for_the_first_time.jpeg"
+            "url": "./images/marrying_your_partner.jpeg"
         }
     ]
 }

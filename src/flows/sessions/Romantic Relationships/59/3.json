@@ -1,24 +1,24 @@
 {
-    "header_text": "Family Not Approving of Significant Other",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your family be skeptical of your partner forever? "
+            "Text": "When checking the site over the next few weeks, you expect"
         },
         {
             "type": "Buttons",
-            "name": "Family Not Approving of Significant Other_Romantic Relationships_comp_question",
+            "name": "Online Dating_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "To receive lots of messages from other users.",
+                "To get very few contacts."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "To get very few contacts."
         }
     ]
 }

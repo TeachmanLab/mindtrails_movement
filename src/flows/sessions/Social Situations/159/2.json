@@ -1,19 +1,19 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Trying Out a Funny Caption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You invite your supervisor to an event this weekend. You're the only one of your friends that's close with their supervisor and are unsure of how others will perceive you. As you get ready for the event, you feel..."
+            "text": "You are trying come up with a closing for an email to send to your coworkers. You come up with a joke that your closest friends will love. Your coworkers will think it's..."
         },
         {
             "type": "WordPuzzle",
-            "name": "An Invitation_Social Situations_puzzle1",
+            "name": "Trying Out a Funny Caption_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "happy"
+                "funny"
             ],
             "missing_letter_count": 2
         }

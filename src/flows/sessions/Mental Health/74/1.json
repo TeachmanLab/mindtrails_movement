@@ -1,14 +1,14 @@
 {
-    "header_text": "High Anxiety",
+    "header_text": "Feeling Down",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "High Anxiety"
+            "text": "Feeling Down"
         },
         {
             "type": "Media",
-            "url": "./images/high_anxiety.jpeg"
+            "url": "./images/feeling_down.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Trivia Team",
+    "header_text": "Vaccination Reassurance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be... "
+            "text": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got... "
         },
         {
             "type": "Entry",
-            "name": "Trivia Team_Social Situations_entry1"
+            "name": "Vaccination Reassurance_Social Situations_entry1"
         }
     ]
 }

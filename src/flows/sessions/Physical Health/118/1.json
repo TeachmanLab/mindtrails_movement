@@ -1,14 +1,14 @@
 {
-    "header_text": "Rescheduled Vacation",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Rescheduled Vacation"
+            "text": "Walking with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/rescheduled_vacation.jpeg"
+            "url": "./images/walking_with_a_friend.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Office Initiative",
+    "header_text": "Supportive Guidance ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Office Initiative"
+            "text": "Supportive Guidance "
         },
         {
             "type": "Media",
-            "url": "./images/office_initiative.jpeg"
+            "url": "./images/supportive_guidance.jpeg"
         }
     ]
 }

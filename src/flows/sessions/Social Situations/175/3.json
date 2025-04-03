@@ -1,24 +1,21 @@
 {
-    "header_text": "Alone at Lunch",
+    "header_text": "Not Having Much to Say",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does eating alone make you upset?"
+            "text": "While listening to your friends, you remember that your friend was quiet the other day. You decide that not always sharing is..."
         },
         {
-            "type": "Buttons",
-            "name": "Alone at Lunch_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Not Having Much to Say_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "normal"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Play Cancellation",
+    "header_text": "Recent Exposure",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Play Cancellation"
+            "text": "Recent Exposure"
         },
         {
             "type": "Media",
-            "url": "./images/play_cancellation.jpeg"
+            "url": "./images/recent_exposure.jpeg"
         }
     ]
 }

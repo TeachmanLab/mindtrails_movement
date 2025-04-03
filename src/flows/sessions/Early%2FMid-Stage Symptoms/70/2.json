@@ -1,19 +1,19 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are an avid traveler but have recently had mobility challenges and frequent fatigue. You worry about how this will impact your ability to explore new destinations and maintain a fast-paced lifestyle. The more you think about it, the more you become..."
+            "text": "You are at the park with a friend when your hands start shaking. As your friend looks down at your hands, your heart begins to pound, and you feel out of control. You begin to focus on taking slow, deep breaths and remind yourself this feeling will..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Avid Traveler_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "At the Park_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "hopeless"
+                "pass"
             ],
             "missing_letter_count": 1
         }

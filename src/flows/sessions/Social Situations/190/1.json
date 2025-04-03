@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #11 \n\n When life takes away, something of greater value is always given in return. - Michael J. Fox"
+            "type": "Label",
+            "text": "The Dance Showcase"
+        },
+        {
+            "type": "Media",
+            "url": "./images/the_dance_showcase.jpeg"
         }
     ]
 }

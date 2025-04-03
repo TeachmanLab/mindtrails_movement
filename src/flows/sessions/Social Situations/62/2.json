@@ -1,19 +1,19 @@
 {
-    "header_text": "Overhearing your name",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At work you overhear some coworkers discussing other people and hear your name mentioned. You do not hear everything they say, but when you walk by, they suddenly look away with..."
+            "text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Overhearing your name_Social Situations_puzzle1",
+            "name": "Loud friend_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "guilt"
+                "tolerable"
             ],
             "missing_letter_count": 2
         }

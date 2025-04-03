@@ -1,14 +1,14 @@
 {
-    "header_text": "Taking Your Time",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking Your Time"
+            "text": "Changing Your Trajectory"
         },
         {
             "type": "Media",
-            "url": "./images/taking_your_time.jpeg"
+            "url": "./images/changing_your_trajectory.jpeg"
         }
     ]
 }

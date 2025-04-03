@@ -1,14 +1,14 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Grocery Store Experience"
+            "text": "Expressing Your Ideas"
         },
         {
             "type": "Media",
-            "url": "./images/grocery_store_experience.jpeg"
+            "url": "./images/expressing_your_ideas.jpeg"
         }
     ]
 }

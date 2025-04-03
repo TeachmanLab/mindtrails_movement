@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Finances",
+    "header_text": "Gift Giving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Oftentimes, establishing boundaries improves relationships."
+            "type": "Label",
+            "text": "Gift Giving"
+        },
+        {
+            "type": "Media",
+            "url": "./images/gift_giving.jpeg"
         }
     ]
 }

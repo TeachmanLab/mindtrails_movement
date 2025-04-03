@@ -1,14 +1,10 @@
 {
-    "header_text": "Lessons Learned",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Great job! You're making great progress trying out new perspectives tied to early/mid-stage symptoms! Take a few minutes to reflect on the short stories you've read so far. What have you learned? What are your main takeaways? For instance, you might notice that people are undertsanding if you are symptomatic while in public."
-        },
-        {
-            "type": "Entry",
-            "name": "lessons_learned_Early/Mid-Stage Symptoms_80"
+            "text": "Motivational Statement #31 \n\n Whatever you do today is enough. You are facing new challenges, and deserve to give yourself grace."
         }
     ]
 }

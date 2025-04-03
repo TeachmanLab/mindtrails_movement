@@ -1,14 +1,14 @@
 {
-    "header_text": "Silent Partner",
+    "header_text": "Overhearing an Argument",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Silent Partner"
+            "text": "Overhearing an Argument"
         },
         {
             "type": "Media",
-            "url": "./images/silent_partner.jpeg"
+            "url": "./images/overhearing_an_argument.jpeg"
         }
     ]
 }

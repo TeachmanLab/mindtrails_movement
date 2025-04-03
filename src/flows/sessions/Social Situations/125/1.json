@@ -1,14 +1,10 @@
 {
-    "header_text": "Creative Confidence ",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Creative Confidence "
-        },
-        {
-            "type": "Media",
-            "url": "./images/creative_confidence.jpeg"
+            "type": "Text",
+            "text": "Remember that researching your health symptoms on the internet can often lead to an anxiety spiral. Try asking a close friend if you can confide in them about the way you are feeling. "
         }
     ]
 }

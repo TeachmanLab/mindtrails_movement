@@ -1,14 +1,14 @@
 {
-    "header_text": "Giving a Presentation",
+    "header_text": "The Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Giving a Presentation"
+            "text": "The Meeting"
         },
         {
             "type": "Media",
-            "url": "./images/giving_a_presentation.jpeg"
+            "url": "./images/the_meeting.jpeg"
         }
     ]
 }

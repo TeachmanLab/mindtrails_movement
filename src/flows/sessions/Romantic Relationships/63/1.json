@@ -1,14 +1,14 @@
 {
-    "header_text": "No Notifications",
+    "header_text": "Silent Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "No Notifications"
+            "text": "Silent Partner"
         },
         {
             "type": "Media",
-            "url": "./images/no_notifications.jpeg"
+            "url": "./images/silent_partner.jpeg"
         }
     ]
 }

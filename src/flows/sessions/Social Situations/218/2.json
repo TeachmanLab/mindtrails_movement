@@ -1,19 +1,19 @@
 {
-    "header_text": "Old Friends ",
+    "header_text": "Posting about Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are volunteering at a community event and notice two old friends who you have not seen in a while. They come up to say hi as they are passing. They probably think that you are..."
+            "text": "You look through your social media feed and noticed that your grandkids only post pictures with their friends. You posted a family picture and tagged your grandkids. You asked your grandkids if they minded, and they said that it was a great..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Old Friends _Social Situations_puzzle1",
+            "name": "Posting about Family_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "selfless"
+                "photo"
             ],
             "missing_letter_count": 1
         }

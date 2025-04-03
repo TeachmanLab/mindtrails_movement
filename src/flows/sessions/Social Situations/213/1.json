@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend's Get Together",
+    "header_text": "Luncheon Looks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friend's Get Together"
+            "text": "Luncheon Looks"
         },
         {
             "type": "Media",
-            "url": "./images/friend's_get_together.jpeg"
+            "url": "./images/luncheon_looks.jpeg"
         }
     ]
 }

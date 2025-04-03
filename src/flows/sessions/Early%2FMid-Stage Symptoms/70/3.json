@@ -1,21 +1,24 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "You remind yourself that you can still find fulfillment in traveling more locally. Focusing on other aspects of travel that you enjoy gives you... "
+            "Text": "Will you always feel like this?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Avid Traveler_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "At the Park_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "peace"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ]
 }

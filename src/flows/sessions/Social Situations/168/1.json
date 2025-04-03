@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Confirming Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Motivational Statement #10 \n\n You are stronger than you know and are taking the right steps to think more positively."
+            "type": "Label",
+            "text": "Confirming Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/confirming_plans.jpeg"
         }
     ]
 }

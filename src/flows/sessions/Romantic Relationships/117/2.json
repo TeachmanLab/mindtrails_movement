@@ -1,19 +1,19 @@
 {
-    "header_text": "Getting Over It",
+    "header_text": "Mental Health Resources",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your... "
+            "text": "Recently, your partner has been struggling with their mental health. You want to help them, but you don’t know how. You decide to do research on possible resources you can share to be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Getting Over It_Romantic Relationships_puzzle1",
+            "name": "Mental Health Resources_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "honesty"
+                "supportive"
             ],
             "missing_letter_count": 1
         }

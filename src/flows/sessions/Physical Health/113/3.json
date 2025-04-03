@@ -1,24 +1,10 @@
 {
-    "header_text": "Late Communication",
+    "header_text": "New grocery store",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did your friend put you in a dangerous situation on purpose?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Late Communication_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "text": "Picture yourself in the situation on the next page."
         }
     ]
 }

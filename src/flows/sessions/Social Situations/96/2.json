@@ -1,14 +1,14 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are..."
+            "text": "You are shopping in a grocery store. As you are browsing some shelves, you accidently knock several cans on the floor and shoppers turn to look at you. The shoppers see the cans on the floor and respond with..."
         },
         {
             "type": "Entry",
-            "name": "Important Opinion_Social Situations_entry1"
+            "name": "Grocery Store Experience_Social Situations_entry1"
         }
     ]
 }

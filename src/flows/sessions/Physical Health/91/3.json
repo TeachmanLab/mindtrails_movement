@@ -1,14 +1,14 @@
 {
-    "header_text": "Meeting Someone New",
+    "header_text": "Seeing an Old Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a birthday party for a friend of a friend. You start to feel a knot in your stomach while talking to someone you've never met before. This probably means that you are..."
+            "text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel..."
         },
         {
             "type": "Entry",
-            "name": "Meeting Someone New_Physical Health_entry1"
+            "name": "Seeing an Old Friend_Physical Health_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting Ready for a Date",
+    "header_text": "Visiting your Partner's Parents",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting Ready for a Date"
+            "text": "Visiting your Partner's Parents"
         },
         {
             "type": "Media",
-            "url": "./images/getting_ready_for_a_date.jpeg"
+            "url": "./images/visiting_your_partner's_parents.jpeg"
         }
     ]
 }

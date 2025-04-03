@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Expenses",
+    "header_text": "Friend's Birthday",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at... "
+            "text": "Some friends have reached out to you about going out to dinner for a friend's birthday. You've had some unforseen expenses this month, and you're worried about being able to afford a nice dinner. You talk to your friends, and they reassure you that the restaurant they choose won't be..."
         },
         {
             "type": "Entry",
-            "name": "Affording Expenses_Finances_entry1"
+            "name": "Friend's Birthday_Finances_entry1"
         }
     ]
 }

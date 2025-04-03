@@ -1,0 +1,14 @@
+{
+    "header_text": "Paying for Dinner ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will... "
+        },
+        {
+            "type": "Entry",
+            "name": "Paying for Dinner _Finances_entry1"
+        }
+    ]
+}

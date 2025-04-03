@@ -1,0 +1,22 @@
+{
+    "header_text": "Not a lot of likes: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to reply all to a department-wide email to share an idea. It's been a few hours and no one has responded to your suggestion yet. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I'm embarrassed that no one liked my idea, but they'll probably forget about it soon.",
+                "I feel brave for sharing an idea to the whole department",
+                "I'm happy engaging with my department.",
+                "I feel disappointed to have not gotten a response, but people are probably still thinking about it.",
+                "I feel totally exposed."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

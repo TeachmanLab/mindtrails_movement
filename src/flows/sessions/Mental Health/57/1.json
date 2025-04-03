@@ -1,14 +1,10 @@
 {
-    "header_text": "Looking at your Resume",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Looking at your Resume"
-        },
-        {
-            "type": "Media",
-            "url": "./images/looking_at_your_resume.jpeg"
+            "type": "Text",
+            "text": "Motivational Statement #16 \n\n You are a resilient person who is ever-evolving. You are putting in the work!"
         }
     ]
 }

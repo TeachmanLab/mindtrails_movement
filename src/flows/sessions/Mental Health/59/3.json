@@ -1,15 +1,15 @@
 {
-    "header_text": "Presenting your Work",
+    "header_text": "Joining a New Club",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your work impress the people at the event?"
+            "Text": "Can you be involved in the book club discussion?"
         },
         {
             "type": "Buttons",
-            "name": "Presenting your Work_Mental Health_comp_question",
+            "name": "Joining a New Club_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

@@ -1,14 +1,14 @@
 {
-    "header_text": "Participation ",
+    "header_text": "Second meet-up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participation "
+            "text": "Second meet-up"
         },
         {
             "type": "Media",
-            "url": "./images/participation.jpeg"
+            "url": "./images/second_meet-up.jpeg"
         }
     ]
 }

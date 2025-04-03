@@ -1,14 +1,14 @@
 {
-    "header_text": "Prepare to Succeed",
+    "header_text": "Enjoyable Endeavor ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prepare to Succeed"
+            "text": "Enjoyable Endeavor "
         },
         {
             "type": "Media",
-            "url": "./images/prepare_to_succeed.jpeg"
+            "url": "./images/enjoyable_endeavor.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Driving with a Friend",
+    "header_text": "Upset Stomach",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in the car with a friend and they are driving the speed limit on the highway. You feel butterflies in your stomach as you see cars passing quickly by. This makes you feel..."
+            "text": "You've been feeling sick to your stomach for a few days. You make an appointment with your doctor. The nausea probably means that you are..."
         },
         {
             "type": "Entry",
-            "name": "Driving with a Friend_Physical Health_entry1"
+            "name": "Upset Stomach_Physical Health_entry1"
         }
     ]
 }

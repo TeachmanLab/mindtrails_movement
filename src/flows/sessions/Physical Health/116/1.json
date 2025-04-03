@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Safe Delivery",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking with a Friend"
+            "text": "Safe Delivery"
         },
         {
             "type": "Media",
-            "url": "./images/walking_with_a_friend.jpeg"
+            "url": "./images/safe_delivery.jpeg"
         }
     ]
 }

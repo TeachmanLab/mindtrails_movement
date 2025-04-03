@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing Favorite Shows",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing Favorite Shows"
+            "text": "Important Opinion"
         },
         {
             "type": "Media",
-            "url": "./images/sharing_favorite_shows.jpeg"
+            "url": "./images/important_opinion.jpeg"
         }
     ]
 }

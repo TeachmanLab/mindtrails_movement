@@ -1,24 +1,24 @@
 {
-    "header_text": "Family Questions",
+    "header_text": "Opening Up",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you upset that you're single? "
+            "Text": "Will you tell your partner about your anxiety?"
         },
         {
             "type": "Buttons",
-            "name": "Family Questions_Romantic Relationships_comp_question",
+            "name": "Opening Up_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ]
 }

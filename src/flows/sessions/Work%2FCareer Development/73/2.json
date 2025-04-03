@@ -1,14 +1,14 @@
 {
-    "header_text": "Discussing the Evaluation ",
+    "header_text": "Supportive Person ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just received your performance evaluation, and you noticed their are some critiques about your work that you did not realize were an issue. While waiting for your meeting with your boss, you feel..."
+            "text": "You want to talk to someone about your plans for the future, but don't want to talk to your family about it. You think about other close people in your life, and decide to talk to your closest friend. When you think about their reaction, you think they will probably be..."
         },
         {
             "type": "Entry",
-            "name": "Discussing the Evaluation _Work/Career Development_entry1"
+            "name": "Supportive Person _Work/Career Development_entry1"
         }
     ]
 }

@@ -1,0 +1,22 @@
+{
+    "header_text": "Trying your best: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are presenting your progress on a project to your boss next week. Your personal life has been hectic recently, and you haven't had much time to devote to the project, leaving you with fewer updates to report than usual.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I'm scared that my boss will be disappointed in me.",
+                "I'm confident that I can tell my boss about what's been going on.",
+                "I'm nervous for the presentation, but I'll be able to handle it.",
+                "I'm embarrassed to present my work to my boss, but that feeling will pass.",
+                "I feel good about how I've done at this job so far."
+            ],
+            "Duration": 15
+        }
+    ],
+    "show_buttons": "WhenCorrect"
+}

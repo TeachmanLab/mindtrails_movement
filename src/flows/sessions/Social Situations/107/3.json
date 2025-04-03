@@ -1,14 +1,14 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are..."
+            "text": "In the end, you realize that people were probably just surprised by the sound and turned around reflexively. The shoppers saw that no one was injured and probably felt..."
         },
         {
             "type": "Entry",
-            "name": "Important Opinion_Social Situations_entry2"
+            "name": "Grocery Store Experience_Social Situations_entry2"
         }
     ]
 }

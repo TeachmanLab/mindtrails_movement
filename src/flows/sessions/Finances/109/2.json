@@ -1,19 +1,19 @@
 {
-    "header_text": "Saving up Money",
+    "header_text": "Worrying About Savings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are going over your monthly expenses, and realize you spent more than you had planned on a new hobby. It doesn't put you in a financial bind now, but you are trying to save up money to go on a ski trip you have been planning for months. As you think about cutting back on your expenses, you think that saving enough for your trip is..."
+            "text": "You hung out with some friends you haven't seen in a while, and you ended up on the topic of finances. While you thought your financial situation was stable, your friends start talking about the money they're putting away in savings for retirement. You've been using your money to pay for necessities, and haven't thought about starting to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Saving up Money_Finances_puzzle1",
+            "name": "Worrying About Savings_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "hopeless"
+                "save"
             ],
             "missing_letter_count": 1
         }

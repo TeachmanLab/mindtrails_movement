@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding The One",
+    "header_text": "Waiting Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're currently single, and have been going on dates to try and find the one. Sometimes, it feels hard to really connect with people and get to know them on a deeper level. When you think about getting married in the future, you feel..."
+            "text": "You've been single for a while, and all of your friends are in relationships. You wonder if this means something about you, since you've been unable to find your person. The more you reflect on it, you think it's okay to wait for the right person, and you're happy with being..."
         },
         {
             "type": "Entry",
-            "name": "Finding The One_Romantic Relationships_entry1"
+            "name": "Waiting Game_Romantic Relationships_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Upset Stomach",
+    "header_text": "Presentation Panic",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You meet with the doctor and they tell you what's probably going on. You think about it and realize that getting sick sometimes is..."
+            "text": "You decide to take a slow, deep breath. As you start to talk again, you realize that what you felt was..."
         },
         {
             "type": "Entry",
-            "name": "Upset Stomach_Physical Health_entry2"
+            "name": "Presentation Panic_Physical Health_entry2"
         }
     ]
 }

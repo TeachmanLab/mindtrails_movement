@@ -1,14 +1,14 @@
 {
-    "header_text": "Not Feeling Supported",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Not Feeling Supported"
+            "text": "Fundraiser presentation"
         },
         {
             "type": "Media",
-            "url": "./images/not_feeling_supported.jpeg"
+            "url": "./images/fundraiser_presentation.jpeg"
         }
     ]
 }

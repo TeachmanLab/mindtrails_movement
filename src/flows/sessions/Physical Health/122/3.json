@@ -1,24 +1,21 @@
 {
-    "header_text": "Medical Guilt",
+    "header_text": "Longer Walks",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think your partner will stay mad at you?"
+            "text": "As you consider the idea of taking on this challenge, you don't think it is too much for you because you believe that you will probably be good... "
         },
         {
-            "type": "Buttons",
-            "name": "Medical Guilt_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Longer Walks_Physical Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "words": [
+                "enough"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ]
 }

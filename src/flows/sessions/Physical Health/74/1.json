@@ -1,14 +1,14 @@
 {
-    "header_text": "Dry Mouth",
+    "header_text": "Catching up to Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dry Mouth"
+            "text": "Catching up to Friends"
         },
         {
             "type": "Media",
-            "url": "./images/dry_mouth.jpeg"
+            "url": "./images/catching_up_to_friends.jpeg"
         }
     ]
 }

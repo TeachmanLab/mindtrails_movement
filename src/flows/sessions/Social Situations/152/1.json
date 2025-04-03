@@ -1,14 +1,14 @@
 {
-    "header_text": "Lightening the Mood",
+    "header_text": "Different Music Tastes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lightening the Mood"
+            "text": "Different Music Tastes"
         },
         {
             "type": "Media",
-            "url": "./images/lightening_the_mood.jpeg"
+            "url": "./images/different_music_tastes.jpeg"
         }
     ]
 }

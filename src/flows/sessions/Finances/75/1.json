@@ -1,14 +1,14 @@
 {
-    "header_text": "Affording Expenses",
+    "header_text": "Friend's Birthday",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Affording Expenses"
+            "text": "Friend's Birthday"
         },
         {
             "type": "Media",
-            "url": "./images/affording_expenses.jpeg"
+            "url": "./images/friend's_birthday.jpeg"
         }
     ]
 }

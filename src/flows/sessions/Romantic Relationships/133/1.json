@@ -1,14 +1,14 @@
 {
-    "header_text": "Asking Someone Out ",
+    "header_text": "Couples Counseling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Asking Someone Out "
+            "text": "Couples Counseling"
         },
         {
             "type": "Media",
-            "url": "./images/asking_someone_out.jpeg"
+            "url": "./images/couples_counseling.jpeg"
         }
     ]
 }

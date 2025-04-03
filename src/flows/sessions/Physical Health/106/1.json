@@ -1,14 +1,14 @@
 {
-    "header_text": "Masks with Sensitive Skin",
+    "header_text": "Hard Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Masks with Sensitive Skin"
+            "text": "Hard Walk"
         },
         {
             "type": "Media",
-            "url": "./images/masks_with_sensitive_skin.jpeg"
+            "url": "./images/hard_walk.jpeg"
         }
     ]
 }

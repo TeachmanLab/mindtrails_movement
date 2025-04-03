@@ -1,14 +1,14 @@
 {
-    "header_text": "Teaching Others",
+    "header_text": "Talking about Housing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Teaching Others"
+            "text": "Talking about Housing"
         },
         {
             "type": "Media",
-            "url": "./images/teaching_others.jpeg"
+            "url": "./images/talking_about_housing.jpeg"
         }
     ]
 }

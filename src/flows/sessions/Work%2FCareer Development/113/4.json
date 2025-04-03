@@ -1,0 +1,15 @@
+{
+    "header_text": "Trying your best",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are presenting your progress on a project to your boss next week. Your personal life has been hectic recently, and you haven't had much time to devote to the project, leaving you with fewer updates to report than usual.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/trying_your_best.jpeg",
+            "border": true
+        }
+    ]
+}

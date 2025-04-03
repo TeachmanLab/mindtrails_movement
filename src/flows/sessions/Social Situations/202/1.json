@@ -1,14 +1,14 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Sharing With Support Group ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pool Time"
+            "text": "Sharing With Support Group "
         },
         {
             "type": "Media",
-            "url": "./images/pool_time.jpeg"
+            "url": "./images/sharing_with_support_group.jpeg"
         }
     ]
 }

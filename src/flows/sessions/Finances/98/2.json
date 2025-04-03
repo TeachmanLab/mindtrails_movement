@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Worried by the News",
+    "header_text": "Weekend Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "This morning your spouse is watching the news and you overhear that a lot of businesses are currently downsizing. You think about what will happen if your spouse loses their job. You feel..."
+            "text": "Your friends ask you to go out to dinner at a fancy restaurant with them this weekend. It is really expensive and you know you won't be able to afford it. When you picture yourself telling your friends that you can't go, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Feeling Worried by the News_Finances_entry1"
+            "name": "Weekend Plans_Finances_entry1"
         }
     ]
 }

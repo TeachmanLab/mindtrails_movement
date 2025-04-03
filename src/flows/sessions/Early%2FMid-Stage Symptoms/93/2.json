@@ -1,19 +1,19 @@
 {
-    "header_text": "Difficulty Baking",
+    "header_text": "Loan Repayment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For the first time since being diagnosed with PD, you find yourself confused by a familiar cake recipe. You ask your spouse a question about the recipe, and they go quiet. When you look into your spouse's eyes, their emotions are..."
+            "text": "You have spent years repaying loan debt from your house, schooling, and cars. As you notice more signs of HD, you worry that you won't have enough time to pay off the loans. You set up a meeting with a financial planner, helping you feel more..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Difficulty Baking_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Loan Repayment_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "unclear"
+                "prepared"
             ],
             "missing_letter_count": 1
         }

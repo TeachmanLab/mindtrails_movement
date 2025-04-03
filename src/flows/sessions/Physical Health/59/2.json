@@ -1,19 +1,19 @@
 {
-    "header_text": "Friendly Neighbor",
+    "header_text": "Trampoline Safety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You notice that you haven't seen your elder neighbor recently. You normally visit them regularly, so it is strange that you have not seen them lately. Your neighbor has probably been..."
+            "text": "Your children are bouncing on a trampoline. They are having fun but you also consider their safety, knowing that trampolines can be dangerous. While watching them bouncing up and down on the trampoline, you feel they are quite..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Friendly Neighbor_Physical Health_puzzle1",
+            "name": "Trampoline Safety_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "fine"
+                "safe"
             ],
             "missing_letter_count": 2
         }

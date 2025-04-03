@@ -1,24 +1,24 @@
 {
-    "header_text": "Busy cafe",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "Text": "The customer across from you is probably ..."
+            "Text": "Does your friend think you look good?"
         },
         {
             "type": "Buttons",
-            "name": "Busy cafe_Social Situations_comp_question",
+            "name": "Funny Photos_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Thinking that you are an unfriendly person.",
-                "Distracted and unaware of their surroundings."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Distracted and unaware of their surroundings."
+            "correct_value": "No"
         }
     ]
 }

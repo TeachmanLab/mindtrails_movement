@@ -1,21 +1,24 @@
 {
-    "header_text": "Friendships in the Future",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
+    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
-            "text": "When you think about the next 10 years, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends but know that it will be difficult. When you imagine yourself in 10 years, you see you and your close friends having stayed..."
+            "Text": "Your children are likely to think that you"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Friendships in the Future_Social Situations_puzzle1",
+            "type": "Buttons",
+            "name": "Holiday Away From Home_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "close"
+            "buttons": [
+                "Don't care about them or want to see them.",
+                "Are just excited to spend the holidays with your partner, and not take it personally."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Are just excited to spend the holidays with your partner, and not take it personally."
         }
     ]
 }

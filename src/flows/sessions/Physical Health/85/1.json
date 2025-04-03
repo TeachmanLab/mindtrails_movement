@@ -1,14 +1,14 @@
 {
-    "header_text": "Dry Mouth Dilemma",
+    "header_text": "Managing Stress",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dry Mouth Dilemma"
+            "text": "Managing Stress"
         },
         {
             "type": "Media",
-            "url": "./images/dry_mouth_dilemma.jpeg"
+            "url": "./images/managing_stress.jpeg"
         }
     ]
 }

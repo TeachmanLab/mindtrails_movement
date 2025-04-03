@@ -1,14 +1,14 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "Close Friend's Birthday",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be..."
+            "text": "Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store, and you think they will be..."
         },
         {
             "type": "Entry",
-            "name": "Keeping Up With Friends _Social Situations_entry1"
+            "name": "Close Friend's Birthday_Social Situations_entry1"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Unconditional Love",
+    "header_text": "Spiritual Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Unconditional Love"
+            "text": "Spiritual Journey"
         },
         {
             "type": "Media",
-            "url": "./images/unconditional_love.jpeg"
+            "url": "./images/spiritual_journey.jpeg"
         }
     ]
 }
