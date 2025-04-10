@@ -1,0 +1,11 @@
+{
+    "header_text": "Fitness Program",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Rock Steady Boxing</font></b>\n               <br/><br/>Rock Steady Boxing is a nonprofit organization that empowers people with Parkinson's disease to improve their quality of life through a non-contact, boxing-based fitness program. Fnd a location near you by going to https://rocksteadyboxing.org/find-a-location/.<br/><br/>\n               <a href=\"https://rocksteadyboxing.org/\">https://rocksteadyboxing.org/</a>"
+        }
+    ]
+}

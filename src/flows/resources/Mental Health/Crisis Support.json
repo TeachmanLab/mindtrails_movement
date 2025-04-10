@@ -1,0 +1,11 @@
+{
+    "header_text": "Crisis Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>988 Suicide & Crisis Lifeline</font></b>\n               <br/><br/>The 988 Suicide & Crisis Lifeline offers free and confidential support 24/7 for mental health-related distress. If you or someone you know is struggling or in crisis, call or text 988 or chat 988lifeline.org/chat to connect with a trained crisis counselor.<br/><br/>\n               <a href=\"https://988lifeline.org\">https://988lifeline.org</a>"
+        }
+    ]
+}

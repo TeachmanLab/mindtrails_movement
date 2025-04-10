@@ -1,0 +1,11 @@
+{
+    "header_text": "Support for Abuse",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>The National Domestic Violence Hotline (NDVH) </font></b>\n               <br/><br/>NDVH is a confidential 24/7 hotline available in English and Spanish, offering emotional support, support groups, local resources, safety plans, and more for survivors of abuse or their concerned friends and family. Reach out for support by calling (800) 766-7233, text “START” to 88788, or chat online at https://www.thehotline.org/.<br/><br/>\n               <a href=\"https://www.thehotline.org/\">https://www.thehotline.org/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>RAINN</font></b>\n               <br/><br/>RAINN's 24/7 national hotline, in both English and Spanish, offers confidential support for adult survivors of sexual assault and their loved ones. It provides information on laws, local resources, and referrals for long-term support in your community. Contact RAINN at (800) 656-4673 or chat online at https://rainn.org/.<br/><br/>\n               <a href=\"https://rainn.org/\">https://rainn.org/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>National Adult Protective Services Association (NAPSA)</font></b>\n               <br/><br/>NAPSA offers a directory of Adult Protective Services and provides information on how to file an official report of elder abuse in each state.<br/><br/>\n               <a href=\"https://www.napsa-now.org/\">https://www.napsa-now.org/</a>"
+        }
+    ]
+}

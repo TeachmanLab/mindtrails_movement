@@ -1,0 +1,11 @@
+{
+    "header_text": "LGBTQIA+ Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>LGBT National Hotline</font></b>\n               <br/><br/>The LGBT National Hotline provides free, confidential support for callers dealing with sexual orientation or gender identity issues, including coming out issues and relationship concerns. Hours of operation can be found on their site. Call 888-843-4564 to speak to a trained LGBTQIA+ volunteer. <br/><br/>\n               <a href=\"https://lgbthotline.org/national-hotline/\">https://lgbthotline.org/national-hotline/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>LGBT National Senior Hotline</font></b>\n               <br/><br/>The LGBT National Senior Hotline offers a free confidential space for seniors to discuss sexual orientation or gender identity issues, including elder abuse and family dynamics. Hours of operation can be found on their site. Call 888-234-7243 to speak to a trained LGBTQIA+ volunteer. <br/><br/>\n               <a href=\"https://lgbthotline.org/senior-hotline/\">https://lgbthotline.org/senior-hotline/</a>"
+        }
+    ]
+}

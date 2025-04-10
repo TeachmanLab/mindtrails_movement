@@ -1,0 +1,11 @@
+{
+    "header_text": "Emotional Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>National Alliance on Mental Illness (NAMI) Helpline</font></b>\n               <br/><br/>NAMI provides vital resources and raises public awareness to combat stigma. If you are struggling with your mental health, connect with a NAMI volunteer Monday – Friday, 10 a.m. – 10 p.m., EST by calling 1-800-950-NAMI (6264), texting \"HelpLine\" to 62640, or clicking \"Chat with us\" on their site.<br/><br/>\n               <a href=\"https://www.nami.org/help\">https://www.nami.org/help</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Anxiety and Depression Association of America (ADAA)</font></b>\n               <br/><br/>ADAA offers in-depth information on treatment and resources for anxiety, depression, and co-occurring disorders. Find free online peer-to-peer communities, a support group locator, and a “Search for an ADAA Member Telemental Health Provider in Your Area” function on their site.<br/><br/>\n               <a href=\"https://adaa.org/\">https://adaa.org/</a>"
+        }
+    ]
+}

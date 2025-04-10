@@ -1,0 +1,11 @@
+{
+    "header_text": "Self Care",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>Healthline: Grounding Techniques</font></b>\n               <br/><br/>Explore 30 effective grounding techniques, including physical and mental soothing practices, designed to help you navigate distressing thoughts and emotions. These exercises offer practical tools to anchor yourself in the present moment and foster a sense of calm.<br/><br/>\n               <a href=\"https://www.healthline.com/health/grounding-techniques\">https://www.healthline.com/health/grounding-techniques</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Destress Monday: Breathing Techniques </font></b>\n               <br/><br/>Discover the transformative power of deep breathing with DeStress Monday Deep Breathing Exercises — to alleviate stress and foster a sense of serenity in both body and mind. Embark on a journey of self-care and relaxation.<br/><br/>\n               <a href=\"https://www.mondaycampaigns.org/destress-monday/deep-breathing-practices\">https://www.mondaycampaigns.org/destress-monday/deep-breathing-practices</a>"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "header_text": "Speech Therapy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>LSVT Loud by LSVT Global</font></b>\n               <br/><br/>LSVT LOUD is a research-based speech therapy program designed to help individuals with Parkinson’s disease improve their voice loudness and overall communication.<br/><br/>\n               <a href=\"https://www.lsvtglobal.com/LSVTLoud\">https://www.lsvtglobal.com/LSVTLoud</a>"
+        }
+    ]
+}

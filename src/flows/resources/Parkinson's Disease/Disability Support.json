@@ -1,0 +1,11 @@
+{
+    "header_text": "Disability Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>ADA National Network</font></b>\n               <br/><br/>ADA National Network provides a regional locator for ADA resource centers offering a range of services for people with disabilities, including accommodations, training, employment, and school-to-work transitions. Click on the map to find your ADA Center.<br/><br/>\n               <a href=\"https://adata.org/find-your-region\">https://adata.org/find-your-region</a>"
+        }
+    ]
+}
