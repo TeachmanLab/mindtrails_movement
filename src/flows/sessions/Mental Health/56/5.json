@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "Even though I didn't get to fully check a second time before we all left, I remember that I have never left the appliances on when leaving the house before.",
-                "Even if I'm not 100% certain that the appliances are off, I can live with that.",
-                "I think about all the fun things my family and I will do on our trip.",
-                "I think about all of the horrible things that could happen in the house.",
-                "I think about how I noticed everything was turned off during the first check."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

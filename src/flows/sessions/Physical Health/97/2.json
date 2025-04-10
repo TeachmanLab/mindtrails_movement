@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Wearing a Mask to Work_Physical Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

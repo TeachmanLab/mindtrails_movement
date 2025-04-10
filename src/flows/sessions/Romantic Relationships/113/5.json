@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "My partner is really smart and thoughtful.",
-                "I believe that I'm right, but I choose to accept that we might just disagree on this point.",
-                "Even when my partner and I are mad at each other, I know we still care about each other deeply.",
-                "This is such an important issue to be discussing.",
-                "Our relationship is going to end over this argument."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

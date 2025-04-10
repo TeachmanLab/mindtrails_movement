@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I walk in and hug my friend.",
-                "I decide to stay for an hour and leave.",
-                "I want to leave before the presents are opened, but decide to stay.",
-                "I think about lying that I forgot the gift at home, but I give it to my friend.",
-                "I stay at the party."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

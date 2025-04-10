@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I really don't want to work extra hours, but I will anyway because I know it'll be helpful for the report.",
-                "I'll tell my boss why I haven't been able to make much progress.",
-                "I'll tell my boss why I haven't been able to make much progress.",
-                "I want to avoid asking for help, but I reach out to my boss anyway.",
-                "I'll avoid working on the report when I feel anxious."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

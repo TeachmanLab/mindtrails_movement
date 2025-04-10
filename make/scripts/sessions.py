@@ -43,8 +43,8 @@ def _create_practice_pages(i):
                                                     puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
                                                     comp_question=question, answers=choices,
                                                     correct_answer=answer, word_2=puzzle2[1],
-                                                    puzzle_text_2=puzzle2[0], unique_image=False,
-                                                    row_num=dose1_scenario_num, image_url=image_url)
+                                                    puzzle_text_2=puzzle2[0], image_url=image_url,
+                                                    row_num=dose1_scenario_num)
 
             if dose1_scenario_num == 0:
                 make_it_your_own_text = ("We want Mindtrails Movement to meet your needs. When you "
@@ -138,8 +138,6 @@ def create_short_doses(popname,i):
     domain_rindex = defaultdict(int)
     domain_ndoses = defaultdict(int)
 
-    unique_image = False
-
     lessons_learned_dict = create_lessons_learned(popname)
 
     with open(f"{dir_csv}/MTM Short Scenarios by Session - Initial Protocol {popname}.csv","r", encoding="utf-8", newline='') as read_obj:
@@ -185,7 +183,6 @@ def create_short_doses(popname,i):
                                          letters_missing=letters_missing,
                                          lessons_learned=lessons_learned,
                                          lessons_learned_dict=lessons_learned_dict,
-                                         unique_image=unique_image,
                                          row_num=domain_ndoses[domain_1],
                                          image_url=image_url)
 

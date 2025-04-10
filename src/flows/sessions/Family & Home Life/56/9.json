@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I am confident in our plan for handling this situation.",
-                "I am terrified that we will never recover from this financially.",
-                "The uncertainty of this situation is uncomfortable, but I can tolerate it.",
-                "I'm scared about what this means for my finances, but I trust that we will figure it out.",
-                "I am thrilled that my partner is out of the hospital."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

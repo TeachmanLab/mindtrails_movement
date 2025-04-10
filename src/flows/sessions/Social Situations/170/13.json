@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I really want to ask my coworkers why I wasn't invited, but decide that I don't need to ask.",
-                "I say something nice to them.",
-                "I decide to avoid talking to my coworkers when possible.",
-                "I reach out to one of my coworkers and let them know I would love to hang out with them next time.",
-                "I want to cry, but remind myself that I've hung out with some of these friends and coworkers without everyone there."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

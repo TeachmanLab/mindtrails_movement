@@ -7,6 +7,9 @@
             "text": "Play this situation in your head for the next 20 seconds. \n\nThe screen will change in 20 seconds."
         }
     ],
-    "timeout": 20,
-    "show_buttons": "Never"
+    "navigation_conditions": [
+        {
+            "wait_for_time": "20"
+        }
+    ]
 }

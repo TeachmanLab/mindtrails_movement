@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I don't like this feeling but I start looking for good sales.",
-                "I keep walking down the aisles.",
-                "I ask an employee to help me find the bread.",
-                "I take myself to the hospital immediately.",
-                "I consider leaving the store but decide it may calm me down to finish this task."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

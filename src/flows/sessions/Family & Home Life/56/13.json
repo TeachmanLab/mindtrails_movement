@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I want to avoid the situation, but I choose to tackle it head-on.",
-                "I want to bury my emotions, but I decide to share how I'm feeling with my partner.",
-                "I avoid dealing with the medical bills.",
-                "I adjust my budget so I can be prepared for situations like this in the future.",
-                "I talk to my partner about our finances and make a plan."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

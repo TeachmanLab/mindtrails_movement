@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I delete all of the pictures that might be embarrassing.",
-                "I tell my friend about how I liked their profile.",
-                "I send them a message to start the conversation.",
-                "I want to deactivate my account, but decide to keep it up.",
-                "I want to change some of my pictures, but keep them the same."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

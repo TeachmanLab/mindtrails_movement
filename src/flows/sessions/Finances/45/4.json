@@ -1,7 +1,6 @@
 {
     "header_text": "Managing Credit Cards",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
@@ -20,5 +19,9 @@
             "columnCount": 1,
             "correct_value": "Have to work harder than you hoped in order to pay off new credit card debt."
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Finding a Place to Sit_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

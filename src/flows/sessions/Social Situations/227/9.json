@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm embarrassed that no one liked my idea, but they'll probably forget about it soon.",
-                "I feel brave for sharing an idea to the whole department",
-                "I'm happy engaging with my department.",
-                "I feel disappointed to have not gotten a response, but people are probably still thinking about it.",
-                "I feel totally exposed."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

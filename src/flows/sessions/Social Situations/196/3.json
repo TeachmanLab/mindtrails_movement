@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Less Social Media_Social Situations_entry2"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

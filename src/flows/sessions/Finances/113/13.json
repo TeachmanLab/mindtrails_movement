@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm tempted to leave before the presents are opened, but remind myself that I'm actually having fun.",
-                "I want to skip the party to deal with my anxiety about the gift, but decide to push myself to go anyway.",
-                "I smile at all of my friends.",
-                "I try to sneak by my friend so they don't notice me when I walk in.",
-                "I have fun dancing at the party."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

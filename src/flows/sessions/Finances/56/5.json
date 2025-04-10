@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I think my friend will be happy to see me.",
-                "I assume everyone brought an expensive gift, but I don't actually know if that's true.",
-                "I'm looking forward to celebrating with friends.",
-                "My friend will be disappointed with the gift I can afford to bring.",
-                "I think I am a bad friend, but I know that the gift I'm bringing is thoughtful."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

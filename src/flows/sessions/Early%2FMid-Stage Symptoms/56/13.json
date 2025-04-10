@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I try to smile to show that I am not being rude.",
-                "I accept the situation I'm in and do my best to think of alternative ways of communicating.",
-                "I want to express my frustration at this difficulty, but I accept this is my condition and do my best.",
-                "I turn away before the person has a chance to respond to avoid any potentially negative interaction.",
-                "I feel like avoiding the interaction after, but I meet their gaze to try and convey that I am engaged with them."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

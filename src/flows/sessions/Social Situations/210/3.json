@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Your Family's Car_Social Situations_entry2"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

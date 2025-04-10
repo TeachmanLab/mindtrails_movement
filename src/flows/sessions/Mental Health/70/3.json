@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Applying to Jobs_Mental Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

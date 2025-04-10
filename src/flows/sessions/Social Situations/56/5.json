@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "My friends will get a kick out of this.",
-                "I will look clumsy in front of my friends.",
-                "My friends are embarrassed by me, but they won't remember this for very long.",
-                "This has probably happened to a lot of people.",
-                "I ruined the shirt, but now I have a reason to buy a new one."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

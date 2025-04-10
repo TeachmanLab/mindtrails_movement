@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm sad that they forgot about me, but then tell myself that they probably didn't intend to be mean.",
-                "I'm worried that I've lost all of my workplace friendships, but then remind myself that's not realistic.",
-                "I feel embarrassed that I wasn't invited.",
-                "I feel excited to hear about the fun that they had.",
-                "I feel happy that my coworkers get along so well."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

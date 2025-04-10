@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I made it up those stairs really quickly.",
-                "Am I having a heart attack?",
-                "I am excited for the meeting.",
-                "It's scary to feel my heart beating fast, but I know that it will be over soon.",
-                "My boss might notice how out of breath I am, and it's okay if they do."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

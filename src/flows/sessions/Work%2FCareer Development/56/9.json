@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I feel insecure about the quality of my presentation, but nothing that I do will be perfect.",
-                "I'm worried about what my boss will say about my presentation.",
-                "I'm glad I have the self-awareness to know I need to talk to my boss soon.",
-                "I'm uneasy right now, but I can take a deep breath to help myself feel calmer.",
-                "I feel calm knowing that I tried my hardest no matter what happens."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I think that I made a huge mistake by wearing this, but realize that it's OK to wear what I want.",
-                "This is the best costume I've ever worn.",
-                "I'm enjoying wearing this.",
-                "I really stand out, but I like the way I look.",
-                "The other people are judging me for wearing this costume."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

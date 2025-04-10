@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I feel confident everything was shut off.",
-                "I feel excited about the trip.",
-                "I'm worried that an appliance was left on.",
-                "I feel guilty about not checking everything again, but I remind myself that checking once was enough.",
-                "I feel scared that I missed something, and then gently focus on what's going on in the car."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

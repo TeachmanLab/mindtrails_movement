@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Exposing a Friend_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

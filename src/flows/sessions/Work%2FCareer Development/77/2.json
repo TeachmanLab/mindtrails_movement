@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Out of Your Control_Work/Career Development_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

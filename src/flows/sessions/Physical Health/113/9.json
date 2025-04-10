@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm happy that I finally decided to come here.",
-                "I'm scared about this feeling in my chest, but think about all the times my heart has pounded and I've wound up fine.",
-                "I'm terrified my heart pounding means something bad is happening.",
-                "I'm excited to see what this new grocery store has.",
-                "I'm nervous about my heart, but remember that sometimes my heart beats quickly when I'm excited."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

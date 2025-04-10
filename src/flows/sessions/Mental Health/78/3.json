@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "New Style _Mental Health_entry2"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

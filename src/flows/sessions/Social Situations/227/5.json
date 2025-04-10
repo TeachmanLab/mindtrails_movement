@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "People ignored the idea.",
-                "My colleagues may not like my idea, and I can accept that.",
-                "My suggestion wasn't the best, but I don't have to be perfect.",
-                "People haven't checked their email yet.",
-                "I am proud of my idea."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

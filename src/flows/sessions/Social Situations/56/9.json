@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm embarrassed that I have this stain on my white shirt, but no one was hurt and it's not a big deal.",
-                "I'm mad that I wasted my money, but know that I'll be ok.",
-                "I feel lucky I didn't drop the whole coffee.",
-                "I feel like a fool.",
-                "I'm confident that I will get the stain out."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

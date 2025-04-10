@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I dwell on the idea and sulk.",
-                "I continue my work without focusing on the email.",
-                "The next time my department emails me about an idea, I'll share it.",
-                "I want to tell people to forget about my idea, but I leave it as is.",
-                "I sit and check if anyone has replied, but decide to go out and enjoy the day."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

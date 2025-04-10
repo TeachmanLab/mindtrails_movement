@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm a good employee.",
-                "I'm lazy for not working more.",
-                "I'll do my best on making progress next week.",
-                "Even if I do poorly on one progress report, that doesn't mean I'll lose my job.",
-                "My boss may not be impressed with my progress, but I can make more progress next time around."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

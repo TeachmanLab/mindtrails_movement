@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I think they may have forgotten about me, but next time they'll remember.",
-                "It's nice that my coworkers can spend time together outside of work.",
-                "I wonder if I wasn't invited because they think I'm boring.",
-                "It sounds like they had a fun time.",
-                "I wonder if my coworkers actually don't like me, but then challenge myself to think of times when we've all had a nice time together."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

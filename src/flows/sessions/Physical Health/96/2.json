@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Cough After Going Out _Physical Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

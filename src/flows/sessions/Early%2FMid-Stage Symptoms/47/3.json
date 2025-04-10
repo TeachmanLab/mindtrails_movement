@@ -1,7 +1,6 @@
 {
     "header_text": "Safety at Home",
     "header_icon": "assets/subtitle.png",
-    "show_buttons": "WhenCorrect",
     "elements": [
         {
             "type": "Text",
@@ -20,5 +19,9 @@
             "columnCount": 1,
             "correct_value": "Make it safely to a sitting position."
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

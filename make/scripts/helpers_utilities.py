@@ -138,3 +138,6 @@ def create_puzzle(scenario):
 
 def shuffle(items,key=None):
     rng[key].shuffle(items)
+
+def lower(str):
+    return str.lower() if str else None

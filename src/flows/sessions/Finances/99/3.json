@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Feeling Worried by the News_Finances_entry2"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

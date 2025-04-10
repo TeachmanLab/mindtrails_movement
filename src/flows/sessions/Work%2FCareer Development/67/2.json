@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Feeling Prepared _Work/Career Development_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

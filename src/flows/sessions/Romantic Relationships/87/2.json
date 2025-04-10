@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Meeting the Parents_Romantic Relationships_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

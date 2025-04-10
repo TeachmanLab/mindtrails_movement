@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Yourself in Old Age _Romantic Relationships_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

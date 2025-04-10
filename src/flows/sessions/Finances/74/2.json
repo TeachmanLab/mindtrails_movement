@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Paying Credit Card_Finances_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

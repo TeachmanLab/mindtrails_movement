@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "We will get through this.",
-                "I try to imagine how this could have been avoided, but accept that my partner needed to be in the hospital.",
-                "We are going to run out of money paying these bills.",
-                "I think about how challenging this situation is, but remind myself that it will not last forever.",
-                "My partner is so strong."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

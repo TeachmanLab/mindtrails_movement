@@ -10,5 +10,6 @@
             "type": "Entry",
             "name": "Poisonous Snakes_Physical Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I want to go home, but stay at the cafe.",
-                "I clean up and keep talking to my friends.",
-                "I stay silent the rest of the time we're at the cafe.",
-                "I laugh with my friends about my spill.",
-                "I feel like crying, but take a deep breath."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

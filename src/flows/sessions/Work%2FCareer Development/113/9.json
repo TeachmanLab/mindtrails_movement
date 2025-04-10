@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm scared that my boss will be disappointed in me.",
-                "I'm confident that I can tell my boss about what's been going on.",
-                "I'm nervous for the presentation, but I'll be able to handle it.",
-                "I'm embarrassed to present my work to my boss, but that feeling will pass.",
-                "I feel good about how I've done at this job so far."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

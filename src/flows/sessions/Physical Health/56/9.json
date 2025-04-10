@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm worried that there's something really wrong with me.",
-                "I'm feeling excited now that my blood is pumping.",
-                "I'm worried that something's wrong with me, but I remind myself that it's normal to feel out of breath after walking up a bunch of stairs.",
-                "I'm happy I made the meeting on time.",
-                "I feel embarrassed about being out of breath, but I'm able to focus on what my boss has to say."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

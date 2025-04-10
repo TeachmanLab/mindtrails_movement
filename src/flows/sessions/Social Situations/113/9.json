@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I'm really anxious, but this feeling will pass.",
-                "I'm proud of myself for wearing something that I love.",
-                "I feel really awkward while everyone stares at me.",
-                "I'm worried that others are making fun of me, but if they are, that's their fault for judging me.",
-                "I'm excited to show off this costume."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

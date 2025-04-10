@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "I feel the urge to tell my boss that something's really wrong with me, but remind myself that I'm actually OK.",
-                "I start looking up symptoms of a heart attack online to see if I'm dying.",
-                "I want to panic but remind myself that it's actually just my body's reaction to coming up the stairs quickly.",
-                "I take a few deep breaths.",
-                "I take a few sips from my water bottle."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }

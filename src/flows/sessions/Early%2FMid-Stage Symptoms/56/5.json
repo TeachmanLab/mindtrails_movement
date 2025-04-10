@@ -8,15 +8,8 @@
         },
         {
             "type": "TimedText",
-            "text": [
-                "They will be patient with you.",
-                "It may be difficult to speak up, but I will still be able to express myself.",
-                "They think you're being rude to them.",
-                "I rue the condition I'm in, but know that I will adjust.",
-                "They assume that their hearing was just not good enough and will just ask you to repeat waht you said."
-            ],
+            "text": null,
             "Duration": 15
         }
-    ],
-    "show_buttons": "WhenCorrect"
+    ]
 }
