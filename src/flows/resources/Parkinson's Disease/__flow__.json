@@ -1,4 +1,5 @@
 {
     "mode": "select",
-    "text": "Click on the specific topic to see associated resources."
+    "text": "Click on the specific topic to see associated resources.",
+    "last_item": "other"
 }
