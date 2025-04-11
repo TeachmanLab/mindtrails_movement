@@ -4,16 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are at work and find out that an opportunity for promotion in your department just came up. You think you might be eligible and decide to ask your boss for more details. Your boss tells you that the selection criteria are very strict and that your application will likely be..."
+            "text": "The next day, you bump into your boss in the corridor. You then realize that although your boss thinks you may not be ready for promotion just yet, they strongly believe you are capable of being ready for one next year and are likely to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "New opportunity_Work/Career Development_puzzle1",
+            "name": "New opportunity_Work/Career Development_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "words": [
-                "rejected"
+                "succeed"
             ],
             "missing_letter_count": 1
         }

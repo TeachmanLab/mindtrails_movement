@@ -4,19 +4,24 @@
     "elements": [
         {
             "type": "Text",
-            "text": "As time goes on, you do not expect your family to drift apart, and you think that your family will become..."
+            "Text": "Will your family's relationships become more strained as time goes on?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Differing Beliefs_Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "Differing Beliefs_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "words": [
-                "closer"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

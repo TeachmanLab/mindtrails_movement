@@ -3,12 +3,20 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Differing Beliefs"
+            "type": "Text",
+            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your... "
         },
         {
-            "type": "Media",
-            "url": "./images/differing_beliefs.jpeg"
+            "type": "WordPuzzle",
+            "name": "Differing Beliefs_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "words": [
+                "family"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

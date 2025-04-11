@@ -170,7 +170,7 @@ def create_short_doses(popname,i):
 
             # Every 40 doses we want to show them lessons learned.
             # This doesn't account for long scenarios or write your own
-            lessons_learned = domain_ndoses[domain_1] % 40 == 0
+            lessons_learned = domain_ndoses[domain_1] and domain_ndoses[domain_1] % 40 == 0
 
             if lessons_learned and domain_1 not in lessons_learned_dict:
                 print(f"{domain} not in {popname} lessons learned")
