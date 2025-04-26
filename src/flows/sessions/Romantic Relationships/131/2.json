@@ -12,6 +12,7 @@
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
+            "display_delay": 2000,
             "words": [
                 "accepting"
             ],
