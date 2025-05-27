@@ -23,7 +23,7 @@
                 "^NotNeeded::I am not looking for any additional resources at this time"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "Discrimination"
         }
     ]

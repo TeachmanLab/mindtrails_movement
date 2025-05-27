@@ -47,7 +47,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "entry"    : return {"type": "Entry" }
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
     if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session."}
-    if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multi_select": True }
+    if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multiselect": True }
     if tipe == "timedtext": return {"type": "TimedText", "text": text,  "Duration": 15 }
     if tipe == "puzzle"   : return {
         "type": "WordPuzzle",

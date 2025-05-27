@@ -9,7 +9,7 @@ permissions:
 
 jobs:
   Release_Creation:
-    runs-on: ubuntu-latest    
+    runs-on: ubuntu-latest
     steps:
       - name: checkout protocol
         uses: actions/checkout@v4

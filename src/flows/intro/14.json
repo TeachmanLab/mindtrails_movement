@@ -31,7 +31,7 @@
                 "^99::Prefer not to answer"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "mental_health_disorders",
             "variable_name": "MentalDisorder"
         }

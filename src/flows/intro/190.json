@@ -18,7 +18,7 @@
                 "!Other, please describe:"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": "gain_from_HTC"
         }
     ]

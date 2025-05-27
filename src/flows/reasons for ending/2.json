@@ -20,7 +20,7 @@
                 "99::Prefer not to answer"
             ],
             "selectable": true,
-            "multi_select": true,
+            "multiselect": true,
             "name": ""
         }
     ]
