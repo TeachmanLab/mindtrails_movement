@@ -30,7 +30,7 @@
 		"button_br": {
 			"text": "Resources",
 			"icon": "/assets/home_resources.png",
-			"action": "page://flows/resources.json"
+			"action": "page://flows/resources"
 		},
 		"button_bl": {
 			"text": "What is Anxiety?",
