@@ -2,7 +2,7 @@
 	"home": {
 		"title": "MindTrails",
 
-		"banner_text": "Understand Your Thinking.Feel Less Anxious.",
+		"banner_text": "Understand Your Thinking. Feel Less Anxious.",
 		"banner_icon": "/assets/home_banner.png",
 
 		"button_ls": {
@@ -77,7 +77,7 @@
 		{
 			"text": "Meet the Team",
 			"icon": "/assets/menu_team.png",
-			"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/contact-the-team"
+			"action": "https://ert6g2.wixsite.com/hoosthinkcalmly/copy-of-the-team"
 		},
 		{
 			"text": "Get Help",
