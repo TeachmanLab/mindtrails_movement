@@ -7,11 +7,11 @@
 
 		"button_ls": {
 			"text": "{0} Sessions Completed",
-			"icon": "/assets/completed.png"
+			"icon": {"url":"/assets/completed.png", "tint":false}
 		},
 		"button_rs": {
 			"text": "Launch Session",
-			"icon": "/assets/unlocked.png",
+			"icon": {"url":"/assets/unlocked.png", "tint":false},
 			"action": "flow://flows/sessions"
 		},
 		"button_surveys": {
@@ -19,22 +19,22 @@
 		},
 		"button_tl": {
 			"text": "What is MindTrails?",
-			"icon": "/assets/home_mindtrails.png",
+			"icon": {"url":"/assets/home_mindtrails.png", "tint":false},
 			"action": "flow://flows/rationale.json"
 		},
 		"button_tr": {
 			"text": "Instructions",
-			"icon": "/assets/home_instructions.png",
+			"icon": {"url":"/assets/home_instructions.png", "tint":false},
 			"action": "flow://flows/instructions.json"
 		},
 		"button_br": {
 			"text": "Resources",
-			"icon": "/assets/home_resources.png",
+			"icon": {"url":"/assets/home_resources.png", "tint":false},
 			"action": "page://flows/resources"
 		},
 		"button_bl": {
 			"text": "What is Anxiety?",
-			"icon": "/assets/home_anxiety.png",
+			"icon": {"url":"/assets/home_anxiety.png", "tint":false},
 			"action": "flow://flows/what is anxiety.json"
 		}
 	},
