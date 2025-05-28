@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Here are some tools and resources you might find helpful at this time. Please select one or more of the following options:"
+            "text": "Here are some tools and resources you might find helpful at this time. Please select one or more of the following options:",
+            "html": true
         },
         {
             "type": "Buttons",

@@ -281,7 +281,7 @@ def create_resource_page(motivations, tips, ER_lookup, domain):
 
 def create_discrimination_page(conditions, text, items, input_1, input_name, title):
 
-    text = {"type": "Text", "text": text}
+    text = {"type": "Text", "text": text, 'html':True}
     input = create_input(input_1, items)
     if input: input["name"] = input_name
 

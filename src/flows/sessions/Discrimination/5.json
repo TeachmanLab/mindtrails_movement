@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>Wellness Tools from the Black Emotional and Mental Health Collective:</strong> Explore different ways that you can care for your emotional and mental health with these resources compiled by the Black Emotional and Mental Health Collective. <a href=\"https://beam.community/wellness-tools/\">https://beam.community/wellness-tools/</a><br><br>"
+            "text": "<strong>Wellness Tools from the Black Emotional and Mental Health Collective:</strong> Explore different ways that you can care for your emotional and mental health with these resources compiled by the Black Emotional and Mental Health Collective. <a href=\"https://beam.community/wellness-tools/\">https://beam.community/wellness-tools/</a><br><br>",
+            "html": true
         }
     ],
     "conditions": [

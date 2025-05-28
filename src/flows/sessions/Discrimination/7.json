@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>Parkinson's Buddy Network by Michael J. Fox Foundation:</strong> Join the PD community on an online platform hosted by the Michael J. Fox Foundation. To get started, sign up with your email. <a href=\"https://parkinsonsbuddynetwork.michaeljfox.org/v2/\">https://parkinsonsbuddynetwork.michaeljfox.org/v2/</a><br><br>\\n\\n\\n\\n<strong>PFLAG Local Chapter:</strong> Find a local chapter through PFLAG, an organization devoted to LGBTQ+ people and their families. Search for a chapter by entering your zip code or state. <a href=\"https://pflag.org/get-support/\">https://pflag.org/get-support/</a><br><br>"
+            "text": "<strong>Parkinson's Buddy Network by Michael J. Fox Foundation:</strong> Join the PD community on an online platform hosted by the Michael J. Fox Foundation. To get started, sign up with your email. <a href=\"https://parkinsonsbuddynetwork.michaeljfox.org/v2/\">https://parkinsonsbuddynetwork.michaeljfox.org/v2/</a><br><br>\\n\\n\\n\\n<strong>PFLAG Local Chapter:</strong> Find a local chapter through PFLAG, an organization devoted to LGBTQ+ people and their families. Search for a chapter by entering your zip code or state. <a href=\"https://pflag.org/get-support/\">https://pflag.org/get-support/</a><br><br>",
+            "html": true
         }
     ],
     "conditions": [

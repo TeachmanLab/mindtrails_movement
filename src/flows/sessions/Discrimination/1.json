@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "We’re very sorry to hear you are experiencing stress due to discrimination or marginalization. We recognize that people have different needs following such experiences, so we want to offer a number of tools to help support you at this time."
+            "text": "We’re very sorry to hear you are experiencing stress due to discrimination or marginalization. We recognize that people have different needs following such experiences, so we want to offer a number of tools to help support you at this time.",
+            "html": true
         }
     ]
 }

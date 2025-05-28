@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<strong>ADA File a Complaint:</strong> Here's a step-by-step guide on how to file a complaint under the Americans with Disabilities Act (ADA). <a href=\"https://www.ada.gov/file-a-complaint/\">https://www.ada.gov/file-a-complaint/</a><br><br>\\n\\n\\n\\n<strong>NAMI Guide: How do I file a complaint against a medical facility/provider? </strong> Learn how to file a complaint against a medical facility or provider with this NAMI guide. <a href=\"https://helplinefaqs.nami.org/article/99-how-do-i-file-a-complaint-against-a-medical-facility-provider\">https://helplinefaqs.nami.org/article/99-how-do-i-file-a-complaint-against-a-medical-facility-provider</a><br><br>"
+            "text": "<strong>ADA File a Complaint:</strong> Here's a step-by-step guide on how to file a complaint under the Americans with Disabilities Act (ADA). <a href=\"https://www.ada.gov/file-a-complaint/\">https://www.ada.gov/file-a-complaint/</a><br><br>\\n\\n\\n\\n<strong>NAMI Guide: How do I file a complaint against a medical facility/provider? </strong> Learn how to file a complaint against a medical facility or provider with this NAMI guide. <a href=\"https://helplinefaqs.nami.org/article/99-how-do-i-file-a-complaint-against-a-medical-facility-provider\">https://helplinefaqs.nami.org/article/99-how-do-i-file-a-complaint-against-a-medical-facility-provider</a><br><br>",
+            "html": true
         }
     ],
     "conditions": [

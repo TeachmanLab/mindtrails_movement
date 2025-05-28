@@ -4,7 +4,8 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Feel free to use the space below in any way that feels helpful for you:"
+            "text": "Feel free to use the space below in any way that feels helpful for you:",
+            "html": true
         },
         {
             "type": "Entry",
