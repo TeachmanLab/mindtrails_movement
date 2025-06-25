@@ -120,7 +120,7 @@ def get_tips(file_path):
     tips = []
     with open(file_path, 'r', encoding='utf-8') as f:
         for i,row in enumerate([r for r in islice(csv.reader(f),1,None) if r[1]]):
-            tips.append([f"Consejo #{i}", row[1]]) # changed
+            tips.append([f"Tip #{i}", row[1]]) # changed
     return tips
 
 def create_puzzle(scenario):
