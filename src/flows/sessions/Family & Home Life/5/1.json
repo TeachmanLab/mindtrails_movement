@@ -1,14 +1,14 @@
 {
-    "header_text": "Health and aging",
+    "header_text": "Lessons Learned",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Health and aging"
+            "type": "Text",
+            "Text": "Great job! You're making great progress trying out new perspectives tied to family and home life! Take a few minutes to reflect on the short stories you've read so far. What have you learned? What are your main takeaways? For instance, you might notice that having difficult conversations can be scary, but doing so can make you feel proud of yourself."
         },
         {
-            "type": "Media",
-            "url": "./images/health_and_aging.jpeg"
+            "type": "Entry",
+            "name": "lessons_learned_Family & Home Life_0"
         }
     ]
 }

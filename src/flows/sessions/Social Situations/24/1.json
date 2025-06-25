@@ -1,14 +1,14 @@
 {
-    "header_text": "Collecting an old friend",
+    "header_text": "Friend's Get Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Collecting an old friend"
+            "text": "Friend's Get Together"
         },
         {
             "type": "Media",
-            "url": "./images/collecting_an_old_friend.jpeg"
+            "url": "./images/friend's_get_together.jpeg"
         }
     ]
 }

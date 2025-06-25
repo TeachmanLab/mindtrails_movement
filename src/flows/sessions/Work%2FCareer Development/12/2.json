@@ -1,20 +1,20 @@
 {
-    "header_text": "Important evaluation",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have almost completed an important project. Part of your evaluation is determined by your coworkers. You know most of them well and feel that their opinions of you will make them evaluate you..."
+            "text": "You've been very busy the past few months, and you haven't had a lot of free time. You finally have a chance to rest, but you feel guilty that you're taking a break rather than completing work. You think that you deserve to... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Important evaluation_Work/Career Development_puzzle1",
+            "name": "Taking a Break_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "favorably"
+                "relax"
             ],
             "missing_letter_count": 1
         }

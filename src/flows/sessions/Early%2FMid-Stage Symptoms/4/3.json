@@ -1,23 +1,23 @@
 {
-    "header_text": "Weekly Game Night",
+    "header_text": "Household responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Thinking about your family succeeding in game night makes you feel... "
+            "Text": "Your family seems..."
         },
         {
             "type": "Buttons",
-            "name": "Weekly Game Night_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Household responsibilities_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Awesome.",
-                "Terribly."
+                "Happy",
+                "Frustrated"
             ],
             "columnCount": 1,
-            "correct_value": "Awesome."
+            "correct_value": "Frustrated"
         }
     ],
     "navigation_conditions": [

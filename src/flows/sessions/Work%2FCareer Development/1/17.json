@@ -1,0 +1,14 @@
+{
+    "header_text": "Certainty of being correct",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Certainty of being correct"
+        },
+        {
+            "type": "Media",
+            "url": "./images/certainty_of_being_correct.jpeg"
+        }
+    ]
+}

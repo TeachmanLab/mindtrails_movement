@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Clashing viewpoints",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
-        },
-        {
-            "type": "Entry",
-            "name": "Consejo #8_entry"
+            "text": "Next, you're going to see a scenario that might make you anxious. As you read the short story, picture yourself in that situation. After you picture yourself in the situation, click \"Next\" and then you'll see examples of thoughts, feelings, and behaviors that might happen in that situation. \n\nSome of the thoughts, feelings, and behaviors will be helpful and some won't be."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "An engaged audience",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An engaged audience"
+            "text": "Using Different Technology"
         },
         {
             "type": "Media",
-            "url": "./images/an_engaged_audience.jpeg"
+            "url": "./images/using_different_technology.jpeg"
         }
     ]
 }

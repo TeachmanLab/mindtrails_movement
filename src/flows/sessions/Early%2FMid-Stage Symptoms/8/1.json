@@ -1,14 +1,14 @@
 {
-    "header_text": "Forgotten Ingredients",
+    "header_text": "Crowded Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Forgotten Ingredients"
+            "text": "Crowded Waiting Room"
         },
         {
             "type": "Media",
-            "url": "./images/forgotten_ingredients.jpeg"
+            "url": "./images/crowded_waiting_room.jpeg"
         }
     ]
 }

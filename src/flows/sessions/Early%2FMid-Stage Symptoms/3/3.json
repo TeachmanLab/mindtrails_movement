@@ -1,23 +1,27 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You spend some time with your family and friends and realize if your symptoms become that severe, you will still be surrounded by loved ones who..."
+            "Text": "In the future, your symptoms will cause your plants to..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Worsening condition_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Gardening_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "care"
+            "buttons": [
+                "Die",
+                "Thrive"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Die"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

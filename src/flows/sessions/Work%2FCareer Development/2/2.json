@@ -1,20 +1,20 @@
 {
-    "header_text": "Group Project Due",
+    "header_text": "Important evaluation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are working on a very important team project. The project deadline is soon, and your colleagues still haven't completed their portion, and you wonder if you should complete their part. You reach out to them, conveying your concerns about the deadline and workload, and they begin working in a timely..."
+            "text": "You have almost completed an important project. Part of your evaluation is determined by your coworkers. You know most of them well and feel that their opinions of you will make them evaluate you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Group Project Due_Work/Career Development_puzzle1",
+            "name": "Important evaluation_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "manner"
+                "favorably"
             ],
             "missing_letter_count": 1
         }

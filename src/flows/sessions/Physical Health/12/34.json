@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Physical Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Try the STOPP method: S-Stop and pause for a moment. T- Take a breath. O- Observe what you're feeling. P- Pull back and put the situation into perspective. P- Practice what works, do something you enjoy/something that calms you."
+        }
+    ]
+}

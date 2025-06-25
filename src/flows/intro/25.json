@@ -11,15 +11,13 @@
             "name": "changes_treatment_meds"
         }
     ],
-    "conditions": [
-        {
-            "variable": "ChangesToMentalHealthTreatment",
-            "comparator": "in",
-            "value": [
-                3,
-                4,
-                5
-            ]
-        }
-    ]
+    "condition": {
+        "variable": "ChangesToMentalHealthTreatment",
+        "comparator": "in",
+        "value": [
+            3,
+            4,
+            5
+        ]
+    }
 }

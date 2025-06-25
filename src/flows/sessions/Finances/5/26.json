@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Worried by the News",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Worried by the News"
+        },
+        {
+            "type": "Media",
+            "url": "./images/feeling_worried_by_the_news.jpeg"
+        }
+    ]
+}

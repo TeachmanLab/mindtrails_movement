@@ -1,20 +1,20 @@
 {
-    "header_text": "House For Sale",
+    "header_text": "The Movies Solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been at your current home for a while, and you have just decided to sell your house. At first, you feel excited, but when you think about the packing up and moving, you're not sure you'll be able to. With your condition, moving seems..."
+            "text": "You are at a crowded movie theater alone and enjoying your movie despite experiencing some dyskinesia. You notice people staring at you while you watch the movie. This makes you feel self-conscious, and not being able to explain yourself makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "House For Sale_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "The Movies Solo_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "daunting"
+                "frustrated"
             ],
             "missing_letter_count": 1
         }

@@ -1,23 +1,14 @@
 {
-    "header_text": "Public speaking",
+    "header_text": "One-on-one thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are about to give a presentation to your supervisor and coworkers. The material in the presentation has come from the research you have done in your job. During the presentation, you feel that your supervisor and coworkers will think you seem..."
+            "type": "Label",
+            "text": "One-on-one thoughts"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Public speaking_Work/Career Development_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "smart"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/one-on-one_thoughts.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

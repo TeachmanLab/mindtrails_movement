@@ -1,0 +1,14 @@
+{
+    "header_text": "Locked door",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Locked door"
+        },
+        {
+            "type": "Media",
+            "url": "./images/locked_door.jpeg"
+        }
+    ]
+}

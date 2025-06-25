@@ -1,0 +1,14 @@
+{
+    "header_text": "A new state",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A new state"
+        },
+        {
+            "type": "Media",
+            "url": "./images/a_new_state.jpeg"
+        }
+    ]
+}

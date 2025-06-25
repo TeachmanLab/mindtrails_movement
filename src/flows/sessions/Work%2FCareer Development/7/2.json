@@ -1,22 +1,22 @@
 {
-    "header_text": "An engaged audience",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are required to give a presentation to a group of work colleagues that you know well. They all are quiet during your presentation. As you think about it later at home, you think that your colleagues found your presentation..."
+            "text": "You recently replaced your laptop and had to go with a cheaper option. Your boss asks you to complete a project that will require an application that your new computer doesn’t have. When you think about completing your work for this project, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "An engaged audience_Work/Career Development_puzzle1",
+            "name": "Using Different Technology_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "interesting"
+                "capable"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

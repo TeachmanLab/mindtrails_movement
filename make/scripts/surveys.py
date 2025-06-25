@@ -93,7 +93,8 @@ for pop_name in populations:
     }
 
     # Delete old JSON
-    for key in folders.keys(): shutil.rmtree(f"{dir_out}/{key.split('/')[0]}/{key.split('/')[1]}",ignore_errors=True)
+    for key in folders.keys(): 
+        shutil.rmtree(f"{dir_out}/{str.join('/',key.split('/')[:3])}",ignore_errors=True)
 
     # Write new JSON
     write_output(dir_out, folders)

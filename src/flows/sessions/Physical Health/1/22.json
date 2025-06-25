@@ -1,0 +1,14 @@
+{
+    "header_text": "Time to sleep",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Time to sleep"
+        },
+        {
+            "type": "Media",
+            "url": "./images/time_to_sleep.jpeg"
+        }
+    ]
+}

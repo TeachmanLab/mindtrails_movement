@@ -1,27 +1,14 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Dropped Plate",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will there be people who care about you that help you in the future?"
+            "type": "Label",
+            "text": "Dropped Plate"
         },
         {
-            "type": "Buttons",
-            "name": "Worsening condition_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/dropped_plate.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

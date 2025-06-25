@@ -1,20 +1,20 @@
 {
-    "header_text": "Advice for a friend",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You spend an evening with a friend and end up talking about their relationship problems. As you give them some advice, you notice they are quiet. Once you get home later, you reflect on the evening and think that they found your advice..."
+            "text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Advice for a friend_Romantic Relationships_puzzle1",
+            "name": "Friends in Relationships_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "helpful"
+                "undesirable"
             ],
             "missing_letter_count": 1
         }

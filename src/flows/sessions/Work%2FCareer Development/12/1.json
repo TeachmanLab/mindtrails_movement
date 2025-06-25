@@ -1,14 +1,14 @@
 {
-    "header_text": "Important evaluation",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Important evaluation"
+            "text": "Taking a Break"
         },
         {
             "type": "Media",
-            "url": "./images/important_evaluation.jpeg"
+            "url": "./images/taking_a_break.jpeg"
         }
     ]
 }

@@ -13,7 +13,7 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
+                "Sí",
                 "No"
             ],
             "columnCount": 1,

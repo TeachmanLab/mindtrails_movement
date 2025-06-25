@@ -1,0 +1,14 @@
+{
+    "header_text": "Vacationing by plane",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Vacationing by plane"
+        },
+        {
+            "type": "Media",
+            "url": "./images/vacationing_by_plane.jpeg"
+        }
+    ]
+}

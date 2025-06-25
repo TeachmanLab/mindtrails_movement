@@ -1,22 +1,14 @@
 {
-    "header_text": "Blind Date",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the end of the date, you realize that it is very common to feel a little uneasy in situations like these. Having explained and apologized, you believe that your date found your hesitation funny and..."
+            "text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Blind Date_Romantic Relationships_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "endearing"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Friends in Relationships_Romantic Relationships_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

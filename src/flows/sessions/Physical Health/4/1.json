@@ -1,14 +1,14 @@
 {
-    "header_text": "Sunday Morning Run",
+    "header_text": "Flashing movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sunday Morning Run"
+            "text": "Flashing movie"
         },
         {
             "type": "Media",
-            "url": "./images/sunday_morning_run.jpeg"
+            "url": "./images/flashing_movie.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Dedicated Teacher",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dedicated Teacher"
+            "text": "Crowded Grocery Store"
         },
         {
             "type": "Media",
-            "url": "./images/dedicated_teacher.jpeg"
+            "url": "./images/crowded_grocery_store.jpeg"
         }
     ]
 }

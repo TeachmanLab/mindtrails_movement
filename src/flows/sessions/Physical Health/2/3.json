@@ -1,23 +1,23 @@
 {
-    "header_text": "Coughing friend",
+    "header_text": "Appointment with the doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you manage your anxiety about potentially getting sick from your friend?"
+            "Text": "Do you think you are going to feel better soon?"
         },
         {
             "type": "Buttons",
-            "name": "Coughing friend_Physical Health_comp_question",
+            "name": "Appointment with the doctor_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

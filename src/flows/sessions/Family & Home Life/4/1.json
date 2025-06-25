@@ -1,14 +1,14 @@
 {
-    "header_text": "A loud sound",
+    "header_text": "Parents Visiting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A loud sound"
+            "text": "Parents Visiting "
         },
         {
             "type": "Media",
-            "url": "./images/a_loud_sound.jpeg"
+            "url": "./images/parents_visiting.jpeg"
         }
     ]
 }

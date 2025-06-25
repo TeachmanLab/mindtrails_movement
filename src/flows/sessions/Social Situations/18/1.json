@@ -1,14 +1,14 @@
 {
-    "header_text": "Social media photo",
+    "header_text": "Trying Out a Funny Caption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social media photo"
+            "text": "Trying Out a Funny Caption"
         },
         {
             "type": "Media",
-            "url": "./images/social_media_photo.jpeg"
+            "url": "./images/trying_out_a_funny_caption.jpeg"
         }
     ]
 }

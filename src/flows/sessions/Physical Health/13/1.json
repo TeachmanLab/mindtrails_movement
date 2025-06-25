@@ -1,14 +1,14 @@
 {
-    "header_text": "First time skydiving",
+    "header_text": "Late Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "First time skydiving"
+            "text": "Late Communication"
         },
         {
             "type": "Media",
-            "url": "./images/first_time_skydiving.jpeg"
+            "url": "./images/late_communication.jpeg"
         }
     ]
 }

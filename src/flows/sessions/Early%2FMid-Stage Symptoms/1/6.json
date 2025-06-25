@@ -1,0 +1,23 @@
+{
+    "header_text": "House For Sale",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You realize that despite your diagnosis, you're confident in your ability to coordinate movers and complete the move successfully. So after thinking about it, you feel more..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "House For Sale_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "upbeat"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

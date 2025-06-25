@@ -1,14 +1,14 @@
 {
-    "header_text": "Zoning Out",
+    "header_text": "A big laugh",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zoning Out"
+            "text": "A big laugh"
         },
         {
             "type": "Media",
-            "url": "./images/zoning_out.jpeg"
+            "url": "./images/a_big_laugh.jpeg"
         }
     ]
 }

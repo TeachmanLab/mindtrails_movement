@@ -1,23 +1,23 @@
 {
-    "header_text": "Faster thoughts",
+    "header_text": "Being a Parent",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you find it useful when your thoughts seem to speed up?"
+            "Text": "Thinking about your future relationship with your daughter, you see yourself"
         },
         {
             "type": "Buttons",
-            "name": "Faster thoughts_Mental Health_comp_question",
+            "name": "Being a Parent_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Being stressed because of her.",
+                "Having a loving relationship with her."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Being stressed because of her."
         }
     ],
     "navigation_conditions": [

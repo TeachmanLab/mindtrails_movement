@@ -1,0 +1,14 @@
+{
+    "header_text": "Attractive Appraisal",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Attractive Appraisal"
+        },
+        {
+            "type": "Media",
+            "url": "./images/attractive_appraisal.jpeg"
+        }
+    ]
+}

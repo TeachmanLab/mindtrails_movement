@@ -1,23 +1,27 @@
 {
-    "header_text": "Social media photo",
+    "header_text": "Trying Out a Funny Caption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that many people feel embarrassed when seeing their own picture in public. Other people will probably enjoy seeing your photo on the social media..."
+            "Text": "Are you worried what your followers will think of your joke?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Social media photo_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Trying Out a Funny Caption_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "website"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

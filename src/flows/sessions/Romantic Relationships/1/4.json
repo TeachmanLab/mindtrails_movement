@@ -1,0 +1,14 @@
+{
+    "header_text": "Relationship Struggles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Relationship Struggles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/relationship_struggles.jpeg"
+        }
+    ]
+}

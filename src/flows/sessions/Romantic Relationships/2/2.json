@@ -1,20 +1,20 @@
 {
-    "header_text": "Relationship Struggles",
+    "header_text": "Blind Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been with your partner for a while, and you are still very into them. Recently, your partner hasn't expressed much adoration towards you, and you wonder if they still love you as much as you love them. You think that they are no longer into... "
+            "text": "You are going on a blind date and just arrived at the restaurant. As you walk up to the entrance, you suddenly feel very nervous and turn around to leave, but quickly change your mind. At this moment, your date arrives and looks very..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Relationship Struggles_Romantic Relationships_puzzle1",
+            "name": "Blind Date_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "you"
+                "offended"
             ],
             "missing_letter_count": 1
         }

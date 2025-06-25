@@ -1,27 +1,15 @@
 {
-    "header_text": "Blind Date",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your date's impression of you is probably ..."
+            "text": "After a while, you realize that it is very normal to not be in a relationship. You think that you enjoy being single, and the right person will come along when you are...  "
         },
         {
-            "type": "Buttons",
-            "name": "Blind Date_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Positive",
-                "Negative."
-            ],
-            "columnCount": 1,
-            "correct_value": "Positive"
+            "type": "Entry",
+            "name": "Friends in Relationships_Romantic Relationships_entry2"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

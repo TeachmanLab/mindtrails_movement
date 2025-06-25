@@ -1,14 +1,14 @@
 {
-    "header_text": "House For Sale",
+    "header_text": "The Movies Solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "House For Sale"
+            "text": "The Movies Solo"
         },
         {
             "type": "Media",
-            "url": "./images/house_for_sale.jpeg"
+            "url": "./images/the_movies_solo.jpeg"
         }
     ]
 }

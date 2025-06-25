@@ -1,20 +1,20 @@
 {
-    "header_text": "Attractive Appraisal",
+    "header_text": "Dating a Stranger ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You meet an attractive person your age and they ask for your social media. You notice they added you, and now they can see that you don't have many followers. They will think that this is..."
+            "text": "You are getting ready to go on a first date with someone you haven't previously met in person. You believe you two have a lot in common, but you are worried that sometimes you become very shy when you are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Attractive Appraisal_Romantic Relationships_puzzle1",
+            "name": "Dating a Stranger _Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "typical"
+                "nervous"
             ],
             "missing_letter_count": 1
         }

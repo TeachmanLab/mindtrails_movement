@@ -1,14 +1,14 @@
 {
-    "header_text": "Saving up Money",
+    "header_text": "Trip After Car Problem",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saving up Money"
+            "text": "Trip After Car Problem"
         },
         {
             "type": "Media",
-            "url": "./images/saving_up_money.jpeg"
+            "url": "./images/trip_after_car_problem.jpeg"
         }
     ]
 }

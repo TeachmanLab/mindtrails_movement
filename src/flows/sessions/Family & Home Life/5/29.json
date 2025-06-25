@@ -1,0 +1,14 @@
+{
+    "header_text": "A loud sound",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A loud sound"
+        },
+        {
+            "type": "Media",
+            "url": "./images/a_loud_sound.jpeg"
+        }
+    ]
+}

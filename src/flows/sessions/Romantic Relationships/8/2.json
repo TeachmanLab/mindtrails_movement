@@ -1,22 +1,22 @@
 {
-    "header_text": "How You Look",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are going on a date with your spouse. You look in the mirror before you leave and you wonder if they will like your look. You realize that the only opinion that matters about your appearance is... "
+            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "How You Look_Romantic Relationships_puzzle1",
+            "name": "Texting Your Crush_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "yours"
+                "number"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

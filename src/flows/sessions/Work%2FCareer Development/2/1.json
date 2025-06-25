@@ -1,14 +1,14 @@
 {
-    "header_text": "Group Project Due",
+    "header_text": "Important evaluation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Group Project Due"
+            "text": "Important evaluation"
         },
         {
             "type": "Media",
-            "url": "./images/group_project_due.jpeg"
+            "url": "./images/important_evaluation.jpeg"
         }
     ]
 }

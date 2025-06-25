@@ -1,14 +1,14 @@
 {
-    "header_text": "Weekly Game Night",
+    "header_text": "Household responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Weekly Game Night"
+            "text": "Household responsibilities"
         },
         {
             "type": "Media",
-            "url": "./images/weekly_game_night.jpeg"
+            "url": "./images/household_responsibilities.jpeg"
         }
     ]
 }

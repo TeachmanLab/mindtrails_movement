@@ -1,0 +1,14 @@
+{
+    "header_text": "First time skydiving",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "First time skydiving"
+        },
+        {
+            "type": "Media",
+            "url": "./images/first_time_skydiving.jpeg"
+        }
+    ]
+}

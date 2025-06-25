@@ -1,0 +1,14 @@
+{
+    "header_text": "Social media photo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Social media photo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/social_media_photo.jpeg"
+        }
+    ]
+}

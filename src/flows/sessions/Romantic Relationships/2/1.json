@@ -1,14 +1,14 @@
 {
-    "header_text": "Relationship Struggles",
+    "header_text": "Blind Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Relationship Struggles"
+            "text": "Blind Date"
         },
         {
             "type": "Media",
-            "url": "./images/relationship_struggles.jpeg"
+            "url": "./images/blind_date.jpeg"
         }
     ]
 }

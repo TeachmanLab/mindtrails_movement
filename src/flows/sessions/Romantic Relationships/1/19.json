@@ -1,0 +1,14 @@
+{
+    "header_text": "A Delayed Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A Delayed Response"
+        },
+        {
+            "type": "Media",
+            "url": "./images/a_delayed_response.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Attending a Show",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Attending a Show"
+        },
+        {
+            "type": "Media",
+            "url": "./images/attending_a_show.jpeg"
+        }
+    ]
+}

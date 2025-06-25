@@ -1,20 +1,20 @@
 {
-    "header_text": "Coughing friend",
+    "header_text": "Appointment with the doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Yesterday you got together with a friend who coughed a few times while you were out. You are nervous that you might have caught something from your friend. You decide that your anxiety is..."
+            "text": "You have been feeling a little sick lately, so you schedule a doctor's appointment. The soonest appointment you can get is a few days away. While you wait for your doctor's appointment, you think your sickness is probably..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Coughing friend_Physical Health_puzzle1",
+            "name": "Appointment with the doctor_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "manageable"
+                "serious"
             ],
             "missing_letter_count": 1
         }

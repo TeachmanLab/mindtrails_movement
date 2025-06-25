@@ -1,23 +1,23 @@
 {
-    "header_text": "Appointment with the doctor",
+    "header_text": "Riding a boat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think you are going to feel better soon?"
+            "Text": "Once you reach the turn, you will probably ..."
         },
         {
             "type": "Buttons",
-            "name": "Appointment with the doctor_Physical Health_comp_question",
+            "name": "Riding a boat_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Clear it and continue boating fine.",
+                "Flip the boat"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Clear it and continue boating fine."
         }
     ],
     "navigation_conditions": [

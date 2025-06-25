@@ -8,11 +8,9 @@
             "html": true
         }
     ],
-    "conditions": [
-        {
-            "variable": "Discrimination",
-            "comparator": "=",
-            "value": "Self-Care"
-        }
-    ]
+    "condition": {
+        "variable": "Discrimination",
+        "comparator": "=",
+        "value": "Self-Care"
+    }
 }

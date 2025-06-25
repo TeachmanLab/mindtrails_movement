@@ -1,0 +1,14 @@
+{
+    "header_text": "Deleted section",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Deleted section"
+        },
+        {
+            "type": "Media",
+            "url": "./images/deleted_section.jpeg"
+        }
+    ]
+}

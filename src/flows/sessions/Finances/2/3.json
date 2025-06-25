@@ -1,23 +1,23 @@
 {
-    "header_text": "Dinner Plans",
+    "header_text": "Saving up Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you upset about missing dinner?"
+            "Text": "When it is time to book the upcoming trip, you will probably"
         },
         {
             "type": "Buttons",
-            "name": "Dinner Plans_Finances_comp_question",
+            "name": "Saving up Money_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Have to cancel because of money issues.",
+                "Be able to choose a pretty nice hotel."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Have to cancel because of money issues."
         }
     ],
     "navigation_conditions": [

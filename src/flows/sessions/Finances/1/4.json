@@ -1,0 +1,14 @@
+{
+    "header_text": "Dinner Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dinner Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/dinner_plans.jpeg"
+        }
+    ]
+}

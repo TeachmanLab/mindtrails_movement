@@ -16,11 +16,9 @@
             "name": "Other_social_support_helpful"
         }
     ],
-    "conditions": [
-        {
-            "variable": "HelpReceived",
-            "comparator": "=",
-            "value": "SeekingOtherSocialSupport(talkingWithNon-professionals)"
-        }
-    ]
+    "condition": {
+        "variable": "HelpReceived",
+        "comparator": "=",
+        "value": "SeekingOtherSocialSupport(talkingWithNon-professionals)"
+    }
 }

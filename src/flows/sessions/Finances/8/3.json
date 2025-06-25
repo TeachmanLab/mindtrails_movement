@@ -1,27 +1,15 @@
 {
-    "header_text": "Paying Bills",
+    "header_text": "Going out to Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you pay your rent on time? "
+            "text": "Your friend invited you to go out for lunch tomorrow. You want to go and build your relationship with that friend, but you do not want to overspend your budget for the week. You decide to ask your friend to hang out another time without spending money, and you think they will..."
         },
         {
-            "type": "Buttons",
-            "name": "Paying Bills_Finances_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "Going out to Lunch_Finances_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

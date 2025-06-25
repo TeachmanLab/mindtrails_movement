@@ -1,0 +1,14 @@
+{
+    "header_text": "Hospital waiting room",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Hospital waiting room"
+        },
+        {
+            "type": "Media",
+            "url": "./images/hospital_waiting_room.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Memory Training",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Memory Training"
+        },
+        {
+            "type": "Media",
+            "url": "./images/memory_training.jpeg"
+        }
+    ]
+}

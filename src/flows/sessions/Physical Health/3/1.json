@@ -1,14 +1,14 @@
 {
-    "header_text": "Fruit slice",
+    "header_text": "Sports game cheers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fruit slice"
+            "text": "Sports game cheers"
         },
         {
             "type": "Media",
-            "url": "./images/fruit_slice.jpeg"
+            "url": "./images/sports_game_cheers.jpeg"
         }
     ]
 }

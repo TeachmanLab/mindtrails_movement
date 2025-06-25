@@ -1,20 +1,20 @@
 {
-    "header_text": "Buying Supplies",
+    "header_text": "Comparing Financial Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you reach out to your supervisor for help with work-related finances? "
+            "Text": "Will you be able to afford the trip?"
         },
         {
             "type": "Buttons",
-            "name": "Buying Supplies_Finances_comp_question",
+            "name": "Comparing Financial Situations_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

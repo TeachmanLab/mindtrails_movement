@@ -1,0 +1,14 @@
+{
+    "header_text": "Anticipating a Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Anticipating a Response"
+        },
+        {
+            "type": "Media",
+            "url": "./images/anticipating_a_response.jpeg"
+        }
+    ]
+}

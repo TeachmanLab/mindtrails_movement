@@ -1,0 +1,14 @@
+{
+    "header_text": "Feeling Different",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Feeling Different"
+        },
+        {
+            "type": "Media",
+            "url": "./images/feeling_different.jpeg"
+        }
+    ]
+}

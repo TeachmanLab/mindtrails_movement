@@ -1,14 +1,14 @@
 {
-    "header_text": "Appointment with the doctor",
+    "header_text": "Riding a boat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Appointment with the doctor"
+            "text": "Riding a boat"
         },
         {
             "type": "Media",
-            "url": "./images/appointment_with_the_doctor.jpeg"
+            "url": "./images/riding_a_boat.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "Second meet-up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Theater group thoughts"
+            "text": "Second meet-up"
         },
         {
             "type": "Media",
-            "url": "./images/theater_group_thoughts.jpeg"
+            "url": "./images/second_meet-up.jpeg"
         }
     ]
 }

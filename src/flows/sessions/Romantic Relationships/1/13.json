@@ -1,0 +1,14 @@
+{
+    "header_text": "Anticipating a date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Anticipating a date"
+        },
+        {
+            "type": "Media",
+            "url": "./images/anticipating_a_date.jpeg"
+        }
+    ]
+}

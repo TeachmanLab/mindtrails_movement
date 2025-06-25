@@ -1,14 +1,14 @@
 {
-    "header_text": "Attending a Show",
+    "header_text": "Planning Payments",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attending a Show"
+            "text": "Planning Payments"
         },
         {
             "type": "Media",
-            "url": "./images/attending_a_show.jpeg"
+            "url": "./images/planning_payments.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Mistakes while working",
+    "header_text": "Contributing to a discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mistakes while working"
+            "text": "Contributing to a discussion"
         },
         {
             "type": "Media",
-            "url": "./images/mistakes_while_working.jpeg"
+            "url": "./images/contributing_to_a_discussion.jpeg"
         }
     ]
 }

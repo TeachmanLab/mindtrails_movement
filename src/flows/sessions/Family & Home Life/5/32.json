@@ -1,0 +1,14 @@
+{
+    "header_text": "Health and aging",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Health and aging"
+        },
+        {
+            "type": "Media",
+            "url": "./images/health_and_aging.jpeg"
+        }
+    ]
+}

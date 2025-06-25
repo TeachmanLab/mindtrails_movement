@@ -1,14 +1,14 @@
 {
-    "header_text": "Appointment with the doctor",
+    "header_text": "Out of Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Appointment with the doctor"
+            "text": "Out of Breath"
         },
         {
             "type": "Media",
-            "url": "./images/appointment_with_the_doctor.jpeg"
+            "url": "./images/out_of_breath.jpeg"
         }
     ]
 }

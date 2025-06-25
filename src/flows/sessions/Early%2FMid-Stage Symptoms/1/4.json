@@ -1,0 +1,14 @@
+{
+    "header_text": "House For Sale",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "House For Sale"
+        },
+        {
+            "type": "Media",
+            "url": "./images/house_for_sale.jpeg"
+        }
+    ]
+}

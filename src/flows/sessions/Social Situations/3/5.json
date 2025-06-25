@@ -1,0 +1,23 @@
+{
+    "header_text": "Collecting an old friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You arrange to meet up with a friend you have not seen for many years. You drive to the train station to pick them up. When you arrive, you know they will find spending time with you..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Collecting an old friend_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "fun"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

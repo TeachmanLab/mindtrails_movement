@@ -1,22 +1,22 @@
 {
-    "header_text": "Sunday Morning Run",
+    "header_text": "Flashing movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's Sunday morning and you just went for a walk outside. Taking off your running shoes in the hallway, you are short of breath. You feel..."
+            "text": "You are watching a movie in a theater. There are many quick-paced camera shots that make you feel dizzy. This sensation is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sunday Morning Run_Physical Health_puzzle1",
+            "name": "Flashing movie_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "proud"
+                "scary"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

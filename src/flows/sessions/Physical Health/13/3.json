@@ -1,23 +1,23 @@
 {
-    "header_text": "First time skydiving",
+    "header_text": "Late Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you feeling excited?"
+            "Text": "Did your friend put you in a dangerous situation on purpose?"
         },
         {
             "type": "Buttons",
-            "name": "First time skydiving_Physical Health_comp_question",
+            "name": "Late Communication_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
                 "No",
-                "Yes"
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

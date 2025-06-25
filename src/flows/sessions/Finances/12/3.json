@@ -1,23 +1,23 @@
 {
-    "header_text": "Saving up Money",
+    "header_text": "Trip After Car Problem",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When it is time to book the upcoming trip, you will probably"
+            "Text": "Will you be able to go on a trip? "
         },
         {
             "type": "Buttons",
-            "name": "Saving up Money_Finances_comp_question",
+            "name": "Trip After Car Problem_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Have to cancel because of money issues.",
-                "Be able to choose a pretty nice hotel."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Have to cancel because of money issues."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

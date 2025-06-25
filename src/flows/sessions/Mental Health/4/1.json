@@ -1,14 +1,14 @@
 {
-    "header_text": "Faster thoughts",
+    "header_text": "Being a Parent",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Faster thoughts"
+            "text": "Being a Parent"
         },
         {
             "type": "Media",
-            "url": "./images/faster_thoughts.jpeg"
+            "url": "./images/being_a_parent.jpeg"
         }
     ]
 }

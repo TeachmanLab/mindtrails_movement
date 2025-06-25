@@ -1,0 +1,14 @@
+{
+    "header_text": "Forgotten Ingredients",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Forgotten Ingredients"
+        },
+        {
+            "type": "Media",
+            "url": "./images/forgotten_ingredients.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Worsening condition",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Worsening condition"
+        },
+        {
+            "type": "Media",
+            "url": "./images/worsening_condition.jpeg"
+        }
+    ]
+}

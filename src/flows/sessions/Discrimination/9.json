@@ -8,11 +8,9 @@
             "html": true
         }
     ],
-    "conditions": [
-        {
-            "variable": "Discrimination",
-            "comparator": "=",
-            "value": "Mental Health (Emotional Support)"
-        }
-    ]
+    "condition": {
+        "variable": "Discrimination",
+        "comparator": "=",
+        "value": "Mental Health (Emotional Support)"
+    }
 }

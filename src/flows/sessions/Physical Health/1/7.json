@@ -1,0 +1,14 @@
+{
+    "header_text": "Fruit slice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Fruit slice"
+        },
+        {
+            "type": "Media",
+            "url": "./images/fruit_slice.jpeg"
+        }
+    ]
+}

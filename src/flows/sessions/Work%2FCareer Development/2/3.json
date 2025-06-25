@@ -1,23 +1,23 @@
 {
-    "header_text": "Group Project Due",
+    "header_text": "Important evaluation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your colleagues are likely..."
+            "Text": "Your coworkers will probably..."
         },
         {
             "type": "Buttons",
-            "name": "Group Project Due_Work/Career Development_comp_question",
+            "name": "Important evaluation_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Grateful that you politely communicated your concerns over their contribution. ",
-                "Annoyed that you're telling them what to do. "
+                "Give you a bad score.",
+                "Give you a good score."
             ],
             "columnCount": 1,
-            "correct_value": "Grateful that you politely communicated your concerns over their contribution. "
+            "correct_value": "Give you a good score."
         }
     ],
     "navigation_conditions": [

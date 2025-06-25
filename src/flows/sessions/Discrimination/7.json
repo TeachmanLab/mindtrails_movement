@@ -8,11 +8,9 @@
             "html": true
         }
     ],
-    "conditions": [
-        {
-            "variable": "Discrimination",
-            "comparator": "=",
-            "value": "Community"
-        }
-    ]
+    "condition": {
+        "variable": "Discrimination",
+        "comparator": "=",
+        "value": "Community"
+    }
 }

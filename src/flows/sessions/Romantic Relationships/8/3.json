@@ -1,27 +1,23 @@
 {
-    "header_text": "How You Look",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does it matter if your spouse likes your look?"
+            "text": "Your coworker doesn't seem to be asking for work reasons and will probably use your phone number to ask you.."
         },
         {
-            "type": "Buttons",
-            "name": "How You Look_Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Texting Your Crush_Romantic Relationships_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "out"
             ],
-            "columnCount": 1,
-            "correct_value": "No "
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

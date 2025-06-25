@@ -1,20 +1,20 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your neighbor has Parkinson's disease, and as they've gotten older it has been difficult to watch their condition worsen. As you age, you wonder if your symptoms will reach the severity level of theirs. You begin to feel nervous about your..."
+            "text": "You have a garden you're really proud of and enjoy getting to work on every year. As you think about getting older, you wonder how your ability to do this pastime will change. You think about how your Parkinson's symptoms could prevent you from caring for your plants, and they'll..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Worsening condition_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Gardening_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "future"
+                "die"
             ],
             "missing_letter_count": 1
         }

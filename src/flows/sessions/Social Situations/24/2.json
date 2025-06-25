@@ -1,20 +1,20 @@
 {
-    "header_text": "Collecting an old friend",
+    "header_text": "Friend's Get Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You arrange to meet up with a friend you have not seen for many years. You drive to the train station to pick them up. When you arrive, you know they will find spending time with you..."
+            "text": "Your friend is having a get together tonight. You weren't invited, but most of your other friends were. When you think about it, this makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Collecting an old friend_Social Situations_puzzle1",
+            "name": "Friend's Get Together_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fun"
+                "excluded"
             ],
             "missing_letter_count": 1
         }

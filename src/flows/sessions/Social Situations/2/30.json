@@ -1,0 +1,14 @@
+{
+    "header_text": "An organized outing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An organized outing"
+        },
+        {
+            "type": "Media",
+            "url": "./images/an_organized_outing.jpeg"
+        }
+    ]
+}

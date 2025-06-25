@@ -1,14 +1,14 @@
 {
-    "header_text": "Favorite watch",
+    "header_text": "Looking at your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Favorite watch"
+            "text": "Looking at your Resume"
         },
         {
             "type": "Media",
-            "url": "./images/favorite_watch.jpeg"
+            "url": "./images/looking_at_your_resume.jpeg"
         }
     ]
 }

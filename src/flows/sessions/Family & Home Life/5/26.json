@@ -1,0 +1,14 @@
+{
+    "header_text": "Reconciling with your friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Reconciling with your friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/reconciling_with_your_friend.jpeg"
+        }
+    ]
+}

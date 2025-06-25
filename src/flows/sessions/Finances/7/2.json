@@ -1,22 +1,22 @@
 {
-    "header_text": "Buying Supplies",
+    "header_text": "Comparing Financial Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are trying to buy supplies needed to do your job, which your employer usually reimburses. However, you’ve noticed that the price of an item you routinely buy has gone way up, and you worry that you will be partially responsible for paying for it. You reach out to your supervisor to discuss the change, and they confirm you will still be fully..."
+            "text": "You are talking to your friends about taking a trip together. You overhear that their partners are helping them pay for it and you start to worry about keeping up with them since you are supporting yourself. You think you will have enough to go on the..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Buying Supplies_Finances_puzzle1",
+            "name": "Comparing Financial Situations_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "reimbursed"
+                "trip"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

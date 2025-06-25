@@ -1,23 +1,10 @@
 {
-    "header_text": "A new state",
+    "header_text": "Instructions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For your vacation this year you are visiting a new state for the first time. When you are there, everything around you feels different and strange. You think this is..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "A new state_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "awesome"
-            ],
-            "missing_letter_count": 1
+            "text": "The stories you're about to see are a little bit different than ones you've seen before. Rather than fill in missing letters to complete the final word, we're going to challenge you to generate your own final word that will complete the story. Your goal is to think of a word that will end the story on a positive note. The ending doesn't have to be so positive that it doesn't seem possible, but we want you to imagine you are handling the situation well."
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

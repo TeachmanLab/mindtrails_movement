@@ -1,0 +1,14 @@
+{
+    "header_text": "Sunday Morning Run",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Sunday Morning Run"
+        },
+        {
+            "type": "Media",
+            "url": "./images/sunday_morning_run.jpeg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Office Talk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Office Talk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/office_talk.jpeg"
+        }
+    ]
+}

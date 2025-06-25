@@ -1,23 +1,23 @@
 {
-    "header_text": "An engaged audience",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your cohort members were probably quiet because ..."
+            "Text": "Do you feel capable of completing the work for this project?"
         },
         {
             "type": "Buttons",
-            "name": "An engaged audience_Work/Career Development_comp_question",
+            "name": "Using Different Technology_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They were engaged by your presentation.",
-                "They were bored by your presentation."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "They were engaged by your presentation."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

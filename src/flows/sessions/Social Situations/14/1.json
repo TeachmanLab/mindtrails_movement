@@ -1,14 +1,14 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "Jokes with Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Theater group thoughts"
+            "text": "Jokes with Friends "
         },
         {
             "type": "Media",
-            "url": "./images/theater_group_thoughts.jpeg"
+            "url": "./images/jokes_with_friends.jpeg"
         }
     ]
 }

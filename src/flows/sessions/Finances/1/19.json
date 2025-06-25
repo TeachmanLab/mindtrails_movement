@@ -1,0 +1,14 @@
+{
+    "header_text": "Buying Supplies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Buying Supplies"
+        },
+        {
+            "type": "Media",
+            "url": "./images/buying_supplies.jpeg"
+        }
+    ]
+}

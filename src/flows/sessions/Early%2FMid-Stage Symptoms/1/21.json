@@ -1,0 +1,14 @@
+{
+    "header_text": "Babysitting Questions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Babysitting Questions"
+        },
+        {
+            "type": "Media",
+            "url": "./images/babysitting_questions.jpeg"
+        }
+    ]
+}

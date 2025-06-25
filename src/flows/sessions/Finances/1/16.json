@@ -1,0 +1,14 @@
+{
+    "header_text": "Savings Scandal",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Savings Scandal"
+        },
+        {
+            "type": "Media",
+            "url": "./images/savings_scandal.jpeg"
+        }
+    ]
+}

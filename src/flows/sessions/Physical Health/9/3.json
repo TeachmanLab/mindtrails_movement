@@ -1,27 +1,15 @@
 {
-    "header_text": "Dinner Party Supplies",
+    "header_text": "Unknown Sensations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Could you accept your racing heart as neither good nor bad?"
+            "text": "You're walking with some friends after lunch and suddenly feel tingling in your fingertips. This is something that you haven't really experienced before. This probably means that you are..."
         },
         {
-            "type": "Buttons",
-            "name": "Dinner Party Supplies_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "Unknown Sensations_Physical Health_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

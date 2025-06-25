@@ -1,14 +1,14 @@
 {
-    "header_text": "A loud sound",
+    "header_text": "Running Low on Battery",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A loud sound"
+            "text": "Running Low on Battery"
         },
         {
             "type": "Media",
-            "url": "./images/a_loud_sound.jpeg"
+            "url": "./images/running_low_on_battery.jpeg"
         }
     ]
 }

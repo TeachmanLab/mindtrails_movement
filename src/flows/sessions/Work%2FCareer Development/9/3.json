@@ -1,27 +1,15 @@
 {
-    "header_text": "Showcasing your experience",
+    "header_text": "Expectations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your supervisor probably found you to be ..."
+            "text": "The year just ended and your boss wants to meet with you about your performance. They have high expectations for you, but you performed worse than previous years. Your boss will be..."
         },
         {
-            "type": "Buttons",
-            "name": "Showcasing your experience_Work/Career Development_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Effective",
-                "Unprepared and lacking. "
-            ],
-            "columnCount": 1,
-            "correct_value": "Unprepared and lacking. "
+            "type": "Entry",
+            "name": "Expectations_Work/Career Development_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

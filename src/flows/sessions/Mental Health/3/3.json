@@ -1,23 +1,23 @@
 {
-    "header_text": "Leaving the House",
+    "header_text": "Your Bowling Skills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "For the rest of your morning commute, you feel ..."
+            "Text": "Years from now, when you are bowling with your friends, you will probably notice"
         },
         {
             "type": "Buttons",
-            "name": "Leaving the House_Mental Health_comp_question",
+            "name": "Your Bowling Skills_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Worried that you left the door to your home unlocked.",
-                "At ease as you get to work."
+                "How little your skills have continued to improve.",
+                "How much you have improved since you started."
             ],
             "columnCount": 1,
-            "correct_value": "At ease as you get to work."
+            "correct_value": "How little your skills have continued to improve."
         }
     ],
     "navigation_conditions": [

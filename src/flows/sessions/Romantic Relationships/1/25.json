@@ -1,0 +1,14 @@
+{
+    "header_text": "Going on a Date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Going on a Date"
+        },
+        {
+            "type": "Media",
+            "url": "./images/going_on_a_date.jpeg"
+        }
+    ]
+}

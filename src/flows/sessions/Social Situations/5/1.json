@@ -1,14 +1,14 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "Lessons Learned",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Coughing at the Store"
+            "type": "Text",
+            "Text": "Great job! You're making great progress trying out new perspectives tied to social situations! Take a few minutes to reflect on the short stories you've read so far. What have you learned? What are your main takeaways? For instance, you might notice that it's not helpful to assume what other people are thinking."
         },
         {
-            "type": "Media",
-            "url": "./images/coughing_at_the_store.jpeg"
+            "type": "Entry",
+            "name": "lessons_learned_Social Situations_0"
         }
     ]
 }

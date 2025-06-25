@@ -1,23 +1,23 @@
 {
-    "header_text": "Party Outfit",
+    "header_text": "Affording Expenses",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you need to spend money on a new outfit?"
+            "Text": "In the coming month, you see yourself"
         },
         {
             "type": "Buttons",
-            "name": "Party Outfit_Finances_comp_question",
+            "name": "Affording Expenses_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Falling behind on your rent.",
+                "Paying your rent bill fully."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Falling behind on your rent."
         }
     ],
     "navigation_conditions": [

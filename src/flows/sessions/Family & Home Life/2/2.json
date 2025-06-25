@@ -1,20 +1,20 @@
 {
-    "header_text": "A loud sound",
+    "header_text": "Running Low on Battery",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at home alone watching TV at night. You must have been dozing, because you suddenly wake up after hearing a loud noise. You look outside and see an..."
+            "text": "You're going on a long car ride with your family to visit family in another part of the state. After an hour, you notice your phone battery is almost dead and you don't have a charger. You think about the rest of the car ride and feel like you will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A loud sound_Family & Home Life_puzzle1",
+            "name": "Running Low on Battery_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "intruder"
+                "miserable"
             ],
             "missing_letter_count": 1
         }

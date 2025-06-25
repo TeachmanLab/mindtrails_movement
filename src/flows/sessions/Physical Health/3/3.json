@@ -1,23 +1,23 @@
 {
-    "header_text": "Fruit slice",
+    "header_text": "Sports game cheers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The cut will probably ..."
+            "Text": "Are you worried that the pounding in your head signifies something serious?"
         },
         {
             "type": "Buttons",
-            "name": "Fruit slice_Physical Health_comp_question",
+            "name": "Sports game cheers_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Become infected.",
-                "Heal quickly."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Heal quickly."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

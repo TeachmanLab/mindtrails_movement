@@ -1,0 +1,14 @@
+{
+    "header_text": "Paying Bills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Paying Bills"
+        },
+        {
+            "type": "Media",
+            "url": "./images/paying_bills.jpeg"
+        }
+    ]
+}

@@ -1,20 +1,20 @@
 {
-    "header_text": "Zoning Out",
+    "header_text": "A big laugh",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you comfortable asking your department head to repeat her question?"
+            "Text": "Is it fun to laugh really hard?"
         },
         {
             "type": "Buttons",
-            "name": "Zoning Out_Social Situations_comp_question",
+            "name": "A big laugh_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
                 "No",
-                "Yes"
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

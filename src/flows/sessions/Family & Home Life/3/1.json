@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconciling with your friend",
+    "header_text": "Job Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconciling with your friend"
+            "text": "Job Hiatus"
         },
         {
             "type": "Media",
-            "url": "./images/reconciling_with_your_friend.jpeg"
+            "url": "./images/job_hiatus.jpeg"
         }
     ]
 }

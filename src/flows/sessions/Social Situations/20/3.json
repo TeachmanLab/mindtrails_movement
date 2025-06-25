@@ -1,27 +1,14 @@
 {
-    "header_text": "A new state",
+    "header_text": "Long Weekend Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "In this state, you think you will find..."
+            "type": "Label",
+            "text": "Long Weekend Alone"
         },
         {
-            "type": "Buttons",
-            "name": "A new state_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yourself in troublesome situations.",
-                "Opportunities to learn and experience the local traditions."
-            ],
-            "columnCount": 1,
-            "correct_value": "Opportunities to learn and experience the local traditions."
+            "type": "Media",
+            "url": "./images/long_weekend_alone.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

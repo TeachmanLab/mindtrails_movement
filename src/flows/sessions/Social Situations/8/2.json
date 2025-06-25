@@ -1,22 +1,22 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "Second meet-up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on the committee for a local community theater, which is planning a new productions. At the first meeting, the director asks you for ideas about which play to perform. Everybody pauses after you say your ideas, and you think the others find your thoughts... "
+            "text": "At a dinner party, you are introduced to someone new and chat with them for quite a while. When you call them the next week to suggest meeting again, they pause for a moment. They probably think that getting together would be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Theater group thoughts_Social Situations_puzzle1",
+            "name": "Second meet-up_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "boring"
+                "great"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

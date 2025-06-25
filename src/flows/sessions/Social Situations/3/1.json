@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Different",
+    "header_text": "Going out in day clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Different"
+            "text": "Going out in day clothes"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_different.jpeg"
+            "url": "./images/going_out_in_day_clothes.jpeg"
         }
     ]
 }

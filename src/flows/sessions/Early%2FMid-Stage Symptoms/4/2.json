@@ -1,20 +1,20 @@
 {
-    "header_text": "Weekly Game Night",
+    "header_text": "Household responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel..."
+            "text": "You take pride in taking on unliked chores. You have been feeling more fatigued recently and you have had to let others around you take on more of your tasks. You think about how lately when you discuss chores, your family members seem to be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Weekly Game Night_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Household responsibilities_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "great"
+                "annoyed"
             ],
             "missing_letter_count": 1
         }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Feeling Different",
+    "header_text": "Going out in day clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it bad that you feel different from others in your field?"
+            "Text": "Do you think that other diners think you are dressed inappropriately?"
         },
         {
             "type": "Buttons",
-            "name": "Feeling Different_Social Situations_comp_question",
+            "name": "Going out in day clothes_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"

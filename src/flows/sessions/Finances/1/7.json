@@ -1,0 +1,14 @@
+{
+    "header_text": "Party Outfit",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Party Outfit"
+        },
+        {
+            "type": "Media",
+            "url": "./images/party_outfit.jpeg"
+        }
+    ]
+}

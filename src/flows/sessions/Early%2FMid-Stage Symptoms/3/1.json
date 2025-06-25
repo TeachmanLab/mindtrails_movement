@@ -1,14 +1,14 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Worsening condition"
+            "text": "Gardening"
         },
         {
             "type": "Media",
-            "url": "./images/worsening_condition.jpeg"
+            "url": "./images/gardening.jpeg"
         }
     ]
 }
