@@ -1,14 +1,14 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "An organized outing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Theater group thoughts"
+            "text": "An organized outing"
         },
         {
             "type": "Media",
-            "url": "./images/theater_group_thoughts.jpeg"
+            "url": "./images/an_organized_outing.jpeg"
         }
     ]
 }

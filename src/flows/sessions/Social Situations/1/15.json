@@ -1,23 +1,23 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "A welcome greeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you glad that you went to the grocery store?"
+            "Text": "While hugging your friend, you feel ..."
         },
         {
             "type": "Buttons",
-            "name": "Coughing at the Store_Social Situations_comp_question",
+            "name": "A welcome greeting_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Like you can't catch your breath.",
+                "Missed and loved."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Missed and loved."
         }
     ],
     "navigation_conditions": [

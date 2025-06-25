@@ -1,14 +1,23 @@
 {
-    "header_text": "New Apartment to Yourself",
+    "header_text": "Not Feeling Supported",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "New Apartment to Yourself"
+            "type": "Text",
+            "text": "You remember why you worked on the project in the first place. After you think about it, you appreciate how hard you worked, and you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/new_apartment_to_yourself.jpeg"
+            "type": "WordPuzzle",
+            "name": "Not Feeling Supported_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

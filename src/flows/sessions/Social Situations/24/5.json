@@ -1,14 +1,15 @@
 {
-    "header_text": "Not Getting an Invite",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Not Getting an Invite"
+            "type": "Text",
+            "text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/not_getting_an_invite.jpeg"
+            "type": "Entry",
+            "name": "Overwhelming Options_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

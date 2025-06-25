@@ -1,20 +1,20 @@
 {
-    "header_text": "Resolving a disagreement",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a minor disagreement with a coworker about the best way to complete a task, and you decide to ask your boss about it. When you talk to your boss, you momentarily forget what you were about to say. Your boss thinks you sound..."
+            "text": "You are on a long drive with a friend. You notice that neither of you has said anything for a few minutes. Focused on the road, you think your friend feels that the silence is completely..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Resolving a disagreement_Social Situations_puzzle1",
+            "name": "Silence on a drive_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "normal"
             ],
             "missing_letter_count": 1
         }

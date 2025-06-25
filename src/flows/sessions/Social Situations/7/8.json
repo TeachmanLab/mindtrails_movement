@@ -1,20 +1,20 @@
 {
-    "header_text": "Conversation with Stranger",
+    "header_text": "Old friend ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a birthday party for a friend and talking with someone you just met. You cannot tell whether the person thinks you are interesting or boring, and you decide that not knowing is..."
+            "text": "While at a festival, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Conversation with Stranger_Social Situations_puzzle1",
+            "name": "Old friend _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "okay"
+                "distracted"
             ],
             "missing_letter_count": 2
         }

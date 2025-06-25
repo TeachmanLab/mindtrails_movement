@@ -1,15 +1,14 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Attending Wedding Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You apologize to your partner and volunteer to go get sunscreen somewhere. Your partner thanks you for the offer and is not... "
+            "type": "Label",
+            "text": "Attending Wedding Alone"
         },
         {
-            "type": "Entry",
-            "name": "Pool Time_Social Situations_entry2"
+            "type": "Media",
+            "url": "./images/attending_wedding_alone.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Too Much Attention",
+    "header_text": "Feeling Abandoned By a Close Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Too Much Attention"
+            "text": "Feeling Abandoned By a Close Friend"
         },
         {
             "type": "Media",
-            "url": "./images/too_much_attention.jpeg"
+            "url": "./images/feeling_abandoned_by_a_close_friend.jpeg"
         }
     ]
 }

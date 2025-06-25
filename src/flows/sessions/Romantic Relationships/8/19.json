@@ -1,14 +1,15 @@
 {
-    "header_text": "Significant Other's Friend",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Significant Other's Friend"
+            "type": "Text",
+            "text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your... "
         },
         {
-            "type": "Media",
-            "url": "./images/significant_other's_friend.jpeg"
+            "type": "Entry",
+            "name": "Asking Out Your Friend_Romantic Relationships_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

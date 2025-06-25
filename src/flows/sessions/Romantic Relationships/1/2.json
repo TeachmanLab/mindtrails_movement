@@ -1,20 +1,20 @@
 {
-    "header_text": "Flu Worries",
+    "header_text": "Relationship Struggles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner doesn’t take the necessary precautions to prevent the flu. This worries you because someone you know is immunocompromised. When you think about talking to your partner about their actions, you think they will..."
+            "text": "You have been with your partner for a while, and you are still very into them. Recently, your partner hasn't expressed much adoration towards you, and you wonder if they still love you as much as you love them. You think that they are no longer into... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Flu Worries_Romantic Relationships_puzzle1",
+            "name": "Relationship Struggles_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understand"
+                "you"
             ],
             "missing_letter_count": 1
         }

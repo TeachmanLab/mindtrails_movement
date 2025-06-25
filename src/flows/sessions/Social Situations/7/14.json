@@ -1,20 +1,20 @@
 {
-    "header_text": "Loud friend",
+    "header_text": "Participation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is..."
+            "text": "You consider attending a hands-on workshop in which your opinion will be required often, even though you do not like talking in front of others. After attending the workshop, you realize that this decision was... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Loud friend_Social Situations_puzzle1",
+            "name": "Participation _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tolerable"
+                "great"
             ],
             "missing_letter_count": 2
         }

@@ -1,23 +1,23 @@
 {
-    "header_text": "A big presentation",
+    "header_text": "Conversing at a party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you excited about the presentation?"
+            "Text": "The group that was talking probably ignored you because they ..."
         },
         {
             "type": "Buttons",
-            "name": "A big presentation_Social Situations_comp_question",
+            "name": "Conversing at a party_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Do not like you. ",
+                "Did not see you there."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Did not see you there."
         }
     ],
     "navigation_conditions": [

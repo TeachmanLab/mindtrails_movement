@@ -1,14 +1,14 @@
 {
-    "header_text": "Disrupting the Silence",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You walk into a quiet meeting room a few minutes late. The door squeaks really loudly as you enter and your coworkers look in your direction. They are probably feeling..."
+            "text": "In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are..."
         },
         {
             "type": "Entry",
-            "name": "Disrupting the Silence_Social Situations_entry1"
+            "name": "Important Opinion_Social Situations_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct"

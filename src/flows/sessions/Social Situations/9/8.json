@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking about TV",
+    "header_text": "Nerves at a Big Moment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talking about TV"
+            "text": "Nerves at a Big Moment"
         },
         {
             "type": "Media",
-            "url": "./images/talking_about_tv.jpeg"
+            "url": "./images/nerves_at_a_big_moment.jpeg"
         }
     ]
 }

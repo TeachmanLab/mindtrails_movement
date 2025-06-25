@@ -1,14 +1,16 @@
 {
-    "header_text": "Meeting New People",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Meeting New People"
+            "type": "Text",
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/meeting_new_people.jpeg"
+            "type": "Entry",
+            "name": "Reason5_WYO"
         }
     ]
 }

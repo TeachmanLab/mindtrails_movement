@@ -1,14 +1,14 @@
 {
-    "header_text": "Significant Other's Friend",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spouse took you to hang out with one of their good friends. Watching them interact, you feel like the friend is romantically interested in your partner. You remind yourself that your partner sees this person as a..."
+            "text": "If you were to ask your friend on a date, it would not be awkward, and you think your friend would find it.."
         },
         {
             "type": "Entry",
-            "name": "Significant Other's Friend_Romantic Relationships_entry1"
+            "name": "Asking Out Your Friend_Romantic Relationships_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct"

@@ -1,22 +1,14 @@
 {
-    "header_text": "Participation ",
+    "header_text": "Feeling Different",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You consider attending a hands-on workshop in which your opinion will be required often, even though you do not like talking in front of others. After attending the workshop, you realize that this decision was... "
+            "text": "You're participating in an online conference and look at everyone's videos. You notice that among the group of people, you look different from everyone else. You think about this and realize it is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Participation _Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "great"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry",
+            "name": "Feeling Different_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

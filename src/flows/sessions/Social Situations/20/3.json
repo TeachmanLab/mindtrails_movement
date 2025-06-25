@@ -1,14 +1,23 @@
 {
-    "header_text": "Long Weekend Alone",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Long Weekend Alone"
+            "type": "Text",
+            "text": "You are put in charge of your office's fundraising efforts and quickly realize that your coworkers are not very interested in the fundraising. At a meeting, you give a presentation about the importance of helping with the fundraising, during which your coworkers remain quiet. As you sit down after your presentation, you think they seemed..."
         },
         {
-            "type": "Media",
-            "url": "./images/long_weekend_alone.jpeg"
+            "type": "WordPuzzle",
+            "name": "Fundraiser presentation_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "bored"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

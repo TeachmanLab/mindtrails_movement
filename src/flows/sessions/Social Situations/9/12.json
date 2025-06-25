@@ -1,14 +1,14 @@
 {
-    "header_text": "Practicing Presentation",
+    "header_text": "Social Media Comparisons",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Practicing Presentation"
+            "text": "Social Media Comparisons"
         },
         {
             "type": "Media",
-            "url": "./images/practicing_presentation.jpeg"
+            "url": "./images/social_media_comparisons.jpeg"
         }
     ]
 }

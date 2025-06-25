@@ -1,14 +1,14 @@
 {
-    "header_text": "Cooking a Casserole",
+    "header_text": "Call Ending Suddenly",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cooking a Casserole"
+            "text": "Call Ending Suddenly"
         },
         {
             "type": "Media",
-            "url": "./images/cooking_a_casserole.jpeg"
+            "url": "./images/call_ending_suddenly.jpeg"
         }
     ]
 }

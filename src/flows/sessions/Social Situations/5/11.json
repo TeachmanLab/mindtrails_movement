@@ -1,14 +1,14 @@
 {
-    "header_text": "A sip of water",
+    "header_text": "Writing Notes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A sip of water"
+            "text": "Writing Notes"
         },
         {
             "type": "Media",
-            "url": "./images/a_sip_of_water.jpeg"
+            "url": "./images/writing_notes.jpeg"
         }
     ]
 }

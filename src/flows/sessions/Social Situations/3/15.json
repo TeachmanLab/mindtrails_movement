@@ -1,23 +1,23 @@
 {
-    "header_text": "Resolving a disagreement",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your boss probably thinks ..."
+            "Text": "Does your friend think you are awkward when there is silence during the drive?"
         },
         {
             "type": "Buttons",
-            "name": "Resolving a disagreement_Social Situations_comp_question",
+            "name": "Silence on a drive_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You are thoughtful and collected.",
-                "You are stupid and incompetent."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "You are thoughtful and collected."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

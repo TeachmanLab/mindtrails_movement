@@ -1,23 +1,23 @@
 {
-    "header_text": "Anticipating a date",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you content with how your relationship has changed?"
+            "Text": "You probably feel nervous because ..."
         },
         {
             "type": "Buttons",
-            "name": "Anticipating a date_Romantic Relationships_comp_question",
+            "name": "Special Day_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "You haven't hung out with this person before.",
+                "You are unlikeable."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "You haven't hung out with this person before."
         }
     ],
     "navigation_conditions": [

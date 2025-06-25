@@ -1,0 +1,15 @@
+{
+    "header_text": "Sitting on the bus: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "text": null,
+            "Duration": 15
+        }
+    ]
+}

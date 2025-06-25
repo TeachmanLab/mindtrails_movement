@@ -1,14 +1,14 @@
 {
-    "header_text": "Brief Introduction",
+    "header_text": "Getting to Know New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Brief Introduction"
+            "text": "Getting to Know New People"
         },
         {
             "type": "Media",
-            "url": "./images/brief_introduction.jpeg"
+            "url": "./images/getting_to_know_new_people.jpeg"
         }
     ]
 }

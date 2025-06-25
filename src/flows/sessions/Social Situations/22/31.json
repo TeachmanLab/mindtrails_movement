@@ -1,0 +1,23 @@
+{
+    "header_text": "Alone at Lunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In between appointments, you have time to grab lunch at a cafe that's on the way. When you walk in, you see that most people are sitting with a friend, but you don't have anybody to eat with. You decide that it's normal to eat alone, and you end up enjoying your...  "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Alone at Lunch_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "meal"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,20 +1,20 @@
 {
-    "header_text": "Asking Out Your Friend",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your friend be flattered by your invitation for a date?"
+            "Text": "Does your coworker want to ask you out on a date?"
         },
         {
             "type": "Buttons",
-            "name": "Asking Out Your Friend_Romantic Relationships_comp_question",
+            "name": "Texting Your Crush_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

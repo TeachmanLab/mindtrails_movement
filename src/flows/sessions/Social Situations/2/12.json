@@ -1,23 +1,23 @@
 {
-    "header_text": "Entering a nightclub",
+    "header_text": "Going out in day clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The lights and sounds of the club make you feel ..."
+            "Text": "Do you think that other diners think you are dressed inappropriately?"
         },
         {
             "type": "Buttons",
-            "name": "Entering a nightclub_Social Situations_comp_question",
+            "name": "Going out in day clothes_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Disoriented and scared.",
-                "Excited and lively."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Excited and lively."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

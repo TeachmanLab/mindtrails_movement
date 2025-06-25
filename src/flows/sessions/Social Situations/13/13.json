@@ -1,14 +1,16 @@
 {
-    "header_text": "Borrowing from a Friend",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Borrowing from a Friend"
+            "type": "Text",
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/borrowing_from_a_friend.jpeg"
+            "type": "Entry",
+            "name": "Reason5_WYO"
         }
     ]
 }

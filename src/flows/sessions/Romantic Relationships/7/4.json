@@ -1,27 +1,14 @@
 {
-    "header_text": "Long-Term Relationship",
+    "header_text": "Family Not Approving of Significant Other",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Do you think your relationship with your current partner will fizzle out?"
+            "type": "Label",
+            "text": "Family Not Approving of Significant Other"
         },
         {
-            "type": "Buttons",
-            "name": "Long-Term Relationship_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/family_not_approving_of_significant_other.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

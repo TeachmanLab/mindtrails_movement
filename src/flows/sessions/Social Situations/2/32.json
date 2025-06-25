@@ -1,23 +1,23 @@
 {
-    "header_text": "An organized outing",
+    "header_text": "Mistake on a task",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends did not enjoy the outing because ..."
+            "Text": "Does your boss believe that your work holds promise?"
         },
         {
             "type": "Buttons",
-            "name": "An organized outing_Social Situations_comp_question",
+            "name": "Mistake on a task_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "The weather was unpleasant.",
-                "You planned it poorly."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "The weather was unpleasant."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

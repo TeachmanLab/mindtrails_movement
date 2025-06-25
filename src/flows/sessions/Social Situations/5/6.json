@@ -1,20 +1,20 @@
 {
-    "header_text": "Meeting an old acquaintance",
+    "header_text": "A different haircut",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decide to..."
+            "text": "While at the hairdresser's, you opt for a completely different haircut. When you see your friend afterwards, they gasp. Their gasp probably means that they think the new style makes you look..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Meeting an old acquaintance_Social Situations_puzzle1",
+            "name": "A different haircut_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "answer"
+                "great"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Online Dating",
+    "header_text": "Long-Term Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Thinking about your prospects of finding someone online you don't think you will have a problem, and you believe that your chances of meeting someone soon are..."
+            "text": "You don't have worries about your relationship, and you see your relationship growing..."
         },
         {
             "type": "Entry",
-            "name": "Online Dating_Romantic Relationships_entry2"
+            "name": "Long-Term Relationship_Romantic Relationships_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct"

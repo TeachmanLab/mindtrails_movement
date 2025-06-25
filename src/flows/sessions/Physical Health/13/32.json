@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #21 \n\n A calmer mind is within reach. Practice your flexible thinking today! "
+            "text": "When you find yourself jumping to the worst-case scenario without all the information, what are some things that you could tell yourself instead? Think about some skills from the stories you've read that might be helpful for you. "
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #4_entry"
         }
     ]
 }

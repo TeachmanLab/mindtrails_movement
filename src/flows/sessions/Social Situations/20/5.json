@@ -1,14 +1,14 @@
 {
-    "header_text": "Friends Excluding You",
+    "header_text": "Friend Neglecting Chores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friends Excluding You"
+            "text": "Friend Neglecting Chores"
         },
         {
             "type": "Media",
-            "url": "./images/friends_excluding_you.jpeg"
+            "url": "./images/friend_neglecting_chores.jpeg"
         }
     ]
 }

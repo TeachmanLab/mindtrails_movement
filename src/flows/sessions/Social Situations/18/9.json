@@ -1,14 +1,14 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Leaning on your Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you happy to have your supervisor come to your school event? "
+            "Text": "Will your peers judge you for getting more negative evaluation results than them?"
         },
         {
             "type": "Buttons",
-            "name": "An Invitation_Social Situations_comp_question",
+            "name": "Leaning on your Peers_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

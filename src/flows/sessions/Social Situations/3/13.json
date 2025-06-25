@@ -1,14 +1,14 @@
 {
-    "header_text": "Resolving a disagreement",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Resolving a disagreement"
+            "text": "Silence on a drive"
         },
         {
             "type": "Media",
-            "url": "./images/resolving_a_disagreement.jpeg"
+            "url": "./images/silence_on_a_drive.jpeg"
         }
     ]
 }

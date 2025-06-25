@@ -1,23 +1,23 @@
 {
-    "header_text": "Expressing Your Ideas",
+    "header_text": "Theater group thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do the members of the group think your ideas are bad?"
+            "Text": "Everyone probably believes ..."
         },
         {
             "type": "Buttons",
-            "name": "Expressing Your Ideas_Social Situations_comp_question",
+            "name": "Theater group thoughts_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "You have innovative ideas.",
+                "You have terrible ideas."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "You have terrible ideas."
         }
     ],
     "navigation_conditions": [

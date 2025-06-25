@@ -1,15 +1,14 @@
 {
-    "header_text": "Sharing With Support Group ",
+    "header_text": "Not Having Much to Say",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have been asked to talk about your journey with PD in your support group. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people in the support group will react to your story, you believe they will be... "
+            "type": "Label",
+            "text": "Not Having Much to Say"
         },
         {
-            "type": "Entry",
-            "name": "Sharing With Support Group _Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/not_having_much_to_say.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

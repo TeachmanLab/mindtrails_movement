@@ -1,20 +1,20 @@
 {
-    "header_text": "Unusual views",
+    "header_text": "A big presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "During a discussion, you end up debating an issue with colleagues. You later discover that they found your views unusual. When the issue comes up again in a group conversation, you expect that you will be..."
+            "text": "You are about to give an important presentation. You are anxious about it. This feeling makes you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Unusual views_Social Situations_puzzle1",
+            "name": "A big presentation_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "excluded"
+                "exhilarated"
             ],
             "missing_letter_count": 1
         }

@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Mental Health",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Identify specific things about your finances that are causing you stress and come up with goals to better manage those stressors (e.g., if your budget is causing you stress, Google if there are any budgeting tools that can make that process easier)."
+            "text": "Reflect on the stories you just read and how the anxiety-provoking situations were resolved. What do you see as some of the key takeaways? Which of these new ways of thinking could you see yourself applying to your own life, and why?"
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #2_entry"
         }
     ]
 }

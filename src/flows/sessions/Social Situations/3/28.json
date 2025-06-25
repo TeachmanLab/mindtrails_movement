@@ -1,23 +1,27 @@
 {
-    "header_text": "Overhearing your name ",
+    "header_text": "Helping an elder neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you walk through the office, you hear some of our coworkers talking about other people. As you walk closer to them, you overhear your name. When they see you, they smile and greet you, and you think that they were probably saying something..."
+            "Text": "Does your neighbor appreciate your offer to help with the groceries?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Overhearing your name _Social Situations_puzzle1",
+            "type": "Buttons",
+            "name": "Helping an elder neighbor_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "pleasant"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

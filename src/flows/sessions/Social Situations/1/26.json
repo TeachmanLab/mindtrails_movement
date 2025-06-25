@@ -1,20 +1,20 @@
 {
-    "header_text": "Fundraiser presentation",
+    "header_text": "Controversial news story",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are put in charge of your office's fundraising efforts and quickly realize that your coworkers are not very interested in the fundraising. At a meeting, you give a presentation about the importance of helping with the fundraising, during which your coworkers remain quiet. As you sit down after your presentation, you think they seemed..."
+            "text": "You are having a conversation with a coworker about a recent controversial story in the news. You voice your opinion on the matter, and your coworker looks surprised and strongly..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Fundraiser presentation_Social Situations_puzzle1",
+            "name": "Controversial news story_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "excited"
+                "disagrees"
             ],
             "missing_letter_count": 1
         }

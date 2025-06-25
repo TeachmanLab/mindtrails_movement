@@ -1,14 +1,15 @@
 {
-    "header_text": "Small Party",
+    "header_text": "Practicing Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Small Party"
+            "type": "Text",
+            "text": "After the presentation, you realize that these mistakes are common. The supervisor probably thinks your recovery and ability to continue presenting was very..."
         },
         {
-            "type": "Media",
-            "url": "./images/small_party.jpeg"
+            "type": "Entry",
+            "name": "Practicing Presentation_Social Situations_entry2"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

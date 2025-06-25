@@ -1,14 +1,14 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are..."
+            "text": "While working on a collaborative project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the..."
         },
         {
             "type": "Entry",
-            "name": "Important Opinion_Social Situations_entry2"
+            "name": "Expressing Your Ideas_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

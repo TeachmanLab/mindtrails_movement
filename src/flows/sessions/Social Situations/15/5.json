@@ -1,14 +1,14 @@
 {
-    "header_text": "Trick or Treat",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trick or Treat"
+            "text": "Sweat Stains"
         },
         {
             "type": "Media",
-            "url": "./images/trick_or_treat.jpeg"
+            "url": "./images/sweat_stains.jpeg"
         }
     ]
 }

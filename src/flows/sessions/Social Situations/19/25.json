@@ -1,15 +1,27 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Different Music Tastes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player, and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself, these people are going to be... "
+            "Text": "Does your mother-in-law think you know nothing about music?"
         },
         {
-            "type": "Entry",
-            "name": "Playing the Piano_Social Situations_entry1"
+            "type": "Buttons",
+            "name": "Different Music Tastes_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

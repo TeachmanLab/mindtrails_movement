@@ -1,14 +1,15 @@
 {
-    "header_text": "Your Birthday Party",
+    "header_text": "A Homemade Gift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Your Birthday Party"
+            "type": "Text",
+            "text": "Your friend is having a huge birthday party with all of your friends attending. You know you can't afford a gift for your friend. You show up with a homemade card, your friend is..."
         },
         {
-            "type": "Media",
-            "url": "./images/your_birthday_party.jpeg"
+            "type": "Entry",
+            "name": "A Homemade Gift_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

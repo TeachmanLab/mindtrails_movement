@@ -1,0 +1,15 @@
+{
+    "header_text": "Sitting on the bus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/sitting_on_the_bus.jpeg",
+            "border": true
+        }
+    ]
+}

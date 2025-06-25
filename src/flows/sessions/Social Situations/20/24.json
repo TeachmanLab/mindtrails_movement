@@ -1,14 +1,14 @@
 {
-    "header_text": "New Opportunity for Friends",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Opportunity for Friends"
+            "text": "Sharing with Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/new_opportunity_for_friends.jpeg"
+            "url": "./images/sharing_with_someone_new.jpeg"
         }
     ]
 }

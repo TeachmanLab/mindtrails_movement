@@ -1,23 +1,23 @@
 {
-    "header_text": "Relationship Struggles",
+    "header_text": "Advice for a friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your partner still love you?"
+            "Text": "Did your friend think you gave them good advice about relationships?"
         },
         {
             "type": "Buttons",
-            "name": "Relationship Struggles_Romantic Relationships_comp_question",
+            "name": "Advice for a friend_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "No "
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

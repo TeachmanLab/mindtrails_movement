@@ -1,14 +1,23 @@
 {
-    "header_text": "Relationship Worries",
+    "header_text": "Being Single",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Relationship Worries"
+            "type": "Text",
+            "text": "You are single. Most of the people in your life are in a relationship. When you think about not having a partner, you feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/relationship_worries.jpeg"
+            "type": "WordPuzzle",
+            "name": "Being Single_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "good"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Manage Your Feelings: Physical Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #16 \n\n You are a resilient person who is ever-evolving. You are putting in the work!"
+            "text": "If you find yourself feeling anxious or nervous, ask yourself, \"what is my anxious brain telling me?\" Once you can identify that thought, ask yourself, \"is this realistic?\" "
         }
     ]
 }

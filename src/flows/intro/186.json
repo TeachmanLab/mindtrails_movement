@@ -2,7 +2,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"
+            "text": "Please press play on the training video below to learn more!"
         },
         {
             "type": "Media",

@@ -1,0 +1,14 @@
+{
+    "header_text": "Mental Health Issues",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Mental Health Issues"
+        },
+        {
+            "type": "Media",
+            "url": "./images/mental_health_issues.jpeg"
+        }
+    ]
+}

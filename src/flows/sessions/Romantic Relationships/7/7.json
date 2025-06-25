@@ -1,27 +1,14 @@
 {
-    "header_text": "Online Dating",
+    "header_text": "Third Wheel",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "When checking the site over the next few weeks, you expect"
+            "type": "Label",
+            "text": "Third Wheel"
         },
         {
-            "type": "Buttons",
-            "name": "Online Dating_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "To receive lots of messages from other users.",
-                "To get very few contacts."
-            ],
-            "columnCount": 1,
-            "correct_value": "To get very few contacts."
+            "type": "Media",
+            "url": "./images/third_wheel.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "A Homemade Gift",
+    "header_text": "Disrupting the Silence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend is having a huge birthday party with all of your friends attending. You know you can't afford a gift for your friend. You show up with a homemade card, your friend is..."
+            "text": "You walk into a quiet meeting room a few minutes late. The door squeaks really loudly as you enter and your coworkers look in your direction. They are probably feeling..."
         },
         {
             "type": "Entry",
-            "name": "A Homemade Gift_Social Situations_entry1"
+            "name": "Disrupting the Silence_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

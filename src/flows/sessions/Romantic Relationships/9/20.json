@@ -1,14 +1,14 @@
 {
-    "header_text": "Breaking Up",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You’ve decided that you want to break up with your partner. You’ve developed a close friend group over the years, and you’re not sure about how the breakup will impact your friendships. When you think about moving forward with the breakup, you feel... "
+            "text": "Thinking about your prospects of finding someone online you don't think you will have a problem, and you believe that your chances of meeting someone soon are..."
         },
         {
             "type": "Entry",
-            "name": "Breaking Up_Romantic Relationships_entry1"
+            "name": "Online Dating_Romantic Relationships_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct"

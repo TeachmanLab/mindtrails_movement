@@ -1,14 +1,15 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Trivia Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Important Opinion"
+            "type": "Text",
+            "text": "You are on your way home after a trivia night that you participated in. As your mind wanders, you think about the one question you missed. Overall, you consider your performance a..."
         },
         {
-            "type": "Media",
-            "url": "./images/important_opinion.jpeg"
+            "type": "Entry",
+            "name": "Trivia Night_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

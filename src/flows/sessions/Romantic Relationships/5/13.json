@@ -1,23 +1,27 @@
 {
-    "header_text": "Unequal Affection",
+    "header_text": "Not Getting a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been dating your significant other for a couple months. You start to feel like they might not be as into you as you are into them. You know that this is likely not the..."
+            "Text": "Will you continue to be anxious about this knowing it is not the case?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Unequal Affection_Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Not Getting a Response_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "case"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

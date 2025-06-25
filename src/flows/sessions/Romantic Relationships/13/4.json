@@ -1,27 +1,12 @@
 {
-    "header_text": "Texting Your Crush",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your coworker want to ask you out on a date?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Texting Your Crush_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "text": "Not sure what to write? Here's an example:\n\nPart 1:\nI send an email message to a friend asking them to grab coffee, but they never respond. I wonder if they are mad at me.\n\nPart 2:\nThinking back on the last time I got together with this friend, I remember they don't check email often and I feel ... relieved.\n\nNotice that the statement, \"I wonder if they are mad at me\" creates uncertainty, but the final sentence resolves this in a non-threatening way.\n\nNow it's your turn to try it out!"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

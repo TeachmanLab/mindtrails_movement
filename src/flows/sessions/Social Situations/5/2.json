@@ -1,14 +1,14 @@
 {
-    "header_text": "A different perspective",
+    "header_text": "Social Media Messaging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A different perspective"
+            "text": "Social Media Messaging"
         },
         {
             "type": "Media",
-            "url": "./images/a_different_perspective.jpeg"
+            "url": "./images/social_media_messaging.jpeg"
         }
     ]
 }

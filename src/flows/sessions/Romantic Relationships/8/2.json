@@ -1,23 +1,14 @@
 {
-    "header_text": "Texting Your Crush",
+    "header_text": "Long-Term Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your..."
+            "type": "Label",
+            "text": "Long-Term Relationship"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Texting Your Crush_Romantic Relationships_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "number"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/long-term_relationship.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

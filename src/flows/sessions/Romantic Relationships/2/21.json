@@ -1,23 +1,27 @@
 {
-    "header_text": "Argument with Your Partner",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently had a fight with your partner. It was about a serious issue, and you are concerned as to why your partner didn't agree with you. You think that you and your partner will eventually make...  "
+            "Text": "If you ask your friend on a date, it will probably"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Argument with Your Partner_Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Asking Out Your Friend_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "up"
+            "buttons": [
+                "Make your friend feel good.",
+                "Put your friend in an awkward position."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Make your friend feel good."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

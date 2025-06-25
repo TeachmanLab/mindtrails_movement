@@ -1,27 +1,14 @@
 {
-    "header_text": "Not Getting a Response",
+    "header_text": "Feeling Lesser Than For Being Single",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will you continue to be anxious about this knowing it is not the case?"
+            "type": "Label",
+            "text": "Feeling Lesser Than For Being Single"
         },
         {
-            "type": "Buttons",
-            "name": "Not Getting a Response_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/feeling_lesser_than_for_being_single.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #8 \n\n While it can be frightening to have your role in your family change, you are an integral part of your family no matter what. "
+            "text": "Think about a situation that you face regluarly that causes some anxiety. What do you usually tell yourself? Is there another thought that you could say to yourself that may make it less anxiety-provoking? "
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #12_entry"
         }
     ]
 }

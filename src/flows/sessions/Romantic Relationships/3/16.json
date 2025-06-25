@@ -1,27 +1,14 @@
 {
-    "header_text": "Online Dating",
+    "header_text": "Stress in Your Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "You think that people on the site will probably"
+            "type": "Label",
+            "text": "Stress in Your Relationship"
         },
         {
-            "type": "Buttons",
-            "name": "Online Dating_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Completely ignore you.",
-                "Respond well to your profile."
-            ],
-            "columnCount": 1,
-            "correct_value": "Respond well to your profile."
+            "type": "Media",
+            "url": "./images/stress_in_your_relationship.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

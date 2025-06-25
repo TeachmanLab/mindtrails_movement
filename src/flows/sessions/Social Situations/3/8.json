@@ -1,20 +1,20 @@
 {
-    "header_text": "A child's request",
+    "header_text": "Bumping into someone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are looking after a friend's child. The child asks to go to a park in a different neighborhood. In your opinion, an ordinary outing like this is..."
+            "text": "On your way out from work, you stop in the restroom. As you leave the bathroom stall, your coworker passes you and gives you a funny look. Your coworker is probably..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A child's request_Social Situations_puzzle1",
+            "name": "Bumping into someone_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "safe"
+                "distracted"
             ],
             "missing_letter_count": 1
         }

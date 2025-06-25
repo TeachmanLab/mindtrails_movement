@@ -341,13 +341,13 @@ def create_subdomain_page(subdomain, resource_texts):
 def create_video_page(video_number):
     return {
         "elements": [
-            {"type": "Text" , "text": "¡Presione play en el video de entrenamiento a continuación para obtener más información!"},
+            {"type": "Text" , "text": "Please press play on the training video below to learn more!"},
             {"type": "Media", "url": f"/videos/video{video_number}.mp4", "border": True}
         ]
     }
 
 def create_write_your_own_page(text, input_1, title, input_name):
     page = create_survey_page(text=text, input_1=input_1, title=title, input_name=input_name)
-    page["header_text"] = title or "Escribe El tuyo"
+    page["header_text"] = title or "Write Your Own"
     page["header_icon"] = "assets/subtitle.png",
     return page

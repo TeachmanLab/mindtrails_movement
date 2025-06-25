@@ -1,14 +1,16 @@
 {
-    "header_text": "Grocery Store Experience",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Grocery Store Experience"
+            "type": "Text",
+            "text": "Reason 4:"
         },
         {
-            "type": "Media",
-            "url": "./images/grocery_store_experience.jpeg"
+            "type": "Entry",
+            "name": "Reason4_WYO"
         }
     ]
 }

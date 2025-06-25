@@ -1,23 +1,27 @@
 {
-    "header_text": "Stress in Your Relationship",
+    "header_text": "Yourself in Old Age ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. Once the wedding is over after everything that has happened, you think you and your spouse will feel close..."
+            "Text": "You see your older self"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Stress in Your Relationship_Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Yourself in Old Age _Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "again"
+            "buttons": [
+                "With a loving partner.",
+                "Lonely without a significant other."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "With a loving partner."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

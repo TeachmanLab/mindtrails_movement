@@ -1,14 +1,14 @@
 {
-    "header_text": "Flu Worries",
+    "header_text": "Relationship Struggles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Flu Worries"
+            "text": "Relationship Struggles"
         },
         {
             "type": "Media",
-            "url": "./images/flu_worries.jpeg"
+            "url": "./images/relationship_struggles.jpeg"
         }
     ]
 }

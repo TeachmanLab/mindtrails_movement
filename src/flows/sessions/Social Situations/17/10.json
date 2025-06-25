@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Scores",
+    "header_text": "Jokes with Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Scores"
+            "text": "Jokes with Friends "
         },
         {
             "type": "Media",
-            "url": "./images/social_media_scores.jpeg"
+            "url": "./images/jokes_with_friends.jpeg"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Medical Guilt",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After noticing your throat hurting a bit, you decide to go to the doctor. Your partner barely goes to the doctor because it's so expensive, and you think they'll be mad at you for the cost. You hope that they'll forgive you easily, because getting sick isn't fully in your... "
+            "text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and worry if you can keep up or..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Medical Guilt_Physical Health_puzzle1",
+            "name": "Walking with a Friend_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "control"
+                "not"
             ],
             "missing_letter_count": 1
         }

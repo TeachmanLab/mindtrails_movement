@@ -1,14 +1,14 @@
 {
-    "header_text": "Texting Your Crush",
+    "header_text": "Dating a Stranger ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Texting Your Crush"
+            "text": "Dating a Stranger "
         },
         {
             "type": "Media",
-            "url": "./images/texting_your_crush.jpeg"
+            "url": "./images/dating_a_stranger.jpeg"
         }
     ]
 }

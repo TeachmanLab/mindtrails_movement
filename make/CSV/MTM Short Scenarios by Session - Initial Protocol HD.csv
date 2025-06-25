@@ -89,9 +89,9 @@ Work/Career Development,,,Managing Multiple Positions,"You recently decided to j
 Work/Career Development,,,Wrapping Up Work,"Work has been piling up at your job recently, and you were going to take the weekend to catch up. However, your friend reminded you of an event this weekend that you committed to, and it would be rude to cancel last minute. You think that completing your work will be doable.",N/A,Will you be able to do work this weekend?,Yes,No,./images/Wrapping_Up_Work.jpeg,all
 Work/Career Development,Social Situations,,Misunderstanding,You are in a meeting and reach to put your phone away as the new head of your department starts talking. He mistakes this for you texting during the meeting and calls you out in front of everyone. You go up to apologize afterwards and you can't read your head of department's expression.,"After explaining what happened to the head of your department, he says he understands. You feel like you will still be able make a good impression.",Will your department head view you negatively because of this?,No,Yes,./images/Misunderstanding.jpeg,all
 Work/Career Development,Mental Health,,Committing to Activities,"You were very excited to return to in-person office work and decided to commit to a lot of activities. You've found it challenging to meet all of your responsibilities, and you worry that you are failing at everything. ","You realize that being back in-person is an adjustment, and it will take some time to get used to the business of an in-person workplace. You think that with everything you have going on, you're doing a great job. ",Can you handle your responsibilities?,Yes ,No,./images/Committing_to_Activities.jpeg,all
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
+Work/Career Development,,,Write Your Own,,,,,,,write your own
+Work/Career Development,,,Write Your Own,,,,,,,write your own
+Work/Career Development,,,Write Your Own,,,,,,,write your own
 Work/Career Development,Mental Health,,Managing Responsibilities,"You have started to volunteer at a local organization and have had a difficult time managing it with work. One of the volunteer leaders asked if you would be willing to help her out with a project outside of your usual responsibilities,and you are worried if she will be disappointed if you say no. After thinking on it, you tell her that you can't help out with this project because of work, but are willing to help out on the next one.",N/A,Is it okay to turn down additional responsibility?,Yes,No,./images/Managing_Responsibilities.jpeg,1
 Work/Career Development,Mental Health,,Taking a Break,"You've been very busy the past few months, and you haven't had a lot of free time. You finally have a chance to rest, but you feel guilty that you're taking a break rather than completing work. You think that you deserve to relax. ",N/A,Should you do your work right now?,No,Yes,./images/Taking_a_Break.jpeg,1
 Work/Career Development,,,New Skill,"You have enrolled in a data science program offered by your workplace because you think it will be a useful skill to acquire going forward. You know the demand for people with data science experience is increasing, but the course is very difficult. Imagining how you will do in the program, you believe your efforts to learn some data science skills will be futile.",,You will most likely,Quit this program because you are doing poorly.,Complete the program and learn some useful data science skills.,./images/New_Skill.jpeg,1
@@ -108,13 +108,10 @@ Work/Career Development,Mental Health,,Working to Get Ahead,"You have just been 
 Work/Career Development,,,Taking Your Time,"Your boss calls on you to answer a question about the presentation just given. You don't know what to say, and your mind goes blank. After a few moments, you prepare your answer and feel ok.",N/A,Are you able to answer the question?,Yes,No,./images/Taking_Your_Time.jpeg,1
 Work/Career Development,,,First meeting,"Your supervisor arranges a meeting for you with a new coworker you have yet to meet. As you sit in the room waiting to meet this coworker for the first time, you wonder how it will go. You feel that your coworker will think you are pleasant.",N/A,Do you think you will make a bad impression on your new coworker?,No,Yes,./images/First_meeting.jpeg,1
 Work/Career Development,Mental Health,,Achieving Your Goals,"You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. ","You feel that you are not a bad candidate, and your chances of getting this new job are good.",Do you have a good chance of getting a higher position at your job?,Yes,No,./images/Achieving_Your_Goals.jpeg,1
-Social Situations,Work/Career Development,,Expressing Your Ideas,"While working on a collaborative project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project.",N/A,Do the members of the group think your ideas are bad?,No,Yes,./images/Expressing_Your_Ideas.jpeg,1
+Work/Career Development,Social Situations,,Expressing Your Ideas,"While working on a collaborative project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project.",N/A,Do the members of the group think your ideas are bad?,No,Yes,./images/Expressing_Your_Ideas.jpeg,1
 Work/Career Development,Mental Health,,Achieving Your Goals,"You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. You feel that your chances of getting this new job are slim.",,You believe that you will probably,"Not end up fulfilling your dreams, and feel disappointed with where you end up.",Get the job and advance your career even further. ,./images/Achieving_Your_Goals.jpeg,1
-Social Situations,Work/Career Development,,Zoning Out,You are sitting in an online meeting and space out for a minute. Your boss asks you a question and you didn't hear it. You ask her to repeat her question and this makes you feel  ok.,,Are you comfortable asking your department head to repeat her question?,Yes,No,./images/Zoning_Out.jpeg,1
-Social Situations,Work/Career Development,,Feeling Different,"You're participating in an online conference and look at everyone's videos. You notice that among the group of people, you look different from everyone else. You think about this and realize it is okay.",N/A,Is it bad that you feel different from others in your field?,No,Yes,./images/Feeling_Different.jpeg,1
-Work/Career Development,,,,,,,,,,1
-Work/Career Development,,,,,,,,,,1
-Work/Career Development,Mental Health,,,,,,,,,1
+Work/Career Development,Social Situations,,Zoning Out,You are sitting in an online meeting and space out for a minute. Your boss asks you a question and you didn't hear it. You ask her to repeat her question and this makes you feel  ok.,,Are you comfortable asking your department head to repeat her question?,Yes,No,./images/Zoning_Out.jpeg,1
+Work/Career Development,Social Situations,,Feeling Different,"You're participating in an online conference and look at everyone's videos. You notice that among the group of people, you look different from everyone else. You think about this and realize it is okay.",N/A,Is it bad that you feel different from others in your field?,No,Yes,./images/Feeling_Different.jpeg,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
@@ -122,27 +119,9 @@ Work/Career Development,Mental Health,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
-Work/Career Development,Mental Health,,,,,,,,,2
-Work/Career Development,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-Work/Career Development,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-Work/Career Development,,,,,,,,,,2
+,,,,,,,,,,1
+,,,,,,,,,,1
+,,,,,,,,,,1
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
@@ -152,7 +131,28 @@ Work/Career Development,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
-Work/Career Development,Mental Health,,,,,,,,,all
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
@@ -275,7 +275,7 @@ Family & Home Life,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
-Family & Home Life,Mental Health,,,,,,,,,all
+,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
@@ -428,9 +428,9 @@ Finances,,,Funding Good Habits ,"You recently picked up a new hobby in an effort
 Finances,Physical Health,,Healthy But Expensive ,"You want to start eating healthier, so you start researching tips and recipes online. You quickly realize that many foods recommended by health experts cost a lot of money. When you think about eating healthier on a budget, you think you can be successful. ",N/A,Are healthy recipes unattainable for you? ,No,Yes,./images/Healthy_But_Expensive.jpeg,all
 Finances,,,Managing Credit Cards,"Your bank has contacted you about signing up for a credit card with a very low interest rate. You are a responsible spender, but you worry about accruing debt if you sign up for a new credit card. ","As you think about what you would do with the credit card, you don't imagine you will suddenly spend recklessly, and you think that you would probably spend money wisely.",Do you think you would still spend money responsibly if you get a new credit card?,Yes,No,./images/Managing_Credit_Cards.jpeg,all
 Finances,Family & Home Life,,Unexpected Costs,"You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. ","Considering the possibility of buying, you think that you will be able to successfully move, because fully supporting your decision will be feasible.",Will you have trouble supporting your decision to buy a house?,No,Yes,./images/Unexpected_Costs.jpeg,all
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
+Finances,,,Write Your Own,,,,,,,write your own
+Finances,,,Write Your Own,,,,,,,write your own
+Finances,,,Write Your Own,,,,,,,write your own
 Finances,,,Investments,"You have some money you would like to try investing. As you read more about investing, you realize that you’re not completely sure what you’re doing. You think that your investment skills are likely to keep improving with practice. ",N/A,Will investing now pay off later?,Yes,No,./images/Investments.jpeg,1
 Finances,,,Trip After Car Problem,"You want to take a trip to destress. Due to a recent problem with your car, your funds are lower than normal. Despite this, you think that a trip that works for your budget and improves your mental health will be doable. ",N/A,Will you be able to go on a trip? ,Yes,No,./images/Trip_After_Car_Problem.jpeg,1
 Finances,Physical Health,,Recovering from the Flu,"You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost time.",N/A,Will you recover from your time off?,Yes,No,./images/Recovering_from_the_Flu.jpeg,1
@@ -531,6 +531,7 @@ Mental Health,,,A Moment of Forgetfulness,"You remembered that you need milk fro
 Mental Health,,,New Style ,"You go shopping at your favorite clothes store. You see an outfit that you love but do not believe it is right for your body type. After you get it and try it on, you want to buy it despite it not being something you typically wear. ","After battling with yourself in the dressing room, you find yourself feeling confident and wanting to wear it out so you purchase the new outfit.",Are you excited to wear your outfit to a party?,Yes,No,./images/New_Style.jpeg,all
 Mental Health,,,Your Bowling Skills,"You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come you see your bowling skills as disappointing",,"Years from now, when you are bowling with your friends, you will probably notice",How little your skills have continued to improve.,How much you have improved since you started.,./images/Your_Bowling_Skills.jpeg,all
 Mental Health,Social Situations,,Early Morning,You just started a new job and some friends from work  want to take you to a dinner tonight. You let them know that you have to be up early tomorrow morning for an important event and that you can't go with them and they seem disappointed. You think that your new friends will respect your decision to put your needs first.,N/A,Do your friends judge you for not going out with them?,No,Yes,./images/Early_Morning.jpeg,all
+Mental Health,,,An international flight,"You are going on a trip to another country. During the flight, you look out the window and realize you've never been so far above the ocean. You feel thrilled.",N/A,Is it exhilarating to be so high up?,Yes,No,./images/An_international_flight.jpeg,2
 ,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
@@ -681,7 +682,6 @@ Physical Health,,,Flashing movie,You are watching a movie in a theater. There ar
 Physical Health,,,Tingly fingers,You are helping a friend water their plants and holding the water for a long time. Your fingers begins to tingle. This sensation is funny.,N/A,Do the tingling feelings in your fingers make you nervous?,No,Yes,./images/Tingly_fingers.jpeg,2
 Physical Health,,,Dry mouth cause,"You have experienced dry mouth for a few days. You wonder whether the dry mouth is a minor side effect from a medicine you just started taking, or something more serious. The likelihood that your dry mouth reflects a serious health problem is minimal.",N/A,Your dry mouth is probably due to ...,A new medication.,A serious illness.,./images/Dry_mouth_cause.jpeg,2
 Physical Health,,,Walking pain,"Last weekend you walked a lot. Since then, you have been experiencing slight pain in your hip and wonder what this means for the progression of your disease. After resting for the next couple of days, you think this discomfort will subside. ",N/A,You think that the pain in your hip is ...,Temporary.,A sign of serious injury. ,./images/Walking_pain.jpeg,2
-Mental Health,,,An international flight,"You are going on a trip to another country. During the flight, you look out the window and realize you've never been so far above the ocean. You feel thrilled.",N/A,Is it exhilarating to be so high up?,Yes,No,./images/An_international_flight.jpeg,2
 Physical Health,,,Thoughts at the train station,"You are waiting for the train in a big city, and you notice your leg begin to ache. You worry that you will have to stand on the train, and the pain will get worse. Thinking about how you didn't do anything to injure your leg, you figure this pain is temporary.",N/A,Is there something majorly wrong with your leg?,No,Yes,./images/Thoughts_at_the_train_station.jpeg,2
 Physical Health,,,Comfortable couch,"You had a very busy day, and in the evening you are finally able to relax. As you sit on your couch, you feel spacey. You are calm.",N/A,You feel strange because ...,You only had one glass of water today.,You are coming down with the flu.,./images/Comfortable_couch.jpeg,2
 Physical Health,,,Spacing out,"You are in a meeting listening to someone speak. You stop paying attention and space out for a minute or two. When you begin to pay attention again, you are relaxed.",N/A,Do you feel calm after you space out during the meeting?,Yes,No,./images/Spacing_out.jpeg,2
@@ -737,9 +737,9 @@ Physical Health,,,Cough After Going Out ,"Over the last couple days, you've deve
 Physical Health,,,Wearing a Mask to Work,"You are immunocompromised and have been taking precautions to protect yourself from the flu, such as getting this season's flu shot. A colleague tells you that they refuse to get the flu vaccine. You decide to start wearing a mask to work since you're immunocompromised and don't want to risk complications from the flu. ",N/A,Are you taking precautions against the flu?,Yes,No,./images/Wearing_a_Mask_to_Work.jpeg,all
 Physical Health,,,Spring Allergies,"It's a chilly spring day, and you are walking outside in the park. As you pass by the trees, you feel increasingly stuffy and sore. You start feeling scared.","Looking around, you see all the pollen flying in the air. You realize that you usually get a stuffy nose with seasonal allergies and are probably tired from walking around for the last hour. You feel relieved.",Does your stuffy nose and soreness mean something bad is happening?,No,Yes,./images/Spring_Allergies.jpeg,all
 Physical Health,,,Feeling Faint,You decide to spin yourself really quickly on an office chair. You feel butterflies in your stomach and your head gets dizzy as the chair slows down from spinning. These feelings probably mean that you are going to faint.,"Instead of panicking, you decide to take a deep breathe. Slowly, your dizziness disappears and your stomach feels better.",Are you worried about fainting? ,No,Yes,./images/Feeling_Faint.jpeg,all
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
+Physical Health,,,Write Your Own,,,,,,,write your own
+Physical Health,,,Write Your Own,,,,,,,write your own
+Physical Health,,,Write Your Own,,,,,,,write your own
 Physical Health,,,Walking in the Cold,"It's a cold day, and you are outside walking. Your heart starts to beat quickly a few minutes in. You decide that this feeling is scary.",,Is your rapid heartbeat scary?,Yes,No,./images/Walking_in_the_Cold.jpeg,1
 Physical Health,,,Out of Breath,"On a walk over the weekend, you noticed you were getting out of breath faster than usual. You remember that the flu causes shortness of breath, and you start to panic. Luckily, you know you've had your flu shot and have done everything you could to prevent the flu.",N/A,Is your shortness of breath flu-related?,No,Yes,./images/Out_of_Breath.jpeg,1
 Physical Health,,,Testing Positive for Strep,A few days after attending a birthday party with lots of people and you notice that your throat hurts. You go to the doctor to take a test and find out that you have strep throat. You think about how your health will be affected and think that you will be able to handle the challenges as they come.,N/A,Will you be able to recover from strep?,Yes,No,./images/Testing_Positive_for_Strep.jpeg,1
@@ -759,17 +759,17 @@ Physical Health,,,Longer Walks,"You have been walking laps in your neighborhood 
 Physical Health,,,Rescheduled Vacation,"You've been wanting to go on a summer vacation to Europe for a few years. You rescheduled your trip from last summer to this upcoming summer, but you're worried getting sick will prevent you from finally going. You decide to see what happens, and you can always reschedule again if you need to. ",N/A,Are you going to stress out if you have to cancel your trip?,No,Yes,./images/Rescheduled_Vacation.jpeg,1
 Physical Health,,,Taking Precautions ,"Your children are in elementary school. You're worried that a classmate might give them the flu, and your children might get really sick. You decide you'll make sure they stay up to date on their flu shots and learn to wash their hands properly to keep them safe.",N/A,Do you think your children will get the flu?,No,Yes,./images/Taking_Precautions.jpeg,1
 Physical Health,,,Longer Walks,"You have been walking laps in your neighborhood and are thinking about walking a longer trail in the park. You enjoy the feeling of accomplishment when you finish walking, but you are worried about whether you have what it takes to push yourself more when you are farther away from home.","As you consider the idea of taking on this challenge, you don't think it is too much for you because you believe that you will probably be good enough. ",Do you think you will be incapable of completing a longer walk?,No,Yes,./images/Longer_Walks.jpeg,1
-Mental Health,Physical Health,,Monday Morning,"It's Monday morning and you are running late for a meeting. You feel your heart racing as you open the car door and sit down. Fearing that you might have a panic attack, you have a strong urge to get out of the car, and yet you decide to observe these sensations without reacting and stay seated.",N/A,Is it necessary to get out of the car because you feel your heart beating rapidly?,No,Yes,./images/Monday_Morning.jpeg,1
+Physical Health,Mental Health,,Monday Morning,"It's Monday morning and you are running late for a meeting. You feel your heart racing as you open the car door and sit down. Fearing that you might have a panic attack, you have a strong urge to get out of the car, and yet you decide to observe these sensations without reacting and stay seated.",N/A,Is it necessary to get out of the car because you feel your heart beating rapidly?,No,Yes,./images/Monday_Morning.jpeg,1
 Physical Health,Social Situations,,Walking with a Friend,"You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and worry if you can keep up or not.",,You imagine the walk will be,Too fast for you no matter how hard you try.,At a pace that you can do if you try hard.,./images/Walking_with_a_Friend.jpeg,1
 Physical Health,Social Situations,,Medical Guilt,"After noticing your throat hurting a bit, you decide to go to the doctor. Your partner barely goes to the doctor because it's so expensive, and you think they'll be mad at you for the cost. You hope that they'll forgive you easily, because getting sick isn't fully in your control. ",N/A,Do you think your partner will stay mad at you?,No,Yes,./images/Medical_Guilt.jpeg,1
-Social Situations,Physical Health,,Unmasked Peers,You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be well. ,N/A,Are any of the support group members sick?,No,Yes,./images/Unmasked_Peers.jpeg,1
-Social Situations,Physical Health,,Coughing at the Store,"You have a cold, but you decide to go to the grocery store since you feel well enough. You can't help but cough a few times, and you worry that others are judging you. No one has noticed you coughing, so you feel better about your decision to go to the store.",N/A,Are you glad that you went to the grocery store?,Yes,No,./images/Coughing_at_the_Store.jpeg,1
-Social Situations,Physical Health,,Sweat Stains,"It's a warm day and you and your friends are taking a walk outside. You notice that you are starting to sweat, and you can see some marks on your shirt. You know these friends well, and they will not care.",N/A,Will your friends make fun of your sweat marks on your shirt? ,No,Yes,./images/Sweat_Stains.jpeg,1
+Physical Health,Social Situations,,Unmasked Peers,You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be well. ,N/A,Are any of the support group members sick?,No,Yes,./images/Unmasked_Peers.jpeg,1
+Physical Health,Social Situations,,Coughing at the Store,"You have a cold, but you decide to go to the grocery store since you feel well enough. You can't help but cough a few times, and you worry that others are judging you. No one has noticed you coughing, so you feel better about your decision to go to the store.",N/A,Are you glad that you went to the grocery store?,Yes,No,./images/Coughing_at_the_Store.jpeg,1
+Physical Health,Social Situations,,Sweat Stains,"It's a warm day and you and your friends are taking a walk outside. You notice that you are starting to sweat, and you can see some marks on your shirt. You know these friends well, and they will not care.",N/A,Will your friends make fun of your sweat marks on your shirt? ,No,Yes,./images/Sweat_Stains.jpeg,1
 Physical Health,,,Dinner Party Supplies,"You are co-hosting a dinner party at your friend's apartment, and you just finished all the shopping. You start to sweat and feel your heart pounding after a couple of trips carrying the groceries up to the third floor. You feel a bit scared of these sensations. Unsure of whether they are good or bad, you decide to simply accept them.",N/A,Could you accept your racing heart as neither good nor bad?,Yes,No,./images/Dinner_Party_Supplies.jpeg,1
-Romantic Relationships,Physical Health,,Flu Worries,"Your partner doesn’t take the necessary precautions to prevent the flu. This worries you because someone you know is immunocompromised. When you think about talking to your partner about their actions, you think they will understand.",N/A,Will your partner listen to your concerns?,Yes,No,./images/Flu_Worries.jpeg,1
+Physical Health,Romantic Relationships,,Flu Worries,"Your partner doesn’t take the necessary precautions to prevent the flu. This worries you because someone you know is immunocompromised. When you think about talking to your partner about their actions, you think they will understand.",N/A,Will your partner listen to your concerns?,Yes,No,./images/Flu_Worries.jpeg,1
 Physical Health,Mental Health,,Hot day ,"Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply observe.",N/A,You responded to the feelings of sickness in your stomach by ...,Observing the sensations without doing anything.,Panicking about the sensations and calling an ambulance.,./images/Hot_day.jpeg,1
-Finances,Physical Health,,Healthy But Expensive ,"You want to start eating healthier, so you start researching tips and recipes online. You quickly realize that many foods recommended by health experts cost a lot of money. When you think about eating healthier on a budget, you think you can be successful. ",N/A,Are healthy recipes unattainable for you? ,No,Yes,./images/Healthy_But_Expensive.jpeg,1
-Social Situations,Physical Health,,Dancing class,"You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of dancing.",N/A,Did the person you met at dance class think you were anxious?,No,Yes,./images/Dancing_class.jpeg,1
+Physical Health,Finances,,Healthy But Expensive ,"You want to start eating healthier, so you start researching tips and recipes online. You quickly realize that many foods recommended by health experts cost a lot of money. When you think about eating healthier on a budget, you think you can be successful. ",N/A,Are healthy recipes unattainable for you? ,No,Yes,./images/Healthy_But_Expensive.jpeg,1
+Physical Health,Social Situations,,Dancing class,"You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of dancing.",N/A,Did the person you met at dance class think you were anxious?,No,Yes,./images/Dancing_class.jpeg,1
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
@@ -1066,9 +1066,9 @@ Romantic Relationships,Physical Health,,Flu Worries,"Your partner doesn’t take
 Romantic Relationships,,,Jealousy,"Your best friend has just gotten into a new relationship. You feel jealous of their new partner because you aren’t getting to spend as much time with your friend as usual. Reflecting on the situation, you realize that they can be in a relationship and still be a great friend. ",N/A,Will your friend still be around for you?,Yes,No,./images/Jealousy.jpeg,all
 Romantic Relationships,,,Online Dating,"Your friend has convinced you to sign up on an online dating website. You look over your profile and though you think it reflects who you are very well, you worry if it displays the kind of qualities people are looking for online. ","Thinking about your prospects of finding someone online you don't think you will have a problem, and you believe that your chances of meeting someone soon are high.",Do you think you will meet someone soon?,Yes,No,./images/Online_Dating.jpeg,all
 Romantic Relationships,,,Long-Term Relationship,"Your significant other, whom you have been dating for a few years, wants to talk about where your relationship is going. This is the first time you have dated someone for such a long time.","You don't have worries about your relationship, and you see your relationship growing stronger.",Do you think your relationship with your current partner will fizzle out?,No,Yes,./images/Long-Term_Relationship.jpeg,all
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
+Romantic Relationships,,,Write Your Own,,,,,,,write your own
+Romantic Relationships,,,Write Your Own,,,,,,,write your own
+Romantic Relationships,,,Write Your Own,,,,,,,write your own
 Romantic Relationships,,,Marrying Your Partner,"Your significant other of four years has recently asked how you feel about marriage. You feel very much in love with your significant other, but worry about the high rates of divorce and whether that could happen to you. Reflecting on the idea of marrying your partner, you believe your marriage would be a mistake.",,"When you imagine a marriage to your significant other, you see",The relationship eventually breaking down.,The two of you growing together for the rest of your lives.,./images/Marrying_Your_Partner.jpeg,1
 Romantic Relationships,,,For the First Time,"You have been asked out on a date for the first time in awhile! You feel nervous about this somewhat new experience and you worry you might do something embarrassing. When you think about the date, you feel excited.",N/A,Will you be miserable on the date?,No,Yes,./images/For_the_First_Time.jpeg,1
 Romantic Relationships,Mental Health,,Past Experiences,"Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise together. ",N/A,Will your partner understand?,Yes,No,./images/Past_Experiences.jpeg,1
@@ -1099,7 +1099,7 @@ Romantic Relationships,Mental Health,,Couples Counseling,"You and your partner h
 Romantic Relationships,Family & Home Life,,Coming Home,"You and your partner live together, and you have been arguing lately. You aren't looking forward to going home after work because you don't want another argument to happen. When you get home, you will talk to your partner civilly. ",N/A,Can you and your partner get along?,Yes,No,./images/Coming_Home.jpeg,1
 Romantic Relationships,Mental Health,,Anticipating a Response,"You and your partner have different spending habits, which leads to frequent arguments and financial tension. This tension has started to impact your relationship, and you feel like you are growing resentful of one another. If you share how you're feeling, it might lead to more arguments.","You decide to open up and share, and they do the same. As you talk, you feel understood.",Did sharing how you feel lead to more arguments?,No,Yes,./images/Anticipating_a_Response.jpeg,1
 Romantic Relationships,,,Blind Date,"You are going on a blind date and just arrived at the restaurant. As you walk up to the entrance, you suddenly feel very nervous and turn around to leave, but quickly change your mind. At this moment, your date arrives and looks very offended.","At the end of the date, you realize that it is very common to feel a little uneasy in situations like these. Having explained and apologized, you believe that your date found your hesitation funny and endearing.",Your date's impression of you is probably ...,Positive,Negative.,./images/Blind_Date.jpeg,1
-Romantic Relationships,,,,,,,,,,2
+,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
@@ -1331,11 +1331,7 @@ Social Situations,,,Bumping into someone,"On your way out from work, you stop in
 Social Situations,,,A personal question,"You are sitting on the couch and watching television with a friend. Your friend asks you a personal question. You answer honestly, and you think your friend probably judges you to be open.",N/A,Does your friend have a more negative opinion of you after you share personal information?,No,Yes,./images/A_personal_question.jpeg,1
 Social Situations,,,Silence on a drive,"You are on a long drive with a friend. You notice that neither of you has said anything for a few minutes. Focused on the road, you think your friend feels that the silence is completely normal.",N/A,Does your friend think you are awkward when there is silence during the drive?,No,Yes,./images/Silence_on_a_drive.jpeg,1
 Social Situations,Work/Career Development,,A big presentation,You are about to give an important presentation. You are anxious about it. This feeling makes you exhilarated.,N/A,Are you excited about the presentation?,Yes,No,./images/A_big_presentation.jpeg,1
-Social Situations,,,Suggestion to meet again,"You meet someone at an event and feel that you got along well. Later, you call and suggest meeting again. The reply you get makes you feel that the person thinks meeting again would be enjoyable.",N/A," 
- 		
-
-The person you met at the event will probably...
-",Say yes if you suggest meeting again,Say no if you suggest meeting again.,./images/Suggestion_to_meet_again.jpeg,1
+Social Situations,,,Suggestion to meet again,"You meet someone at an event and feel that you got along well. Later, you call and suggest meeting again. The reply you get makes you feel that the person thinks meeting again would be enjoyable.",N/A,"The person you met at the event will probably...",Say yes if you suggest meeting again,Say no if you suggest meeting again.,./images/Suggestion_to_meet_again.jpeg,1
 Social Situations,,,Dinner party invitation,"A friend invites you to a dinner party that they are holding. They tell you who the other guests are, but you do not recognize any of the other names. You go anyway, and on the way there, you think that the other guests will find you friendly.",N/A,Will you be well liked at the party?,Yes,No,./images/Dinner_party_invitation.jpeg,1
 Social Situations,,,Helping an elder neighbor,"One day after work, you notice an elder neighbor slowly walking from their car to their house. They look off balance and you are worried that they are going to fall. You ask whether they need help, and they turn and stare at you, looking offended.","When you get home, you realize that your neighbor was probably having a bad day and that it was appropriate to offer help. Your neighbor probably thinks you are kind.",Does your neighbor appreciate your offer to help with the groceries?,Yes,No,./images/Helping_an_elder_neighbor.jpeg,1
 Social Situations,,,Trivia tournament,"You are persuaded to join a trivia team in a tournament. You are told that most of the questions will be asked of individuals, in different rounds. When it's your turn, you get all the answers wrong, and the others look very disappointed.","In the end, you realize that your round was a particularly hard one. Looking around the table, you see that the others found the effort you put in to be very admirable.",The people on your team most likely ...,Are impressed by your determination.,Think you are bad at trivia.,./images/Trivia_tournament.jpeg,1
@@ -1399,11 +1395,10 @@ Social Situations,,,Trivia Night,"You are on your way home after a trivia night 
 Social Situations,Work/Career Development,,Expressing Your Ideas,"While working on a collaborative project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project.",N/A,Do the members of the group think your ideas are bad?,No,Yes,./images/Expressing_Your_Ideas.jpeg,all
 Social Situations,,,Grocery Store Experience,"You are shopping in a grocery store. As you are browsing some shelves, you accidently knock several cans on the floor and shoppers turn to look at you. The shoppers see the cans on the floor and respond with annoyance.","In the end, you realize that people were probably just surprised by the sound and turned around reflexively. The shoppers saw that no one was injured and probably felt relieved.",The other shoppers probably felt ...,Relieved that no one was injured.,Annoyed by the loud sound.,./images/Grocery_Store_Experience.jpeg,all
 Social Situations,Mental Health,Work/Career Development,Important Opinion,"You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are careless.","In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are learning.",Was your boss pleased with your progress?,Yes,No,./images/Important_Opinion.jpeg,all
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
-Social Situations,,,Learning Social Media Dances,"You're thinking about a new game you bought while you're at work. You really want to invite people over and learn how to play it, but you don't want to embarrass yourself in front of your coworkers. You decide not to bring it up since you are nervous, and you feel sad.",N/A,"Are you anxious about playing this game in front of your coworker?
-",Yes,No,./images/Learning_Social_Media_Dances.jpeg,1
+Social Situations,,,Write Your Own,,,,,,,write your own
+Social Situations,,,Write Your Own,,,,,,,write your own
+Social Situations,,,Write Your Own,,,,,,,write your own
+Social Situations,,,Learning Social Media Dances,"You're thinking about a new game you bought while you're at work. You really want to invite people over and learn how to play it, but you don't want to embarrass yourself in front of your coworkers. You decide not to bring it up since you are nervous, and you feel sad.",N/A,"Are you anxious about playing this game in front of your coworker?",Yes,No,./images/Learning_Social_Media_Dances.jpeg,1
 Social Situations,Physical Health,,Sweat Stains,"It's a warm day and you and your friends are taking a walk outside. You notice that you are starting to sweat, and you can see some marks on your shirt. You know these friends well, and they will not care.",N/A,Will your friends make fun of your sweat marks on your shirt? ,No,Yes,./images/Sweat_Stains.jpeg,1
 Social Situations,,,No Response,"You sent an email to your boss a few hours ago. You check to see if they have responded yet, but they haven't. You think about how your boss doesn't check their email often and you feel better.",N/A,Is it okay that your boss still hasn't answered your email yet?,Yes,No,./images/No_Response.jpeg,1
 Social Situations,,,Late Friend,"You're meeting a friend at a local park. After 20 minutes, your friend still hasn't arrived. You think they probably are coming.",N/A,Did your friend stand you up?,No,Yes,./images/Late_Friend.jpeg,1
@@ -1493,9 +1488,9 @@ Social Situations,,,Close Friend's Birthday,"Tomorrow is a close friend's birthd
 Social Situations,,,Meeting New Friends,"You get assigned to a new project where you do not know anyone else. On the first day of meeting, you put yourself out there to try to make new friends. When you think about asking some colleagues if they want to grab drinks after work, you expect them to say yes.",,"If you ask your co-workers to get drinks after work, they will probably",Agree that getting drinks is a good idea.,Politely decline your invitation.,./images/Meeting_New_Friends.jpeg,all
 Social Situations,Family & Home Life,,Your Family's Car,"Your family shares one older car that has a big dent in the front. Today, you are driving it around town. When you think about people you know seeing your car, you feel nervous.","As you're getting out of the car, you see a few acquaintances. They smile and wave at you, and you feel relieved.",Do your acquaintances judge your car? ,No,Yes,./images/Your_Family's_Car.jpeg,all
 Social Situations,,,Keeping Up With Friends ,"You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be forgiving.",,Your friend will most likely,Understand that sometimes things get very busy.,Be upset with you for not staying in contact.,./images/Keeping_Up_With_Friends.jpeg,all
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
-,,,Write Your Own,,,,,,,write your own
+Social Situations,,,Write Your Own,,,,,,,write your own
+Social Situations,,,Write Your Own,,,,,,,write your own
+Social Situations,,,Write Your Own,,,,,,,write your own
 Social Situations,,,Close Friend's Birthday,Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store and you think they will be upset,,"You imagine that when you show up at your friend's birthday, they will think","""This is almost worse than no gift at all.""","""Aw. It was really nice of my friend to bring me a gift.""",./images/Close_Friend's_Birthday.jpeg,1
 Social Situations,,,Luncheon Looks,You arrive at a luncheon in a new outfit. Everyone turns to look at you as you walk in. You decide that they must think you look stylish.,N/A,Did everyone at the luncheon like your new outfit?,Yes,No,./images/Luncheon_Looks.jpeg,1
 Social Situations,,,On a Walk,"You are outside walking and see a group of people ahead of you. As you pass them, you stumble slightly and feel a little foolish. You hear them laugh as you pass by and assume that they are laughing at jokes that aren't about you.",N/A,The group of walkers were probably laughing because ...,Someone told a funny joke that was not about you.,They saw you stumble.,./images/On_a_Walk.jpeg,1
@@ -1520,53 +1515,42 @@ Social Situations,,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
-Social Situations,Finances,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
-Social Situations,,,,,,,,,,1
 ,,,,,,,,,,1
 ,,,,,,,,,,1
-Social Situations,Romantic Relationships,Family & Home Life,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-Social Situations,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-Social Situations,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-Social Situations,,,,,,,,,,2
-Social Situations,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-Social Situations,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-,,,,,,,,,,2
-Social Situations,,,,,,,,,,2
-,,,,,,,,,,2
-Social Situations,,,,,,,,,,2
+,,,,,,,,,,1
+,,,,,,,,,,1
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
 ,,,,,,,,,,2
-Social Situations,Work/Career Development,,,,,,,,,2
 ,,,,,,,,,,2
-Social Situations,,,,,,,,,,all
-,,,,,,,,,,all
-,,,,,,,,,,all
-Social Situations,,,,,,,,,,all
-,,,,,,,,,,all
-,,,,,,,,,,all
-,,,,,,,,,,all
-Social Situations,,,,,,,,,,all
-,,,,,,,,,,all
-,,,,,,,,,,all
-Social Situations,,,,,,,,,,all
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
+,,,,,,,,,,2
 ,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
@@ -1576,7 +1560,18 @@ Social Situations,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
-Social Situations,Work/Career Development,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
+,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
 ,,,,,,,,,,all
@@ -1647,8 +1642,7 @@ Early/Mid-Stage Symptoms,,,Being Independent,"You have always taken pride in bei
 Early/Mid-Stage Symptoms,,,Shopping in a Crowd,"You're out shopping and you notice that your body is moving uncontrollably. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is low.",,Are shoppers around you judging you?,No,Yes,./images/Shopping_in_a_Crowd.jpeg,
 Early/Mid-Stage Symptoms,,,Catching up with a friend,"You are at the store when you see a friend, and stop to catch up with them. During this conversation, you're finding that your words come more slowly than usual. Despite these difficulties, talking to your friend is enjoyable. ",,Do you like catching up with your friend?,Yes,No,./images/Catching_up_with_a_friend.jpeg,
 Early/Mid-Stage Symptoms,,,Out for dinner,"You're having dinner at a nice restaurant with some friends you haven't seen in a while. In the middle of dinner, your arms start moving uncontrollably, and your friends all turn and look at you. Your friends think having dinner with you is nice.  ",,Do your friends think poorly of you because of your symptoms?,No,Yes,./images/Out_for_dinner.jpeg,
-Early/Mid-Stage Symptoms,,,Family Gathering,"You are at a family gathering and see people you haven’t spoken to in years. Your chorea has gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be enjoyable.
-",,Will the family gathering be enjoyable?,Yes,No,./images/Family_Gathering.jpeg,
+Early/Mid-Stage Symptoms,,,Family Gathering,"You are at a family gathering and see people you haven’t spoken to in years. Your chorea has gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be enjoyable.",,Will the family gathering be enjoyable?,Yes,No,./images/Family_Gathering.jpeg,
 Early/Mid-Stage Symptoms,,,Changing Roles,"You’ve noticed that your family members have started to care for you more often. Now, they often end conversations by asking if you need or want anything. While this dynamic is very different from the past, you understand that they want to be helpful, and it is okay.",,Your changing role in the family is...,Understandable and welcome,Unacceptable,./images/Changing_Roles.jpeg,
 Early/Mid-Stage Symptoms,,,The Movies Solo,"You are at a crowded movie theater alone and enjoying your movie despite experiencing some chorea. You notice people staring at you while you watch the movie. This makes you feel self-conscious, and not being able to explain yourself makes you feel frustrated.",,This experience feels...,Embarrassing,Normal,./images/The_Movies_Solo.jpeg,
 Early/Mid-Stage Symptoms,,,Music Venue ,"You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous.","Your partner looks over at you, so you tell them what's wrong. They offer to help you get through the crowd and you feel more confident.",Your partner's support makes you feel...,Assured,Anxious,./images/Music_Venue.jpeg,
@@ -1730,9 +1724,9 @@ Early/Mid-Stage Symptoms,Presymptomatic,,Travel Dreams,"You didn't get to travel
 Early/Mid-Stage Symptoms,,,Disease and Identity,"You feel as if HD has become central to your identity. You have recently been feeling the burden of explaining your diagnosis in every conversation, especially with new people. You begin to understand your disease as something that can be both shared and kept private. ",,Sharing or withholding your HD from others is...,Your decision,Forced,./images/Disease_and_Identity.jpeg,
 Early/Mid-Stage Symptoms,,,A Tricky Hike,"You love the great outdoors but have discovered recent unsteadiness in your footing when hiking. Friends notice the change and ask you about what's going on. When you answer, your friends realize that your fun escape has become a tricky challenge.",One of your friends finds the perfect walking stick and hands it to you. You continue on your walk feeling supported.,"With the walking stick, you feel...",Secure.,Incapable.,./images/A_Tricky_Hike.jpeg,
 Early/Mid-Stage Symptoms,,,Hiking Hiatus,"You love to go hiking, but since your HD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is good.",,Your friend thinks that your desire to continue an activity you love is...,Healthy,Foolish,./images/Hiking_Hiatus.jpeg,
-,,,Write Your Own,,,,,,,
-,,,Write Your Own,,,,,,,
-,,,Write Your Own,,,,,,,
+Early/Mid-Stage Symptoms,,,Write Your Own,,,,,,,
+Early/Mid-Stage Symptoms,,,Write Your Own,,,,,,,
+Early/Mid-Stage Symptoms,,,Write Your Own,,,,,,,
 Early/Mid-Stage Symptoms,,,New Conflict With Spouse,"You and your spouse have been married for a long time. Recently, you find yourself becoming easily angered with them over things that haven't made you upset in the past. Instead of fearing the future, you realize how your marriage is a commitment. ",,"Reflecting on your relationship with your spouse, you feel...",Committed,Afraid,./images/New_Conflict_With_Spouse.jpeg,
 Early/Mid-Stage Symptoms,,,Spiritual Journey,"Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will adapt.",,Will you find new ways of continuing your spiritual practice?,Yes,No,./images/Spiritual_Journey.jpeg,
 Early/Mid-Stage Symptoms,Presymptomatic,,Unconditional Love,"Your marriage is extremely important to you. Lately, you have been lashing out at your spouse more often, and you worry about how this will affect your marriage. You seek the advice of a counselor and remember that your spouse's love is unconditional.",,Will your spouse stop loving you because of your recent behavior?,No,Yes,./images/Unconditional_Love.jpeg,
@@ -1755,55 +1749,39 @@ Early/Mid-Stage Symptoms,Romantic Relationships,,Intimacy and Communication,Your
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
-Presymptomatic,Early/Mid-Stage Symptoms,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,Presymptomatic,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1813,7 +1791,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1836,7 +1813,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1846,7 +1822,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1856,7 +1831,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1866,7 +1840,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1886,7 +1859,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1906,7 +1878,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1949,7 +1920,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1959,7 +1929,6 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1969,7 +1938,32 @@ Early/Mid-Stage Symptoms,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Early/Mid-Stage Symptoms,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -1997,8 +1991,7 @@ Presymptomatic,,,Worsening condition,"Your parent has Huntington's disease, and 
 Presymptomatic,,,Caring for Children,"You were recently diagnosed with HD and are aware of the challenges that lie ahead. The changing symptoms and unpredictable nature of your condition makes you question whether you will be able to provide the necessary care for your children. However, your family reminds you that you are not alone and you feel reassured.",,"As your symptoms progress, you will be...",supported. ,alone. ,./images/Caring_for_Children.jpeg,
 Presymptomatic,,,Question at Work,"At a meeting at work, you forget the answer to an important question. Your colleagues exchange glances that leave you unsure about how they perceive your capabilities due to your HD diagnosis. However, one colleague extends a helping hand offering to fill you in, and you think that your colleagues are supportive.",,Your colleagues make you feel...,supported.,self-conscious. ,./images/Question_at_Work.jpeg,
 Presymptomatic,,,Planning a Family Vacation,"Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be supportive.  ",,This vacation...,will not stand between you and your family.,will cause tension between you and your family.,./images/Planning_a_Family_Vacation.jpeg,
-Presymptomatic,,,Forgetting the Laundry,"You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.
-",,Will you be able to do the laundry tomorrow?,Yes,No,./images/Forgetting_the_Laundry.jpeg,
+Presymptomatic,,,Forgetting the Laundry,"You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.",,Will you be able to do the laundry tomorrow?,Yes,No,./images/Forgetting_the_Laundry.jpeg,
 Presymptomatic,,,Disagreement with a Friend,"You recently got into a fight with a close friend because you forgot their birthday. You've been feeling more irritable lately, and disagreements like this are becoming common. You think about the history between you and your friend, and you know that your friendship will stay strong.",,Will your friendship be alright?,Yes,No,./images/Disagreement_with_a_Friend.jpeg,
 Presymptomatic,,,Convenience Store,"You are at a convenience store getting coffee, a task that you have done many times before. Today, you struggle to recall the steps needed to work the coffee machine. The cashier knows you fairly well and starts to look concerned.",,Has the cashier noticed that you're having trouble?,Yes,No,./images/Convenience_Store.jpeg,
 Presymptomatic,,,Night of Bad Sleep,"You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very frustrated.","In the morning, you decide to cancel your earliest appointment so that you can get more sleep. You wake up after a nap feeling a bit more refreshed.","After deciding to prioritize rest, you feel... ",Better,Worse,./images/Night_of_Bad_Sleep.jpeg,
@@ -2020,17 +2013,6 @@ Presymptomatic,Early/Mid-Stage Symptoms,,Job change,"You have been at your curre
 Presymptomatic,,,Navigating Around Town,"In the past, you tested yourself to see if you could navigate around town without technology. As time has gone by, you've had to start using your GPS more, which concerns you. You decide to make it a game to switch back and forth from your intuition to your GPS, and this is exciting.",,Testing your navigation skills even if you rely on technology is still... ,Rewarding.,Boring.,./images/Navigating_Around_Town.jpeg,
 Presymptomatic,,,Work Concentration,You are at work trying to finish a project before the deadline. You are having trouble concentrating on your work and worry what your supervisor will think about your ability to meet the deadline. You remember that your supervisor knows about your diagnosis and will be understanding.,,Your supervisor will be...,understanding,disappointed,./images/Work_Concentration.jpeg,
 Presymptomatic,,,Babysitting Questions,"You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him h(a)ppy.",,Your nephew is...,Happy to be with you.,Feeling impatient.,./images/Babysitting_Questions.jpeg,
-Presymptomatic,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2040,7 +2022,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2050,7 +2031,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2060,7 +2040,20 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2073,7 +2066,6 @@ Presymptomatic,,,,,,,,,,
 ,,,Write Your Own,,,,,,,
 ,,,Write Your Own,,,,,,,
 ,,,Write Your Own,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2083,7 +2075,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2093,7 +2084,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2103,7 +2093,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2113,7 +2102,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2123,7 +2111,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2133,7 +2120,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2143,7 +2129,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2153,7 +2138,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2166,7 +2150,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2176,7 +2159,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2186,7 +2168,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2196,7 +2177,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2206,7 +2186,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2216,7 +2195,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2226,7 +2204,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2236,7 +2213,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2246,7 +2222,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2259,7 +2234,6 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
@@ -2269,4 +2243,23 @@ Presymptomatic,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-Presymptomatic,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

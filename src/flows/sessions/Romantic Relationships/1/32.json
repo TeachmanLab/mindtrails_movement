@@ -1,10 +1,27 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Blind Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #22 \n\n Outer circumstances may be fixed, but our inner world is ours to transform. Embrace mindfulness."
+            "Text": "Your date's impression of you is probably ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Blind Date_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Positive",
+                "Negative."
+            ],
+            "columnCount": 1,
+            "correct_value": "Positive"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

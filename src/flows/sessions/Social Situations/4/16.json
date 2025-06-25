@@ -1,14 +1,14 @@
 {
-    "header_text": "Helping an elder neighbor",
+    "header_text": "Cancelled plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Helping an elder neighbor"
+            "text": "Cancelled plans"
         },
         {
             "type": "Media",
-            "url": "./images/helping_an_elder_neighbor.jpeg"
+            "url": "./images/cancelled_plans.jpeg"
         }
     ]
 }

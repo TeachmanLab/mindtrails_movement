@@ -1,20 +1,20 @@
 {
-    "header_text": "Blind Date",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are going on a blind date and just arrived at the restaurant. As you walk up to the entrance, you suddenly feel very nervous and turn around to leave, but quickly change your mind. At this moment, your date arrives and looks very..."
+            "text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your friendship. If you were to ask your friend on a date you think your friend would find it.."
         },
         {
             "type": "WordPuzzle",
-            "name": "Blind Date_Romantic Relationships_puzzle1",
+            "name": "Asking Out Your Friend_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "offended"
+                "weird"
             ],
             "missing_letter_count": 1
         }

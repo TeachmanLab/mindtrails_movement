@@ -1,23 +1,27 @@
 {
-    "header_text": "Corner Laughter",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After a moment, you remember situations where you and your coworkers have laughed about things unrelated to who is speaking. You move on from their laughter and complete your presentation..."
+            "Text": "Will you reach out to your friends to hang out next time?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Corner Laughter_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Friends Hanging Out_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "successfully"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

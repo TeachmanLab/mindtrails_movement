@@ -1,14 +1,14 @@
 {
-    "header_text": "A Homemade Gift",
+    "header_text": "Disrupting the Silence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Homemade Gift"
+            "text": "Disrupting the Silence"
         },
         {
             "type": "Media",
-            "url": "./images/a_homemade_gift.jpeg"
+            "url": "./images/disrupting_the_silence.jpeg"
         }
     ]
 }

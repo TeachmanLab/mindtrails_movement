@@ -1,23 +1,14 @@
 {
-    "header_text": "Small Party",
+    "header_text": "Jacket Return",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are at a small party with people from your department. You feel nervous about spending time with your coworkers outside of work. At the start of the party, you decide your nervousness is..."
+            "type": "Label",
+            "text": "Jacket Return"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Small Party_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "intolerable"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/jacket_return.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

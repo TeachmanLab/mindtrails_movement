@@ -1,0 +1,15 @@
+{
+    "header_text": "Spilled Coffee: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're on a date at a coffee shop with a person you really like. As you walk back to the table, you trip and fall and spill coffee everywhere.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "text": null,
+            "Duration": 15
+        }
+    ]
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "Marrying Your Partner",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The likelihood that your marriage would last is:"
+            "Text": "Will your friend be flattered by your invitation for a date?"
         },
         {
             "type": "Buttons",
-            "name": "Marrying Your Partner_Romantic Relationships_comp_question",
+            "name": "Asking Out Your Friend_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "High",
-                "Low"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "High"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

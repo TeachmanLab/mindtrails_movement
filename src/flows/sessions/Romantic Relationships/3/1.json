@@ -1,14 +1,14 @@
 {
-    "header_text": "Friends in Relationships",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friends in Relationships"
+            "text": "Texting Your Crush"
         },
         {
             "type": "Media",
-            "url": "./images/friends_in_relationships.jpeg"
+            "url": "./images/texting_your_crush.jpeg"
         }
     ]
 }

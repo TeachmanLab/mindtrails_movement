@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #9_entry"
+            "text": "Motivational Statement #18 \n\n Think about a challenge you've overcome in the past. It was hard, but you succeeded, and you can do it again!"
         }
     ]
 }

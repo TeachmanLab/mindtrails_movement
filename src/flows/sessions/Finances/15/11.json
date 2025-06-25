@@ -1,0 +1,14 @@
+{
+    "header_text": "Family Money Troubles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Family Money Troubles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/family_money_troubles.jpeg"
+        }
+    ]
+}

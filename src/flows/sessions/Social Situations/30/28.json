@@ -1,0 +1,14 @@
+{
+    "header_text": "Old Friends ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Old Friends "
+        },
+        {
+            "type": "Media",
+            "url": "./images/old_friends.jpeg"
+        }
+    ]
+}

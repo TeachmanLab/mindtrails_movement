@@ -1,14 +1,14 @@
 {
-    "header_text": "Attending a dinner",
+    "header_text": "Lunch with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attending a dinner"
+            "text": "Lunch with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/attending_a_dinner.jpeg"
+            "url": "./images/lunch_with_a_friend.jpeg"
         }
     ]
 }

@@ -1,14 +1,27 @@
 {
-    "header_text": "Confirming Plans",
+    "header_text": "Ignored by a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Confirming Plans"
+            "type": "Text",
+            "Text": "Is your friend ignoring you on purpose?"
         },
         {
-            "type": "Media",
-            "url": "./images/confirming_plans.jpeg"
+            "type": "Buttons",
+            "name": "Ignored by a Friend_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

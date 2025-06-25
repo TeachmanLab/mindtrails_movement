@@ -1,14 +1,14 @@
 {
-    "header_text": "Entering a nightclub",
+    "header_text": "Going out in day clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Entering a nightclub"
+            "text": "Going out in day clothes"
         },
         {
             "type": "Media",
-            "url": "./images/entering_a_nightclub.jpeg"
+            "url": "./images/going_out_in_day_clothes.jpeg"
         }
     ]
 }

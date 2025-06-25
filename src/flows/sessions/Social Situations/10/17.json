@@ -1,15 +1,14 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are..."
+            "type": "Label",
+            "text": "Expressing Your Ideas"
         },
         {
-            "type": "Entry",
-            "name": "Important Opinion_Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/expressing_your_ideas.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

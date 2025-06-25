@@ -1,14 +1,14 @@
 {
-    "header_text": "A big presentation",
+    "header_text": "Conversing at a party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A big presentation"
+            "text": "Conversing at a party"
         },
         {
             "type": "Media",
-            "url": "./images/a_big_presentation.jpeg"
+            "url": "./images/conversing_at_a_party.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Online Dating",
+    "header_text": "Long-Term Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think you will meet someone soon?"
+            "Text": "Do you think your relationship with your current partner will fizzle out?"
         },
         {
             "type": "Buttons",
-            "name": "Online Dating_Romantic Relationships_comp_question",
+            "name": "Long-Term Relationship_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

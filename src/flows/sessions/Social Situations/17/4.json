@@ -1,14 +1,14 @@
 {
-    "header_text": "Watching a Movie with Friends",
+    "header_text": "Issues While Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Watching a Movie with Friends"
+            "text": "Issues While Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/watching_a_movie_with_friends.jpeg"
+            "url": "./images/issues_while_shopping.jpeg"
         }
     ]
 }

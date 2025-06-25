@@ -1,20 +1,20 @@
 {
-    "header_text": "Watching a Movie with Friends",
+    "header_text": "Issues While Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you anxious about telling your friend that the smell is your dinner?"
+            "Text": "Are your friends upset with you about dessert?"
         },
         {
             "type": "Buttons",
-            "name": "Watching a Movie with Friends_Social Situations_comp_question",
+            "name": "Issues While Shopping_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"

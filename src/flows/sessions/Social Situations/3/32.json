@@ -1,23 +1,23 @@
 {
-    "header_text": "Bumping into someone",
+    "header_text": "Trivia tournament",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your coworker negatively judging you as you leave the restroom?"
+            "Text": "The people on your team most likely ..."
         },
         {
             "type": "Buttons",
-            "name": "Bumping into someone_Social Situations_comp_question",
+            "name": "Trivia tournament_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "Think you are bad at trivia.",
+                "Are impressed by your determination."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Are impressed by your determination."
         }
     ],
     "navigation_conditions": [

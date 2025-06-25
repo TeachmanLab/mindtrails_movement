@@ -1,14 +1,15 @@
 {
-    "header_text": "Breaking Up",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Breaking Up"
+            "type": "Text",
+            "text": "Your friend has convinced you to sign up on an online dating website. You look over your profile and though you think it reflects who you are very well, you worry if it displays the kind of qualities people are looking for... "
         },
         {
-            "type": "Media",
-            "url": "./images/breaking_up.jpeg"
+            "type": "Entry",
+            "name": "Online Dating_Romantic Relationships_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

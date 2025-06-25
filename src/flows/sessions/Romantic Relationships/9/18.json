@@ -1,15 +1,14 @@
 {
-    "header_text": "Meeting the Parents",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your partner's parents are visiting and you are getting dinner with them. You have never met them before, but you know that they hold very different political beliefs than you. As you think about meeting them, you know you will be... "
+            "type": "Label",
+            "text": "Online Dating"
         },
         {
-            "type": "Entry",
-            "name": "Meeting the Parents_Romantic Relationships_entry1"
+            "type": "Media",
+            "url": "./images/online_dating.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

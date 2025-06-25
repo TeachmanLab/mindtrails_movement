@@ -1,14 +1,14 @@
 {
-    "header_text": "Using What You Have",
+    "header_text": "An Acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are invited to a formal event for your workplace. You can't afford something new to wear, so have to wear an old outfit. When thinking about everyone's opinion on you wearing old clothes, you know you'll feel..."
+            "text": "You run into someone you don't know well on the street who you look up to. You ask them how they are doing and they continue to keep walking. This acquaintance probably thinks you are..."
         },
         {
             "type": "Entry",
-            "name": "Using What You Have_Social Situations_entry1"
+            "name": "An Acquaintance_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

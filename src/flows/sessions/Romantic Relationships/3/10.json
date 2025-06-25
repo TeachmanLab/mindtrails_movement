@@ -1,27 +1,14 @@
 {
-    "header_text": "Dating a Stranger ",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Your date will probably notice"
+            "type": "Label",
+            "text": "Online Dating"
         },
         {
-            "type": "Buttons",
-            "name": "Dating a Stranger _Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "How little you have to say.",
-                "How much you two enjoy the same hobbies."
-            ],
-            "columnCount": 1,
-            "correct_value": "How much you two enjoy the same hobbies."
+            "type": "Media",
+            "url": "./images/online_dating.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

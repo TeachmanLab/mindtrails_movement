@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #26 \n\n Your dedication to the process is a sign of your strength. Keep moving forward!"
+            "text": "Think about a challenging situation that's coming up soon. What are some ways you could apply what you learned from this training to manage your own situation? "
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #7_entry"
         }
     ]
 }

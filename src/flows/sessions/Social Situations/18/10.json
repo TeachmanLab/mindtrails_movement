@@ -1,14 +1,14 @@
 {
-    "header_text": "Waiting for a Reply ",
+    "header_text": "Saving Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Waiting for a Reply "
+            "text": "Saving Money"
         },
         {
             "type": "Media",
-            "url": "./images/waiting_for_a_reply.jpeg"
+            "url": "./images/saving_money.jpeg"
         }
     ]
 }

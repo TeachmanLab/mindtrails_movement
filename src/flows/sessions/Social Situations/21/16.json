@@ -1,10 +1,10 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "If you've had difficulty sleeping recently, try putting away your phone half an hour before bedtime."
+            "text": "Motivational Statement #28 \n\n Taking steps to help yourself is a difficult, but rewarding process. You are doing great!"
         }
     ]
 }

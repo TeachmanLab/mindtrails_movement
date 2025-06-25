@@ -1,23 +1,27 @@
 {
-    "header_text": "Quality Time",
+    "header_text": "Expressing Your Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "With kids in the house, you and your spouse don't get to spend a lot of quality time together. You feel as though you and your spouse are drifting apart. You decide to plan a date night just for the two of... "
+            "Text": "Do you keep your emotions bottled up?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Quality Time_Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Expressing Your Feelings_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "you"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

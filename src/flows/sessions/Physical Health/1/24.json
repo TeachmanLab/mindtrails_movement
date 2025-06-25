@@ -13,8 +13,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You are not getting enough oxygen and will pass out.",
-                "Your body needs rest after a long day of work."
+                "Your body needs rest after a long day of work.",
+                "You are not getting enough oxygen and will pass out."
             ],
             "columnCount": 1,
             "correct_value": "Your body needs rest after a long day of work."

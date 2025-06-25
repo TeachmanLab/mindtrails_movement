@@ -1,14 +1,27 @@
 {
-    "header_text": "Talking with Your Friend",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Talking with Your Friend"
+            "type": "Text",
+            "Text": "Were your coworkers laughing at you?"
         },
         {
-            "type": "Media",
-            "url": "./images/talking_with_your_friend.jpeg"
+            "type": "Buttons",
+            "name": "Corner Laughter_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

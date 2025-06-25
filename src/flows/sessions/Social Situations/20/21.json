@@ -1,14 +1,14 @@
 {
-    "header_text": "Overwhelming Options",
+    "header_text": "Waiting for a Reply ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overwhelming Options"
+            "text": "Waiting for a Reply "
         },
         {
             "type": "Media",
-            "url": "./images/overwhelming_options.jpeg"
+            "url": "./images/waiting_for_a_reply.jpeg"
         }
     ]
 }

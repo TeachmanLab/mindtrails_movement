@@ -1,0 +1,15 @@
+{
+    "header_text": "Pool Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You apologize to your partner and volunteer to go get sunscreen somewhere. Your partner thanks you for the offer and is not... "
+        },
+        {
+            "type": "Entry",
+            "name": "Pool Time_Social Situations_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

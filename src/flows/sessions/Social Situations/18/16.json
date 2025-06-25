@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Excluded on Social Media",
+    "header_text": "Comedic Genius",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Excluded on Social Media"
+            "text": "Comedic Genius"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_excluded_on_social_media.jpeg"
+            "url": "./images/comedic_genius.jpeg"
         }
     ]
 }

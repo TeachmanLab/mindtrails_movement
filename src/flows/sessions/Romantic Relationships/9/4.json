@@ -1,15 +1,14 @@
 {
-    "header_text": "Texting Your Crush",
+    "header_text": "Going to a Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your coworker doesn't seem to be asking for work reasons and will probably use your phone number to ask you.."
+            "type": "Label",
+            "text": "Going to a Wedding"
         },
         {
-            "type": "Entry",
-            "name": "Texting Your Crush_Romantic Relationships_entry2"
+            "type": "Media",
+            "url": "./images/going_to_a_wedding.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

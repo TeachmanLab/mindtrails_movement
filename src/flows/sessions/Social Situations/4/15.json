@@ -1,20 +1,20 @@
 {
-    "header_text": "Dinner party invitation",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be well liked at the party?"
+            "Text": "Do you take your acquaintance’s call to meet for coffee?"
         },
         {
             "type": "Buttons",
-            "name": "Dinner party invitation_Social Situations_comp_question",
+            "name": "Meeting an old acquaintance_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Sí",
-                "No"
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

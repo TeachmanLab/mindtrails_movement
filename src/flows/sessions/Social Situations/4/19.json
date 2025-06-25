@@ -1,27 +1,14 @@
 {
-    "header_text": "Helping an elder neighbor",
+    "header_text": "A sip of water",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Does your neighbor appreciate your offer to help with the groceries?"
+            "type": "Label",
+            "text": "A sip of water"
         },
         {
-            "type": "Buttons",
-            "name": "Helping an elder neighbor_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/a_sip_of_water.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

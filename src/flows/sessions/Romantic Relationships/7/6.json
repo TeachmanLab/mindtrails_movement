@@ -1,23 +1,27 @@
 {
-    "header_text": "Online Dating",
+    "header_text": "Family Not Approving of Significant Other",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend has convinced you to sign up on an online dating website. You look over your profile and though you think it reflects who you are very well, you worry if it displays the kind of qualities people are looking for online. Thinking about your prospects of finding someone online, you believe that your chances of meeting someone soon are..."
+            "Text": "Will your family be skeptical of your partner forever? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Online Dating_Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Family Not Approving of Significant Other_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "low"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

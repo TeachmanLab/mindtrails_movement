@@ -1,20 +1,20 @@
 {
-    "header_text": "Asking Out Your Friend",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your... "
+            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Asking Out Your Friend_Romantic Relationships_puzzle1",
+            "name": "Texting Your Crush_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "friendship"
+                "number"
             ],
             "missing_letter_count": 2
         }

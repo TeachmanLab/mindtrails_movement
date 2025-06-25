@@ -1,14 +1,16 @@
 {
-    "header_text": "Mental Health Issues",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Mental Health Issues"
+            "type": "Text",
+            "text": "Reason 3:"
         },
         {
-            "type": "Media",
-            "url": "./images/mental_health_issues.jpeg"
+            "type": "Entry",
+            "name": "Reason3_WYO"
         }
     ]
 }

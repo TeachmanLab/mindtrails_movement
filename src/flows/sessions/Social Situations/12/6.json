@@ -1,14 +1,16 @@
 {
-    "header_text": "Your New Post",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Your New Post"
+            "type": "Text",
+            "text": "Part 2: Resolve the uncertainty in a non-threatening way with the final sentence"
         },
         {
-            "type": "Media",
-            "url": "./images/your_new_post.jpeg"
+            "type": "Entry",
+            "name": "Part2_WYO"
         }
     ]
 }

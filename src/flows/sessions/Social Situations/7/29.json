@@ -1,27 +1,14 @@
 {
-    "header_text": "Busy cafe",
+    "header_text": "Small Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "The customer across from you is probably ..."
+            "type": "Label",
+            "text": "Small Party"
         },
         {
-            "type": "Buttons",
-            "name": "Busy cafe_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Thinking that you are an unfriendly person.",
-                "Distracted and unaware of their surroundings."
-            ],
-            "columnCount": 1,
-            "correct_value": "Distracted and unaware of their surroundings."
+            "type": "Media",
+            "url": "./images/small_party.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

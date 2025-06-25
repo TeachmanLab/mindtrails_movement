@@ -1,14 +1,15 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Long Weekend Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Close Friend's Birthday"
+            "type": "Text",
+            "text": "You have off on Monday for a holiday, and you know people will make plans for the long weekend. After a close friend said they're out of town for the weekend, you realize you don't have anyone to hang out with for the long weekend. This makes you optimistic about making new friends next..."
         },
         {
-            "type": "Media",
-            "url": "./images/close_friend's_birthday.jpeg"
+            "type": "Entry",
+            "name": "Long Weekend Alone_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

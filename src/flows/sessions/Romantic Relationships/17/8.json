@@ -1,0 +1,23 @@
+{
+    "header_text": "Mental Health Issues",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have not been feeling yourself lately and want to ask your partner for help. Though you trust them, you are struggling to find the right words to say. You decide to sit down with your partner and you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Mental Health Issues_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

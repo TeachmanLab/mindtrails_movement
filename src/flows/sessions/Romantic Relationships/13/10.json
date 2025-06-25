@@ -1,27 +1,16 @@
 {
-    "header_text": "Mental Health Resources",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you unable to help your partner? "
+            "text": "Reason 2:"
         },
         {
-            "type": "Buttons",
-            "name": "Mental Health Resources_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "Reason2_WYO"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

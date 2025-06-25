@@ -3,12 +3,25 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Anticipating a Response"
+            "type": "Text",
+            "Text": "Did sharing how you feel lead to more arguments?"
         },
         {
-            "type": "Media",
-            "url": "./images/anticipating_a_response.jpeg"
+            "type": "Buttons",
+            "name": "Anticipating a Response_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

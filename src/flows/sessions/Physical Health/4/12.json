@@ -13,8 +13,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Temporary.",
-                "A sign of serious injury. "
+                "A sign of serious injury. ",
+                "Temporary."
             ],
             "columnCount": 1,
             "correct_value": "Temporary."

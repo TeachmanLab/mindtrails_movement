@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
+            "text": "Is there a situation that you used to find scary or anxiety-provoking, but are comfortable in now? What did you used to tell yourself in that situation? How do you think about it now? "
         },
         {
             "type": "Entry",
-            "name": "Tip #8_entry"
+            "name": "Tip #3_entry"
         }
     ]
 }

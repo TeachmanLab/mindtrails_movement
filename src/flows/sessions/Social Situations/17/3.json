@@ -1,14 +1,14 @@
 {
-    "header_text": "Having Someone Over",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you anxious as your coworker arrives?"
+            "Text": "Are you calm about your colleague coming over this afternoon?"
         },
         {
             "type": "Buttons",
-            "name": "Having Someone Over_Social Situations_comp_question",
+            "name": "Balancing Home Life and Friends_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

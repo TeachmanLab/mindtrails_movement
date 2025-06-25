@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Family's Car",
+    "header_text": "Taking Yourself to a Movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your family shares one older car that has a big dent in the front. Today, you are driving it around town. When you think about people you know seeing your car, you feel..."
+            "text": "You go to see a movie on opening night. When you get to the theater, you notice that you are the only person sitting alone.  You feel excited for the movie to... "
         },
         {
             "type": "Entry",
-            "name": "Your Family's Car_Social Situations_entry1"
+            "name": "Taking Yourself to a Movie_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

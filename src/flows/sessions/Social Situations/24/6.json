@@ -1,22 +1,14 @@
 {
-    "header_text": "Not Getting an Invite",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend is going bowling tonight, and you didn't get an invite. Most of your other friends were invited, so you think you weren't invited due to your PD symptoms. When you think about it, you realize it's because you are..."
+            "text": "You decide to continue to draft the email and send it once you are happy with how it sounds. You look forward to people's..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Not Getting an Invite_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "busy"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Overwhelming Options_Social Situations_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct"

@@ -1,15 +1,27 @@
 {
-    "header_text": "Time to Yourself",
+    "header_text": "Recovering From a Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your favorite part of the day is winding down to eat dinner. When you start making dinner, you realize that you've been eating alone a lot recently, and you feel sad. You decide you are okay with this fact, as it gives you time to reflect on your..."
+            "Text": "Do you think that the audience thought of you as awkward for making a mistake?"
         },
         {
-            "type": "Entry",
-            "name": "Time to Yourself_Social Situations_entry1"
+            "type": "Buttons",
+            "name": "Recovering From a Mistake_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

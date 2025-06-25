@@ -1,14 +1,14 @@
 {
-    "header_text": "A personal question",
+    "header_text": "Tripping in Public",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A personal question"
+            "text": "Tripping in Public"
         },
         {
             "type": "Media",
-            "url": "./images/a_personal_question.jpeg"
+            "url": "./images/tripping_in_public.jpeg"
         }
     ]
 }

@@ -1,23 +1,14 @@
 {
-    "header_text": "A new camera",
+    "header_text": "Unusual views",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You buy a new camera, but when you get home, you find that you do not like it. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as..."
+            "type": "Label",
+            "text": "Unusual views"
         },
         {
-            "type": "WordPuzzle",
-            "name": "A new camera_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "crazy"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/unusual_views.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

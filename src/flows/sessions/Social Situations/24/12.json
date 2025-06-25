@@ -1,22 +1,14 @@
 {
-    "header_text": "Party with Friends",
+    "header_text": "Exposing a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a party, and some of the partygoers notice your symptoms and stare. You feel uncomfortable and decide not to engage in conversation with them. You confide in your close friend that is also at the party, and your friend thinks that your decision is..."
+            "text": "You recently visited a friend that you hadn’t seen in a long time, and you found out that your partner woke up with a sore throat when you got back. You are scared you may have accidentally exposed your friend to the same virus that your partner has. You think about what will happen if your friend gets sick and feel your friend will understand and forgive..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Party with Friends_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "justified"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Exposing a Friend_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

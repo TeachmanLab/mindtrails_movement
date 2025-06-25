@@ -1,14 +1,14 @@
 {
-    "header_text": "Visiting a New Friend",
+    "header_text": "Alternative Contact ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Visiting a New Friend"
+            "text": "Alternative Contact "
         },
         {
             "type": "Media",
-            "url": "./images/visiting_a_new_friend.jpeg"
+            "url": "./images/alternative_contact.jpeg"
         }
     ]
 }

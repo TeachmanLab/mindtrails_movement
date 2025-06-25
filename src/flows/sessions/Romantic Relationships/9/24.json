@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Romantic Relationships",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you feel others may be negatively judging you, notice if the facts of the situation support that emotion (e.g. they are probably staring you at because they are listenting to what you're saying, not because they think you're ugly). "
+            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #8_entry"
         }
     ]
 }

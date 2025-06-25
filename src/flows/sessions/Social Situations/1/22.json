@@ -1,14 +1,14 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "A new camera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Theater group thoughts"
+            "text": "A new camera"
         },
         {
             "type": "Media",
-            "url": "./images/theater_group_thoughts.jpeg"
+            "url": "./images/a_new_camera.jpeg"
         }
     ]
 }

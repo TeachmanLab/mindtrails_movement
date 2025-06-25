@@ -1,14 +1,15 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Turning Down a Drink",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Greeting Someone"
+            "type": "Text",
+            "text": "You're out with some friends and they are talking about ordering drinks at the bar. They ask if you want a drink, but you don't feel like drinking tonight. If you tell them the truth they will think that you are..."
         },
         {
-            "type": "Media",
-            "url": "./images/greeting_someone.jpeg"
+            "type": "Entry",
+            "name": "Turning Down a Drink_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

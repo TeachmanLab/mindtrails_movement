@@ -1,14 +1,14 @@
 {
-    "header_text": "Loud friend",
+    "header_text": "Participation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it okay for people to look at you and your friend while out shopping?"
+            "Text": "Are you happy you attended the workshop?"
         },
         {
             "type": "Buttons",
-            "name": "Loud friend_Social Situations_comp_question",
+            "name": "Participation _Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

@@ -1,23 +1,27 @@
 {
-    "header_text": "Being Single",
+    "header_text": "Resolving Conflict",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are single. Most of the people in your life are in a relationship. When you think about not having a partner, you feel... "
+            "Text": "Can you and your spouse resolve your conflict?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Being Single_Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Resolving Conflict_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "good"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

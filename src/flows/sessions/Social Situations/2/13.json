@@ -1,14 +1,14 @@
 {
-    "header_text": "A new camera",
+    "header_text": "Collecting an old friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A new camera"
+            "text": "Collecting an old friend"
         },
         {
             "type": "Media",
-            "url": "./images/a_new_camera.jpeg"
+            "url": "./images/collecting_an_old_friend.jpeg"
         }
     ]
 }

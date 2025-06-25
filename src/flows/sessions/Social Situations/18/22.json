@@ -1,14 +1,14 @@
 {
-    "header_text": "Important Presentation ",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Important Presentation "
+            "text": "Corner Laughter"
         },
         {
             "type": "Media",
-            "url": "./images/important_presentation.jpeg"
+            "url": "./images/corner_laughter.jpeg"
         }
     ]
 }

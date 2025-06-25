@@ -1,0 +1,15 @@
+{
+    "header_text": "Sitting on the bus: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "text": null,
+            "Duration": 15
+        }
+    ]
+}

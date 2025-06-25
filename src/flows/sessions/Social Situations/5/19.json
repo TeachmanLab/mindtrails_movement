@@ -1,23 +1,27 @@
 {
-    "header_text": "Controversial news story",
+    "header_text": "Conversation with Stranger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the end of the conversation, you realize that although the discussion was heated, your coworker probably thinks that you both have strong convictions. You have earned your coworker's..."
+            "Text": "Overall, the conversation was probably a ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Controversial news story_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Conversation with Stranger_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "respect"
+            "buttons": [
+                "Stressful situation, because the person might have found you uninteresting.",
+                "Low-pressure and pleasant chance to meet a new person."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Low-pressure and pleasant chance to meet a new person."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

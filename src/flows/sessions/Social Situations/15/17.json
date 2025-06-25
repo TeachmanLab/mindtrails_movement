@@ -1,27 +1,14 @@
 {
-    "header_text": "Corner Laughter",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Were your coworkers laughing at you?"
+            "type": "Label",
+            "text": "A Rude Comment"
         },
         {
-            "type": "Buttons",
-            "name": "Corner Laughter_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/a_rude_comment.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

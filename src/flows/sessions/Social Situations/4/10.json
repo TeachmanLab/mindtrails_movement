@@ -1,14 +1,14 @@
 {
-    "header_text": "Suggestion to meet again",
+    "header_text": "A different perspective",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Suggestion to meet again"
+            "text": "A different perspective"
         },
         {
             "type": "Media",
-            "url": "./images/suggestion_to_meet_again.jpeg"
+            "url": "./images/a_different_perspective.jpeg"
         }
     ]
 }

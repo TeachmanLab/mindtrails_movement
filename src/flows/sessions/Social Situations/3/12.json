@@ -1,23 +1,23 @@
 {
-    "header_text": "Differing opinion",
+    "header_text": "A personal question",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Upon meeting again, you think that ..."
+            "Text": "Does your friend have a more negative opinion of you after you share personal information?"
         },
         {
             "type": "Buttons",
-            "name": "Differing opinion_Social Situations_comp_question",
+            "name": "A personal question_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Other members will be excited to hear your valuable contributions.",
-                "Other members will exclude you because of your opinions."
+                "No",
+                "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "Other members will be excited to hear your valuable contributions."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

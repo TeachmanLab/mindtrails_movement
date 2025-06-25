@@ -1,14 +1,14 @@
 {
-    "header_text": "Differing opinion",
+    "header_text": "A personal question",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Differing opinion"
+            "text": "A personal question"
         },
         {
             "type": "Media",
-            "url": "./images/differing_opinion.jpeg"
+            "url": "./images/a_personal_question.jpeg"
         }
     ]
 }

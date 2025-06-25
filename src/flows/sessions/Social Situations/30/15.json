@@ -1,0 +1,14 @@
+{
+    "header_text": "Not Getting an Invite",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Not Getting an Invite"
+        },
+        {
+            "type": "Media",
+            "url": "./images/not_getting_an_invite.jpeg"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting to Know New People",
+    "header_text": "Being Talked About",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting to Know New People"
+            "text": "Being Talked About"
         },
         {
             "type": "Media",
-            "url": "./images/getting_to_know_new_people.jpeg"
+            "url": "./images/being_talked_about.jpeg"
         }
     ]
 }

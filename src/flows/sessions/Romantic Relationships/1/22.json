@@ -1,14 +1,14 @@
 {
-    "header_text": "How You Look",
+    "header_text": "Going on a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "How You Look"
+            "text": "Going on a Date"
         },
         {
             "type": "Media",
-            "url": "./images/how_you_look.jpeg"
+            "url": "./images/going_on_a_date.jpeg"
         }
     ]
 }

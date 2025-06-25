@@ -1,14 +1,14 @@
 {
-    "header_text": "Having Someone Over",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Having Someone Over"
+            "text": "Balancing Home Life and Friends"
         },
         {
             "type": "Media",
-            "url": "./images/having_someone_over.jpeg"
+            "url": "./images/balancing_home_life_and_friends.jpeg"
         }
     ]
 }

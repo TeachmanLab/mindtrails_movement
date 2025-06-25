@@ -1,14 +1,12 @@
 {
-    "header_text": "Taking a Break",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Taking a Break"
-        },
-        {
-            "type": "Media",
-            "url": "./images/taking_a_break.jpeg"
+            "type": "Text",
+            "text": "In this exercise, help the Mindtrails Movement team come up with new training stories that may be included in our future program to help other participants!"
         }
     ]
 }

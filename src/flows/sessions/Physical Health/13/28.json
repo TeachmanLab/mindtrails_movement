@@ -1,23 +1,23 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Monday Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You imagine the walk will be"
+            "Text": "Is it necessary to get out of the car because you feel your heart beating rapidly?"
         },
         {
             "type": "Buttons",
-            "name": "Walking with a Friend_Physical Health_comp_question",
+            "name": "Monday Morning_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Too fast for you no matter how hard you try.",
-                "At a pace that you can do if you try hard."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Too fast for you no matter how hard you try."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

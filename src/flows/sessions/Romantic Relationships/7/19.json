@@ -1,27 +1,14 @@
 {
-    "header_text": "Silent Partner",
+    "header_text": "Work Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Are you worried that your partner is ignoring you?"
+            "type": "Label",
+            "text": "Work Friend"
         },
         {
-            "type": "Buttons",
-            "name": "Silent Partner_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/work_friend.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

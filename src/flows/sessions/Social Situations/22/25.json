@@ -1,0 +1,23 @@
+{
+    "header_text": "Voicing Your Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner takes you out to dinner. They mention something that upsets you, but you worry about confronting them in public. Ultimately, you decide to tell them what they said upset you, and they apologize..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Voicing Your Feelings_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "genuinely"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

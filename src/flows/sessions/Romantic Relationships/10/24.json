@@ -1,14 +1,14 @@
 {
-    "header_text": "Putting Yourself Out There",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to share how you're feeling with them, and they tell you they've just been tired from work and home responsibilities, and didn't realize how much it was affecting your relationship. You feel...  "
+            "text": "After a while, you realize that it is very normal to not be in a relationship. You think that you enjoy being single, and the right person will come along when you are...  "
         },
         {
             "type": "Entry",
-            "name": "Putting Yourself Out There_Romantic Relationships_entry2"
+            "name": "Friends in Relationships_Romantic Relationships_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct"

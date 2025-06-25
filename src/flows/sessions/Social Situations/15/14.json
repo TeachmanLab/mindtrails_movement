@@ -1,14 +1,14 @@
 {
-    "header_text": "Corner Laughter",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corner Laughter"
+            "text": "Friends Hanging Out"
         },
         {
             "type": "Media",
-            "url": "./images/corner_laughter.jpeg"
+            "url": "./images/friends_hanging_out.jpeg"
         }
     ]
 }

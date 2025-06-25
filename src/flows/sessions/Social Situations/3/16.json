@@ -1,14 +1,14 @@
 {
-    "header_text": "Unusual views",
+    "header_text": "A big presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Unusual views"
+            "text": "A big presentation"
         },
         {
             "type": "Media",
-            "url": "./images/unusual_views.jpeg"
+            "url": "./images/a_big_presentation.jpeg"
         }
     ]
 }

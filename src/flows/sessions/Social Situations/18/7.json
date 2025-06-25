@@ -1,14 +1,14 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Leaning on your Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An Invitation"
+            "text": "Leaning on your Peers"
         },
         {
             "type": "Media",
-            "url": "./images/an_invitation.jpeg"
+            "url": "./images/leaning_on_your_peers.jpeg"
         }
     ]
 }

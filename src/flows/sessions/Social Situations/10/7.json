@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Comparisons",
+    "header_text": "Friend in the Hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Comparisons"
+            "text": "Friend in the Hospital"
         },
         {
             "type": "Media",
-            "url": "./images/social_media_comparisons.jpeg"
+            "url": "./images/friend_in_the_hospital.jpeg"
         }
     ]
 }

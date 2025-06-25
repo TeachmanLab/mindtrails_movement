@@ -1,15 +1,14 @@
 {
-    "header_text": "Staying Together",
+    "header_text": "Feeling Rushed",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You and your partner have been getting into arguments more often recently. You care about them a lot, but worry they don't feel the same. When you think about staying with your partner, you feel..."
+            "type": "Label",
+            "text": "Feeling Rushed"
         },
         {
-            "type": "Entry",
-            "name": "Staying Together_Romantic Relationships_entry1"
+            "type": "Media",
+            "url": "./images/feeling_rushed.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reflect on the stories you just read and how the anxiety-provoking situations were resolved. What do you see as some of the key takeaways? Which of these new ways of thinking could you see yourself applying to your own life, and why?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #2_entry"
+            "text": "Mind reading can be tempting when disagreeing with a partner. Instead of assuming you know what your partner is thinking, try asking questions about their perspective. "
         }
     ]
 }

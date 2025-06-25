@@ -1,27 +1,15 @@
 {
-    "header_text": "Book Club Dinner ",
+    "header_text": "Trivia Team",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The other book club members probably"
+            "text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be... "
         },
         {
-            "type": "Buttons",
-            "name": "Book Club Dinner _Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Will not want to be friends outside of the book club.",
-                "Will enjoy your company outside the book club."
-            ],
-            "columnCount": 1,
-            "correct_value": "Will enjoy your company outside the book club."
+            "type": "Entry",
+            "name": "Trivia Team_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

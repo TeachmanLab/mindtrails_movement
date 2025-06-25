@@ -1,23 +1,27 @@
 {
-    "header_text": "Ignored by a Friend",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You used your phone to send a photo to a friend, and you can see that they opened it but didn't respond to you. You've seen them posting other things online, so they're definitely on their phone. Your friend probably didn't respond because they..."
+            "Text": "Do you get really upset about the rude comment on your post?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Ignored by a Friend_Social Situations_puzzle1",
+            "type": "Buttons",
+            "name": "A Rude Comment_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "forgot"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

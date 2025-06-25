@@ -1,22 +1,22 @@
 {
-    "header_text": "Waiting for a Reply ",
+    "header_text": "Saving Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel..."
+            "text": "You need to save money so you always bring meals from home. When you eat with your friends, you notice that they all go out to eat every lunch. You realize that you have a different situation than your friends and that's..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Waiting for a Reply _Social Situations_puzzle1",
+            "name": "Saving Money_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "better"
+                "ok"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct"

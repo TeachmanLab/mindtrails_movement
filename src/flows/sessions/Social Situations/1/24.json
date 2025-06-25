@@ -1,23 +1,23 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "A new camera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Everyone probably believes ..."
+            "Text": "Do you think the sales assistant felt you were annoying?"
         },
         {
             "type": "Buttons",
-            "name": "Theater group thoughts_Social Situations_comp_question",
+            "name": "A new camera_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You have innovative ideas.",
-                "You have terrible ideas."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "You have terrible ideas."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

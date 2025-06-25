@@ -1,14 +1,14 @@
 {
-    "header_text": "Silence on a drive",
+    "header_text": "A different style",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Silence on a drive"
+            "text": "A different style"
         },
         {
             "type": "Media",
-            "url": "./images/silence_on_a_drive.jpeg"
+            "url": "./images/a_different_style.jpeg"
         }
     ]
 }

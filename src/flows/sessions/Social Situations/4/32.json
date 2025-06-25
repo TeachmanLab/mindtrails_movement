@@ -1,23 +1,23 @@
 {
-    "header_text": "Conversing at a party",
+    "header_text": "Social media photo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The group that was talking probably ignored you because they ..."
+            "Text": "Are you looking forward to others seeing your picture on the website?"
         },
         {
             "type": "Buttons",
-            "name": "Conversing at a party_Social Situations_comp_question",
+            "name": "Social media photo_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Do not like you. ",
-                "Did not see you there."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Did not see you there."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

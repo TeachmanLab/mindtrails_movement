@@ -1,14 +1,10 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Keeping Up With Friends "
-        },
-        {
-            "type": "Media",
-            "url": "./images/keeping_up_with_friends.jpeg"
+            "type": "Text",
+            "text": "Motivational Statement #29 \n\n You are strong to confront the uncomfortable. Keep going."
         }
     ]
 }

@@ -1,14 +1,23 @@
 {
-    "header_text": "A different haircut",
+    "header_text": "Overhearing your name",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "A different haircut"
+            "type": "Text",
+            "text": "Afterwards, you realize that many people engage in office gossip from time to time and that your colleagues probably did not mean to make you feel bad. In fact, it is possible that they were saying something..."
         },
         {
-            "type": "Media",
-            "url": "./images/a_different_haircut.jpeg"
+            "type": "WordPuzzle",
+            "name": "Overhearing your name_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "positive"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

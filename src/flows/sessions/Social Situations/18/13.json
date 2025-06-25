@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing with Someone New",
+    "header_text": "Trick or Treat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing with Someone New"
+            "text": "Trick or Treat"
         },
         {
             "type": "Media",
-            "url": "./images/sharing_with_someone_new.jpeg"
+            "url": "./images/trick_or_treat.jpeg"
         }
     ]
 }

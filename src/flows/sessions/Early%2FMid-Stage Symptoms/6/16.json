@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
+            "text": "Think about a situation that you face regluarly that causes some anxiety. What do you usually tell yourself? Is there another thought that you could say to yourself that may make it less anxiety-provoking? "
         },
         {
             "type": "Entry",
-            "name": "Tip #1_entry"
+            "name": "Tip #12_entry"
         }
     ]
 }

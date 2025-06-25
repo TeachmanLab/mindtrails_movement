@@ -1,14 +1,14 @@
 {
-    "header_text": "Meeting an old acquaintance",
+    "header_text": "A different haircut",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meeting an old acquaintance"
+            "text": "A different haircut"
         },
         {
             "type": "Media",
-            "url": "./images/meeting_an_old_acquaintance.jpeg"
+            "url": "./images/a_different_haircut.jpeg"
         }
     ]
 }

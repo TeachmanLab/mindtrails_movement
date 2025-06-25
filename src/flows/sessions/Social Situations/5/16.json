@@ -1,23 +1,23 @@
 {
-    "header_text": "Attending a dinner",
+    "header_text": "Lunch with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be disliked by your new acquaintances? "
+            "Text": "Your friend was probably looking at you because ..."
         },
         {
             "type": "Buttons",
-            "name": "Attending a dinner_Social Situations_comp_question",
+            "name": "Lunch with a Friend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "You have poor table manners.",
+                "You are great company."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "You are great company."
         }
     ],
     "navigation_conditions": [

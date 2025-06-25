@@ -1,14 +1,16 @@
 {
-    "header_text": "Past Experiences",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Past Experiences"
+            "type": "Text",
+            "text": "Reason 3:"
         },
         {
-            "type": "Media",
-            "url": "./images/past_experiences.jpeg"
+            "type": "Entry",
+            "name": "Reason3_WYO"
         }
     ]
 }

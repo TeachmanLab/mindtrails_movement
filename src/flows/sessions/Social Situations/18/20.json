@@ -1,22 +1,22 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Dinner at a Friend's House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to come up with a creative post that is very different from what you usually post. You post something new and do not get any responses yet. When you think about the challenge of making creative content, you feel..."
+            "text": "Your family doesn't do sit-down dinners together. Your friend invites you to join her family for dinner, and when you arrive, everyone sits at the table and starts asking questions about each other's days. When it's your turn, you're not sure how to respond, but after you say something, you feel.."
         },
         {
             "type": "WordPuzzle",
-            "name": "Posting New Content_Social Situations_puzzle1",
+            "name": "Dinner at a Friend's House_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "excited"
+                "calm"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct"

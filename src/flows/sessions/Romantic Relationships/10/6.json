@@ -1,14 +1,15 @@
 {
-    "header_text": "Yourself in Old Age ",
+    "header_text": "Mask Insecurities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Yourself in Old Age "
+            "type": "Text",
+            "text": "You have feelings for someone you work with and you have really been enjoying getting to know them. Now that masks are no longer required at work, you are feeling self-conscious and wondering if they are judging what you look like without a mask. You remind yourself that a mask does not change how much you enjoy each other's..."
         },
         {
-            "type": "Media",
-            "url": "./images/yourself_in_old_age.jpeg"
+            "type": "Entry",
+            "name": "Mask Insecurities_Romantic Relationships_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

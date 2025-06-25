@@ -1,0 +1,14 @@
+{
+    "header_text": "Your Family's Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your Family's Car"
+        },
+        {
+            "type": "Media",
+            "url": "./images/your_family's_car.jpeg"
+        }
+    ]
+}

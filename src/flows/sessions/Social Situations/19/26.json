@@ -1,14 +1,14 @@
 {
-    "header_text": "Attending Wedding Alone",
+    "header_text": "Recovering From a Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attending Wedding Alone"
+            "text": "Recovering From a Mistake"
         },
         {
             "type": "Media",
-            "url": "./images/attending_wedding_alone.jpeg"
+            "url": "./images/recovering_from_a_mistake.jpeg"
         }
     ]
 }

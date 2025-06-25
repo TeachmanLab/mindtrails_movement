@@ -1,14 +1,27 @@
 {
-    "header_text": "Voicing Your Feelings",
+    "header_text": "Watching a Movie with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Voicing Your Feelings"
+            "type": "Text",
+            "Text": "Are you anxious about telling your friend that the smell is your dinner?"
         },
         {
-            "type": "Media",
-            "url": "./images/voicing_your_feelings.jpeg"
+            "type": "Buttons",
+            "name": "Watching a Movie with Friends_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

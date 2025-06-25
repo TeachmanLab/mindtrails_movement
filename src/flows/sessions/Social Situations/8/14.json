@@ -1,23 +1,14 @@
 {
-    "header_text": "Your Birthday Party",
+    "header_text": "Talking about TV",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your best friend is organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel..."
+            "type": "Label",
+            "text": "Talking about TV"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your Birthday Party_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "excited"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/talking_about_tv.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

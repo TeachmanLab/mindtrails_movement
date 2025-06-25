@@ -1,0 +1,27 @@
+{
+    "header_text": "Long Distance Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You can see your spouse saying"
+        },
+        {
+            "type": "Buttons",
+            "name": "Long Distance Relationship_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "\"I don't think this is working out.\"",
+                "\"I'm so glad we are able to do this together.\""
+            ],
+            "columnCount": 1,
+            "correct_value": "\"I don't think this is working out.\""
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

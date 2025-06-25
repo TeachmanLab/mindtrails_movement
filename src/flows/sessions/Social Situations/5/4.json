@@ -1,14 +1,14 @@
 {
-    "header_text": "A different perspective",
+    "header_text": "Social Media Messaging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are your friends annoyed by your point of view?"
+            "Text": "Are you and your partner okay?"
         },
         {
             "type": "Buttons",
-            "name": "A different perspective_Social Situations_comp_question",
+            "name": "Social Media Messaging_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

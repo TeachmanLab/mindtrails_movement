@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding a Place to Sit",
+    "header_text": "Hanging Out with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Finding a Place to Sit"
+            "text": "Hanging Out with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/finding_a_place_to_sit.jpeg"
+            "url": "./images/hanging_out_with_friends.jpeg"
         }
     ]
 }

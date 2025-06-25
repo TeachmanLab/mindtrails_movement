@@ -1,14 +1,14 @@
 {
-    "header_text": "Participation ",
+    "header_text": "Feeling Different",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participation "
+            "text": "Feeling Different"
         },
         {
             "type": "Media",
-            "url": "./images/participation.jpeg"
+            "url": "./images/feeling_different.jpeg"
         }
     ]
 }

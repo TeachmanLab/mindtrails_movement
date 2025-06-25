@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking about TV",
+    "header_text": "Nerves at a Big Moment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are talking with a group of friends about TV shows. When you share your opinion on an old TV show that you just discovered, no one responds. They are probably thinking about how interesting the plot..."
+            "text": "You are about to give a presentation and you feel your body tremble. You don't usually feel this way when you speak in front of people. These trembling feelings mean that you are..."
         },
         {
             "type": "Entry",
-            "name": "Talking about TV_Social Situations_entry1"
+            "name": "Nerves at a Big Moment_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

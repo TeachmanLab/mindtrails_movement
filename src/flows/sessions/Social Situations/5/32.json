@@ -1,20 +1,20 @@
 {
-    "header_text": "Party People",
+    "header_text": "Quiet Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You arrive at a dinner party and quickly realize that there are a lot of people you do not know there. You feel anxious and consider going home. Looking around the room, you decide to..."
+            "text": "That evening, you realize that it is completely normal to have silent breaks during conversations. You believe that your friend thinks it was better to stay silent than to make up things to say, and was probably..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Party People_Social Situations_puzzle1",
+            "name": "Quiet Time_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "stay"
+                "glad"
             ],
             "missing_letter_count": 2
         }

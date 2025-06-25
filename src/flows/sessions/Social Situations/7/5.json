@@ -1,20 +1,20 @@
 {
-    "header_text": "Lunch with a Friend",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are out to lunch with a friend. As you eat your salad and talk with them, they stare at you. They probably think that you are..."
+            "text": "After a long day of shopping, you enter a cafe with a lot of bags and notice that the only empty seat is across from somebody else. As you sit down, the customer across from you doesn’t look at you. This is probably because they are lost in..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Lunch with a Friend_Social Situations_puzzle1",
+            "name": "Busy cafe_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "interesting"
+                "thought"
             ],
             "missing_letter_count": 2
         }

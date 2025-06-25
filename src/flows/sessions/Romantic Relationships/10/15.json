@@ -1,15 +1,14 @@
 {
-    "header_text": "Shy Significant Other",
+    "header_text": "Flu Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have been wanting your friends to come over for a long time and you have finally planned a dinner. When the time comes, you expect your spouse to be social, but they stay quiet and it feels like they don't want to get to know your friends. You remember that everyone responds to social situations..."
+            "type": "Label",
+            "text": "Flu Worries"
         },
         {
-            "type": "Entry",
-            "name": "Shy Significant Other_Romantic Relationships_entry1"
+            "type": "Media",
+            "url": "./images/flu_worries.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

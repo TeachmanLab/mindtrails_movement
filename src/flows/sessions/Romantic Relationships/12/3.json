@@ -1,15 +1,12 @@
 {
-    "header_text": "Friends in Relationships",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are... "
-        },
-        {
-            "type": "Entry",
-            "name": "Friends in Relationships_Romantic Relationships_entry1"
+            "text": "Keep in mind that each story is about 3 sentences long. The first part should set up a challenging situation that could bring up some anxiety where it is unclear what the outcome of the situation will be. The final part should resolve the uncertainty in a positive or non-threatening way. In other words, the last sentence should make clear that the situation does not turn out to be unmanageable in the end."
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

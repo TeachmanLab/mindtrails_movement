@@ -1,14 +1,14 @@
 {
-    "header_text": "A child's request",
+    "header_text": "Bumping into someone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A child's request"
+            "text": "Bumping into someone"
         },
         {
             "type": "Media",
-            "url": "./images/a_child's_request.jpeg"
+            "url": "./images/bumping_into_someone.jpeg"
         }
     ]
 }

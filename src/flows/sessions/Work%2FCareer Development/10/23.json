@@ -1,14 +1,10 @@
 {
-    "header_text": "Managing Responsibilities",
+    "header_text": "Manage Your Feelings: Work/Career Development",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Managing Responsibilities"
-        },
-        {
-            "type": "Media",
-            "url": "./images/managing_responsibilities.jpeg"
+            "type": "Text",
+            "text": "5"
         }
     ]
 }

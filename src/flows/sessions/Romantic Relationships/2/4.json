@@ -1,27 +1,14 @@
 {
-    "header_text": "Blind Date",
+    "header_text": "Attractive Appraisal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Your date's impression of you is probably ..."
+            "type": "Label",
+            "text": "Attractive Appraisal"
         },
         {
-            "type": "Buttons",
-            "name": "Blind Date_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Positive",
-                "Negative."
-            ],
-            "columnCount": 1,
-            "correct_value": "Positive"
+            "type": "Media",
+            "url": "./images/attractive_appraisal.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

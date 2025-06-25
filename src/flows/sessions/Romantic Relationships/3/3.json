@@ -1,23 +1,27 @@
 {
-    "header_text": "Friends in Relationships",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After a while, you realize that it is very normal to not be in a relationship. You think that you enjoy being single, and the right person will come along when you are...  "
+            "Text": "You are likely to get a text from your coworker that"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Friends in Relationships_Romantic Relationships_puzzle_word2",
+            "type": "Buttons",
+            "name": "Texting Your Crush_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ready"
+            "buttons": [
+                "Asks you to pick up a shift.",
+                "Asks you to go out for coffee."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Asks you to pick up a shift."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

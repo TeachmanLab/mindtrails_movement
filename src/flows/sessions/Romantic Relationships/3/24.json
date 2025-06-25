@@ -1,23 +1,27 @@
 {
-    "header_text": "Yourself in Old Age ",
+    "header_text": "Marrying Your Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. When you think about yourself as an older person, you imagine yourself in a..."
+            "Text": "The likelihood that your marriage would last is:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Yourself in Old Age _Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Marrying Your Partner_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relationship"
+            "buttons": [
+                "High",
+                "Low"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "High"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

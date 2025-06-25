@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Different",
+    "header_text": "Spotting a friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Different"
+            "text": "Spotting a friend"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_different.jpeg"
+            "url": "./images/spotting_a_friend.jpeg"
         }
     ]
 }

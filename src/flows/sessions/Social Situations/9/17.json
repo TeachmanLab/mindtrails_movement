@@ -1,14 +1,14 @@
 {
-    "header_text": "Jacket Return",
+    "header_text": "Finding a Place to Sit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that the person at the counter was very stressed out because of a previous customer, and once they started helping you, they were very..."
+            "text": "You are at your first staff meeting in a new department and you arrive early. A group of people goes quiet after you ask them if you can sit at their table. They are probably..."
         },
         {
             "type": "Entry",
-            "name": "Jacket Return_Social Situations_entry2"
+            "name": "Finding a Place to Sit_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

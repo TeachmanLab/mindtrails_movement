@@ -1,14 +1,14 @@
 {
-    "header_text": "Being Talked About",
+    "header_text": "Wearing Something Old",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Over the weekend you decide to post a video and a few pictures on your social media. When you get to work on Monday, you overhear your coworkers gossiping about your pictures and videos. They probably think that you are..."
+            "text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look..."
         },
         {
             "type": "Entry",
-            "name": "Being Talked About_Social Situations_entry1"
+            "name": "Wearing Something Old_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

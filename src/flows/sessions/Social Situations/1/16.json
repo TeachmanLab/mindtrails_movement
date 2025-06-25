@@ -1,14 +1,14 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Theater group thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sweat Stains"
+            "text": "Theater group thoughts"
         },
         {
             "type": "Media",
-            "url": "./images/sweat_stains.jpeg"
+            "url": "./images/theater_group_thoughts.jpeg"
         }
     ]
 }

@@ -1,0 +1,15 @@
+{
+    "header_text": "Pool Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "Pool Time_Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

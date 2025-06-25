@@ -1,14 +1,14 @@
 {
-    "header_text": "Lunch with a Friend",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lunch with a Friend"
+            "text": "Busy cafe"
         },
         {
             "type": "Media",
-            "url": "./images/lunch_with_a_friend.jpeg"
+            "url": "./images/busy_cafe.jpeg"
         }
     ]
 }

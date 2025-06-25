@@ -1,14 +1,16 @@
 {
-    "header_text": "Inside Jokes ",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Inside Jokes "
+            "type": "Text",
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/inside_jokes.jpeg"
+            "type": "Entry",
+            "name": "Reason5_WYO"
         }
     ]
 }

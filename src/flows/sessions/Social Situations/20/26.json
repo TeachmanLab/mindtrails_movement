@@ -1,10 +1,27 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #10 \n\n You are stronger than you know and are taking the right steps to think more positively."
+            "Text": "Are you worried about what your coworker thinks of your presentation?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Sharing with Someone New_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Sí",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Zoning Out",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Zoning Out"
+            "text": "Fundraiser presentation"
         },
         {
             "type": "Media",
-            "url": "./images/zoning_out.jpeg"
+            "url": "./images/fundraiser_presentation.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Seeing Others Hanging Out",
+    "header_text": "Masks for Guests",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Seeing Others Hanging Out"
+            "text": "Masks for Guests"
         },
         {
             "type": "Media",
-            "url": "./images/seeing_others_hanging_out.jpeg"
+            "url": "./images/masks_for_guests.jpeg"
         }
     ]
 }

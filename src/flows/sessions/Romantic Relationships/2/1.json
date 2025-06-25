@@ -1,14 +1,14 @@
 {
-    "header_text": "Blind Date",
+    "header_text": "Asking Out Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Blind Date"
+            "text": "Asking Out Your Friend"
         },
         {
             "type": "Media",
-            "url": "./images/blind_date.jpeg"
+            "url": "./images/asking_out_your_friend.jpeg"
         }
     ]
 }

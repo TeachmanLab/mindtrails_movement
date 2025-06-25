@@ -1,14 +1,14 @@
 {
-    "header_text": "Cancelled plans",
+    "header_text": "Party People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cancelled plans"
+            "text": "Party People"
         },
         {
             "type": "Media",
-            "url": "./images/cancelled_plans.jpeg"
+            "url": "./images/party_people.jpeg"
         }
     ]
 }

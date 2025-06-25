@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #9 \n\n You're doing a great job keeping a positive perspective. Keep it up!"
+            "text": "Think about a challenging situation that's coming up soon. What are some ways you could apply what you learned from this training to manage your own situation? "
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #7_entry"
         }
     ]
 }

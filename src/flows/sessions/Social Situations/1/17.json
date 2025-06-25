@@ -1,20 +1,20 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Theater group thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a warm day and you and your friends are taking a walk outside. You notice that you are starting to sweat, and you can see some marks on your shirt. You know these friends well, and they will not..."
+            "text": "You are on the committee for a local community theater, which is planning a new productions. At the first meeting, the director asks you for ideas about which play to perform. Everybody pauses after you say your ideas, and you think the others find your thoughts... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Sweat Stains_Social Situations_puzzle1",
+            "name": "Theater group thoughts_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "care"
+                "interesting"
             ],
             "missing_letter_count": 1
         }

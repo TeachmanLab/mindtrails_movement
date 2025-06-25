@@ -1,14 +1,14 @@
 {
-    "header_text": "Too Much Attention",
+    "header_text": "Feeling Abandoned By a Close Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's your birthday and when it's time for the cake, people gather around you and start singing. You feel your heart start to beat more quickly and your armpits starting to sweat. Your friends and family will not..."
+            "text": "As you scroll through your social media accounts, you see that your closest friend is hanging out with someone you don't know. You wonder who this person is, and why you haven't heard about them. When you think about your friendship with this friend, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Too Much Attention_Social Situations_entry1"
+            "name": "Feeling Abandoned By a Close Friend_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

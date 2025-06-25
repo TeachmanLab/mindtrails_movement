@@ -1,20 +1,20 @@
 {
-    "header_text": "Meeting an old acquaintance",
+    "header_text": "A different haircut",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you take your acquaintance’s call to meet for coffee?"
+            "Text": "Does your friend like your new haircut?"
         },
         {
             "type": "Buttons",
-            "name": "Meeting an old acquaintance_Social Situations_comp_question",
+            "name": "A different haircut_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

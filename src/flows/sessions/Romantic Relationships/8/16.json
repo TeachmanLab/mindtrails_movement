@@ -1,15 +1,14 @@
 {
-    "header_text": "Feeling Rushed",
+    "header_text": "Significant Other's Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are single and pretty content with it. One day, your parents start pressuring you and telling you that you are running out of time to meet someone. You tell yourself that as long as you are content, there's no need to..."
+            "type": "Label",
+            "text": "Significant Other's Friend"
         },
         {
-            "type": "Entry",
-            "name": "Feeling Rushed_Romantic Relationships_entry1"
+            "type": "Media",
+            "url": "./images/significant_other's_friend.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

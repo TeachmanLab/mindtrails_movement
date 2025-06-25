@@ -1,14 +1,14 @@
 {
-    "header_text": "How You Look",
+    "header_text": "Going on a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does it matter if your spouse likes your look?"
+            "Text": "Are you able to cope with awkward silences?"
         },
         {
             "type": "Buttons",
-            "name": "How You Look_Romantic Relationships_comp_question",
+            "name": "Going on a Date_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "No "
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

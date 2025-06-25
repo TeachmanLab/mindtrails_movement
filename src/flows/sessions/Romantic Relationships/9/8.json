@@ -1,15 +1,14 @@
 {
-    "header_text": "Going to a Wedding",
+    "header_text": "Visiting your Partner's Parents",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "It is wedding season and you are super excited to go to your friend's wedding. When you get there, you notice that most people have a date and you don't. You remember how excited you are for your friend and have a great time..."
+            "type": "Label",
+            "text": "Visiting your Partner's Parents"
         },
         {
-            "type": "Entry",
-            "name": "Going to a Wedding_Romantic Relationships_entry1"
+            "type": "Media",
+            "url": "./images/visiting_your_partner's_parents.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

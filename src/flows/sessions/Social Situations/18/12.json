@@ -1,23 +1,23 @@
 {
-    "header_text": "Waiting for a Reply ",
+    "header_text": "Saving Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it okay that your friend hasn't responded yet?"
+            "Text": "Are you hard on yourself because you don't buy lunch like your friends?"
         },
         {
             "type": "Buttons",
-            "name": "Waiting for a Reply _Social Situations_comp_question",
+            "name": "Saving Money_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

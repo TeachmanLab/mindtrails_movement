@@ -1,14 +1,14 @@
 {
-    "header_text": "Texting Your Crush",
+    "header_text": "Stress in Your Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your..."
+            "text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. Once the wedding is over after everything that has happened, you think you and your spouse will feel less..."
         },
         {
             "type": "Entry",
-            "name": "Texting Your Crush_Romantic Relationships_entry1"
+            "name": "Stress in Your Relationship_Romantic Relationships_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

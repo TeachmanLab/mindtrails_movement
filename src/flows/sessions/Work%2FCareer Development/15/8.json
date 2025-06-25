@@ -1,0 +1,14 @@
+{
+    "header_text": "New Skill",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "New Skill"
+        },
+        {
+            "type": "Media",
+            "url": "./images/new_skill.jpeg"
+        }
+    ]
+}

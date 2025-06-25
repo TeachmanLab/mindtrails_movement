@@ -1,14 +1,16 @@
 {
-    "header_text": "Marrying Your Partner",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Marrying Your Partner"
+            "type": "Text",
+            "text": "Part 1: Set up the uncertain situation in 1-2 sentences"
         },
         {
-            "type": "Media",
-            "url": "./images/marrying_your_partner.jpeg"
+            "type": "Entry",
+            "name": "Part1_WYO"
         }
     ]
 }

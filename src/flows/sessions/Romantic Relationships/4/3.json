@@ -1,23 +1,27 @@
 {
-    "header_text": "Texting Your Crush",
+    "header_text": "Dating a Stranger ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your coworker doesn't seem to be asking for work reasons and will probably use your phone number to ask you.."
+            "Text": "Based on how you think your first date will go, you think you will probably"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Texting Your Crush_Romantic Relationships_puzzle_word2",
+            "type": "Buttons",
+            "name": "Dating a Stranger _Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "out"
+            "buttons": [
+                "Go on a second date together.",
+                "Regret going out with this person."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Regret going out with this person."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

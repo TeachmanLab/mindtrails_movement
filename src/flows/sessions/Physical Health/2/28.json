@@ -13,8 +13,8 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Just observe your anxious thoughts and sensations without judgment.",
-                "Judge your breathlessness as bad or harmful."
+                "Judge your breathlessness as bad or harmful.",
+                "Just observe your anxious thoughts and sensations without judgment."
             ],
             "columnCount": 1,
             "correct_value": "Just observe your anxious thoughts and sensations without judgment."

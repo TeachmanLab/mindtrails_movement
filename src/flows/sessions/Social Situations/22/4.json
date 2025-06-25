@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposing a Friend",
+    "header_text": "Talking with Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposing a Friend"
+            "text": "Talking with Your Friend"
         },
         {
             "type": "Media",
-            "url": "./images/exposing_a_friend.jpeg"
+            "url": "./images/talking_with_your_friend.jpeg"
         }
     ]
 }

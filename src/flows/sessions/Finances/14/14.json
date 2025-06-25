@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Finances",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Oftentimes, establishing boundaries improves relationships."
+        }
+    ]
+}

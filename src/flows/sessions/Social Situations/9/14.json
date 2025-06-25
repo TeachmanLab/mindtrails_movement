@@ -1,15 +1,14 @@
 {
-    "header_text": "Practicing Presentation",
+    "header_text": "Using What You Have",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "After the presentation, you realize that these mistakes are common. The supervisor probably thinks your recovery and ability to continue presenting was very..."
+            "type": "Label",
+            "text": "Using What You Have"
         },
         {
-            "type": "Entry",
-            "name": "Practicing Presentation_Social Situations_entry2"
+            "type": "Media",
+            "url": "./images/using_what_you_have.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

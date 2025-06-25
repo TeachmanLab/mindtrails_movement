@@ -1,0 +1,14 @@
+{
+    "header_text": "Meeting New Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Meeting New Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/meeting_new_friends.jpeg"
+        }
+    ]
+}

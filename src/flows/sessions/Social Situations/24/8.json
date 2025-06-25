@@ -1,14 +1,15 @@
 {
-    "header_text": "Posting about Family",
+    "header_text": "New Opportunity for Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Posting about Family"
+            "type": "Text",
+            "text": "You have recently joined a new department within your job.  When you go to the first team meeting, you notice that most people have other friends to sit with. As you take a seat alone, you realize that there is always an opportunity make new friendships as the year..."
         },
         {
-            "type": "Media",
-            "url": "./images/posting_about_family.jpeg"
+            "type": "Entry",
+            "name": "New Opportunity for Friends_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

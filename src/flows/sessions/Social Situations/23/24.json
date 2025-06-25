@@ -1,14 +1,14 @@
 {
-    "header_text": "On a Walk",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "On a Walk"
+            "type": "Text",
+            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
         },
         {
-            "type": "Media",
-            "url": "./images/on_a_walk.jpeg"
+            "type": "Entry",
+            "name": "Tip #9_entry"
         }
     ]
 }

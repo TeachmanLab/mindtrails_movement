@@ -1,14 +1,23 @@
 {
-    "header_text": "Asking Someone Out ",
+    "header_text": "How You Look",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Asking Someone Out "
+            "type": "Text",
+            "text": "You are going on a date with your spouse. You look in the mirror before you leave and you wonder if they will like your look. You realize that the only opinion that matters about your appearance is... "
         },
         {
-            "type": "Media",
-            "url": "./images/asking_someone_out.jpeg"
+            "type": "WordPuzzle",
+            "name": "How You Look_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "yours"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

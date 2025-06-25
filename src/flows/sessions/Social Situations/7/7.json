@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversation with Stranger",
+    "header_text": "Old friend ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conversation with Stranger"
+            "text": "Old friend "
         },
         {
             "type": "Media",
-            "url": "./images/conversation_with_stranger.jpeg"
+            "url": "./images/old_friend.jpeg"
         }
     ]
 }

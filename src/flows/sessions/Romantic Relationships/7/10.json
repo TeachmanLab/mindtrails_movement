@@ -1,27 +1,14 @@
 {
-    "header_text": "Family Not Approving of Significant Other",
+    "header_text": "Overhearing an Argument",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will your family be skeptical of your partner forever? "
+            "type": "Label",
+            "text": "Overhearing an Argument"
         },
         {
-            "type": "Buttons",
-            "name": "Family Not Approving of Significant Other_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Sí",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/overhearing_an_argument.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

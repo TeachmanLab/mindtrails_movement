@@ -1,14 +1,23 @@
 {
-    "header_text": "Comparing Yourself to Others",
+    "header_text": "Busy Period",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Comparing Yourself to Others"
+            "type": "Text",
+            "text": "With the business of the semester, you and your long-term partner have not been spending a lot of time together. When you do hang out, you and your partner seem distracted and tend to bicker. You think that this is just a rough patch, and that your relationship will... "
         },
         {
-            "type": "Media",
-            "url": "./images/comparing_yourself_to_others.jpeg"
+            "type": "WordPuzzle",
+            "name": "Busy Period_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "last"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

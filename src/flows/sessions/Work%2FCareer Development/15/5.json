@@ -1,0 +1,14 @@
+{
+    "header_text": "Taking a Break",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taking a Break"
+        },
+        {
+            "type": "Media",
+            "url": "./images/taking_a_break.jpeg"
+        }
+    ]
+}

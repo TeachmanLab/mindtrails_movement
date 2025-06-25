@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Comparisons",
+    "header_text": "Friend in the Hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You notice there are a lot of attractive people posting pictures on a social media site. You are a bit uncomfortable posting a picture of yourself, but post anyway. You feel..."
+            "text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Social Media Comparisons_Social Situations_entry1"
+            "name": "Friend in the Hospital_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

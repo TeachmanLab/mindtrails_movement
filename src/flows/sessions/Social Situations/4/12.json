@@ -1,23 +1,23 @@
 {
-    "header_text": "Suggestion to meet again",
+    "header_text": "A different perspective",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": " \r\n \t\t\r\n\r\nThe person you met at the event will probably...\r\n"
+            "Text": "Are your friends annoyed by your point of view?"
         },
         {
             "type": "Buttons",
-            "name": "Suggestion to meet again_Social Situations_comp_question",
+            "name": "A different perspective_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Say yes if you suggest meeting again",
-                "Say no if you suggest meeting again."
+                "Sí",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Say yes if you suggest meeting again"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

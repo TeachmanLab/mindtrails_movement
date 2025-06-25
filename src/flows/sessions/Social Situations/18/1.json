@@ -1,14 +1,14 @@
 {
-    "header_text": "Trying Out a Funny Caption",
+    "header_text": "Risky Behavior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trying Out a Funny Caption"
+            "text": "Risky Behavior"
         },
         {
             "type": "Media",
-            "url": "./images/trying_out_a_funny_caption.jpeg"
+            "url": "./images/risky_behavior.jpeg"
         }
     ]
 }

@@ -1,14 +1,22 @@
 {
-    "header_text": "Exposing a Friend",
+    "header_text": "Talking with Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently visited a friend that you hadn’t seen in a long time, and you found out that your partner woke up with a sore throat when you got back. You are scared you may have accidentally exposed your friend to the same virus that your partner has. You think about what will happen if your friend gets sick and feel your friend will understand and forgive..."
+            "text": "There's an important question that you've been wanting to ask your friend for a while, but you haven't. You picture yourself asking when you meet next. As you think about the question, you feel..."
         },
         {
-            "type": "Entry",
-            "name": "Exposing a Friend_Social Situations_entry1"
+            "type": "WordPuzzle",
+            "name": "Talking with Your Friend_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ready"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct"

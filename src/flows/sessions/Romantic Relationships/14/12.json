@@ -1,23 +1,16 @@
 {
-    "header_text": "Family Dinner",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on..."
+            "text": "Reason 4:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Family Dinner_Romantic Relationships_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "listening"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Reason4_WYO"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

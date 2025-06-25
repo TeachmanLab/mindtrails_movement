@@ -1,14 +1,15 @@
 {
-    "header_text": "Getting Ready for a Date",
+    "header_text": "Texting Other People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Getting Ready for a Date"
+            "type": "Text",
+            "text": "Your partner is very extroverted and has a lot of friends. You really enjoy the time you spend with your partner, but you sometimes wonder if they’d rather be hanging out with their other friends. Reflecting on your relationship with them so far, you feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/getting_ready_for_a_date.jpeg"
+            "type": "Entry",
+            "name": "Texting Other People_Romantic Relationships_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

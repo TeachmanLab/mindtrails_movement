@@ -1,14 +1,14 @@
 {
-    "header_text": "Nerves at a Big Moment",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nerves at a Big Moment"
+            "text": "Sharing Favorite Shows"
         },
         {
             "type": "Media",
-            "url": "./images/nerves_at_a_big_moment.jpeg"
+            "url": "./images/sharing_favorite_shows.jpeg"
         }
     ]
 }

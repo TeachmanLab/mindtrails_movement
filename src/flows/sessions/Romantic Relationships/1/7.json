@@ -1,14 +1,14 @@
 {
-    "header_text": "Advice for a friend",
+    "header_text": "New meetup ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Advice for a friend"
+            "text": "New meetup "
         },
         {
             "type": "Media",
-            "url": "./images/advice_for_a_friend.jpeg"
+            "url": "./images/new_meetup.jpeg"
         }
     ]
 }

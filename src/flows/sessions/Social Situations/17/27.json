@@ -1,14 +1,23 @@
 {
-    "header_text": "Friend Neglecting Chores",
+    "header_text": "Morning Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Friend Neglecting Chores"
+            "type": "Text",
+            "text": "In the end, you realize that your coworkers are just good employees who were enthusiastic to get the meeting started. They responded to you during the rest of the meeting quite..."
         },
         {
-            "type": "Media",
-            "url": "./images/friend_neglecting_chores.jpeg"
+            "type": "WordPuzzle",
+            "name": "Morning Meeting_Social Situations_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "positively"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

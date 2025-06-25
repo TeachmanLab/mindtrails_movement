@@ -1,14 +1,14 @@
 {
-    "header_text": "Old Friends ",
+    "header_text": "Unmasked Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Old Friends "
+            "text": "Unmasked Peers"
         },
         {
             "type": "Media",
-            "url": "./images/old_friends.jpeg"
+            "url": "./images/unmasked_peers.jpeg"
         }
     ]
 }

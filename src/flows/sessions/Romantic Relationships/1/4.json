@@ -1,14 +1,14 @@
 {
-    "header_text": "Relationship Struggles",
+    "header_text": "Advice for a friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Relationship Struggles"
+            "text": "Advice for a friend"
         },
         {
             "type": "Media",
-            "url": "./images/relationship_struggles.jpeg"
+            "url": "./images/advice_for_a_friend.jpeg"
         }
     ]
 }

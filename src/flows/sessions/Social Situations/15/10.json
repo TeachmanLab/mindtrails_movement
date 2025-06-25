@@ -1,14 +1,14 @@
 {
-    "header_text": "Comedic Genius",
+    "header_text": "No Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you say the wrong thing?"
+            "Text": "Is it okay that your boss still hasn't answered your email yet?"
         },
         {
             "type": "Buttons",
-            "name": "Comedic Genius_Social Situations_comp_question",
+            "name": "No Response_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Sí"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

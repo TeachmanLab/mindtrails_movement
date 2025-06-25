@@ -1,14 +1,14 @@
 {
-    "header_text": "Being Talked About",
+    "header_text": "Wearing Something Old",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Being Talked About"
+            "text": "Wearing Something Old"
         },
         {
             "type": "Media",
-            "url": "./images/being_talked_about.jpeg"
+            "url": "./images/wearing_something_old.jpeg"
         }
     ]
 }

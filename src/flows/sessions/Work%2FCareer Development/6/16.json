@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Reflect on the stories you just read and how the anxiety-provoking situations were resolved. What do you see as some of the key takeaways? Which of these new ways of thinking could you see yourself applying to your own life, and why?"
+            "text": "Is there a situation that you used to find scary or anxiety-provoking, but are comfortable in now? What did you used to tell yourself in that situation? How do you think about it now? "
         },
         {
             "type": "Entry",
-            "name": "Tip #2_entry"
+            "name": "Tip #3_entry"
         }
     ]
 }

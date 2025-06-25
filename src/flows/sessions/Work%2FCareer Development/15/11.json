@@ -1,0 +1,14 @@
+{
+    "header_text": "Speaking Up at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Speaking Up at Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/speaking_up_at_work.jpeg"
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Monday Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking with a Friend"
+            "text": "Monday Morning"
         },
         {
             "type": "Media",
-            "url": "./images/walking_with_a_friend.jpeg"
+            "url": "./images/monday_morning.jpeg"
         }
     ]
 }

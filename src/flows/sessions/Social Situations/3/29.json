@@ -1,27 +1,14 @@
 {
-    "header_text": "Overhearing your name ",
+    "header_text": "Trivia tournament",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Your coworkers were probably ..."
+            "type": "Label",
+            "text": "Trivia tournament"
         },
         {
-            "type": "Buttons",
-            "name": "Overhearing your name _Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Giving you a compliment.",
-                "Talking poorly about you."
-            ],
-            "columnCount": 1,
-            "correct_value": "Giving you a compliment."
+            "type": "Media",
+            "url": "./images/trivia_tournament.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

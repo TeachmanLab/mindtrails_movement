@@ -1,14 +1,14 @@
 {
-    "header_text": "Writing Notes",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Writing Notes"
+            "text": "Funny Photos"
         },
         {
             "type": "Media",
-            "url": "./images/writing_notes.jpeg"
+            "url": "./images/funny_photos.jpeg"
         }
     ]
 }

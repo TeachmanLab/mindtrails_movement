@@ -1,20 +1,20 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Monday Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and worry if you can keep up or..."
+            "text": "It's Monday morning and you are running late for a meeting. You feel your heart racing as you open the car door and sit down. Fearing that you might have a panic attack, you have a strong urge to get out of the car, and yet you decide to observe these sensations without reacting and stay..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Walking with a Friend_Physical Health_puzzle1",
+            "name": "Monday Morning_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "not"
+                "seated"
             ],
             "missing_letter_count": 1
         }

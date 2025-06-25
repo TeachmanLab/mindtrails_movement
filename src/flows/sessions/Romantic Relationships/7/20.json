@@ -1,14 +1,23 @@
 {
-    "header_text": "No Notifications",
+    "header_text": "Work Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "No Notifications"
+            "type": "Text",
+            "text": "Your partner let you know that they're getting dinner with a friend from work. You've never heard your partner talk about any work friends, and you're concerned about who your partner is having dinner with. However, you trust your partner, and tell them to enjoy their..."
         },
         {
-            "type": "Media",
-            "url": "./images/no_notifications.jpeg"
+            "type": "WordPuzzle",
+            "name": "Work Friend_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "dinner"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

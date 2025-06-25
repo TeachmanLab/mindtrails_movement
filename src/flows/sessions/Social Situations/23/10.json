@@ -1,15 +1,14 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Friends Excluding You",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store, and you think they will be..."
+            "type": "Label",
+            "text": "Friends Excluding You"
         },
         {
-            "type": "Entry",
-            "name": "Close Friend's Birthday_Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/friends_excluding_you.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

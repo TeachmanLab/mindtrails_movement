@@ -1,27 +1,14 @@
 {
-    "header_text": "Controversial news story",
+    "header_text": "Differing opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "The next time you meet, your coworker will most likely ..."
+            "type": "Label",
+            "text": "Differing opinion"
         },
         {
-            "type": "Buttons",
-            "name": "Controversial news story_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Avoid speaking with you. ",
-                "Start up a conversation."
-            ],
-            "columnCount": 1,
-            "correct_value": "Start up a conversation."
+            "type": "Media",
+            "url": "./images/differing_opinion.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

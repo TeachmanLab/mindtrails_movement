@@ -1,27 +1,23 @@
 {
-    "header_text": "Important Presentation ",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After your presentation, people in the audience will probably think about"
+            "text": "After a moment, you remember situations where you and your coworkers have laughed about things unrelated to who is speaking. You move on from their laughter and complete your presentation..."
         },
         {
-            "type": "Buttons",
-            "name": "Important Presentation _Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Corner Laughter_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "How well you did in your talk.",
-                "How much trouble you had giving the talk."
+            "display_delay": 2000,
+            "words": [
+                "successfully"
             ],
-            "columnCount": 1,
-            "correct_value": "How much trouble you had giving the talk."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

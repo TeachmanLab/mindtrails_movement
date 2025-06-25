@@ -1,14 +1,14 @@
 {
-    "header_text": "Practicing Presentation",
+    "header_text": "Social Media Comparisons",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big..."
+            "text": "You notice there are a lot of attractive people posting pictures on a social media site. You are a bit uncomfortable posting a picture of yourself, but post anyway. You feel..."
         },
         {
             "type": "Entry",
-            "name": "Practicing Presentation_Social Situations_entry1"
+            "name": "Social Media Comparisons_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct"

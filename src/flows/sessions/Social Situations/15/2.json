@@ -1,14 +1,14 @@
 {
-    "header_text": "Saving Money",
+    "header_text": "Learning Social Media Dances",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saving Money"
+            "text": "Learning Social Media Dances"
         },
         {
             "type": "Media",
-            "url": "./images/saving_money.jpeg"
+            "url": "./images/learning_social_media_dances.jpeg"
         }
     ]
 }

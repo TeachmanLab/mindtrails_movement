@@ -1,23 +1,27 @@
 {
-    "header_text": "Long-Term Relationship",
+    "header_text": "Stress in Your Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your significant other, whom you have been dating for a few years, wants to talk about where your relationship is going. This is the first time you have dated someone for such a long time. You see your relationship growing..."
+            "Text": "After the wedding, you and your spouse are likely to"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Long-Term Relationship_Romantic Relationships_puzzle1",
+            "type": "Buttons",
+            "name": "Stress in Your Relationship_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "stronger"
+            "buttons": [
+                "Keep fighting, straining your relationship. ",
+                "Feel a lot less stressed, and see eye-to-eye more."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Feel a lot less stressed, and see eye-to-eye more."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "Manage Your Feelings: Physical Health",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Try the STOPP method: S-Stop and pause for a moment. T- Take a breath. O- Observe what you're feeling. P- Pull back and put the situation into perspective. P- Practice what works, do something you enjoy/something that calms you."
+            "text": "Motivational Statement #15 \n\n Anxiety thrives when we assume the worst. By using this program, you can cultivate a more positive and flexible mindset."
         }
     ]
 }

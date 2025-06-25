@@ -1,23 +1,23 @@
 {
-    "header_text": "A welcome greeting",
+    "header_text": "A new state",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "While hugging your friend, you feel ..."
+            "Text": "In this state, you think you will find..."
         },
         {
             "type": "Buttons",
-            "name": "A welcome greeting_Social Situations_comp_question",
+            "name": "A new state_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Like you can't catch your breath.",
-                "Missed and loved."
+                "Yourself in troublesome situations.",
+                "Opportunities to learn and experience the local traditions."
             ],
             "columnCount": 1,
-            "correct_value": "Missed and loved."
+            "correct_value": "Opportunities to learn and experience the local traditions."
         }
     ],
     "navigation_conditions": [

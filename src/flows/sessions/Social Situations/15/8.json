@@ -1,14 +1,14 @@
 {
-    "header_text": "Comedic Genius",
+    "header_text": "No Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comedic Genius"
+            "text": "No Response"
         },
         {
             "type": "Media",
-            "url": "./images/comedic_genius.jpeg"
+            "url": "./images/no_response.jpeg"
         }
     ]
 }

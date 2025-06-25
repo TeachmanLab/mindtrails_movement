@@ -1,27 +1,12 @@
 {
-    "header_text": "Future Relationships",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "Thinking about yourself in the future, you ultimately see yourself"
-        },
-        {
-            "type": "Buttons",
-            "name": "Future Relationships_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "With a partner to whom you are fully committed.",
-                "Alone, after a string of relationships that don't work out."
-            ],
-            "columnCount": 1,
-            "correct_value": "Alone, after a string of relationships that don't work out."
+            "text": "Now, on the next page, list as many reasons as you can think of for why the ending in the scenario could be likely to occur to you. For example, why do you think you will be able to handle the situation, or what evidence is there to suggest that the situation will turn out okay?"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

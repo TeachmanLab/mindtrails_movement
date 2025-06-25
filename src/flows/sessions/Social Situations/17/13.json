@@ -1,14 +1,14 @@
 {
-    "header_text": "Different Music Tastes",
+    "header_text": "Creative Confidence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Different Music Tastes"
+            "text": "Creative Confidence "
         },
         {
             "type": "Media",
-            "url": "./images/different_music_tastes.jpeg"
+            "url": "./images/creative_confidence.jpeg"
         }
     ]
 }

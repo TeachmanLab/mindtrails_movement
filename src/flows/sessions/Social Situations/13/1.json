@@ -1,14 +1,12 @@
 {
-    "header_text": "Late Friend",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Late Friend"
-        },
-        {
-            "type": "Media",
-            "url": "./images/late_friend.jpeg"
+            "type": "Text",
+            "text": "In this exercise, help the Mindtrails Movement team come up with new training stories that may be included in our future program to help other participants!"
         }
     ]
 }

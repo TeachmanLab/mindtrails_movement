@@ -1,23 +1,27 @@
 {
-    "header_text": "Busy cafe",
+    "header_text": "Brief Introduction",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After a long day of shopping, you enter a cafe with a lot of bags and notice that the only empty seat is across from somebody else. As you sit down, the customer across from you doesn’t look at you. This is probably because they are lost in..."
+            "Text": "Did the other people think you were boring?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Busy cafe_Social Situations_puzzle1",
+            "type": "Buttons",
+            "name": "Brief Introduction_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "thought"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

@@ -1,23 +1,14 @@
 {
-    "header_text": "Posting about Family",
+    "header_text": "Sore Throat at Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You look through your social media feed and noticed that your grandkids only post pictures with their friends. You posted a family picture and tagged your grandkids. You asked your grandkids if they minded, and they said that it was a great..."
+            "type": "Label",
+            "text": "Sore Throat at Dinner"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Posting about Family_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "photo"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/sore_throat_at_dinner.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

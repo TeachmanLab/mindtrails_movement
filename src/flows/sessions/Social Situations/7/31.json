@@ -1,20 +1,20 @@
 {
-    "header_text": "Old friend ",
+    "header_text": "Small Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a festival, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are..."
+            "text": "A few minutes later, you close your eyes and take a few breaths to calm yourself. You return to the conversation believing that you can manage your anxiety, and that your nervousness will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Old friend _Social Situations_puzzle1",
+            "name": "Small Party_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "distracted"
+                "bearable"
             ],
             "missing_letter_count": 2
         }

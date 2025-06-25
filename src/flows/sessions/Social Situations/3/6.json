@@ -1,23 +1,23 @@
 {
-    "header_text": "Collecting an old friend",
+    "header_text": "Overhearing your name ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think your friend will have a good time with you?"
+            "Text": "Your coworkers were probably ..."
         },
         {
             "type": "Buttons",
-            "name": "Collecting an old friend_Social Situations_comp_question",
+            "name": "Overhearing your name _Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Sí"
+                "Giving you a compliment.",
+                "Talking poorly about you."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Giving you a compliment."
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,23 @@
 {
-    "header_text": "Sore Throat at Dinner",
+    "header_text": "Important Presentation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Sore Throat at Dinner"
+            "type": "Text",
+            "text": "You have been asked to give a presentation about some of your latest projects at a major conference. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people at the conference will react to your presentation, you believe they will think you looked..."
         },
         {
-            "type": "Media",
-            "url": "./images/sore_throat_at_dinner.jpeg"
+            "type": "WordPuzzle",
+            "name": "Important Presentation _Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

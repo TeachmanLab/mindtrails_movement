@@ -1,23 +1,27 @@
 {
-    "header_text": "A different haircut",
+    "header_text": "Overhearing your name",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at the hairdresser's, you opt for a completely different haircut. When you see your friend afterwards, they gasp. Their gasp probably means that they think the new style makes you look..."
+            "Text": "Were your coworkers saying negative things about you?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "A different haircut_Social Situations_puzzle1",
+            "type": "Buttons",
+            "name": "Overhearing your name_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "great"
+            "buttons": [
+                "Sí",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

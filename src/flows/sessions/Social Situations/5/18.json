@@ -1,20 +1,20 @@
 {
-    "header_text": "Controversial news story",
+    "header_text": "Conversation with Stranger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are having a conversation with a coworker about a recent controversial story in the news. You voice your opinion on the matter, and your coworker looks surprised and strongly..."
+            "text": "You are at a birthday party for a friend and talking with someone you just met. You cannot tell whether the person thinks you are interesting or boring, and you decide that not knowing is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Controversial news story_Social Situations_puzzle1",
+            "name": "Conversation with Stranger_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "disagrees"
+                "okay"
             ],
             "missing_letter_count": 2
         }

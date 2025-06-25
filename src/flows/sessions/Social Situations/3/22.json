@@ -1,23 +1,14 @@
 {
-    "header_text": "Mistake on a task",
+    "header_text": "Dinner party invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "In the end, you realize that your boss is prompt in giving you feedback because they are investing in you, and interested in seeing you..."
+            "type": "Label",
+            "text": "Dinner party invitation"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Mistake on a task_Social Situations_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "progress"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/dinner_party_invitation.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

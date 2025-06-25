@@ -1,14 +1,14 @@
 {
-    "header_text": "Fundraiser presentation",
+    "header_text": "Controversial news story",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fundraiser presentation"
+            "text": "Controversial news story"
         },
         {
             "type": "Media",
-            "url": "./images/fundraiser_presentation.jpeg"
+            "url": "./images/controversial_news_story.jpeg"
         }
     ]
 }

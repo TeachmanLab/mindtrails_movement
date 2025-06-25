@@ -1,23 +1,16 @@
 {
-    "header_text": "Marrying Your Partner",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Your significant other of four years has recently asked how you feel about marriage. You feel very much in love with your significant other, but worry about the high rates of divorce and whether that could happen to you. Reflecting on the idea of marrying your partner, you believe your marriage would be a..."
+            "text": "Part 2: Resolve the uncertainty in a non-threatening way with the final sentence"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Marrying Your Partner_Romantic Relationships_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mistake"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Part2_WYO"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

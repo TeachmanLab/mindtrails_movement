@@ -1,14 +1,27 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "Seeing Others Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Coughing at the Store"
+            "type": "Text",
+            "Text": "Did your colleagues exclude you on purpose?"
         },
         {
-            "type": "Media",
-            "url": "./images/coughing_at_the_store.jpeg"
+            "type": "Buttons",
+            "name": "Seeing Others Hanging Out_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

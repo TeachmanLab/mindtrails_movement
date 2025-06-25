@@ -1,20 +1,20 @@
 {
-    "header_text": "Going out in day clothes",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One evening, your coworkers decide to go out to eat and ask you to join them. You accept, but will have to wear your work clothes. When you arrive, the other diners turn to look at you. You think this is because they think you look..."
+            "text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decline the... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Going out in day clothes_Social Situations_puzzle1",
+            "name": "Meeting an old acquaintance_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "stylish"
+                "call"
             ],
             "missing_letter_count": 1
         }

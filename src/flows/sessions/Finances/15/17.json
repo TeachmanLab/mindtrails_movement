@@ -1,0 +1,14 @@
+{
+    "header_text": "Treating a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Treating a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/treating_a_friend.jpeg"
+        }
+    ]
+}

@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #18 \n\n Think about a challenge you've overcome in the past. It was hard, but you succeeded, and you can do it again!"
+            "text": "Is there a situation that you used to find scary or anxiety-provoking, but are comfortable in now? What did you used to tell yourself in that situation? How do you think about it now? "
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #3_entry"
         }
     ]
 }

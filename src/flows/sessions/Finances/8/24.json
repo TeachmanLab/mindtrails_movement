@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a time a friend faced an uncertain situation and was feeling anxious about it. What advice would you give your friend for thinking about the situation based on what you've learned in the training?"
+            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
         },
         {
             "type": "Entry",
-            "name": "Tip #0_entry"
+            "name": "Tip #9_entry"
         }
     ]
 }

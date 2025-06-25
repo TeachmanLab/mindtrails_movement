@@ -1,14 +1,16 @@
 {
-    "header_text": "Social Media Self-Confidence",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Social Media Self-Confidence"
+            "type": "Text",
+            "text": "Reason 2:"
         },
         {
-            "type": "Media",
-            "url": "./images/social_media_self-confidence.jpeg"
+            "type": "Entry",
+            "name": "Reason2_WYO"
         }
     ]
 }

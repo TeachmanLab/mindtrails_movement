@@ -1,27 +1,23 @@
 {
-    "header_text": "Masks for Guests",
+    "header_text": "Attention in Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you feel comfortable talking to your partner?"
+            "text": "You are in a store and accidentally knock over a few picture frames in one of the aisles. You feel your cheeks become hot as people in the store turn and look at you. When the shop owner comes over to rearrange the picture frames, they are..."
         },
         {
-            "type": "Buttons",
-            "name": "Masks for Guests_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Attention in Store_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Sí"
+            "display_delay": 2000,
+            "words": [
+                "frowning"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct"
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "New meetup ",
+    "header_text": "Anticipating a date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You arrange to meet your new coworker at 8 p.m. at a local bar. You arrive on time and find that your new coworker is not there yet. Reflecting on your last conversation as you wait for a table, you remember that they found your life..."
+            "text": "You and your partner plan a date night to reconnect, as you haven't been spending quality time together recently. As the evening approaches, you are nervous that you won't have as much fun as you used to or that the spark may have faded. Thinking about how your relationship has changed, you find contentment in the deep connection and companionship that have grown over..."
         },
         {
             "type": "WordPuzzle",
-            "name": "New meetup _Romantic Relationships_puzzle1",
+            "name": "Anticipating a date_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "interesting"
+                "time"
             ],
             "missing_letter_count": 1
         }

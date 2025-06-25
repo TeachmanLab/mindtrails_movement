@@ -1,14 +1,14 @@
 {
-    "header_text": "Long-Term Relationship",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Long-Term Relationship"
+            "text": "Online Dating"
         },
         {
             "type": "Media",
-            "url": "./images/long-term_relationship.jpeg"
+            "url": "./images/online_dating.jpeg"
         }
     ]
 }

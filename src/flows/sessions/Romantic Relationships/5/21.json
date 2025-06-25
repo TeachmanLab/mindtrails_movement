@@ -1,14 +1,23 @@
 {
-    "header_text": "Feeling Lesser Than For Being Single",
+    "header_text": "Balancing a Significant Other and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Feeling Lesser Than For Being Single"
+            "type": "Text",
+            "text": "You recently got into a relationship. You are enjoying it, but are having a difficult time balancing time with your friends and your significant other. You are worried your friends will be upset if you do not spend enough time with them, but you remind yourself that you can make time for..."
         },
         {
-            "type": "Media",
-            "url": "./images/feeling_lesser_than_for_being_single.jpeg"
+            "type": "WordPuzzle",
+            "name": "Balancing a Significant Other and Friends_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "everyone"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

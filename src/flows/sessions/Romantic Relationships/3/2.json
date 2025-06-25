@@ -1,20 +1,20 @@
 {
-    "header_text": "Friends in Relationships",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are... "
+            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your number. Your coworker will probably use your phone number to ask you about.."
         },
         {
             "type": "WordPuzzle",
-            "name": "Friends in Relationships_Romantic Relationships_puzzle1",
+            "name": "Texting Your Crush_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "undesirable"
+                "work"
             ],
             "missing_letter_count": 1
         }

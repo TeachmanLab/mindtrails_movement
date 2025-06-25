@@ -1,14 +1,23 @@
 {
-    "header_text": "Unequal Affection",
+    "header_text": "Not Getting a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Unequal Affection"
+            "type": "Text",
+            "text": "You notice that your significant other has not been as responsive to your messages recently. This is unlike them, as they typically respond right away. You know they have been extra busy and that is likely why they haven't been..."
         },
         {
-            "type": "Media",
-            "url": "./images/unequal_affection.jpeg"
+            "type": "WordPuzzle",
+            "name": "Not Getting a Response_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "responding"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

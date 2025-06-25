@@ -1,20 +1,20 @@
 {
-    "header_text": "Seeing Others Hanging Out",
+    "header_text": "Masks for Guests",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You see from social media stories that a group of your colleagues are hanging out together. You weren't invited, and it looks like they're having a great time. Your colleagues probably didn't invite you because they..."
+            "text": "Your partner invites a few friends over for the evening, and you both agreed that everyone would wear masks. When their friends arrive, they don't have masks and your partner doesn't say anything to them. You pull your partner aside and ask them to speak to their... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Seeing Others Hanging Out_Social Situations_puzzle1",
+            "name": "Masks for Guests_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "forgot"
+                "friends"
             ],
             "missing_letter_count": 2
         }

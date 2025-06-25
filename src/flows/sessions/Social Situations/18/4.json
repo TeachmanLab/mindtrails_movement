@@ -1,14 +1,14 @@
 {
-    "header_text": "Receiving Explicit Email Messages",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Receiving Explicit Email Messages"
+            "text": "Taking Charge"
         },
         {
             "type": "Media",
-            "url": "./images/receiving_explicit_email_messages.jpeg"
+            "url": "./images/taking_charge.jpeg"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing Favorite Shows",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing Favorite Shows"
+            "text": "Grocery Store Experience"
         },
         {
             "type": "Media",
-            "url": "./images/sharing_favorite_shows.jpeg"
+            "url": "./images/grocery_store_experience.jpeg"
         }
     ]
 }

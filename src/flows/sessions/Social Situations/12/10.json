@@ -1,14 +1,16 @@
 {
-    "header_text": "Expressing Your Ideas",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
-            "type": "Label",
-            "text": "Expressing Your Ideas"
+            "type": "Text",
+            "text": "Reason 2:"
         },
         {
-            "type": "Media",
-            "url": "./images/expressing_your_ideas.jpeg"
+            "type": "Entry",
+            "name": "Reason2_WYO"
         }
     ]
 }

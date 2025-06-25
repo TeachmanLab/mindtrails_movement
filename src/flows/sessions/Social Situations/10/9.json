@@ -1,14 +1,14 @@
 {
-    "header_text": "Using What You Have",
+    "header_text": "An Acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Using What You Have"
+            "text": "An Acquaintance"
         },
         {
             "type": "Media",
-            "url": "./images/using_what_you_have.jpeg"
+            "url": "./images/an_acquaintance.jpeg"
         }
     ]
 }

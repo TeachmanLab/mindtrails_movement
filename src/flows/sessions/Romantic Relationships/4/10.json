@@ -1,27 +1,14 @@
 {
-    "header_text": "Long Distance Relationship",
+    "header_text": "Relationship Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "You believe that your spouse and you"
+            "type": "Label",
+            "text": "Relationship Worries"
         },
         {
-            "type": "Buttons",
-            "name": "Long Distance Relationship_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Can't make your relationship work long distance.",
-                "Will work together to overcome the challenges presented by the move."
-            ],
-            "columnCount": 1,
-            "correct_value": "Will work together to overcome the challenges presented by the move."
+            "type": "Media",
+            "url": "./images/relationship_worries.jpeg"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

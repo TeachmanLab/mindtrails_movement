@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Family's Car",
+    "header_text": "Taking Yourself to a Movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Family's Car"
+            "text": "Taking Yourself to a Movie"
         },
         {
             "type": "Media",
-            "url": "./images/your_family's_car.jpeg"
+            "url": "./images/taking_yourself_to_a_movie.jpeg"
         }
     ]
 }

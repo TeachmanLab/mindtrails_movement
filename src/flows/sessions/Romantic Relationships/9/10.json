@@ -1,15 +1,14 @@
 {
-    "header_text": "Making a Decision",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You and your spouse have to make a big decision. The conversation gets heated and turns into an argument that makes you wonder whether you and your spouse will ever be able to reach a compromise. You remind yourself that hard conversations can be a good way for you both to learn more about effective..."
+            "type": "Label",
+            "text": "Getting Ready for a Date"
         },
         {
-            "type": "Entry",
-            "name": "Making a Decision_Romantic Relationships_entry1"
+            "type": "Media",
+            "url": "./images/getting_ready_for_a_date.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

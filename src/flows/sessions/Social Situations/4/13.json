@@ -1,14 +1,14 @@
 {
-    "header_text": "Dinner party invitation",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dinner party invitation"
+            "text": "Meeting an old acquaintance"
         },
         {
             "type": "Media",
-            "url": "./images/dinner_party_invitation.jpeg"
+            "url": "./images/meeting_an_old_acquaintance.jpeg"
         }
     ]
 }

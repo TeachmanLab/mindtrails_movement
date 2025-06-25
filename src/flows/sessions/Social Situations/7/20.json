@@ -1,14 +1,23 @@
 {
-    "header_text": "Quiet Time",
+    "header_text": "Making a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Quiet Time"
+            "type": "Text",
+            "text": "You are at a birthday party with some friends. Later in the evening, your friend asks you to give a toast even though you don't have anything prepared. Afterwards, you feel that the others found your toast..."
         },
         {
-            "type": "Media",
-            "url": "./images/quiet_time.jpeg"
+            "type": "WordPuzzle",
+            "name": "Making a Toast_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "entertaining"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct"
 }

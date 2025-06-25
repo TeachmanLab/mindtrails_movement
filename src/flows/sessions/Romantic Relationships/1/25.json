@@ -1,14 +1,14 @@
 {
-    "header_text": "Going on a Date",
+    "header_text": "Anticipating a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Going on a Date"
+            "text": "Anticipating a Response"
         },
         {
             "type": "Media",
-            "url": "./images/going_on_a_date.jpeg"
+            "url": "./images/anticipating_a_response.jpeg"
         }
     ]
 }

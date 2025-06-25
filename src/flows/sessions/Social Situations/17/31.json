@@ -1,23 +1,27 @@
 {
-    "header_text": "Not Feeling Supported",
+    "header_text": "Meeting Rush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just received an award for a project you worked on. You’ve only received congratulations from a few people, and you thought you’d have more reactions by now. You wonder if people aren’t congratulating you because they don’t think you deserve..."
+            "Text": "Does observing your breathing make you more anxious?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Not Feeling Supported_Social Situations_puzzle1",
+            "type": "Buttons",
+            "name": "Meeting Rush_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "it"
+            "buttons": [
+                "No",
+                "Sí"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

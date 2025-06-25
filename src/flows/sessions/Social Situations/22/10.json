@@ -1,15 +1,14 @@
 {
-    "header_text": "Vaccination Reassurance",
+    "header_text": "Seeing Others Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got... "
+            "type": "Label",
+            "text": "Seeing Others Hanging Out"
         },
         {
-            "type": "Entry",
-            "name": "Vaccination Reassurance_Social Situations_entry1"
+            "type": "Media",
+            "url": "./images/seeing_others_hanging_out.jpeg"
         }
-    ],
-    "navigation_conditions": "wait_for_correct"
+    ]
 }

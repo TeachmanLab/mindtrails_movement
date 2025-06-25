@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Abandoned By a Close Friend",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Abandoned By a Close Friend"
+            "text": "Grocery Store Experience"
         },
         {
             "type": "Media",
-            "url": "./images/feeling_abandoned_by_a_close_friend.jpeg"
+            "url": "./images/grocery_store_experience.jpeg"
         }
     ]
 }

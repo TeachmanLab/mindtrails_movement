@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #10_entry"
+            "text": "Motivational Statement #19 \n\n Your effort today means a better and brighter tomorrow. Keep up the good work!"
         }
     ]
 }

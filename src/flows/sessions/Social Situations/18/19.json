@@ -1,14 +1,14 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Dinner at a Friend's House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Posting New Content"
+            "text": "Dinner at a Friend's House"
         },
         {
             "type": "Media",
-            "url": "./images/posting_new_content.jpeg"
+            "url": "./images/dinner_at_a_friend's_house.jpeg"
         }
     ]
 }

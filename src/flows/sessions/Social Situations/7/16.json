@@ -1,14 +1,14 @@
 {
-    "header_text": "Overhearing your name",
+    "header_text": "Greeting Someone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overhearing your name"
+            "text": "Greeting Someone"
         },
         {
             "type": "Media",
-            "url": "./images/overhearing_your_name.jpeg"
+            "url": "./images/greeting_someone.jpeg"
         }
     ]
 }

@@ -1,14 +1,27 @@
 {
-    "header_text": "Alone at Lunch",
+    "header_text": "Social Media Scores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Alone at Lunch"
+            "type": "Text",
+            "Text": "Do you care that people know you don't use this app very much?"
         },
         {
-            "type": "Media",
-            "url": "./images/alone_at_lunch.jpeg"
+            "type": "Buttons",
+            "name": "Social Media Scores_Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Sí"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ]
 }

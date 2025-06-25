@@ -1,14 +1,14 @@
 {
-    "header_text": "Texting Your Crush",
+    "header_text": "Stress in Your Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Texting Your Crush"
+            "text": "Stress in Your Relationship"
         },
         {
             "type": "Media",
-            "url": "./images/texting_your_crush.jpeg"
+            "url": "./images/stress_in_your_relationship.jpeg"
         }
     ]
 }

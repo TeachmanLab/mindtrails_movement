@@ -1,14 +1,14 @@
 {
-    "header_text": "Fear of Missing Out",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fear of Missing Out"
+            "text": "Zoning Out"
         },
         {
             "type": "Media",
-            "url": "./images/fear_of_missing_out.jpeg"
+            "url": "./images/zoning_out.jpeg"
         }
     ]
 }
