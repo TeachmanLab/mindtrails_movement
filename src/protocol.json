@@ -60,7 +60,7 @@
               "url": "/assets/home_resources.png",
               "tint": false
             },
-            "action": "page://flows/resources",
+            "action": "flow://flows/resources",
             "backgroundcolor": "#1A00C2FF"
           },
           {
