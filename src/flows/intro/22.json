@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>FREEZING</b><p>Over the past week, on your usual day when walking, do you suddenly stop or freeze as if your feet are stuck to the floor?</p>",
+            "text": "<b>FREEZING</b><br /><br />Over the past week, on your usual day when walking, do you suddenly stop or freeze as if your feet are stuck to the floor?",
             "html": true
         },
         {

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>TURNING IN BED</b><p>Over the past week, do you usually have trouble turning over in bed?</p>",
+            "text": "<b>TURNING IN BED</b><br /><br />Over the past week, do you usually have trouble turning over in bed?",
             "html": true
         },
         {

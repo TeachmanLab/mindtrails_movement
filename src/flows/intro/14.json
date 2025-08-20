@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>DRESSING</b><p>Over the past week, have you usually had problems dressing? For example, are you slow or do you need help with buttoning, using zippers, putting on or taking off your clothes or jewelry?</p>",
+            "text": "<b>DRESSING</b><br /><br />Over the past week, have you usually had problems dressing? For example, are you slow or do you need help with buttoning, using zippers, putting on or taking off your clothes or jewelry?",
             "html": true
         },
         {

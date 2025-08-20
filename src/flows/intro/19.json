@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>TREMOR</b><p>Over the past week, have you usually had shaking or tremor?</p>",
+            "text": "<b>TREMOR</b><br /><br />Over the past week, have you usually had shaking or tremor?",
             "html": true
         },
         {

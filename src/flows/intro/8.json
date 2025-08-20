@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>LIGHT HEADEDNESS ON STANDING</b><p>Over the past week, have you felt faint, dizzy or foggy when you stand up after sitting or lying down?</p>",
+            "text": "<b>LIGHT HEADEDNESS ON STANDING</b><br /><br />Over the past week, have you felt faint, dizzy or foggy when you stand up after sitting or lying down?",
             "html": true
         },
         {

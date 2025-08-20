@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b> WALKING AND BALANCE</b><p>Over the past week, have you usually had problems with balance and walking?</p>",
+            "text": "<b> WALKING AND BALANCE</b><br /><br />Over the past week, have you usually had problems with balance and walking?",
             "html": true
         },
         {

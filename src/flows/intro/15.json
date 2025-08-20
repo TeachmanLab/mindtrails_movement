@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>HYGIENE</b><p>Over the past week, have you usually been slow or do you need help with washing, bathing, shaving, brushing teeth, combing your hair or with other personal hygiene?</p>",
+            "text": "<b>HYGIENE</b><br /><br />Over the past week, have you usually been slow or do you need help with washing, bathing, shaving, brushing teeth, combing your hair or with other personal hygiene?",
             "html": true
         },
         {

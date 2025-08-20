@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>CONSTIPATION PROBLEMS</b><p>Over the past week have you had constipation troubles that cause you difficulty moving your bowels?</p>",
+            "text": "<b>CONSTIPATION PROBLEMS</b><br /><br />Over the past week have you had constipation troubles that cause you difficulty moving your bowels?",
             "html": true
         },
         {

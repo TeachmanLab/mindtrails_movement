@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>SLEEP PROBLEMS</b><p>Over the past week, have you had trouble going to sleep at night or staying asleep through the night? Consider how rested you felt after waking up in the morning.</p>",
+            "text": "<b>SLEEP PROBLEMS</b><br /><br />Over the past week, have you had trouble going to sleep at night or staying asleep through the night? Consider how rested you felt after waking up in the morning.",
             "html": true
         },
         {

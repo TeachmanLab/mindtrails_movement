@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>SPEECH</b><p>Over the past week, have you had problems with your speech?</p>",
+            "text": "<b>SPEECH</b><br /><br />Over the past week, have you had problems with your speech?",
             "html": true
         },
         {

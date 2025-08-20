@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>PAIN AND OTHER SENSATIONS</b><p>Over the past week, have you had uncomfortable feelings in your body like pain, aches, tingling or cramps?</p>",
+            "text": "<b>PAIN AND OTHER SENSATIONS</b><br /><br />Over the past week, have you had uncomfortable feelings in your body like pain, aches, tingling or cramps?",
             "html": true
         },
         {

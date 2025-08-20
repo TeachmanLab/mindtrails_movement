@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>CHEWING AND SWALLOWING</b><p>Over the past week, have you usually had problems swallowing pills or eating meals? Do you need your pills cut or crushed or your meals to be made soft, chopped or blended to avoid choking?</p>",
+            "text": "<b>CHEWING AND SWALLOWING</b><br /><br />Over the past week, have you usually had problems swallowing pills or eating meals? Do you need your pills cut or crushed or your meals to be made soft, chopped or blended to avoid choking?",
             "html": true
         },
         {

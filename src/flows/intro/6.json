@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>URINARY PROBLEMS</b><p>Over the past week, have you had trouble with urine control? For example, an urgent need to urinate, a need to urinate too often, or urine accidents?</p>",
+            "text": "<b>URINARY PROBLEMS</b><br /><br />Over the past week, have you had trouble with urine control? For example, an urgent need to urinate, a need to urinate too often, or urine accidents?",
             "html": true
         },
         {

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>DAYTIME SLEEPINESS</b><p>Over the past week, have you had trouble staying awake during the daytime?</p>",
+            "text": "<b>DAYTIME SLEEPINESS</b><br /><br />Over the past week, have you had trouble staying awake during the daytime?",
             "html": true
         },
         {

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>SALIVA AND DROOLING</b><p>Over the past week, have you usually had too much saliva during when you are awake or when you sleep?</p>",
+            "text": "<b>SALIVA AND DROOLING</b><br /><br />Over the past week, have you usually had too much saliva during when you are awake or when you sleep?",
             "html": true
         },
         {

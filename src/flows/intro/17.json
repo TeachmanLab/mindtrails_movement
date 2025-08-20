@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>DOING HOBBIES AND OTHER ACTIVITIES</b><p>Over the past week, have you usually had trouble doing your hobbies or other things that you like to do?</p>",
+            "text": "<b>DOING HOBBIES AND OTHER ACTIVITIES</b><br /><br />Over the past week, have you usually had trouble doing your hobbies or other things that you like to do?",
             "html": true
         },
         {
