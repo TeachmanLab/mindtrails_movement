@@ -1,65 +1,22 @@
 {
-    "header_text": "Demographics",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How old were you (in years) when you were first diagnosed with Parkinson's disease?"
+            "text": "<b>SALIVA AND DROOLING</b><p>Over the past week, have you usually had too much saliva during when you are awake or when you sleep?</p>",
+            "html": true
         },
         {
-            "type": "Picker",
-            "items": [
-                "40 or younger",
-                "41",
-                "42",
-                "43",
-                "44",
-                "45",
-                "46",
-                "47",
-                "48",
-                "49",
-                "50",
-                "51",
-                "52",
-                "53",
-                "54",
-                "55",
-                "56",
-                "57",
-                "58",
-                "59",
-                "60",
-                "61",
-                "62",
-                "63",
-                "64",
-                "65",
-                "66",
-                "67",
-                "68",
-                "69",
-                "70",
-                "71",
-                "72",
-                "73",
-                "74",
-                "75",
-                "76",
-                "77",
-                "78",
-                "79",
-                "80",
-                "81",
-                "82",
-                "83",
-                "84",
-                "85",
-                "86",
-                "87",
-                "88",
-                "89 or older"
-            ]
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I have too much saliva, but do not drool. ",
+                "2::2: Mild: I have some drooling during sleep, but none when I am awake. ",
+                "3::3: Moderate: I have some drooling when I am awake, but I usually do not need tissues or a handkerchief. ",
+                "4::4: Severe: I have so much drooling that I regularly need to use tissues or a handkerchief to protect my clothes."
+            ],
+            "selectable": true
         }
     ]
 }

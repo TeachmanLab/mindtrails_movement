@@ -1,28 +1,22 @@
 {
-    "header_text": "Demographics",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "What is your relationship status?"
+            "text": "<b>LIGHT HEADEDNESS ON STANDING</b><p>Over the past week, have you felt faint, dizzy or foggy when you stand up after sitting or lying down?</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Single",
-                "Single, but casually dating",
-                "1::Single, but currently engaged to be married",
-                "2::Single, but currently living with someone in a marriage-like relationship",
-                "3::Married",
-                "In a domestic or civil union",
-                "4::Separated",
-                "5::Divorced",
-                "6::Widow/widower",
-                "7::Other",
-                "99::Prefer not to answer"
+                "0::0: Normal: No dizzy or foggy feelings. ",
+                "1::1: Slight: Dizzy or foggy feelings occur. However, they do not cause me troubles doing things. ",
+                "2::2: Mild: Dizzy or foggy feelings cause me to hold on to something, but I do not need to sit or lie back down. ",
+                "3::3: Moderate: Dizzy or foggy feelings cause me to sit or lie down to avoid fainting or falling. ",
+                "4::4: Severe: Dizzy or foggy feelings cause me to fall or faint."
             ],
-            "selectable": true,
-            "name": "relationship"
+            "selectable": true
         }
     ]
 }

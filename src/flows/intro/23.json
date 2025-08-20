@@ -1,38 +1,11 @@
 {
-    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "There are many reasons people do not receive help. Why are you not receiving mental health treatment? Please select all that apply."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "0::I don't think a prescription medication would help me",
-                "1::I don't like the idea of taking prescription medication",
-                "2::I can't afford to pay for treatment",
-                "3::I don't want to talk to a mental health professional (e.g., a therapist)",
-                "4::I don't think that a mental health professional can help me",
-                "5::It is hard to find a mental health professional near me",
-                "6::I don't know how to find a mental health professional",
-                "7::I am embarrassed to seek treatment",
-                "I don't want to be asked to face my fears (e.g., not wanting to interact with a spider for a person with spider fear)",
-                "8::I don't want to talk about my feelings",
-                "9::I don't have time",
-                "I had treatment previously and didn't find it helpful",
-                "10::I don't need help at this time",
-                "!11::Other",
-                "^99::Prefer not to anwer"
-            ],
-            "selectable": true,
-            "multiselect": true,
-            "name": "reasons_not_receiving_help"
+            "text": "<center>This completes the questionnaire. We may have asked about problems you do not even have, and may have mentioned problems that you may never develop at all. Not all patients develop all these problems, but because they can occur, it is important to ask all the questions to every patient. Thank you for your time and attention in completing this questionnaire.</center>",
+            "html": true
         }
-    ],
-    "condition": [
-        "HelpReceived",
-        "=",
-        "None"
     ]
 }

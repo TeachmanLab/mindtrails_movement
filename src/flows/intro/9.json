@@ -1,27 +1,22 @@
 {
-    "header_text": "Demographics",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "What is your employment status?"
+            "text": "<b>FATIGUE</b><p>Over the past week, have you usually felt fatigued? This feeling is <u>not</u> part of being sleepy or sad.</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "1::Working full-time",
-                "2::Working part-time",
-                "0::Unemployed or laid off",
-                "3::Looking for work",
-                "4::Homemaker/keeping house or raising children full-time",
-                "5::Retired",
-                "6::Student",
-                "7::Other",
-                "8::Unknown",
-                "99::Prefer not to answer"
+                "0::0: Normal: No fatigue. ",
+                "1::1: Slight: Fatigue occurs. However it does not cause me troubles doing things or being with people. ",
+                "2::2: Mild: Fatigue causes me some troubles doing things or being with people. ",
+                "3::3: Moderate: Fatigue causes me a lot of troubles doing things or being with people. However, it does not stop me from doing anything. ",
+                "4::4: Severe: Fatigue stops me from doing things or being with people."
             ],
-            "selectable": true,
-            "name": "employment"
+            "selectable": true
         }
     ]
 }

@@ -193,12 +193,13 @@ def create_surveys(popname,i):
         for row in islice(csv.reader(read_obj),1,None):
             lookup_id, subgroup_id = f"{row[3]}_{row[2]}".lower(), row[0]
 
-            if lookup_id not in accepted:
-                continue
-            elif row[0] == "Practice CBM-I":
-                surveys[lookup_id][subgroup_id].extend(_create_practice_pages(i))
-            elif row[2]:
-                surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
+            if subgroup_id == "MDS-UPDRS":
+                if lookup_id not in accepted:
+                    continue
+                elif row[0] == "Practice CBM-I":
+                    surveys[lookup_id][subgroup_id].extend(_create_practice_pages(i))
+                elif row[2]:
+                    surveys[lookup_id][subgroup_id].append(_create_survey_page(row))
 
     return surveys
 

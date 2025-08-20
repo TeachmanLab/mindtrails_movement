@@ -1,23 +1,20 @@
 {
-    "header_text": "Demographics",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "What is your gender identity?"
+            "text": "Who is filling out this questionnaire (click the best answer):",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Woman",
-                "1::Man",
-                "2::Transgender Woman",
-                "3::Transgender Man",
-                "4::Another identity",
-                "99::Prefer not to answer"
+                "0::Patient ",
+                "1::Caregiver ",
+                "2::Patient and Caregiver in Equal Proportion"
             ],
-            "selectable": true,
-            "name": "gender"
+            "selectable": true
         }
     ]
 }

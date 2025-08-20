@@ -1,31 +1,22 @@
 {
-    "header_text": "Demographics",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "What is your household annual income, before taxes and other deductions (in US dollars or equivalent)?"
+            "text": "<b>SPEECH</b><p>Over the past week, have you had problems with your speech?</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Less than $5,000",
-                "$5,000 through $11,999",
-                "$12,000 through $15,999",
-                "1::$16,000 through $24,999",
-                "2::$25,000 through $34,999",
-                "$35,000 through $49,999",
-                "3::$50,000 through $74,999",
-                "$75,000 through $99,999",
-                "$100,000 through $149,999",
-                "4::$150,000 through $199,999",
-                "5::$200,000 through $249,999",
-                "$250,000 or greater",
-                "6::Don't know",
-                "99::Prefer not to answer"
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: My speech is soft, slurred or uneven, but it does not cause others to ask me to repeat myself. ",
+                "2::2: Mild: My speech causes people to ask me to occasionally repeat myself, but not every day. ",
+                "3::3: Moderate: My speech is unclear enough that others ask me to repeat myself every day even though most of my speech is understood. ",
+                "4::4: Severe: Most or all of my speech cannot be understood."
             ],
-            "selectable": true,
-            "name": "income"
+            "selectable": true
         }
     ]
 }

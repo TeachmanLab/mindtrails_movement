@@ -1,24 +1,22 @@
 {
-    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Has therapy (talking with a trained professional) been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "<b>HANDWRITING</b><p>Over the past week, have people usually had trouble reading your handwriting?</p>",
+            "html": true
         },
         {
-            "type": "Slider",
-            "min": "1",
-            "max": "7",
-            "others": [
-                "^Prefer not to answer"
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: My writing is slow, clumsy or uneven, but all words are clear. ",
+                "2::2: Mild: Some words are unclear and difficult to read. ",
+                "3::3: Moderate: Many words are unclear and difficult to read. ",
+                "4::4: Severe: Most or all words cannot be read."
             ],
-            "name": "therapy_helpful"
+            "selectable": true
         }
-    ],
-    "condition": [
-        "HelpReceived",
-        "=",
-        "Therapy"
     ]
 }
