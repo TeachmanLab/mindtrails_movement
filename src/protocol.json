@@ -77,7 +77,8 @@
     ] },
   },
   "settings": {
-    "unenroll": "flow://flows/pd/treatment/reasons for ending/"
+    "unenroll": "flow://flows/pd/treatment/reasons for ending/",
+    "configs": "flow://flows/configs.json"
   },
   "menu": [
     { "text": "end of day", "action":"flow://flows/pd/treatment/end of day/" },
