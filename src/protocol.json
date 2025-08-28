@@ -23,7 +23,7 @@
             "url": "/assets/unlocked.png",
             "tint": false
           },
-          "action": "flow://flows/${global://population}/${global://group}/sessions"
+          "action": "flow://flows/${global:population}/${global:group}/sessions"
         }
       },
       {
@@ -60,7 +60,7 @@
               "url": "/assets/home_resources.png",
               "tint": false
             },
-            "action": "flow://flows/${global://population}/${global://group}/resources",
+            "action": "flow://flows/${global:population}/${global:group}/resources",
             "backgroundcolor": "#1A00C2FF"
           },
           {
@@ -77,13 +77,13 @@
     ] },
   },
   "settings": {
-    "unenroll": "flow://flows/${global://population}/${global://group}/reasons for ending/",
+    "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
     "configs": "flow://flows/configs.json"
   },
   "menu": [
-    { "text": "end of day", "action":"flow://flows/${global://population}/${global://group}/end of day/" },
-    { "text": "track your progress", "action":"flow://flows/${global://population}/${global://group}/track your progress/" },
-    { "text": "Introduction", "action": "flow://flows/${global://population}/${global://group}/intro" },
+    { "text": "end of day", "action":"flow://flows/${global:population}/${global:group}/end of day/" },
+    { "text": "track your progress", "action":"flow://flows/${global:population}/${global:group}/track your progress/" },
+    { "text": "Introduction", "action": "flow://flows/${global:population}/${global:group}/intro" },
     {
       "text": "What is MindTrails?",
       "icon": "/assets/menu_mindtrails.png",
@@ -103,7 +103,7 @@
     {
       "text": "Resources",
       "icon": "/assets/menu_resources.png",
-      "action": "flow://flows/${global://population}/${global://group}/resources"
+      "action": "flow://flows/${global:population}/${global:group}/resources"
     },
     {
       "text": "F.A.Q.",
@@ -132,14 +132,14 @@
       "frequency": "1",
       "time": "20:00",
       "action": "notification",
-      "content": { "path": "flow://flows/${global://population}/${global://group}/end of day/" }
+      "content": { "path": "flow://flows/${global:population}/${global:group}/end of day/" }
     },
     {
       "type": "timing",
       "frequency": "14",
       "time": "20:00",
       "action": "notification",
-      "content": { "path": "flow://flows/${global://population}/${global://group}/track your progress/"}
+      "content": { "path": "flow://flows/${global:population}/${global:group}/track your progress/"}
     }
   ]
 }

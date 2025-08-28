@@ -14,7 +14,7 @@
             "text": "Please choose the protocol group"
         },
         {
-            "type": "Buttons", 
+            "type": "Buttons",
             "buttons": ["Treatment","Control"],
             "variable_name":"global:group"
         }
