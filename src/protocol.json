@@ -130,16 +130,20 @@
     {
       "type": "timing",
       "frequency": "1",
-      "time": "20:00",
       "action": "notification",
-      "content": { "path": "flow://flows/${global:population}/${global:group}/end of day/" }
+      "content": {
+        "time": "20:00",
+        "path": "flow://flows/${global:population}/${global:group}/end of day/"
+      }
     },
     {
       "type": "timing",
       "frequency": "14",
-      "time": "20:00",
       "action": "notification",
-      "content": { "path": "flow://flows/${global:population}/${global:group}/track your progress/"}
+      "content": {
+        "time": "20:00",
+        "path": "flow://flows/${global:population}/${global:group}/track your progress/"
+      }
     }
   ]
 }
