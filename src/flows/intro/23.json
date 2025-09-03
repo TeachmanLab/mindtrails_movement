@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<center>This completes the questionnaire. We may have asked about problems you do not even have, and may have mentioned problems that you may never develop at all. Not all patients develop all these problems, but because they can occur, it is important to ask all the questions to every patient. Thank you for your time and attention in completing this questionnaire.</center> <br/> <br/> <center>Copyright &#169; 2008 International Parkinson and Movement Disorder Society. All rights reserved. <br /> <br />This scale may not be copied, distributed or otherwise used in whole or in part without prior written consent of the International Parkinson and Movement Disorder Society.</center>",
+            "text": "<center>This completes the questionnaire. We may have asked about problems you do not even have, and may have mentioned problems that you may never develop at all. Not all patients develop all these problems, but because they can occur, it is important to ask all the questions to every patient. Thank you for your time and attention in completing this questionnaire.</center> <br/> <br/> <span style=\"font-size: 15px;\"> <center>Copyright &#169; 2008 International Parkinson and Movement Disorder Society. All rights reserved. <br /> <br />This scale may not be copied, distributed or otherwise used in whole or in part without prior written consent of the International Parkinson and Movement Disorder Society.</span></center>",
             "html": true
         }
     ]
