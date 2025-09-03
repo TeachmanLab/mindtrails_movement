@@ -11,7 +11,7 @@
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: Not at all (no problems). ",
-                "1, 1: Slight: I briefly freeze but I can easily start walking again. I do not need help from someone else or a walking aid (cane or walker) because of freezing. ",
+                "1::1: Slight: I briefly freeze but I can easily start walking again. I do not need help from someone else or a walking aid (cane or walker) because of freezing. ",
                 "2::2: Mild: I freeze and have trouble starting to walk again, but I do not need someone's help or a walking aid (cane or walker) because of freezing. ",
                 "3::3: Moderate: When I freeze I have a lot of trouble starting to walk again and, because of freezing, I sometimes need to use a walking aid or need someone else's help. ",
                 "4::4: Severe: Because of freezing, most or all of the time, I need to use a walking aid or someone's help."
