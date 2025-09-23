@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>LIGHT HEADEDNESS ON STANDING</b><br /><br />Over the past week, have you felt faint, dizzy or foggy when you stand up after sitting or lying down?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: No dizzy or foggy feelings. ",
+                "1::1: Slight: Dizzy or foggy feelings occur. However, they do not cause me troubles doing things. ",
+                "2::2: Mild: Dizzy or foggy feelings cause me to hold on to something, but I do not need to sit or lie back down. ",
+                "3::3: Moderate: Dizzy or foggy feelings cause me to sit or lie down to avoid fainting or falling. ",
+                "4::4: Severe: Dizzy or foggy feelings cause me to fall or faint."
+            ],
+            "selectable": true
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>PAIN AND OTHER SENSATIONS</b><br /><br />Over the past week, have you had uncomfortable feelings in your body like pain, aches, tingling or cramps?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: No uncomfortable feelings. ",
+                "1::1: Slight: I have these feelings. However, I can do things and be with other people without difficulty. ",
+                "2::2: Mild: These feelings cause some problems when I do things or am with other people. ",
+                "3::3: Moderate: These feelings cause a lot of problems, but they do not stop me from doing things or being with other people. ",
+                "4::4: Severe: These feelings stop me from doing things or being with other people."
+            ],
+            "selectable": true
+        }
+    ]
+}

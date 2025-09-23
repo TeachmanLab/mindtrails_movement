@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>URINARY PROBLEMS</b><br /><br />Over the past week, have you had trouble with urine control? For example, an urgent need to urinate, a need to urinate too often, or urine accidents?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: No urine control problems. ",
+                "1::1: Slight: I need to urinate often or urgently. However, these problems do not cause difficulties with my daily activities. ",
+                "2::2: Mild: Urine problems cause some difficulties with my daily activities. However, I do not have urine accidents. ",
+                "3::3: Moderate: Urine problems cause a lot of difficulties with my daily activities, including urine accidents. ",
+                "4::4: Severe: I cannot control my urine and use a protective garment or have a bladder tube."
+            ],
+            "selectable": true
+        }
+    ]
+}

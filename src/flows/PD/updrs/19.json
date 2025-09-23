@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>TURNING IN BED</b><br /><br />Over the past week, do you usually have trouble turning over in bed?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I have a bit of trouble turning, but I do not need any help. ",
+                "2::2: Mild: I have a lot of trouble turning and need occasional help from someone else. ",
+                "3::3: Moderate: To turn over I often need help from someone else. ",
+                "4::4: Severe: I am unable to turn over without help from someone else."
+            ],
+            "selectable": true
+        }
+    ]
+}

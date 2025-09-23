@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>EATING TASKS</b><br /><br />Over the past week, have you usually had troubles handling your food and using eating utensils? For example, do you have trouble handling finger foods or using forks, knives, spoons, chopsticks?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I am slow, but I do not need any help handling my food and have not had food spills while eating. ",
+                "2::2: Mild: I am slow with my eating and have occasional food spills. I may need help with a few tasks such as cutting meat. ",
+                "3::3: Moderate: I need help with many eating tasks but can manage some alone. ",
+                "4::4: Severe: I need help for most or all eating tasks."
+            ],
+            "selectable": true
+        }
+    ]
+}

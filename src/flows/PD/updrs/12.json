@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>SALIVA AND DROOLING</b><br /><br />Over the past week, have you usually had too much saliva during when you are awake or when you sleep?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I have too much saliva, but do not drool. ",
+                "2::2: Mild: I have some drooling during sleep, but none when I am awake. ",
+                "3::3: Moderate: I have some drooling when I am awake, but I usually do not need tissues or a handkerchief. ",
+                "4::4: Severe: I have so much drooling that I regularly need to use tissues or a handkerchief to protect my clothes."
+            ],
+            "selectable": true
+        }
+    ]
+}

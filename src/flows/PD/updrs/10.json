@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>FATIGUE</b><br /><br />Over the past week, have you usually felt fatigued? This feeling is <u>not</u> part of being sleepy or sad.",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: No fatigue. ",
+                "1::1: Slight: Fatigue occurs. However it does not cause me troubles doing things or being with people. ",
+                "2::2: Mild: Fatigue causes me some troubles doing things or being with people. ",
+                "3::3: Moderate: Fatigue causes me a lot of troubles doing things or being with people. However, it does not stop me from doing anything. ",
+                "4::4: Severe: Fatigue stops me from doing things or being with people."
+            ],
+            "selectable": true
+        }
+    ]
+}

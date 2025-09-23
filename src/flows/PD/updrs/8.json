@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>CONSTIPATION PROBLEMS</b><br /><br />Over the past week have you had constipation troubles that cause you difficulty moving your bowels?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: No constipation. ",
+                "1::1: Slight: I have been constipated. I use extra effort to move my bowels. However, this problem does not disturb my activities or my being comfortable. ",
+                "2::2: Mild: Constipation causes me to have some troubles doing things or being comfortable. ",
+                "3::3: Moderate: Constipation causes me to have a lot of trouble doing things or being comfortable. However, it does not stop me from doing anything. ",
+                "4::4: Severe: I usually need physical help from someone else to empty my bowels."
+            ],
+            "selectable": true
+        }
+    ]
+}

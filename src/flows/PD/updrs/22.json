@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b> WALKING AND BALANCE</b><br /><br />Over the past week, have you usually had problems with balance and walking?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I am slightly slow or may drag a leg. I never use a walking aid. ",
+                "2::2: Mild: I occasionally use a walking aid, but I do not need any help from another person. ",
+                "3::3: Moderate: I usually use a walking aid (cane, walker) to walk safely without falling. However, I do not usually need the support of another person. ",
+                "4::4: Severe: I usually use the support of another person to walk safely without falling."
+            ],
+            "selectable": true
+        }
+    ]
+}

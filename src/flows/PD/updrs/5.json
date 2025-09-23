@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>DAYTIME SLEEPINESS</b><br /><br />Over the past week, have you had trouble staying awake during the daytime?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: No daytime sleepiness. ",
+                "1::1: Slight: Daytime sleepiness occurs but I can resist and I stay awake. ",
+                "2::2: Mild: Sometimes I fall asleep when alone and relaxing. For example, while reading or watching TV. ",
+                "3::3: Moderate: I sometimes fall asleep when I should not. For example, while eating or talking with other people. ",
+                "4::4: Severe: I often fall asleep when I should not. For example, while eating or talking with other people."
+            ],
+            "selectable": true
+        }
+    ]
+}

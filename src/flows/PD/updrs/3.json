@@ -1,0 +1,20 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Who is filling out this questionnaire (click the best answer):",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Patient ",
+                "1::Caregiver ",
+                "2::Patient and Caregiver in Equal Proportion"
+            ],
+            "selectable": true
+        }
+    ]
+}

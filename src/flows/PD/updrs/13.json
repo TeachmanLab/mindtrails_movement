@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>CHEWING AND SWALLOWING</b><br /><br />Over the past week, have you usually had problems swallowing pills or eating meals? Do you need your pills cut or crushed or your meals to be made soft, chopped or blended to avoid choking?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: No problems. ",
+                "1::1: Slight: I am aware of slowness in my chewing or increased effort at swallowing, but I do not choke or need to have my food specially prepared. ",
+                "2::2: Mild: I need to have my pills cut or my food specially prepared because of chewing or swallowing problems, but I have not choked over the past week. ",
+                "3::3: Moderate: I choked at least once in the past week. ",
+                "4::4: Severe: Because of chewing and swallowing problems, I need a feeding tube."
+            ],
+            "selectable": true
+        }
+    ]
+}

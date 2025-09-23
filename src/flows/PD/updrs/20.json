@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>TREMOR</b><br /><br />Over the past week, have you usually had shaking or tremor?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all. I have no shaking or tremor. ",
+                "1::1: Slight: Shaking or tremor occurs but does not cause problems with any activities. ",
+                "2::2: Mild: Shaking or tremor causes problems with only a few activities. ",
+                "3::3: Moderate: Shaking or tremor causes problems with many of my daily activities. ",
+                "4::4: Severe: Shaking or tremor causes problems with most or all activities."
+            ],
+            "selectable": true
+        }
+    ]
+}

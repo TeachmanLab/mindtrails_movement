@@ -1,0 +1,22 @@
+{
+    "header_text": "Experiences of Daily Living",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<b>DRESSING</b><br /><br />Over the past week, have you usually had problems dressing? For example, are you slow or do you need help with buttoning, using zippers, putting on or taking off your clothes or jewelry?",
+            "html": true
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I am slow, but I do not need help. ",
+                "2::2: Mild: I am slow and need help for a few dressing tasks (buttons, bracelets). ",
+                "3::3: Moderate: I need help for many dressing tasks. ",
+                "4::4: Severe: I need help for most or all dressing tasks."
+            ],
+            "selectable": true
+        }
+    ]
+}
