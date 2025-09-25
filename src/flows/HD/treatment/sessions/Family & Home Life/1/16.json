@@ -1,23 +1,23 @@
 {
-    "header_text": "A loud sound",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Should you be frightened when you hear a noise at night?"
+            "Text": "When you tell your parents about the invitation, they are likely to..."
         },
         {
             "type": "Buttons",
-            "name": "A loud sound_Family & Home Life_comp_question",
+            "name": "Holiday Away From Home_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Be very disappointed and feel hurt",
+                "Be glad that you have met a partner that makes you happy"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Be very disappointed and feel hurt"
         }
     ],
     "navigation_conditions": [

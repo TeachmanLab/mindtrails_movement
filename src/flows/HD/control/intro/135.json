@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, to what extent did you fear or avoid the following situations? \n\nSocial situations (where one may be observed, or evaluated by others, such as speaking in public, or talking to unknown people)"
+            "text": "In the past four weeks, to what extent did you fear or avoid the following situations? nnSocial situations (where one may be observed, or evaluated by others, such as speaking in public, or talking to unknown people)"
         },
         {
             "type": "Buttons",

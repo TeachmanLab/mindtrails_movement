@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You ask your family member to go for a walk with you, but they do not want to go. Why? \n\nThey are tired."
+            "text": "You ask your family member to go for a walk with you, but they do not want to go. Why? nnThey are tired."
         },
         {
             "type": "Buttons",

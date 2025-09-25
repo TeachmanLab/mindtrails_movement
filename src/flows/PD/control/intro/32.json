@@ -1,22 +1,10 @@
 {
-    "header_text": "Interpretation Scale Sample Question",
+    "header_text": "Movement Disorders Interpretation Scale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You hear a knock on the front door. When you open the door, no one is there. Why? \n\nThe knock was from a delivery person who left after dropping off a package."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "0::Not at all likely",
-                "1::A little likely",
-                "2::Moderately likely",
-                "3::Very likely",
-                "4::Extremely likely",
-                "99::Prefer not to answer"
-            ],
-            "selectable": true
+            "text": "Instructions: Here are some descriptions of situations in which it is not quite clear what is happening. After each one,\nyou will see 3 possible explanations for the situation.\nPlease imagine yourself in each situation, then rate the extent to which you think each explanation would be likely to\nbe true if you found yourself in that situation.\nPlease provide a response for each of the 3 explanations under each question."
         }
     ]
 }

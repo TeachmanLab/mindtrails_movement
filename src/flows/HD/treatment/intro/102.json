@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are introduced to someone at a party. The person fails to reply to a question you ask. Why? \n\nThey think you are uninteresting and boring."
+            "text": "You are introduced to someone at a party. The person fails to reply to a question you ask. Why? nnThey think you are uninteresting and boring."
         },
         {
             "type": "Buttons",

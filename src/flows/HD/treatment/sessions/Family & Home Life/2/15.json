@@ -1,14 +1,14 @@
 {
-    "header_text": "Noises from Outside",
+    "header_text": "New Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Was there something scary outside in the dark? "
+            "Text": "Will your family approve of your partner?"
         },
         {
             "type": "Buttons",
-            "name": "Noises from Outside_Family & Home Life_comp_question",
+            "name": "New Partner_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

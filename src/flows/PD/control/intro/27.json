@@ -27,6 +27,6 @@
     "condition": [
         "anxiety_or_depression",
         "=",
-        "Unsure"
+        "Yes"
     ]
 }

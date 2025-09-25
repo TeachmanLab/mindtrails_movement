@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "A letter marked \"URGENT\" arrives. What is in the letter? \n\nIt is junk mail designed to attract your attention."
+            "text": "A letter marked \"URGENT\" arrives. What is in the letter? nnYou forgot to pay a bill."
         },
         {
             "type": "Buttons",

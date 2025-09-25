@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You smell smoke. What's burning? \n\nYour house is on fire."
+            "text": "You smell smoke. What's burning? nnYour house is on fire."
         },
         {
             "type": "Buttons",

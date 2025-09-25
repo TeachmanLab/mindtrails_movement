@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are talking to a neighbor and have difficulty saying a word. What is your neighbor thinking? \n\nThey are trying to figure out which word you are trying to say so that they can help you."
+            "text": "You are talking to a neighbor and have difficulty saying a word. What is your neighbor thinking? nnThey are trying to figure out which word you are trying to say so that they can help you."
         },
         {
             "type": "Buttons",

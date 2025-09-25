@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Have prescription medications been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "Has a support group been helpful? nn1 = Not helpful at alln4 = Somewhat helpfuln7=Extremely helpful"
         },
         {
             "type": "Slider",
@@ -13,12 +13,12 @@
             "others": [
                 "^Prefer not to answer"
             ],
-            "name": "prescriptions_helpful"
+            "name": "social_support_helpful"
         }
     ],
     "condition": [
         "HelpReceived",
         "=",
-        "PrescriptionMedications"
+        "SupportGroup"
     ]
 }

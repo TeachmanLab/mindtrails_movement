@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your younger family member is applying for a job. You offer to help with the application, and they decline. Why? \n\nThey do not really want this job."
+            "text": "Your younger family member is applying for a job. You offer to help with the application, and they decline. Why? nnSeveral other people have already helped them, and they are ready to submit the application."
         },
         {
             "type": "Buttons",

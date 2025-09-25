@@ -4,25 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past two months, have there been any changes to your mental health treatment? Check all that apply."
+            "text": "Please specify any medication changes in the past 2 months:"
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "0::I started therapy",
-                "1::I ended therapy",
-                "2::I changed therapists",
-                "3::My prescriber changed my prescription dose",
-                "4::I started a prescription medication",
-                "5::I stopped a prescription medication",
-                "^6::I haven't had any changes",
-                "!7::Other",
-                "^99::Prefer not to answer"
-            ],
-            "selectable": true,
-            "multiselect": true,
-            "name": "changes_treatment",
-            "variable_name": "ChangesToMentalHealthTreatment"
+            "type": "Entry",
+            "name": "changes_treatment_meds"
         }
+    ],
+    "condition": [
+        "ChangesToMentalHealthTreatment",
+        "in",
+        [
+            3,
+            4,
+            5
+        ]
     ]
 }

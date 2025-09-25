@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "The program helped me think about a stressful or upsetting situation in a new or different way\n\n1 = Not at all true\n\n7 = Very true"
+            "text": "The program helped me think about a stressful or upsetting situation in a new or different waynn1 = Not at all truenn7 = Very true"
         },
         {
             "type": "Slider",

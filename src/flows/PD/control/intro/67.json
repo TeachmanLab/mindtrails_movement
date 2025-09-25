@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "While eating breakfast, you cough while trying to swallow. Why? \n\nYou took a bite that was too large."
+            "text": "While eating breakfast, you cough while trying to swallow. Why? nnYou have lost your ability to swallow and will soon have to get a feeding tube."
         },
         {
             "type": "Buttons",

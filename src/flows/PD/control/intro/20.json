@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has self-guided help been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "Has over-the-counter medications and/or supplements been helpful? nn1 = Not helpful at alln4 = Somewhat helpfuln7=Extremely helpful"
         },
         {
             "type": "Slider",
@@ -13,12 +13,12 @@
             "others": [
                 "^Prefer not to answer"
             ],
-            "name": "self-guided_helpful"
+            "name": "OTC_meds_helpful"
         }
     ],
     "condition": [
         "HelpReceived",
         "=",
-        "SelfGuidedHelp"
+        "OTC"
     ]
 }

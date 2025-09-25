@@ -4,25 +4,21 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Are you currently receiving any help for issues related to mental health? Please select all that apply, or \"I am not receiving help\"."
+            "text": "Has therapy (talking with a trained professional) been helpful? nn1 = Not helpful at alln4 = Somewhat helpfuln7=Extremely helpful"
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Therapy::Therapy (talking with a trained professional)\n\nExamples: Psychologist, licensed mental health practitioner (LMHC), school counselor, social worker, marriage and family therapist, group therapist",
-                "Prescription:: Prescription medications\n\nExamples: Psychiatrist, medical doctor",
-                "Support group",
-                "Social::Seeking other social support (talking with non-professionals)\n\nExamples: Teacher, family member, friend, religious leader, coach",
-                "SelfHelp::Self-guided help\n\nExamples: Self-help book, blogs, online intervention (other than MindTrails-Movement), mobile applications",
-                "OTC::Over-the-counter medications and/or supplements",
-                "^None::I am not receiving help",
-                "^NoAnswer::Prefer not to answer",
-                "!Other::Other:"
+            "type": "Slider",
+            "min": "1",
+            "max": "7",
+            "others": [
+                "^Prefer not to answer"
             ],
-            "selectable": true,
-            "multiselect": true,
-            "name": "help",
-            "variable_name": "HelpReceived"
+            "name": "therapy_helpful"
         }
+    ],
+    "condition": [
+        "HelpReceived",
+        "=",
+        "Therapy"
     ]
 }

@@ -4,36 +4,25 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Are you currently struggling with any of the following mental disorders? Please select all that apply."
+            "text": "Are you currently receiving any help for issues related to mental health? Please select all that apply, or \"I am not receiving help\"."
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Generalized anxiety disorder (GAD)",
-                "1::Obsessive-compulsive disorder (OCD)",
-                "2::Panic disorder",
-                "3::Agoraphobia",
-                "4::Posttraumatic stress disorder (PTSD)",
-                "5::Social anxiety disorder",
-                "6::Specific phobia(s)",
-                "7::Dementia or other cognitive disorder",
-                "8::Substance use disorder",
-                "9::Schizophrenia or other psychotic disorder",
-                "10::Depression",
-                "11::Bipolar disorder",
-                "12::Eating disorder",
-                "13::Personality disorder",
-                "14::Intellectual Disability",
-                "15::Autism Spectrum Disorder",
-                "16::Attention-Deficit/Hyperactivity Disorder",
-                "^17::I am not struggling with a mental disorder",
-                "!18::Other",
-                "^99::Prefer not to answer"
+                "Therapy::Therapy (talking with a trained professional)nnExamples: Psychologist, licensed mental health practitioner (LMHC), school counselor, social worker, marriage and family therapist, group therapist",
+                "Prescription:: Prescription medicationsnnExamples: Psychiatrist, medical doctor",
+                "Support group",
+                "Social::Seeking other social support (talking with non-professionals)nnExamples: Teacher, family member, friend, religious leader, coach",
+                "SelfHelp::Self-guided helpnnExamples: Self-help book, blogs, online intervention (other than MindTrails-Movement), mobile applications",
+                "OTC::Over-the-counter medications and/or supplements",
+                "^None::I am not receiving help",
+                "^NoAnswer::Prefer not to answer",
+                "!Other::Other:"
             ],
             "selectable": true,
             "multiselect": true,
-            "name": "mental_health_disorders",
-            "variable_name": "MentalDisorder"
+            "name": "help",
+            "variable_name": "HelpReceived"
         }
     ]
 }
