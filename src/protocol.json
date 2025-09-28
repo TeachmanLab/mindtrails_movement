@@ -77,8 +77,7 @@
           ]
         }
       ]
-    },
-    
+    }
   },
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
