@@ -1,14 +1,14 @@
 {
-    "header_text": "Noises in the Night ",
+    "header_text": "Dealing with Divorce",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Noises in the Night "
+            "text": "Dealing with Divorce"
         },
         {
             "type": "Media",
-            "url": "./images/141.jpg"
+            "url": "./images/193.jpg"
         }
     ],
     "type": "positive",

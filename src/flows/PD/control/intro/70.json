@@ -4,7 +4,19 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Instructions: In this section, 14 situations are presented in which it is not quite clear what is happening. Please rate the extent to which you think each of the three explanations for a situation would be likely to be true if you found yourself in that situation. Do not worry if your ratings appear to be different from your previous answers, and please do not change any of your original answers."
+            "text": "You have visitors over for dinner, and they leave sooner than expected. Why? nnThey did not wish to outstay their welcome."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Not at all likely",
+                "1::A little likely",
+                "2::Moderately likely",
+                "3::Very likely",
+                "4::Extremely likely",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true
         }
     ]
 }

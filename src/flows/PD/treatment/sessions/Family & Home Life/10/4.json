@@ -1,10 +1,10 @@
 {
-    "header_text": "New Partner",
+    "header_text": "Noises from Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It is a cousin's birthday next month, and you are attending a large family gathering. You are bringing your partner to the event, and it is the first time some of your family is meeting them. When you think about everyone meeting each other, you think that everything will go..."
+            "text": "You just moved to a new house. It's dark out and you suddenly hear noises outside. You peek out the window and see a..."
         },
         {
             "type": "Entry"

@@ -1,14 +1,14 @@
 {
-    "header_text": "Noises from Outside",
+    "header_text": "New Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Noises from Outside"
+            "text": "New Partner"
         },
         {
             "type": "Media",
-            "url": "./images/139.jpg"
+            "url": "./images/183.jpg"
         }
     ],
     "type": "positive",

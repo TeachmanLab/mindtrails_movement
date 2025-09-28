@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, to what extent did you experience the following symptoms? \n\nExcessive worrying about everyday matters"
+            "text": "In the past four weeks, to what extent did you experience the following symptoms? nnExcessive worrying about everyday matters"
         },
         {
             "type": "Buttons",

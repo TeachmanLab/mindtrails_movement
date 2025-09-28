@@ -4,21 +4,35 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has what you specified in \"other\" been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "There are many reasons people do not receive help. Why are you not receiving mental health treatment? Please select all that apply."
         },
         {
-            "type": "Slider",
-            "min": "1",
-            "max": "7",
-            "others": [
-                "^Prefer not to answer"
+            "type": "Buttons",
+            "buttons": [
+                "0::I don't think a prescription medication would help me",
+                "1::I don't like the idea of taking prescription medication",
+                "2::I can't afford to pay for treatment",
+                "3::I don't want to talk to a mental health professional (e.g., a therapist)",
+                "4::I don't think that a mental health professional can help me",
+                "5::It is hard to find a mental health professional near me",
+                "6::I don't know how to find a mental health professional",
+                "7::I am embarrassed to seek treatment",
+                "I don't want to be asked to face my fears (e.g., not wanting to interact with a spider for a person with spider fear)",
+                "8::I don't want to talk about my feelings",
+                "9::I don't have time",
+                "I had treatment previously and didn't find it helpful",
+                "10::I don't need help at this time",
+                "!11::Other",
+                "^99::Prefer not to answer"
             ],
-            "name": "other_helpful"
+            "selectable": true,
+            "multiselect": true,
+            "name": "reasons_not_receiving_help"
         }
     ],
     "condition": [
         "HelpReceived",
         "=",
-        "Other"
+        "None"
     ]
 }

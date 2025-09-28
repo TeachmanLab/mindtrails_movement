@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "With the program I am able to manage my current feelings... \n\n1 = Not at all effectively\n\n7 = Very effectively"
+            "text": "With the program I am able to manage my current feelings... nn1 = Not at all effectivelynn7 = Very effectively"
         },
         {
             "type": "Slider",

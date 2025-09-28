@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You feel short of breath. Why? \n\nYou are developing the flu."
+            "text": "You feel short of breath. Why? nnYou are developing the flu."
         },
         {
             "type": "Buttons",

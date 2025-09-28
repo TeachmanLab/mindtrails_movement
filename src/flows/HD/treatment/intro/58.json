@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an unexpected message from your doctor that they want to talk to you about starting a new medication. Why? \n\nA new medication that might help you was just approved by the FDA."
+            "text": "You receive an unexpected message from your doctor that they want to talk to you about starting a new medication. Why? nnA new medication that might help you was just approved by the FDA."
         },
         {
             "type": "Buttons",

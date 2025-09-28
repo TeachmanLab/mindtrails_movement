@@ -1,32 +1,10 @@
 {
-    "header_text": "Mental Health and Treatment Questionnaire",
+    "header_text": "Interpretation Scale Sample Question",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How long have you been experiencing moderate-to-severe anxiety or depression symptoms?"
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "0::One week",
-                "1::Between 1 week and 1 month",
-                "2::Between 1-3 months",
-                "3::Between 3-6 months",
-                "4::Between 6-12 months",
-                "5::Between 1-2 years",
-                "6::Between 2-5 years",
-                "7::Between 5-10 years",
-                "8::More than 10 years",
-                "99::Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "length_anxiety_symptoms"
+            "text": "Instructions: Here are some descriptions of situations in which it is not quite clear what is happening. After each one,\nyou will see 3 possible explanations for the situation.\nPlease imagine yourself in each situation, then rate the extent to which you think each explanation would be likely to\nbe true if you found yourself in that situation.\nPlease provide a response for each of the 3 explanations under each question."
         }
-    ],
-    "condition": [
-        "anxiety_or_depression",
-        "=",
-        "Yes"
     ]
 }

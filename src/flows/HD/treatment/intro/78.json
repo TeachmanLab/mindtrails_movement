@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You feel short of breath. Why? \n\nYou are about to suffocate or stop breathing."
+            "text": "You feel short of breath. Why? nnYou are about to suffocate or stop breathing."
         },
         {
             "type": "Buttons",

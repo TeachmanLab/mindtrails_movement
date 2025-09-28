@@ -1,14 +1,14 @@
 {
-    "header_text": "Dealing with Divorce",
+    "header_text": "Noises in the Night ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you and your ex-spouse going to get along?"
+            "Text": "Should you be worried about the loud noise? "
         },
         {
             "type": "Buttons",
-            "name": "Dealing with Divorce_Family & Home Life_comp_question",
+            "name": "Noises in the Night _Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

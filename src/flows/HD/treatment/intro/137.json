@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, to what extent did you fear or avoid the following situations? \n\nSpecific objects or situations (such as flying, heights, spiders or other animals, needles or blood)"
+            "text": "In the past four weeks, to what extent did you fear or avoid the following situations? nnSpecific objects or situations (such as flying, heights, spiders or other animals, needles or blood)"
         },
         {
             "type": "Buttons",

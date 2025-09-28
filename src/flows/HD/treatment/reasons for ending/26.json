@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Some people have problems when trying to use a mobile application. Please read the following statements and tell us how much of a problem you had when trying to use the app \n\nDuring the program, did you change any dose of medication, therapy, or other intervention to help your mental health? Please check all that apply"
+            "text": "Some people have problems when trying to use a mobile application. Please read the following statements and tell us how much of a problem you had when trying to use the app: \n\nDuring the program, did you change any dose of medication, therapy, or other intervention to help your mental health? Please check all that apply"
         },
         {
             "type": "Buttons",

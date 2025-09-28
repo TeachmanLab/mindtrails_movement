@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, to what extent did you experience the following symptoms? \n\nFear of something bad, or even the worst, happening"
+            "text": "In the past four weeks, to what extent did you experience the following symptoms? nnFear of something bad, or even the worst, happening"
         },
         {
             "type": "Buttons",

@@ -4,7 +4,36 @@
     "elements": [
         {
             "type": "Text",
-            "text": "We would like to ask a few questions about your mental health and treatment history. Answers to these personal questions are kept confidential, but they help us improve MindTrails-Movement by figuring out for whom it works well."
+            "text": "Are you currently struggling with any of the following mental disorders? Please select all that apply."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Generalized anxiety disorder (GAD)",
+                "1::Obsessive-compulsive disorder (OCD)",
+                "2::Panic disorder",
+                "3::Agoraphobia",
+                "4::Posttraumatic stress disorder (PTSD)",
+                "5::Social anxiety disorder",
+                "6::Specific phobia(s)",
+                "7::Dementia or other cognitive disorder",
+                "8::Substance use disorder",
+                "9::Schizophrenia or other psychotic disorder",
+                "10::Depression",
+                "11::Bipolar disorder",
+                "12::Eating disorder",
+                "13::Personality disorder",
+                "14::Intellectual Disability",
+                "15::Autism Spectrum Disorder",
+                "16::Attention-Deficit/Hyperactivity Disorder",
+                "^17::I am not struggling with a mental disorder",
+                "!18::Other",
+                "^99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "multiselect": true,
+            "name": "mental_health_disorders",
+            "variable_name": "MentalDisorder"
         }
     ]
 }

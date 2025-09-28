@@ -1,14 +1,14 @@
 {
-    "header_text": "Holiday Away From Home",
+    "header_text": "A loud sound",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Holiday Away From Home"
+            "text": "A loud sound"
         },
         {
             "type": "Media",
-            "url": "./images/156.jpg"
+            "url": "./images/132.jpg"
         }
     ],
     "type": "negative",

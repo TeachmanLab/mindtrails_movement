@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Some people have problems when trying to use a mobile application. Please read the following statements and tell us how much of a problem you had when trying to use the app \n\nI thought the program was going to take too long."
+            "text": "Some people have problems when trying to use a mobile application. Please read the following statements and tell us how much of a problem you had when trying to use the app: \n\nI thought the program was going to take too long."
         },
         {
             "type": "Buttons",

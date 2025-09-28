@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Suddenly, you feel confused and find it hard to think straight. Why? \n\nYou've been working too hard and need a rest."
+            "text": "Suddenly, you feel confused and find it hard to think straight. Why? nnYou've been working too hard and need a rest."
         },
         {
             "type": "Buttons",

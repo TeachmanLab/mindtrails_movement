@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has a support group been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "Has seeking other social support (talking with non-professionals) been helpful? nn1 = Not helpful at alln4 = Somewhat helpfuln7=Extremely helpful"
         },
         {
             "type": "Slider",
@@ -13,12 +13,12 @@
             "others": [
                 "^Prefer not to answer"
             ],
-            "name": "social_support_helpful"
+            "name": "Other_social_support_helpful"
         }
     ],
     "condition": [
         "HelpReceived",
         "=",
-        "SupportGroup"
+        "SeekingOtherSocialSupport(talkingWithNon-professionals)"
     ]
 }
