@@ -1,15 +1,13 @@
 {
-    "header_text": "Attention in store",
-    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Attention in store"
+            "text": "Please press play on the training video below to learn more!"
         },
         {
             "type": "Media",
-            "url": "./images/654.jpg"
+            "url": "/videos/video2.mp4",
+            "border": true
         }
-    ],
-    "scenario_num": 1
+    ]
 }

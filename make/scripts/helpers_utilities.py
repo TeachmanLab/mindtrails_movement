@@ -160,6 +160,9 @@ def choice(items,key=None):
 def lower(str):
     return str.lower() if str else ""
 
+def upper(str):
+    return str.upper() if str else ""
+
 def media_url(media):
     if media and media.strip():
         media = lower(media).strip()

@@ -13,6 +13,10 @@ dir_root = "./make"
 dir_csv    = f"{dir_root}/CSV"
 dir_out    = f"{dir_root}/~out"
 
+dirs = [d.stem for d in Path(dir_out).iterdir()]
+if 'hd' in dirs: shutil.rmtree(f"{dir_out}/hd",ignore_errors=True)
+if 'pd' in dirs: shutil.rmtree(f"{dir_out}/pd",ignore_errors=True)
+
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
 def flat(dictionary, key):
@@ -182,6 +186,7 @@ def create_surveys(popname,i):
     accepted = [f"{popname}_beforedomain_all", f"{popname}_afterdomain_all", f"{popname}_dose_1", f"{popname}_control_dose_1"]
     accepted = [lower(a) for a in accepted]
     surveys  = defaultdict(lambda:defaultdict(list))
+    notin = set()
 
     # Open the file with all the content
     with open(f"{dir_csv}/MTM_survey_questions - Final_{popname} MTM_survey_questions.csv", "r", encoding="utf-8") as read_obj:
@@ -189,6 +194,7 @@ def create_surveys(popname,i):
             lookup_id, subgroup_id = f"{row[3]}_{row[2]}".lower(), row[0]
 
             if lookup_id not in accepted:
+                notin.add(lookup_id)
                 continue
             elif row[0] == "Practice CBM-I":
                 surveys[lookup_id][subgroup_id].extend(_create_practice_pages(i))

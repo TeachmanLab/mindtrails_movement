@@ -1,0 +1,10 @@
+{
+    "header_text": "Great Job",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Still have questions? Contact the team at js6zn@uvahealth.org! We would be happy to schedule a Zoom call to address any questions or concerns you may have."
+        }
+    ]
+}

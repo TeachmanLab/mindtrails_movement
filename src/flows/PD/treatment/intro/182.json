@@ -4,20 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How vividly did you imagine the situation?"
+            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task? Press on the bar to see the slider. nn0 = Absolutely no anxiety. nn10 = Totally anxious."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Not at all vivid",
-                "Somewhat vivid",
-                "Moderately vivid",
-                "Very vivid",
-                "Totally vivid",
-                "^Prefer not to answer"
+            "type": "Slider",
+            "min": "0",
+            "max": "10",
+            "others": [
+                "Prefer not to answer"
             ],
-            "selectable": true,
-            "name": "imagery_vivid"
+            "name": "imagery_anxiety"
         }
     ]
 }

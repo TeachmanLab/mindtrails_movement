@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>EATING TASKS</b><br /><br />Over the past week, have you usually had troubles handling your food and using eating utensils? For example, do you have trouble handling finger foods or using forks, knives, spoons, chopsticks?",
+            "text": "<b>CHEWING AND SWALLOWING</b><br /><br />Over the past week, have you usually had problems swallowing pills or eating meals? Do you need your pills cut or crushed or your meals to be made soft, chopped or blended to avoid choking?",
             "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::0: Normal: Not at all (no problems). ",
-                "1::1: Slight: I am slow, but I do not need any help handling my food and have not had food spills while eating. ",
-                "2::2: Mild: I am slow with my eating and have occasional food spills. I may need help with a few tasks such as cutting meat. ",
-                "3::3: Moderate: I need help with many eating tasks but can manage some alone. ",
-                "4::4: Severe: I need help for most or all eating tasks."
+                "0::0: Normal: No problems. ",
+                "1::1: Slight: I am aware of slowness in my chewing or increased effort at swallowing, but I do not choke or need to have my food specially prepared. ",
+                "2::2: Mild: I need to have my pills cut or my food specially prepared because of chewing or swallowing problems, but I have not choked over the past week. ",
+                "3::3: Moderate: I choked at least once in the past week. ",
+                "4::4: Severe: Because of chewing and swallowing problems, I need a feeding tube."
             ],
             "selectable": true
         }

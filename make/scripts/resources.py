@@ -12,6 +12,10 @@ dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
 dir_out  = f"{dir_root}/~out"
 
+dirs = [d.stem for d in Path(dir_out).iterdir()]
+if 'hd' in dirs: shutil.rmtree(f"{dir_out}/hd",ignore_errors=True)
+if 'pd' in dirs: shutil.rmtree(f"{dir_out}/pd",ignore_errors=True)
+
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
 def resource_domain_selection_text():

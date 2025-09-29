@@ -4,12 +4,18 @@
     "elements": [
         {
             "type": "Text",
-            "text": "That was the Lemon Exercise! Don't worry if you didn't experience all of the sensations strongly. This is completely normal."
+            "text": "Now imagine that you squeeze the lemon and some of the juice squirts right into your eyes, and it is really stinging, making your eyes water."
         },
         {
             "type": "Media",
-            "url": "./images/lemon_pic7.jpeg",
+            "url": "./images/lemon_pic6.jpeg",
             "border": true
         }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
     ]
 }

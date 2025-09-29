@@ -4,16 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task? Press on the bar to see the slider. nn0 = Absolutely no anxiety. nn10 = Totally anxious."
-        },
+            "text": "Play this situation in your head for the next 20 seconds. nnThe screen will change in 20 seconds."
+        }
+    ],
+    "navigation_conditions": [
         {
-            "type": "Slider",
-            "min": "0",
-            "max": "10",
-            "others": [
-                "Prefer not to answer"
-            ],
-            "name": "imagery_anxiety"
+            "wait_for_time": 20000
         }
     ]
 }

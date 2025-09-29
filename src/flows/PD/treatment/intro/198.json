@@ -1,25 +1,28 @@
 {
-    "header_text": "Comprehension / Engagement",
+    "header_text": "A birthday cake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "What are you hoping to get out of the MindTrails-Movement program? Select all that apply."
+            "Text": "If you eat the cake, you will probably ..."
         },
         {
             "type": "Buttons",
+            "name": "A birthday cake_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
             "buttons": [
-                "I want to think more flexibly and less negatively.",
-                "I want to be able to manage stressful situations more effectively.",
-                "I want to reduce my stress and/or anxiety.",
-                "I want to practice skills I've learned or am currently learning from a mental healthcare provider.",
-                "I want to maintain the gains I've made during mental health treatment.",
-                "I want to avoid a return of anxiety and/or stress I've experienced in the past.",
-                "!Other, please describe:"
+                "Get sick.",
+                "Not get sick."
             ],
-            "selectable": true,
-            "multiselect": true,
-            "name": "gain_from_HTC"
+            "column_count": 1,
+            "correct_value": "Get sick."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "scenario_num": 2
 }

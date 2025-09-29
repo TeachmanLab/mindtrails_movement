@@ -6,11 +6,15 @@ from itertools import islice, chain
 from pathlib import Path
 
 from helpers_pages import create_survey_page
-from helpers_utilities import clean_up_unicode, write_output, media_url, lower
+from helpers_utilities import clean_up_unicode, write_output, media_url, lower, upper
 
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
 dir_out  = f"{dir_root}/~out"
+
+dirs = [d.stem for d in Path(dir_out).iterdir()]
+if 'hd' in dirs: shutil.rmtree(f"{dir_out}/hd",ignore_errors=True)
+if 'pd' in dirs: shutil.rmtree(f"{dir_out}/pd",ignore_errors=True)
 
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
@@ -73,25 +77,29 @@ for pop_name in populations:
             if row[2] and row[0] != "Practice CBM-I": 
                 survey_pages[group_id][subgroup_id].append(_create_survey_page(row))
 
-    pop_name = lower(pop_name)
+    pop_name = pop_name
+    
+    upop_name = upper(pop_name)
+    lpop_name = lower(pop_name)
+
     # Define folders
     folders = {
         #TREATMENT
-        f"{pop_name}/treatment/end of day": flat(survey_pages[("all",f"{pop_name}_eod")]),
-        f"{pop_name}/treatment/reasons for ending": flat(survey_pages[("all",f"{pop_name}_reasonsforending")]),
-        f"{pop_name}/treatment/track your progress/__flow__.json": {"mode":"sequential","take":1},
-        f"{pop_name}/treatment/track your progress/1": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 2" ,f"{pop_name}_biweekly")]),
-        f"{pop_name}/treatment/track your progress/2": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 4" ,f"{pop_name}_biweekly")]),
-        f"{pop_name}/treatment/track your progress/3": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 6" ,f"{pop_name}_biweekly")]),
-        f"{pop_name}/treatment/track your progress/4": flat(survey_pages[("all",f"{pop_name}_biweekly")]) + flat(survey_pages[(f"weekly 10",f"{pop_name}_biweekly")]),
+        f"{upop_name}/treatment/end of day": flat(survey_pages[("all",f"{lpop_name}_eod")]),
+        f"{upop_name}/treatment/reasons for ending": flat(survey_pages[("all",f"{lpop_name}_reasonsforending")]),
+        f"{upop_name}/treatment/track your progress/__flow__.json": {"mode":"sequential","take":1},
+        f"{upop_name}/treatment/track your progress/1": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 2" ,f"{lpop_name}_biweekly")]),
+        f"{upop_name}/treatment/track your progress/2": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 4" ,f"{lpop_name}_biweekly")]),
+        f"{upop_name}/treatment/track your progress/3": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 6" ,f"{lpop_name}_biweekly")]),
+        f"{upop_name}/treatment/track your progress/4": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 10",f"{lpop_name}_biweekly")]),
         #CONTROL
-        f"{pop_name}/control/end of day": flat(survey_pages[("all","eod")]),
-        f"{pop_name}/control/reasons for ending": flat(survey_pages[("all",f"{pop_name}_reasonsforending_control")]),
-        f"{pop_name}/control/track your progress/__flow__.json": {"mode":"sequential","take":1},
-        f"{pop_name}/control/track your progress/1": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
-        f"{pop_name}/control/track your progress/2": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
-        f"{pop_name}/control/track your progress/3": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
-        f"{pop_name}/control/track your progress/4": flat(survey_pages[("all",f"{pop_name}_biweekly_control")]),
+        f"{upop_name}/control/end of day": flat(survey_pages[("all","eod")]),
+        f"{upop_name}/control/reasons for ending": flat(survey_pages[("all",f"{lpop_name}_reasonsforending_control")]),
+        f"{upop_name}/control/track your progress/__flow__.json": {"mode":"sequential","take":1},
+        f"{upop_name}/control/track your progress/1": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
+        f"{upop_name}/control/track your progress/2": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
+        f"{upop_name}/control/track your progress/3": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
+        f"{upop_name}/control/track your progress/4": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
     }
 
     # Delete old JSON
