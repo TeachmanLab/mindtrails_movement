@@ -85,11 +85,11 @@
   },
   "menu": [
     {
-      "text": "end of day",
+      "text": "End of Day",
       "action": "flow://flows/${global:population}/${global:group}/end of day/"
     },
     {
-      "text": "track your progress",
+      "text": "Track Your Progress",
       "action": "flow://flows/${global:population}/${global:group}/track your progress/"
     },
     {
