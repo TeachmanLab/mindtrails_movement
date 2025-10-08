@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has seeking other social support (talking with non-professionals) been helpful? nn1 = Not helpful at alln4 = Somewhat helpfuln7=Extremely helpful"
+            "text": "Has seeking other social support (talking with non-professionals) been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
         },
         {
             "type": "Slider",

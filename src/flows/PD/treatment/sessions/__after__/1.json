@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Right now, I am feeling...nn1 = Very bad/negativenn7 = Very good/positive"
+            "text": "Right now, I am feeling...\n\n1 = Very bad/negative\n\n7 = Very good/positive"
         },
         {
             "type": "Slider",

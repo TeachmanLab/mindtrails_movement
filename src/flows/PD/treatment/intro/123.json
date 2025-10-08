@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, to what extent did you experience the following symptoms? nnFeeling anxious or nervous"
+            "text": "In the past four weeks, to what extent did you experience the following symptoms? \n\nFeeling anxious or nervous"
         },
         {
             "type": "Buttons",

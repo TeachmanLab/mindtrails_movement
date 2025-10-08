@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your vision has become slightly blurred. Why? nnYou have strained your eyes slightly."
+            "text": "Your vision has become slightly blurred. Why? \n\nYou have strained your eyes slightly."
         },
         {
             "type": "Buttons",

@@ -190,7 +190,7 @@ def create_surveys(popname,i):
 
     # Open the file with all the content
     with open(f"{dir_csv}/MTM_survey_questions - Final_{popname} MTM_survey_questions.csv", "r", encoding="utf-8") as read_obj:
-        for row in islice(csv.reader(read_obj, quotechar='"', delimiter=',', escapechar='\\'),1,None):
+        for row in islice(csv.reader(read_obj),1,None):
             lookup_id, subgroup_id = f"{row[3]}_{row[2]}".lower(), row[0]
 
             if lookup_id not in accepted:

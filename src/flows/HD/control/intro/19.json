@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has therapy (talking with a trained professional) been helpful? nn1 = Not helpful at alln4 = Somewhat helpfuln7=Extremely helpful"
+            "text": "Has therapy (talking with a trained professional) been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
         },
         {
             "type": "Slider",

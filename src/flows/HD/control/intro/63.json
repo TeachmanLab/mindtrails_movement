@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You ask your family member to go for a walk with you, but they do not want to go. Why? nnThey are embarrased to be seen with you because of the way you walk."
+            "text": "You ask your family member to go for a walk with you, but they do not want to go. Why? \n\nThey are embarrased to be seen with you because of the way you walk."
         },
         {
             "type": "Buttons",

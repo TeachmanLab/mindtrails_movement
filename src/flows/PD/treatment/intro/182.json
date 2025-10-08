@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task? Press on the bar to see the slider. nn0 = Absolutely no anxiety. nn10 = Totally anxious."
+            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task? Press on the bar to see the slider. \n\n0 = Absolutely no anxiety. \n\n10 = Totally anxious."
         },
         {
             "type": "Slider",

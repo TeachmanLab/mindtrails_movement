@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "At the grocery store, you see a recent acquaintance but are unable to remember her name. Why? nnIt is normal to forget the name of someone you have only met once."
+            "text": "At the grocery store, you see a recent acquaintance but are unable to remember her name. Why? \n\nIt is normal to forget the name of someone you have only met once."
         },
         {
             "type": "Buttons",

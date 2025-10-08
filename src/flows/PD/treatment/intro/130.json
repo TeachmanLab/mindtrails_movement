@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, did you experience episodes of the following symptoms? nnHeart palpitations or heart beating too fast (not related to physical effort or activity)"
+            "text": "In the past four weeks, did you experience episodes of the following symptoms? \n\nHeart palpitations or heart beating too fast (not related to physical effort or activity)"
         },
         {
             "type": "Buttons",

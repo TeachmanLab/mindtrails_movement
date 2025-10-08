@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your doctor recommends a new type of exercise class to help your symptoms. You are hesitant. Why? nnYou are worried that it will be too expensive."
+            "text": "Your doctor recommends a new type of exercise class to help your symptoms. You are hesitant. Why? \n\nYou are worried that it will be too expensive."
         },
         {
             "type": "Buttons",
