@@ -1,11 +1,12 @@
 {
   "home": {
     "title": "MindTrails",
-    "element": "protocols/${global:group}/home.json"
+    "element": {
+      "$ref": "protocols/${global:group}/home.json"
+    }
   },
   "settings": {
-    "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
-    "configs": "flow://flows/configs.json"
+    "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/"
   },
   "menu": [
     {
