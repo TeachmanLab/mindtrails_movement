@@ -2,7 +2,7 @@
   "home": {
     "title": "MindTrails",
     "element": {
-      "$ref": "protocols/${global:group}/home.json"
+      "$ref": "protocols/${global:group,treatment}/home.json"
     }
   },
   "settings": {
