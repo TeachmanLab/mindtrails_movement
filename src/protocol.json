@@ -8,6 +8,7 @@
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/"
   },
+  "start": "flow://flows/${global:population}/${global:group}/intro",
   "menu": [
     {
       "text": "End of Day",
