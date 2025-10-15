@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>SLEEP PROBLEMS</b><br /><br />Over the past week, have you had trouble going to sleep at night or staying asleep through the night? Consider how rested you felt after waking up in the morning.",
+            "text": "<b>DAYTIME SLEEPINESS</b><br /><br />Over the past week, have you had trouble staying awake during the daytime?",
             "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::0: Normal: No problems. ",
-                "1::1: Slight: Sleep problems are present but usually do not cause trouble getting a full night of sleep. ",
-                "2::2: Mild: Sleep problems usually cause some difficulties getting a full night of sleep. ",
-                "3::3: Moderate: Sleep problems cause a lot of difficulties getting a full night of sleep, but I still usually sleep for more than half the night. ",
-                "4::4: Severe: I usually do not sleep for most of the night."
+                "0::0: Normal: No daytime sleepiness. ",
+                "1::1: Slight: Daytime sleepiness occurs but I can resist and I stay awake. ",
+                "2::2: Mild: Sometimes I fall asleep when alone and relaxing. For example, while reading or watching TV. ",
+                "3::3: Moderate: I sometimes fall asleep when I should not. For example, while eating or talking with other people. ",
+                "4::4: Severe: I often fall asleep when I should not. For example, while eating or talking with other people."
             ],
             "selectable": true
         }

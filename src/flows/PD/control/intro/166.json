@@ -1,11 +1,10 @@
 {
-    "header_text": "Experiences of Daily Living",
+    "header_text": "Surveys Complete",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "<center>This completes the questionnaire. We may have asked about problems you do not even have, and may have mentioned problems that you may never develop at all. Not all patients develop all these problems, but because they can occur, it is important to ask all the questions to every patient. Thank you for your time and attention in completing this questionnaire.</center> <br/> <br/> <span style=\"font-size: 15px;\"><small><small><center>Copyright &#169; 2008 International Parkinson and Movement Disorder Society. All rights reserved. <br /> <br />This scale may not be copied, distributed or otherwise used in whole or in part without prior written consent of the International Parkinson and Movement Disorder Society.</center></small></small></span>",
-            "html": true
+            "text": "Thank you for completing your first set of surveys! We will ask you to complete another set of surveys in 2 weeks. \n\nBe sure to leave your device notifications on so that you will receive reminders when it's time to complete surveys. Reach out to the research team at MindTrailsMovement@uvahealth.org if you have any questions or concerns."
         }
     ]
 }

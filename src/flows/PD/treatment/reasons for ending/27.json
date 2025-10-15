@@ -1,0 +1,26 @@
+{
+    "header_text": "Reasons for Ending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During the program, did you change any dose of medication, therapy, or other intervention to help your mental health? Please check all that apply"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::I seek in-person therapy more now",
+                "1::I seek in-person therapy less now",
+                "2::I use perscription medication more now",
+                "I use prescription medication less now",
+                "3::I use online computer programs or mobile apps (other than MindTrails-Movement) more now",
+                "4::I use online computer programs or mobile apps (other than MindTrails-Movement) less now",
+                "!5::Other",
+                "^6::I did not change my intervention habits",
+                "^99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "multiselect": true
+        }
+    ]
+}

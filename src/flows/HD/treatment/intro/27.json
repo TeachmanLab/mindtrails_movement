@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past two months, have there been any changes to your mental health treatment? Check all that apply."
+            "text": "In the past two months, have there been any changes to your mental health treatment? Select all that apply."
         },
         {
             "type": "Buttons",

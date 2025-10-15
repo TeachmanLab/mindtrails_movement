@@ -4,15 +4,21 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has self-guided help been helpful? \n\n1 = Not helpful at all\n4 = Somewhat helpful\n7=Extremely helpful"
+            "text": "Has self-guided help been helpful?"
         },
         {
-            "type": "Slider",
-            "min": "1",
-            "max": "7",
-            "others": [
-                "^Prefer not to answer"
+            "type": "Buttons",
+            "buttons": [
+                "1::1:Not helpful at all",
+                "2::2",
+                "3::3",
+                "4::4:Somewhat helpful",
+                "5::5",
+                "6::6",
+                "7::7:Extremely helpful",
+                "99::Prefer not to answer"
             ],
+            "selectable": true,
             "name": "self-guided_helpful"
         }
     ],

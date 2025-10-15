@@ -4,20 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How likely is it that the situation or task will turn out well versus turn out badly?"
+            "text": "If this situation did turn out badly, how well or badly would you be able to handle it?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "Very likely to turn out well",
-                "Somewhat likely to turn out well",
+                "Very well",
+                "Somewhat well",
                 "Neutral",
-                "Somewhat likely to turn out badly",
-                "Very likely to turn out badly",
+                "Somewhat badly",
+                "Very badly",
                 "^Prefer not to answer"
             ],
             "selectable": true,
-            "name": "imagery_well"
+            "name": "imagery_handling"
         }
     ]
 }

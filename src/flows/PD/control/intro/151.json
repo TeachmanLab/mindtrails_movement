@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>LIGHT HEADEDNESS ON STANDING</b><br /><br />Over the past week, have you felt faint, dizzy or foggy when you stand up after sitting or lying down?",
+            "text": "<b>FATIGUE</b><br /><br />Over the past week, have you usually felt fatigued? This feeling is <u>not</u> part of being sleepy or sad.",
             "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::0: Normal: No dizzy or foggy feelings. ",
-                "1::1: Slight: Dizzy or foggy feelings occur. However, they do not cause me troubles doing things. ",
-                "2::2: Mild: Dizzy or foggy feelings cause me to hold on to something, but I do not need to sit or lie back down. ",
-                "3::3: Moderate: Dizzy or foggy feelings cause me to sit or lie down to avoid fainting or falling. ",
-                "4::4: Severe: Dizzy or foggy feelings cause me to fall or faint."
+                "0::0: Normal: No fatigue. ",
+                "1::1: Slight: Fatigue occurs. However it does not cause me troubles doing things or being with people. ",
+                "2::2: Mild: Fatigue causes me some troubles doing things or being with people. ",
+                "3::3: Moderate: Fatigue causes me a lot of troubles doing things or being with people. However, it does not stop me from doing anything. ",
+                "4::4: Severe: Fatigue stops me from doing things or being with people."
             ],
             "selectable": true
         }

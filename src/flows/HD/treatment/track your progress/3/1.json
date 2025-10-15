@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Instructions: Here are some descriptions of situations in which it is not quite clear what is happening. After each one,\nyou will see 3 possible explanations for the situation.\nPlease imagine yourself in each situation, then rate the extent to which you think each explanation would be likely to\nbe true if you found yourself in that situation.\nPlease provide a response for each of the 3 explanations under each question."
+            "text": "Instructions: Here are some descriptions of situations in which it is not quite clear what is happening. After each one, you will see 3 possible explanations for the situation.\n\nPlease imagine yourself in each situation, then rate the extent to which you think each explanation would be likely to be true if you found yourself in that situation.\n\nPlease provide a response for each of the 3 explanations under each question."
         }
     ]
 }

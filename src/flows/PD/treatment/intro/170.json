@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In this exercise, and throughout the training program, please remember to imagine what is happening through your own eyes, similar to the picture on the left. This is more effective than viewing the situation as an outside observer, like the picture on the right."
+            "text": "Okay...let's begin! Imagine you are holding the lemon in your right hand, and you can feel its shape and its weight."
         },
         {
             "type": "Media",
-            "url": "./images/lemon_pic1.jpeg",
+            "url": "./images/lemon_pic2.jpeg",
             "border": true
         }
     ],
