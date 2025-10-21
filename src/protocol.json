@@ -5,6 +5,10 @@
       "$ref": "protocols/${global:group,treatment}/home.json"
     }
   },
+  "config-queues": {
+    "mindtrailsgroup": "group",
+    "mindtrailspopulation": "population"
+  },
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
     "font_scale": 1.25,
