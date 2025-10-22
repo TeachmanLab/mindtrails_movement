@@ -56,7 +56,7 @@
     {
       "text": "Meet the Team",
       "icon": "/assets/menu_team.png",
-      "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/copy-of-the-team"
+      "action": "flow://flows/team.json"
     },
     {
       "text": "Get Help",
