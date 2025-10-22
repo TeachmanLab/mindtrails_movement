@@ -6,8 +6,8 @@
     }
   },
   "config-queues": {
-    "mindtrailsgroup": "group",
-    "mindtrailspopulation": "population"
+    "control": "mtm_control_population",
+    "treatment": "mtm_treatment_population"
   },
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
