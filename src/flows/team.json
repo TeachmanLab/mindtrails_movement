@@ -1,8 +1,8 @@
 {
 	"header_text": "Meet the Team",
     "elements": [
-		{ "type": "Text", "text": "Bethany Teachman, PhD", "fontattributes": 1, "textalignment": 1 },
-		{ "type": "Text", "text": "Professor of Psychology", "textalignment": 1 },
-		{ "type": "Text", "text": "<span style=\"text-align: center\"><a href=\"www.teachman.org\">Program for Anxiety, Cognition, & Treatment (PACT) Lab</a>, University of Virginia</span>", "html": true }
+		{ "type": "Text", "text": "Bethany Teachman, PhD", "font_attributes": "Bold", "text_alignment": "Center" },
+		{ "type": "Text", "text": "Professor of Psychology", "text_alignment": "Center" },
+		{ "type": "Text", "text": "<span style=\"text-align: center\"><a href=\"www.teachman.org\">Program for Anxiety, Cognition, & Treatment (PACT) Lab</a>, University of Virginia</span>" }
 	]
 }
