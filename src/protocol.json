@@ -9,8 +9,7 @@
     "group"
   ],
   "config-queues": {
-    "hd": "mtmpdpopulation",
-    "pd": "mtmhdpopulation"
+    "population": "mtm${global:group}population"
   },
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
