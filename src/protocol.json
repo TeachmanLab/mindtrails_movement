@@ -5,6 +5,9 @@
       "$ref": "protocols/${global:group,treatment}/home.json"
     }
   },
+  "config-invitations": [
+    "group"
+  ],
   "config-queues": {
     "hd": "mtmpdpopulation",
     "pd": "mtmhdpopulation"
