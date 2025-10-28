@@ -1,13 +1,13 @@
 {
   "header_text": "Meet the Team",
   "elements": [
-    { "type": "Media", "uri": "/images/Bethany-Teachman.jpg" },
+    { "type": "Media", "uri": "/images/bethany-teachman.jpg" },
     { "type": "Text", "text": "<div style=\"text-align: center\"><strong>Bethany Teachman, PhD</strong><br/>Professor of Psychology<br/><a href=\"www.teachman.org\">Program for Anxiety, Cognition, & Treatment (PACT) Lab</a>, University of Virginia</div>", "html": true },
 
-    { "type": "Media", "uri": "/images/Jessie-Gibson-Headshot.jpg" },
+    { "type": "Media", "uri": "/images/jessie-gibson-headshot.jpg" },
     { "type": "Text", "text": "<div style=\"text-align: center\"><strong>Jessie Gibson, PhD, RN, AGPCNP-BC</strong><br/>Assistant Professor<br/>School of Nursing, University of Virginia<br/><a href=\"mailto:js6zn@uvahealth.org\">js6zn@uvahealth.org</a></div>", "html": true },
 
-    { "type": "Media", "uri": "/images/Suzy Protea.jpg" },
+    { "type": "Media", "uri": "/images/suzy protea.jpg" },
     { "type": "Text", "text": "<div style=\"text-align: center\"><strong>Suzy Protea, BA</strong><br/>Clinical Research Coordinator<br/>School of Nursing, University of Virginia</div>", "html": true }
   ]
 }
