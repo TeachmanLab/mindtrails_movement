@@ -6,10 +6,10 @@
     }
   },
   "config-invitations": [
-    "group"
+    "population"
   ],
   "config-queues": {
-    "population": "mtm${global:group}population"
+    "group": "mtm${global:group}group"
   },
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
