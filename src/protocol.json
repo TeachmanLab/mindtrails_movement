@@ -88,7 +88,7 @@
     {
       "id": "configtrigger",
       "type": "timing",
-      "frequency": "00:01:00",
+      "frequency": "42",
       "once": true,
       "action": {
         "type": "config",
