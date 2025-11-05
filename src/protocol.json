@@ -86,6 +86,17 @@
       }
     },
     {
+      "id": "configtrigger",
+      "type": "timing",
+      "frequency": "00:01:00",
+      "once": true,
+      "action": {
+        "type": "config",
+        "variable": "group",
+        "value": "control"
+      }
+    },
+    {
       "id": "progresstrigger",
       "type": "timing",
       "frequency": "14",
