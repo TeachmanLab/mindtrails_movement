@@ -2,7 +2,8 @@
   "home": {
     "title": "MindTrails",
     "element": {
-      "$ref": "protocols/${global:group}/home.json"
+      "type": "ref",
+      "path": "protocols/${global:group}/home.json"
     }
   },
   "config-invitations": [
