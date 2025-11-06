@@ -2,7 +2,7 @@
   "home": {
     "title": "MindTrails",
     "element": {
-      "$ref": "protocols/${global:group,treatment}/home.json"
+      "$ref": "protocols/${global:group}/home.json"
     }
   },
   "config-invitations": [
@@ -92,6 +92,7 @@
       "once": true,
       "action": {
         "type": "config",
+        "handler": "home",
         "variable": "group",
         "value": "control"
       }
