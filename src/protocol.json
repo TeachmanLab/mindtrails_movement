@@ -6,9 +6,6 @@
       "path": "protocols/${global:group}/home.json"
     }
   },
-  "config-invitations": [
-    "population"
-  ],
   "config-queues": {
     "group": "mtm${global:population}group"
   },
