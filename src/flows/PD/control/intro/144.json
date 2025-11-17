@@ -10,10 +10,10 @@
         {
             "type": "Buttons",
             "buttons": [
-                "0::0: Normal: No problems. ",
-                "1::1: Slight: Sleep problems are present but usually do not cause trouble getting a full night of sleep. ",
-                "2::2: Mild: Sleep problems usually cause some difficulties getting a full night of sleep. ",
-                "3::3: Moderate: Sleep problems cause a lot of difficulties getting a full night of sleep, but I still usually sleep for more than half the night. ",
+                "0::0: Normal: No problems.",
+                "1::1: Slight: Sleep problems are present but usually do not cause trouble getting a full night of sleep.",
+                "2::2: Mild: Sleep problems usually cause some difficulties getting a full night of sleep.",
+                "3::3: Moderate: Sleep problems cause a lot of difficulties getting a full night of sleep, but I still usually sleep for more than half the night.",
                 "4::4: Severe: I usually do not sleep for most of the night."
             ],
             "selectable": true

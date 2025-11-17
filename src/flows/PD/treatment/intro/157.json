@@ -10,10 +10,10 @@
         {
             "type": "Buttons",
             "buttons": [
-                "0::0: Normal: Not at all (no problems). ",
-                "1::1: Slight: I am slow, but I do not need help. ",
-                "2::2: Mild: I need someone else to help me with some hygiene tasks. ",
-                "3::3: Moderate: I need help for many hygiene tasks. ",
+                "0::0: Normal: Not at all (no problems).",
+                "1::1: Slight: I am slow, but I do not need help.",
+                "2::2: Mild: I need someone else to help me with some hygiene tasks.",
+                "3::3: Moderate: I need help for many hygiene tasks.",
                 "4::4: Severe: I need help for most or all of my hygiene tasks."
             ],
             "selectable": true

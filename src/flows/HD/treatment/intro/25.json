@@ -9,7 +9,14 @@
         {
             "type": "Buttons",
             "buttons": [
-                "7::7: Extremely helpful;6::6;5::5;4::4: Neither helpful or not helpful;3::3;2::2;1::1: Not helpful at all;99::Prefer not to answer"
+                "7::7: Extremely helpful",
+                "6::6",
+                "5::5",
+                "4::4: Neither helpful nor not helpful",
+                "3::3",
+                "2::2",
+                "1::1: Not helpful at all",
+                "99::Prefer not to answer"
             ],
             "selectable": true,
             "name": "other_helpful"

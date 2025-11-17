@@ -9,7 +9,13 @@
         {
             "type": "Buttons",
             "buttons": [
-                "7::7: Very true;6::6;5::5;4::4: Neither true or not true;3::3;2::2;1::1: Not at all true"
+                "7::7: Very true",
+                "6::6",
+                "5::5",
+                "4::4: Neither true nor not true",
+                "3::3",
+                "2::2",
+                "1::1: Not at all true"
             ],
             "selectable": true
         }

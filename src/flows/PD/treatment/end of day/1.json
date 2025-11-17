@@ -9,7 +9,13 @@
         {
             "type": "Buttons",
             "buttons": [
-                "7::7: Very good/positive;6::6;5::5;4::4: Neither good nor bad;3::3;2::2;1::1: Very bad/negative"
+                "7::7: Very good/positive",
+                "6::6",
+                "5::5",
+                "4::4: Neither good nor bad",
+                "3::3",
+                "2::2",
+                "1::1: Very bad/negative"
             ],
             "selectable": true
         }

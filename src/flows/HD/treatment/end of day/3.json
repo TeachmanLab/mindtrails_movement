@@ -9,7 +9,13 @@
         {
             "type": "Buttons",
             "buttons": [
-                "7::7: Very effectively;6::6;5::5;4::4: Neither effectively or not effectively;3::3;2::2;1::1: Not at all effectively"
+                "7::7: Very effectively",
+                "6::6",
+                "5::5",
+                "4::4: Neither effectively nor not effectively",
+                "3::3",
+                "2::2",
+                "1::1: Not at all effectively"
             ],
             "selectable": true
         }
