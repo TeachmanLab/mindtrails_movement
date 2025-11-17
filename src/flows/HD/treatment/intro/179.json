@@ -1,28 +1,13 @@
 {
-    "header_text": "Attention in store",
-    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The other shoppers probably think you are ..."
+            "text": "Please press play on the training video below to learn more!"
         },
         {
-            "type": "Buttons",
-            "name": "Attention in store_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Awkward and uncoordinated.",
-                "Considerate for apologizing."
-            ],
-            "column_count": 1,
-            "correct_value": "Considerate for apologizing."
+            "type": "Media",
+            "url": "/videos/video3.mp4",
+            "border": true
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "scenario_num": 1
+    ]
 }

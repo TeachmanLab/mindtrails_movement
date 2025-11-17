@@ -4,16 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, to what extent did you experience the following symptoms? \n\nFear of something bad, or even the worst, happening"
+            "text": "In the past four weeks, did you experience episodes of the following symptoms? \n\nPanic or intense fear"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Not at all, or never",
-                "1::Very mild, or rarely",
-                "2::Mild, or sometimes",
-                "3::Moderate, or often",
-                "4::Severe or (nearly) always"
+                "0::Never",
+                "1::Rarely",
+                "2::Sometimes",
+                "3::Often",
+                "4::Nearly always"
             ],
             "selectable": true
         }

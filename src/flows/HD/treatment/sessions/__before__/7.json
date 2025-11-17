@@ -4,15 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task? Press on the bar to see the slider.\n\n0 = Absolutely no anxiety. \n\n10 = Totally anxious."
+            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task?"
         },
         {
-            "type": "Slider",
-            "min": "0",
-            "max": "10",
-            "others": [
-                "Prefer not to answer"
+            "type": "Buttons",
+            "buttons": [
+                "10::10: Totally anxious;9::9;8::8;7::7;6::6;5::5: Neither anxious or not anxious;4::4;3::3;2::2;1::1;0::0: Absolutely no anxiety;Prefer not to answer"
             ],
+            "selectable": true,
             "name": "imagery_anxiety"
         }
     ],

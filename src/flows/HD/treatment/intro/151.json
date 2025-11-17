@@ -1,18 +1,17 @@
 {
-    "header_text": "Activities of Daily Living",
+    "header_text": "Care Level",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How would you rate your ability to perform basic daily activities such as bathing, grooming, and dressing?"
+            "text": "Which of the following best describes your current living situation:"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Need total assistance",
-                "1::Unable to perform fine motor tasks (e.g., buttons, cutting food)",
-                "2::A little bit impaired",
-                "3::Normal"
+                "0::Living full-time in a nursing home or skilled nursing facility",
+                "1::Living at home with support from professional caregiver(s)",
+                "2::Living at home"
             ],
             "selectable": true
         }

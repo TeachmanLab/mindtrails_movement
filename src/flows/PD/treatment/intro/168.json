@@ -4,7 +4,18 @@
     "elements": [
         {
             "type": "Text",
-            "text": "The purpose of this quick exercise is to demonstrate what imagination-based thinking is. You will imagine what seeing, touching, and smelling a lemon is like. Please imagine this as if you are really experiencing it."
+            "text": "In this exercise, and throughout the training program, please remember to imagine what is happening through your own eyes, similar to the picture on the left. This is more effective than viewing the situation as an outside observer, like the picture on the right."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon_pic1.jpeg",
+            "border": true
         }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
     ]
 }

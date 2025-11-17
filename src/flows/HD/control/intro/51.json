@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are talking to a neighbor and have difficulty saying a word. What is your neighbor thinking? \n\nThey are trying to figure out which word you are trying to say so that they can help you."
+            "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou should set up bill pay reminders - lots of people need reminders like this."
         },
         {
             "type": "Buttons",

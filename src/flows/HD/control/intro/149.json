@@ -1,18 +1,17 @@
 {
-    "header_text": "Finances",
+    "header_text": "Domestic Chores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How would you rate your ability to manage finances?"
+            "text": "How would you rate your ability to perform chores around the house?"
         },
         {
             "type": "Buttons",
             "buttons": [
                 "0::Unable",
-                "1::Need major assistance",
-                "2::Need slight assistance",
-                "3::Normal"
+                "1::Impaired",
+                "2::Normal"
             ],
             "selectable": true
         }

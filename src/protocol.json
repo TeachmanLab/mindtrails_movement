@@ -63,11 +63,6 @@
       "icon": "/assets/menu_help.png",
       "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
     },
-    {
-      "text": "Disclaimer",
-      "icon": "/assets/menu_disclaimer.png",
-      "action": "flow://flows/disclaimer.json"
-    }
   ],
   "triggers": [
     {

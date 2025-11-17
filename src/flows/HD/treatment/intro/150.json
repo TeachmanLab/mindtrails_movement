@@ -1,17 +1,18 @@
 {
-    "header_text": "Domestic Chores",
+    "header_text": "Activities of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How would you rate your ability to perform chores around the house?"
+            "text": "How would you rate your ability to perform basic daily activities such as bathing, grooming, and dressing?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Unable",
-                "1::Impaired",
-                "2::Normal"
+                "0::Need total assistance",
+                "1::Unable to perform fine motor tasks (e.g., buttons, cutting food)",
+                "2::A little bit impaired",
+                "3::Normal"
             ],
             "selectable": true
         }

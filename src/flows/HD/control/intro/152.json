@@ -1,19 +1,10 @@
 {
-    "header_text": "Care Level",
+    "header_text": "Surveys Complete",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Which of the following best describes your current living situation:"
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "0::Living full-time in a nursing home or skilled nursing facility",
-                "1::Living at home with support from professional caregiver(s)",
-                "2::Living at home"
-            ],
-            "selectable": true
+            "text": "Thank you for completing your first set of surveys! We will ask you to complete another set of surveys in 2 weeks. \n\nBe sure to leave your device notifications on so that you will receive reminders when it's time to complete surveys. \n\nReach out to the research team at MindTrailsMovement@uvahealth.org if you have any questions or concerns."
         }
     ]
 }

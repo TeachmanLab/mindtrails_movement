@@ -1,17 +1,17 @@
 {
-    "header_text": "Occupation",
+    "header_text": "Finances",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How would you rate your ability to work or perform the occupation you had before your HD diagnosis?"
+            "text": "How would you rate your ability to manage finances?"
         },
         {
             "type": "Buttons",
             "buttons": [
                 "0::Unable",
-                "1::No longer able to perform usual job, but able to volunteer or assist in less demanding work",
-                "2::Reduced performance, but still able to work in usual job",
+                "1::Need major assistance",
+                "2::Need slight assistance",
                 "3::Normal"
             ],
             "selectable": true

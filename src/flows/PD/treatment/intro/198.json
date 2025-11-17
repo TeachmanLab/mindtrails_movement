@@ -1,25 +1,10 @@
 {
-    "header_text": "Comprehension / Engagement",
+    "header_text": "Great Job",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "What are you hoping to get out of the MindTrails-Movement program? Select all that apply."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "I want to think more flexibly and less negatively.",
-                "I want to be able to manage stressful situations more effectively.",
-                "I want to reduce my stress and/or anxiety.",
-                "I want to practice skills I've learned or am currently learning from a mental healthcare provider.",
-                "I want to maintain the gains I've made during mental health treatment.",
-                "I want to avoid a return of anxiety and/or stress I've experienced in the past.",
-                "!Other, please describe:"
-            ],
-            "selectable": true,
-            "multiselect": true,
-            "name": "gain_from_HTC"
+            "text": "Great job! We hope that this brief training helped clarify the purpose of these short stories and what you might be able to get out of MindTrails-Movement. \n\nMoving forward, you will be able to choose areas of life that are causing the most stress so that the stories you read will be more relevant to you. \n\nDuring future sessions, you will also receive tips that are designed to help you manage your emotions, connect with resources, and apply what you learn from the short stories to your own life."
         }
     ]
 }

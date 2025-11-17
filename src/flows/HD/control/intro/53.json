@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou are no long fit to manage your own finances."
+            "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou will have to pay a fee for late payment."
         },
         {
             "type": "Buttons",

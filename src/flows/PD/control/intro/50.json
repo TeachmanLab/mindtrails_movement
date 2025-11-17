@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou will have to pay a fee for late payment."
+            "text": "Your doctor recommends a new type of exercise class to help your symptoms. You are hesitant. Why? \n\nYou will probably be bad at it and embarrass yourself."
         },
         {
             "type": "Buttons",

@@ -4,7 +4,19 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Instructions: Please complete the survey below regarding your feelings in the past week."
+            "text": "In the past 7 days, I felt uneasy"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Never",
+                "1::Rarely",
+                "2::Sometimes",
+                "3::Often",
+                "4::Always",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true
         }
     ]
 }

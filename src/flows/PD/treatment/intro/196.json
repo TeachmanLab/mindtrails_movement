@@ -4,21 +4,25 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend buys you a cake for your birthday. When they bring it over in the evening, they note that they have recently gotten over being ill. Holding the cake, you think your chances of becoming sick are pretty..."
+            "Text": "If you eat the cake, you will probably ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "A birthday cake_Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "A birthday cake_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "high"
+            "buttons": [
+                "Get sick.",
+                "Not get sick."
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Get sick."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "scenario_num": 2
 }

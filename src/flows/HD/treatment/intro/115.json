@@ -1,22 +1,10 @@
 {
-    "header_text": "General Interpretation Scale",
+    "header_text": "Anxiety Scale I",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You notice your heart is pounding, and you feel breathless, dizzy, and unreal. Why? \n\nYou are dangerously ill or going mad."
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "0::Not at all likely",
-                "1::A little likely",
-                "2::Moderately likely",
-                "3::Very likely",
-                "4::Extremely likely",
-                "99::Prefer not to answer"
-            ],
-            "selectable": true
+            "text": "Please complete the following survey regarding your feelings in the past week."
         }
     ]
 }

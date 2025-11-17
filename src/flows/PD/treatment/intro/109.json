@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "A letter marked \"URGENT\" arrives. What is in the letter? \n\nIt is news that someone you know has died or is seriously ill."
+            "text": "You notice your heart is pounding, and you feel breathless, dizzy, and unreal. Why? \n\nYou have been overdoing it and are overtired."
         },
         {
             "type": "Buttons",

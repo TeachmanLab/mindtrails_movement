@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are in a store and accidentally knock over a few picture frames in one of the aisles. You feel your cheeks become hot as people in the store turn and look at you. When the shop owner comes over to rearrange the picture frames, they are..."
+            "text": "After a few moments, the other shoppers turn away; they were just startled by the loud noise. The store owner kindly accepts your apology and tells you not to worry about the mess, so you then feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Attention in store_Social Situations_puzzle1",
+            "name": "Attention in store_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "frowning"
+                "calm"
             ],
             "missing_letter_count": 1
         }

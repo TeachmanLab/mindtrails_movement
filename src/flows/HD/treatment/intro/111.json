@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "A letter marked \"URGENT\" arrives. What is in the letter? \n\nYou forgot to pay a bill."
+            "text": "A letter marked \"URGENT\" arrives. What is in the letter? \n\nIt is news that someone you know has died or is seriously ill."
         },
         {
             "type": "Buttons",

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou should set up bill pay reminders - lots of people need reminders like this."
+            "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou are no longer fit to manage your own finances."
         },
         {
             "type": "Buttons",

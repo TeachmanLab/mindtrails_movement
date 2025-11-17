@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Okay...let's begin! Imagine you are holding the lemon in your right hand, and you can feel its shape and its weight."
+            "text": "Now imagine you are shining a light on the lemon, and you can see the waxy and lumpy texture of the yellow skin."
         },
         {
             "type": "Media",
-            "url": "./images/lemon_pic2.jpeg",
+            "url": "./images/lemon_pic3.jpeg",
             "border": true
         }
     ],

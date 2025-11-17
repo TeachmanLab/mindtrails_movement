@@ -1,13 +1,15 @@
 {
+    "header_text": "A birthday cake",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Please press play on the training video below to learn more!"
+            "text": "A birthday cake"
         },
         {
             "type": "Media",
-            "url": "/videos/video3.mp4",
-            "border": true
+            "url": "./images/447.jpg"
         }
-    ]
+    ],
+    "scenario_num": 2
 }
