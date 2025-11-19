@@ -1,14 +1,14 @@
 {
-    "header_text": "Shopping in a Crowd",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Shopping in a Crowd"
+            "text": "Forgotten Ingredients"
         },
         {
             "type": "Media",
-            "url": "./images/718.jpg"
+            "url": "./images/738.jpg"
         }
     ],
     "type": "positive",

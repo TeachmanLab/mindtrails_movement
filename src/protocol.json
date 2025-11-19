@@ -17,18 +17,6 @@
   "start_flow": "flow://flows/${global:population}/${global:group}/intro",
   "menu": [
     {
-      "text": "End of Day",
-      "action": "flow://flows/${global:population}/${global:group}/end of day/"
-    },
-    {
-      "text": "Track Your Progress",
-      "action": "flow://flows/${global:population}/${global:group}/track your progress/"
-    },
-    {
-      "text": "Introduction",
-      "action": "flow://flows/${global:population}/${global:group}/intro"
-    },
-    {
       "text": "What is MindTrails?",
       "icon": "/assets/menu_mindtrails.png",
       "action": "flow://flows/rationale.json"

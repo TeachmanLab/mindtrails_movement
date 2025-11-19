@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your friends think poorly of you because of your symptoms?"
+            "Text": "Do your friends think poorly of you?"
         },
         {
             "type": "Buttons",

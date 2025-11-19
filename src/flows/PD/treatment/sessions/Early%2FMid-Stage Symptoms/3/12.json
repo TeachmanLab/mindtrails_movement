@@ -1,20 +1,20 @@
 {
-    "header_text": "Shopping in a Crowd",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're out shopping, and you notice that your body is moving uncontrollably. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is..."
+            "text": "You are making a new recipe for dinner that your friend just shared with you over the phone a few minutes ago. You've already forgotten a few of the ingredients and are feeling frustrated that your memory isn't what it used to be. You realize you can call your friend back, and they would share the recipe again..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Shopping in a Crowd_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Forgotten Ingredients_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "low"
+                "happily"
             ],
             "missing_letter_count": 1
         }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Shopping in a Crowd",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are shoppers around you judging you?"
+            "Text": "Your friend would share the recipe again..."
         },
         {
             "type": "Buttons",
-            "name": "Shopping in a Crowd_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Forgotten Ingredients_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Reluctantly",
+                "Happily"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Happily"
         }
     ],
     "navigation_conditions": [
