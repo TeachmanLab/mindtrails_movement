@@ -37,7 +37,7 @@
         "survey": true,
         "path": "flow://flows/${global:population}/${global:group}/track your progress/",
         "title": "Survey Alert!",
-        "expiry": "120:00",
+        "expiry": "5",
         "message": "It's time for your progress survey"
       }
     }
