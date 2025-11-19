@@ -11,7 +11,7 @@
   },
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
-    "font_scale": 1.25    
+    "font_scale": 1.25
   },
   "start_flow": "flow://flows/${global:population}/${global:group}/intro",
   "menu": [
