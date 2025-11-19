@@ -63,6 +63,7 @@
         "survey": true,
         "path": "flow://flows/${global:population}/${global:group}/end of day/",
         "title": "Survey Alert!",
+        "expiry": "04:00",
         "message": "It's time for your end of day survey."
       }
     },
@@ -70,7 +71,7 @@
       "id": "configtrigger",
       "type": "timing",
       "frequency": "42",
-      "once": true,
+      "take": 1,
       "action": {
         "type": "config",
         "handler": "home",
@@ -83,11 +84,14 @@
       "type": "timing",
       "frequency": "14",
       "time": "20:00",
+      "skip": 1,
+      "take": 4,
       "action": {
         "type": "notification",
         "survey": true,
         "path": "flow://flows/${global:population}/${global:group}/track your progress/",
         "title": "Survey Alert!",
+        "expiry": "120:00",
         "message": "It's time for your progress survey"
       }
     }
