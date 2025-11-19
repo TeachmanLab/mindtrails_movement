@@ -11,8 +11,7 @@
   },
   "settings": {
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
-    "font_scale": 1.25,
-    
+    "font_scale": 1.25    
   },
   "start_flow": "flow://flows/${global:population}/${global:group}/intro",
   "menu": [
@@ -52,48 +51,5 @@
       "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
     }
   ],
-  "triggers": [
-    {
-      "id": "endofdaytrigger",
-      "type": "timing",
-      "frequency": "1",
-      "time": "20:00",
-      "action": {
-        "type": "notification",
-        "survey": true,
-        "path": "flow://flows/${global:population}/${global:group}/end of day/",
-        "title": "Survey Alert!",
-        "expiry": "04:00",
-        "message": "It's time for your end of day survey."
-      }
-    },
-    {
-      "id": "configtrigger",
-      "type": "timing",
-      "frequency": "42",
-      "take": 1,
-      "action": {
-        "type": "config",
-        "handler": "home",
-        "variable": "group",
-        "value": "control"
-      }
-    },
-    {
-      "id": "progresstrigger",
-      "type": "timing",
-      "frequency": "14",
-      "time": "20:00",
-      "skip": 1,
-      "take": 4,
-      "action": {
-        "type": "notification",
-        "survey": true,
-        "path": "flow://flows/${global:population}/${global:group}/track your progress/",
-        "title": "Survey Alert!",
-        "expiry": "120:00",
-        "message": "It's time for your progress survey"
-      }
-    }
-  ]
+  "triggers": {"type": "ref", "path": "protocols/${global:group}/triggers.json"}
 }
