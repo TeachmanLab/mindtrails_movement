@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You smell smoke. What's burning? \n\nYour house is on fire."
+            "text": "You feel light-headed and weak. Why? \n\nYou didn't get enough sleep last night."
         },
         {
             "type": "Buttons",

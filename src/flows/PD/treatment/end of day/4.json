@@ -9,7 +9,7 @@
         {
             "type": "Scheduler",
             "days_ahead": 1,
-            "action": "flow://flows/${global:population}/treatment/sessions",
+            "action": "flow://flows/sessions",
             "count": 2,
             "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session.",
             "name": "schedule_session"

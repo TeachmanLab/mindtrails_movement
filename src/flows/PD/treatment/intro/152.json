@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>SPEECH</b><br /><br />Over the past week, have you had problems with your speech?",
+            "text": "<b>FATIGUE</b><br /><br />Over the past week, have you usually felt fatigued? This feeling is <u>not</u> part of being sleepy or sad.",
             "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::0: Normal: Not at all (no problems).",
-                "1::1: Slight: My speech is soft, slurred or uneven, but it does not cause others to ask me to repeat myself.",
-                "2::2: Mild: My speech causes people to ask me to occasionally repeat myself, but not every day.",
-                "3::3: Moderate: My speech is unclear enough that others ask me to repeat myself every day even though most of my speech is understood.",
-                "4::4: Severe: Most or all of my speech cannot be understood."
+                "0::0: Normal: No fatigue.",
+                "1::1: Slight: Fatigue occurs. However it does not cause me troubles doing things or being with people.",
+                "2::2: Mild: Fatigue causes me some troubles doing things or being with people.",
+                "3::3: Moderate: Fatigue causes me a lot of troubles doing things or being with people. However, it does not stop me from doing anything.",
+                "4::4: Severe: Fatigue stops me from doing things or being with people."
             ],
             "selectable": true
         }

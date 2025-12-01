@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Have prescription medications been helpful?"
+            "text": "Has therapy (talking with a trained professional) been helpful?"
         },
         {
             "type": "Buttons",
@@ -19,11 +19,11 @@
                 "99::Prefer not to answer"
             ],
             "selectable": true,
-            "name": "prescriptions_helpful"
+            "name": "therapy_helpful"
         }
     ],
     "condition": [
-        "PrescriptionMedications",
+        "Therapy",
         "in",
         "HelpReceived"
     ]

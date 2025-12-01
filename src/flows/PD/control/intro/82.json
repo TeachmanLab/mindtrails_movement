@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You feel light-headed and weak. Why? \n\nYou need to get something to eat."
+            "text": "You feel light-headed and weak. Why? \n\nYou are about to faint."
         },
         {
             "type": "Buttons",

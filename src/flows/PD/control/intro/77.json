@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your vision has become slightly blurred. Why? \n\nThis is the sign of a serious illness."
+            "text": "Your vision has become slightly blurred. Why? \n\nYou need to get glasses or change your existing glasses."
         },
         {
             "type": "Buttons",

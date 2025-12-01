@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has what you specified in \"other\" been helpful?"
+            "text": "Have over-the-counter medications and/or supplements been helpful?"
         },
         {
             "type": "Buttons",
@@ -19,11 +19,11 @@
                 "99::Prefer not to answer"
             ],
             "selectable": true,
-            "name": "other_helpful"
+            "name": "OTC_meds_helpful"
         }
     ],
     "condition": [
-        "Other",
+        "OTC",
         "in",
         "HelpReceived"
     ]

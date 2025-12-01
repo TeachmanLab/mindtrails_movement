@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an unexpected message from your doctor that they want to talk to you about starting a new medication. Why? \n\nThe new medication may have fewer side effects than your current medication."
+            "text": "You receive an unexpected message from your doctor that they want to talk to you about starting a new medication. Why? \n\nYour symptoms are uncontrollable, and they do not know what else to try."
         },
         {
             "type": "Buttons",

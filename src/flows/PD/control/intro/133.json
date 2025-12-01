@@ -1,10 +1,21 @@
 {
-    "header_text": "Sadness Scale",
+    "header_text": "Anxiety Scale II",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Please complete the following survey regarding your feelings in the past week."
+            "text": "In the past four weeks, to what extent did you fear or avoid the following situations? \n\nSpecific objects or situations (such as flying, heights, spiders or other animals, needles or blood)"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Never",
+                "1::Rarely",
+                "2::Sometimes",
+                "3::Often",
+                "4::Nearly always"
+            ],
+            "selectable": true
         }
     ]
 }

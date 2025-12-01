@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has self-guided help been helpful?"
+            "text": "Has seeking other social support (talking with non-professionals) been helpful?"
         },
         {
             "type": "Buttons",
@@ -19,12 +19,12 @@
                 "99::Prefer not to answer"
             ],
             "selectable": true,
-            "name": "self-guided_helpful"
+            "name": "Other_social_support_helpful"
         }
     ],
     "condition": [
-        "HelpReceived",
-        "=",
-        "SelfGuidedHelp"
+        "SeekingOtherSocialSupport(talkingWithNon-professionals)",
+        "in",
+        "HelpReceived"
     ]
 }

@@ -4,18 +4,20 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Do you have moderate-to-severe anxiety or depression symptoms?"
+            "text": "Please specify any medication changes in the past 2 months:"
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Yes::Yes",
-                "No::No",
-                "Unsure::Unsure"
-            ],
-            "selectable": true,
-            "name": "anxiety_or_depression",
-            "variable_name": "anxiety_or_depression"
+            "type": "Entry",
+            "name": "changes_treatment_meds"
         }
+    ],
+    "condition": [
+        "ChangesToMentalHealthTreatment",
+        "in",
+        [
+            3,
+            4,
+            5
+        ]
     ]
 }

@@ -4,26 +4,12 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task?"
-        },
+            "text": "Play this situation in your head for the next 20 seconds. \n\nThe screen will change in 20 seconds."
+        }
+    ],
+    "navigation_conditions": [
         {
-            "type": "Buttons",
-            "buttons": [
-                "10::10: Totally anxious",
-                "9::9",
-                "8::8",
-                "7::7",
-                "6::6",
-                "5::5: Neither anxious nor not anxious",
-                "4::4",
-                "3::3",
-                "2::2",
-                "1::1",
-                "0::0: Absolutely no anxiety",
-                "Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "imagery_anxiety"
+            "wait_for_time": 20000
         }
     ]
 }

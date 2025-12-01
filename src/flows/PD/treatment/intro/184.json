@@ -1,13 +1,23 @@
 {
+    "header_text": "Anxious imagery prime",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Please press play on the training video below to learn more!"
+            "text": "If this situation did turn out badly, how well or badly would you be able to handle it?"
         },
         {
-            "type": "Media",
-            "url": "/videos/video1.mp4",
-            "border": true
+            "type": "Buttons",
+            "buttons": [
+                "Very well",
+                "Somewhat well",
+                "Neutral",
+                "Somewhat badly",
+                "Very badly",
+                "^Prefer not to answer"
+            ],
+            "selectable": true,
+            "name": "imagery_handling"
         }
     ]
 }

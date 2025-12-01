@@ -1,10 +1,22 @@
 {
-    "header_text": "Anxiety Scale II",
+    "header_text": "Anxiety Scale I",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Please complete the following survey based on the past four weeks."
+            "text": "In the past 7 days, I felt nervous when my normal routine was disturbed"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "0::Never",
+                "1::Rarely",
+                "2::Sometimes",
+                "3::Often",
+                "4::Always",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true
         }
     ]
 }

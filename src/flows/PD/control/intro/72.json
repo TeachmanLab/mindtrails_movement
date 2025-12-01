@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You feel short of breath. Why? \n\nYou are developing the flu."
+            "text": "You have visitors over for dinner, and they leave sooner than expected. Why? \n\nThey did not enjoy the visit and were bored with your company."
         },
         {
             "type": "Buttons",

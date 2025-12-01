@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>GETTING OUT OF BED, A CAR, OR A DEEP CHAIR</b><br /><br />Over the past week, have you usually had trouble getting out of bed, a car seat, or a deep chair?",
+            "text": "<b>TREMOR</b><br /><br />Over the past week, have you usually had shaking or tremor?",
             "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::0: Normal: Not at all (no problems).",
-                "1::1: Slight: I am slow or awkward, but I usually can do it on my first try.",
-                "2::2: Mild: I need more than one try to get up or need occasional help.",
-                "3::3: Moderate: I sometimes need help to get up, but most times I can still do it on my own.",
-                "4::4: Severe: I need help most or all of the time."
+                "0::0: Normal: Not at all. I have no shaking or tremor.",
+                "1::1: Slight: Shaking or tremor occurs but does not cause problems with any activities.",
+                "2::2: Mild: Shaking or tremor causes problems with only a few activities.",
+                "3::3: Moderate: Shaking or tremor causes problems with many of my daily activities.",
+                "4::4: Severe: Shaking or tremor causes problems with most or all activities."
             ],
             "selectable": true
         }

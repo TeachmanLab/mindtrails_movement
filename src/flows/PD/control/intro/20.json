@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Have over-the-counter medications and/or supplements been helpful?"
+            "text": "Has self-guided help been helpful?"
         },
         {
             "type": "Buttons",
@@ -19,12 +19,12 @@
                 "99::Prefer not to answer"
             ],
             "selectable": true,
-            "name": "OTC_meds_helpful"
+            "name": "self-guided_helpful"
         }
     ],
     "condition": [
-        "OTC",
-        "in",
-        "HelpReceived"
+        "HelpReceived",
+        "=",
+        "SelfGuidedHelp"
     ]
 }

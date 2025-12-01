@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has seeking other social support (talking with non-professionals) been helpful?"
+            "text": "Has a support group been helpful?"
         },
         {
             "type": "Buttons",
@@ -19,11 +19,11 @@
                 "99::Prefer not to answer"
             ],
             "selectable": true,
-            "name": "Other_social_support_helpful"
+            "name": "social_support_helpful"
         }
     ],
     "condition": [
-        "SeekingOtherSocialSupport(talkingWithNon-professionals)",
+        "SupportGroup",
         "in",
         "HelpReceived"
     ]

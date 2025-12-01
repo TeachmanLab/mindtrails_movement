@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an unexpected message from your doctor that they want to talk to you about starting a new medication. Why? \n\nA new medication that might help you was just approved by the FDA."
+            "text": "Your doctor recommends a new type of exercise class to help your symptoms. You are hesitant. Why? \n\nThe class is far away, and you are not sure you can make it on a regular basis."
         },
         {
             "type": "Buttons",

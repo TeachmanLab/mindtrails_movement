@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, did you experience episodes of the following symptoms? \n\nShortness of breath"
+            "text": "In the past four weeks, did you experience episodes of the following symptoms? \n\nPanic or intense fear"
         },
         {
             "type": "Buttons",

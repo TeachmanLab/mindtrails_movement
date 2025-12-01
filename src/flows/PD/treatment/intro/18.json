@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Has a support group been helpful?"
+            "text": "Have prescription medications been helpful?"
         },
         {
             "type": "Buttons",
@@ -19,11 +19,11 @@
                 "99::Prefer not to answer"
             ],
             "selectable": true,
-            "name": "social_support_helpful"
+            "name": "prescriptions_helpful"
         }
     ],
     "condition": [
-        "SupportGroup",
+        "PrescriptionMedications",
         "in",
         "HelpReceived"
     ]

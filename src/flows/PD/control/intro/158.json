@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "<b>DOING HOBBIES AND OTHER ACTIVITIES</b><br /><br />Over the past week, have you usually had trouble doing your hobbies or other things that you like to do?",
+            "text": "<b>HANDWRITING</b><br /><br />Over the past week, have people usually had trouble reading your handwriting?",
             "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: Not at all (no problems).",
-                "1::1: Slight: I am a bit slow but do these activities easily.",
-                "2::2: Mild: I have some difficulty doing these activities.",
-                "3::3: Moderate: I have major problems doing these activities, but still do most.",
-                "4::4: Severe: I am unable to do most or all of these activities."
+                "1::1: Slight: My writing is slow, clumsy or uneven, but all words are clear.",
+                "2::2: Mild: Some words are unclear and difficult to read.",
+                "3::3: Moderate: Many words are unclear and difficult to read.",
+                "4::4: Severe: Most or all words cannot be read."
             ],
             "selectable": true
         }

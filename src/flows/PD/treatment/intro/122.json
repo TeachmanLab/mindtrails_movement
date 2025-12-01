@@ -4,18 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past four weeks, to what extent did you experience the following symptoms? \n\nFeeling anxious or nervous"
-        },
-        {
-            "type": "Buttons",
-            "buttons": [
-                "0::Not at all, or never",
-                "1::Very mild, or rarely",
-                "2::Mild, or sometimes",
-                "3::Moderate, or often",
-                "4::Severe or (nearly) always"
-            ],
-            "selectable": true
+            "text": "Please complete the following survey based on the past four weeks."
         }
     ]
 }

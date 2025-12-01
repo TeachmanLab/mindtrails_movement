@@ -4,35 +4,27 @@
     "elements": [
         {
             "type": "Text",
-            "text": "There are many reasons people do not receive help. Why are you not receiving mental health treatment? Please select all that apply."
+            "text": "Has what you specified in \"other\" been helpful?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::I don't think a prescription medication would help me",
-                "1::I don't like the idea of taking prescription medication",
-                "2::I can't afford to pay for treatment",
-                "3::I don't want to talk to a mental health professional (e.g., a therapist)",
-                "4::I don't think that a mental health professional can help me",
-                "5::It is hard to find a mental health professional near me",
-                "6::I don't know how to find a mental health professional",
-                "7::I am embarrassed to seek treatment",
-                "I don't want to be asked to face my fears (e.g., not wanting to interact with a spider for a person with spider fear)",
-                "8::I don't want to talk about my feelings",
-                "9::I don't have time",
-                "I had treatment previously and didn't find it helpful",
-                "10::I don't need help at this time",
-                "!11::Other",
-                "^99::Prefer not to answer"
+                "7::7: Extremely helpful",
+                "6::6",
+                "5::5",
+                "4::4: Neither helpful nor not helpful",
+                "3::3",
+                "2::2",
+                "1::1: Not helpful at all",
+                "99::Prefer not to answer"
             ],
             "selectable": true,
-            "multiselect": true,
-            "name": "reasons_not_receiving_help"
+            "name": "other_helpful"
         }
     ],
     "condition": [
-        "HelpReceived",
-        "=",
-        "None"
+        "Other",
+        "in",
+        "HelpReceived"
     ]
 }

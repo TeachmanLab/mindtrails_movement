@@ -4,24 +4,16 @@
     "elements": [
         {
             "type": "Text",
-            "text": "How did you learn about MindTrails-Movement?"
+            "text": "Do you have an implanted DBS device?"
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::Email from the study team",
-                "1::UVA clinic visit",
-                "2::My PD healthcare provider",
-                "3::A friend or family member",
-                "4::From a newsletter or email associated with a PD resource (e.g., Parkinson's Foundation)",
-                "5::In-person event (e.g., APDA Optimism Walk, Education Day)",
-                "6::Support group",
-                "7::Social media",
-                "!8::Other:",
-                "^99::Prefer not to answer"
+                "Yes::Yes",
+                "No::No",
+                "Unsure::Unsure"
             ],
-            "selectable": true,
-            "multiselect": true
+            "selectable": true
         }
     ]
 }

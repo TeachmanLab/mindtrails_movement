@@ -4,25 +4,35 @@
     "elements": [
         {
             "type": "Text",
-            "text": "In the past two months, have there been any changes to your mental health treatment? Check all that apply."
+            "text": "There are many reasons people do not receive help. Why are you not receiving mental health treatment? Please select all that apply."
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0::I started therapy",
-                "1::I ended therapy",
-                "2::I changed therapists",
-                "3::My prescriber changed my prescription dose",
-                "4::I started a prescription medication",
-                "5::I stopped a prescription medication",
-                "^6::I haven't had any changes",
-                "!7::Other",
-                "^99::Prefer not to answer"
+                "0::I don't think a prescription medication would help me",
+                "1::I don't like the idea of taking prescription medication",
+                "2::I can't afford to pay for treatment",
+                "3::I don't want to talk to a mental health professional (e.g., a therapist)",
+                "4::I don't think that a mental health professional can help me",
+                "5::It is hard to find a mental health professional near me",
+                "6::I don't know how to find a mental health professional",
+                "7::I am embarrassed to seek treatment",
+                "I don't want to be asked to face my fears (e.g., not wanting to interact with a spider for a person with spider fear)",
+                "8::I don't want to talk about my feelings",
+                "9::I don't have time",
+                "I had treatment previously and didn't find it helpful",
+                "10::I don't need help at this time",
+                "!11::Other",
+                "^99::Prefer not to anwer"
             ],
             "selectable": true,
             "multiselect": true,
-            "name": "changes_treatment",
-            "variable_name": "ChangesToMentalHealthTreatment"
+            "name": "reasons_not_receiving_help"
         }
+    ],
+    "condition": [
+        "HelpReceived",
+        "=",
+        "None"
     ]
 }
