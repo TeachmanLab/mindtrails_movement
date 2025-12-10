@@ -3,7 +3,7 @@
       "id": "progresstrigger",
       "type": "timing",
       "frequency": "14",
-      "time": "20:00",
+      "time": "${variant:end_of_day_survey_time,20:00}",
       "skip": 1,
       "take": 4,
       "action": {
