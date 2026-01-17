@@ -1,20 +1,20 @@
 {
-    "header_text": "Trouble Understanding ",
+    "header_text": "Family Game Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a meeting at work, and they are explaining a new concept. You are having trouble understanding and are feeling nervous about asking the presenter to explain it again. You decide to speak up, and you think the presenter will be... "
+            "text": "You are at a family game night with your siblings and parents. You are getting unusually irritated with your family and are worried your irritability will push them away. You remember that they are aware of your symptoms and will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trouble Understanding _Presymptomatic_puzzle1",
+            "name": "family_game_night--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "accommodating"
+                "empathic"
             ],
             "missing_letter_count": 2
         }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Guest in a Bilingual Home",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your coworker judgmental of your bilingual family?"
+            "text": "Playing the Piano"
         },
         {
-            "type": "Buttons",
-            "name": "Guest in a Bilingual Home_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/187.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2
 }

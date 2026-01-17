@@ -1,0 +1,16 @@
+{
+    "header_text": "Seeing A Dog",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Seeing A Dog"
+        },
+        {
+            "type": "Media",
+            "url": "./images/958.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
+}

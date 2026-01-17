@@ -7,6 +7,7 @@
             "text": "Has self-guided help been helpful?"
         },
         {
+            "name": "self-guided_helpful",
             "type": "Buttons",
             "buttons": [
                 "7::7: Extremely helpful",
@@ -17,9 +18,7 @@
                 "2::2",
                 "1::1: Not helpful at all",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "self-guided_helpful"
+            ]
         }
     ],
     "condition": [

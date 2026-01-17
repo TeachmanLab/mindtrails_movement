@@ -1,16 +1,16 @@
 {
-    "header_text": "Online Payment",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spouse offers to help you pay a bill online. As you sit with them, you can't remember the login details for your accounts. You are embarrassed, but you know your spouse is not..."
+            "text": "Pet Schedule"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/211.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 4
 }

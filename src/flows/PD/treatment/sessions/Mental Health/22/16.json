@@ -1,16 +1,29 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing the Piano"
+            "Text": "The future you see for yourself is..."
         },
         {
-            "type": "Media",
-            "url": "./images/187.jpg"
+            "type": "Buttons",
+            "name": "working_to_get_ahead--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Having the position you want",
+                "Being stuck in a position below the one you imagine"
+            ],
+            "column_count": 1,
+            "correct_value": "Being stuck in a position below the one you imagine"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "negative",
-    "scenario_num": 6
+    "scenario_num": 4
 }

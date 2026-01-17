@@ -7,7 +7,8 @@
             "text": "This month, you spent more money on groceries than you usually do, and you used a credit card to pay for it. Thinking about your spending, you're worried you won't be able to cover the credit card bill, and you'll go into debt. When the bill comes in, you see that you have enough... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "paying_credit_card--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

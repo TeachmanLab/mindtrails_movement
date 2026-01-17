@@ -1,16 +1,16 @@
 {
-    "header_text": "Fitness Class Worries",
+    "header_text": "Cooking Struggle",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fitness Class Worries"
+            "text": "Cooking Struggle"
         },
         {
             "type": "Media",
-            "url": "./images/880.jpg"
+            "url": "./images/247.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

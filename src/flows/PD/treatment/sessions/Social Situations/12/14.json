@@ -1,16 +1,14 @@
 {
-    "header_text": "Late Friend",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Late Friend"
+            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
         },
         {
-            "type": "Media",
-            "url": "./images/655.jpg"
+            "type": "Entry",
+            "name": "tip #9--entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Picnic Planning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Picnic Planning"
+        },
+        {
+            "type": "Media",
+            "url": "./images/867.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

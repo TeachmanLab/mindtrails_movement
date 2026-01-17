@@ -1,22 +1,14 @@
 {
-    "header_text": "Organizing Bills",
+    "header_text": "Tricky Website",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you sit down to pay bills, you find it difficult to organize all the paperwork. You wonder whether this is because of your sleepless night last night, or if it could be related to HD. Your family member recommends a helpful app, and you are able to take care of the bills..."
+            "text": "The bank just alerted you of an upcoming bill. You go online to make a payment and find that the website is hard to navigate. You decide to pay the bill over the phone, making you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Organizing Bills_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "easily"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "tricky_website--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

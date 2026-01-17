@@ -1,25 +1,16 @@
 {
-    "header_text": "Out on a boat",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You spend the day on a boat with your friends. Your legs feel strange when you get off the boat, and you have trouble walking. This sensation is..."
+            "text": "Part 1: Set up the uncertain situation in 1-2 sentences"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Out on a boat_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "amusing"
-            ],
-            "missing_letter_count": 2
+            "name": "Part1_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    ]
 }

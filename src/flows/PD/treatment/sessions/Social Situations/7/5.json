@@ -1,20 +1,20 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While out on a walk, you see a neighbor that you do not know well. You decide to say hello in passing but then wonder if you annoyed the neighbor. After the brief encounter, you believe they think that you are..."
+            "text": "After a long day of shopping, you enter a cafe with a lot of bags and notice that the only empty seat is across from somebody else. As you sit down, the customer across from you doesn’t look at you. This is probably because they are lost in..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Greeting Someone_Social Situations_puzzle1",
+            "name": "busy_cafe--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "friendly"
+                "thought"
             ],
             "missing_letter_count": 2
         }

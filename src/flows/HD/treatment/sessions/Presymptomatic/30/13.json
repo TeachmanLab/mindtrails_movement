@@ -1,0 +1,25 @@
+{
+    "header_text": "Picnic Planning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were invited to join a picnic with several friends. Not all of the friends know about the results of your HD genetic test. You think that if this comes up during the picnic, the conversation will be... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "picnic_planning--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "natural"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "Formal Event",
+    "header_text": "Poor Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will feeling sad about your condition keep you from having a nice time?"
+            "Text": "Your spouse will be..."
         },
         {
             "type": "Buttons",
-            "name": "Formal Event_Presymptomatic_comp_question",
+            "name": "poor_sleep--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Be frustrated with your mood",
+                "Compassionate towards you"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Compassionate towards you"
         }
     ],
     "navigation_conditions": [

@@ -1,0 +1,16 @@
+{
+    "header_text": "Online Shopping",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Online Shopping"
+        },
+        {
+            "type": "Media",
+            "url": "./images/222.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

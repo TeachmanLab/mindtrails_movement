@@ -1,23 +1,23 @@
 {
-    "header_text": "Future Birthdays",
+    "header_text": "Forgetting Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The most important thing to your child is..."
+            "Text": "Coming back to the store..."
         },
         {
             "type": "Buttons",
-            "name": "Future Birthdays_Presymptomatic_comp_question",
+            "name": "forgetting_groceries--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Your ability to play with them",
-                "Your presence"
+                "Is a complete inconvenience",
+                "Is no problem"
             ],
             "column_count": 1,
-            "correct_value": "Your presence"
+            "correct_value": "Is no problem"
         }
     ],
     "navigation_conditions": [

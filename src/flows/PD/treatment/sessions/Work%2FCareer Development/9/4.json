@@ -4,13 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You think about why they want you to perform well. You know it is because they want you to succeed, so that makes you feel..."
+            "text": "Expectations"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/67.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 0
+    "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Disagreement with a Friend",
+    "header_text": "Difficult Handoff",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Disagreement with a Friend"
+            "text": "Difficult Handoff"
         },
         {
             "type": "Media",
-            "url": "./images/743.jpg"
+            "url": "./images/813.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

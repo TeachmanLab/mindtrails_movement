@@ -1,25 +1,25 @@
 {
-    "header_text": "Certainty of being correct",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are having an intellectual discussion with your colleague. On one of the questions they ask you, you are 90% certain that you know the correct answer. When you respond, you feel..."
+            "text": "You are at an event and start to talk with some acquaintances. As the room fills, you can tell your heart is beating fast. You feel... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Certainty of being correct_Mental Health_puzzle1",
+            "name": "heart_rate_worries--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "confident"
+                "scared"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Difficulty Moving On",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Taking a step back to reassess is..."
+            "Text": "Is the principal investigator thankful for your participation?"
         },
         {
             "type": "Buttons",
-            "name": "Difficulty Moving On_Early/Mid-Stage Symptoms_comp_question",
+            "name": "research_visit--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Weak",
-                "Wise"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Wise"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

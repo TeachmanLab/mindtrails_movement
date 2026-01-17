@@ -1,29 +1,16 @@
 {
-    "header_text": "Neighborhood Walk",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "With you sibling's help, you will..."
+            "text": "Keys Forgotten"
         },
         {
-            "type": "Buttons",
-            "name": "Neighborhood Walk_Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Not fall",
-                "Trip again"
-            ],
-            "column_count": 1,
-            "correct_value": "Not fall"
+            "type": "Media",
+            "url": "./images/208.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 2
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

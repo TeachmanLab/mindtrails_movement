@@ -1,29 +1,29 @@
 {
-    "header_text": "Crossing a Bridge",
+    "header_text": "Positive Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Holding the handrail helped you to..."
+            "Text": "Do you test positive?"
         },
         {
             "type": "Buttons",
-            "name": "Crossing a Bridge_Physical Health_comp_question",
+            "name": "positive_test--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Fall",
-                "Balance"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Balance"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

@@ -1,25 +1,16 @@
 {
-    "header_text": "Convenience Store",
+    "header_text": "Farmer's Market Sweets",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a convenience store getting coffee, a task that you have done many times before. Today, you struggle to recall the steps needed to work the coffee machine. The cashier knows you fairly well and starts to look..."
+            "text": "Farmer's Market Sweets"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Convenience Store_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "concerned"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/420.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 4
 }

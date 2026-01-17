@@ -1,16 +1,16 @@
 {
-    "header_text": "Household responsibilities",
+    "header_text": "Best Friend's Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Household responsibilities"
+            "text": "Best Friend's Party"
         },
         {
             "type": "Media",
-            "url": "./images/741.jpg"
+            "url": "./images/811.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

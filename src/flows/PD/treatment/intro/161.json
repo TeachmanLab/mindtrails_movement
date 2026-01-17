@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "mds_updrs_17",
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: Not at all (no problems).",
@@ -15,8 +16,7 @@
                 "2::2: Mild: I have a lot of trouble turning and need occasional help from someone else.",
                 "3::3: Moderate: To turn over I often need help from someone else.",
                 "4::4: Severe: I am unable to turn over without help from someone else."
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

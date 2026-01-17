@@ -1,23 +1,23 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Issues While Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you happy to have your supervisor come to your school event? "
+            "Text": "Are your friends upset with you about dessert?"
         },
         {
             "type": "Buttons",
-            "name": "An Invitation_Social Situations_comp_question",
+            "name": "issues_while_shopping--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

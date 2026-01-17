@@ -7,7 +7,8 @@
             "text": "You have started to volunteer at a local organization and have had a difficult time managing it with work. One of the volunteer leaders asked if you would be willing to help her out with a project outside of your usual responsibilities,and you are worried if she will be disappointed if you say no. After thinking on it, you tell her that you can't help out with this project because of work, but are willing to help out on the next..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "managing_responsibilities--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

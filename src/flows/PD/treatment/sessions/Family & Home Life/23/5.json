@@ -1,0 +1,17 @@
+{
+    "header_text": "Graduation Toast",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are giving a speech at your nephew's graduation party. During the toast, you are speaking quietly, and you notice two people beginning to whisper in the corner. You think they are probably talking about your..."
+        },
+        {
+            "type": "Entry",
+            "name": "graduation_toast--family_&_home_life--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

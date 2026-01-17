@@ -7,7 +7,8 @@
             "text": "You are staying late to get extra work done and notice two coworkers. They are leaving together, and they say hi as they're walking by. Since you're the only one working late, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "working_late--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

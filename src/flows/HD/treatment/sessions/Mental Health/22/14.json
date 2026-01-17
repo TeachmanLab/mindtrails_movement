@@ -1,16 +1,16 @@
 {
-    "header_text": "New Book Club ",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really..."
+            "text": "Working to Get Ahead"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/36.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 4
 }

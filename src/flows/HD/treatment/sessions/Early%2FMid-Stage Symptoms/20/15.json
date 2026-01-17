@@ -1,16 +1,25 @@
 {
-    "header_text": "Fitness Walk",
+    "header_text": "Trouble Getting Dressed",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are walking with your fitness partner at a park. You can't seem to keep up with their pace but hesitate telling your friend because they seem to be in a groove. When you ask your friend to slow down, they quickly... "
+            "text": "You are on your way to a nice dinner with friends. When getting dressed, you worry that putting on your favorite shirt will be a challenge because the buttons are too small. After trying for nearly 10 minutes to get your shirt on, you realize you have..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "trouble_getting_dressed--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "failed"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 4
 }

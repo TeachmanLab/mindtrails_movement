@@ -1,20 +1,20 @@
 {
-    "header_text": "Looking Unwell",
+    "header_text": "Thoughts at the train station",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your daughter's health going to quickly decline?"
+            "Text": "Is there something majorly wrong with your leg?"
         },
         {
             "type": "Buttons",
-            "name": "Looking Unwell_Physical Health_comp_question",
+            "name": "thoughts_at_the_train_station--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "No"

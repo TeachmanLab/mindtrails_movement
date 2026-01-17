@@ -7,7 +7,8 @@
             "text": "A new supervisor is hired for the department you are in, and you hear that he is very precise on how things are to be done. You meet him for the first time and talk about the upcoming month. Getting up to leave at the end of your meeting, you think that he found you to be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "first_impressions--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,16 +1,29 @@
 {
-    "header_text": "Bowling Alley",
+    "header_text": "Shopping for Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Bowling Alley"
+            "Text": "Everyone is..."
         },
         {
-            "type": "Media",
-            "url": "./images/750.jpg"
+            "type": "Buttons",
+            "name": "shopping_for_clothes--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Watching you",
+                "Busy shopping"
+            ],
+            "column_count": 1,
+            "correct_value": "Busy shopping"
         }
     ],
-    "type": "negative",
-    "scenario_num": 3
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

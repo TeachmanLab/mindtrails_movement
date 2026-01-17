@@ -1,14 +1,14 @@
 {
-    "header_text": "Posting about Family",
+    "header_text": "Time to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Posting about Family"
+            "text": "Time to Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/175.jpg"
+            "url": "./images/177.jpg"
         }
     ],
     "type": "positive",

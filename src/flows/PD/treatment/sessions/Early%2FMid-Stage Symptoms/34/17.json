@@ -1,16 +1,29 @@
 {
-    "header_text": "Missing Meds at Fundraiser",
+    "header_text": "Cooking Struggle",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Missing Meds at Fundraiser"
+            "Text": "The thought of making new recipes makes you... "
         },
         {
-            "type": "Media",
-            "url": "./images/973.jpg"
+            "type": "Buttons",
+            "name": "cooking_struggle--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Stressed out",
+                "Excited"
+            ],
+            "column_count": 1,
+            "correct_value": "Excited"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 4
 }

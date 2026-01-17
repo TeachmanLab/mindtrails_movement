@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "mds_updrs_16",
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: Not at all (no problems).",
@@ -15,8 +16,7 @@
                 "2::2: Mild: I have some difficulty doing these activities.",
                 "3::3: Moderate: I have major problems doing these activities, but still do most.",
                 "4::4: Severe: I am unable to do most or all of these activities."
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Spilling Food on Laptop",
+    "header_text": "Organizing Desk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Spilling Food on Laptop"
+            "text": "Organizing Desk"
         },
         {
             "type": "Media",
-            "url": "./images/757.jpg"
+            "url": "./images/883.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

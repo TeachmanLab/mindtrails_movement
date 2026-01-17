@@ -1,16 +1,16 @@
 {
-    "header_text": "Party People",
+    "header_text": "Sending a Sweet Text",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Party People"
+            "text": "Sending a Sweet Text"
         },
         {
             "type": "Media",
-            "url": "./images/124.jpg"
+            "url": "./images/586.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

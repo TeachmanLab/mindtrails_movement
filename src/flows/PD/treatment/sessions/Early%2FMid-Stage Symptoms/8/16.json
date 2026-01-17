@@ -1,16 +1,17 @@
 {
-    "header_text": "Book Club",
+    "header_text": "At Home Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Book Club"
+            "text": "Your PD symptoms have been unpredictable since your diagnosis, and being home alone gives you an uneasy feeling. Your spouse told you last night they have to go into work tomorrow, meaning you will be home alone for several hours. You remember you have a cell phone easily accessible, and that gives you... "
         },
         {
-            "type": "Media",
-            "url": "./images/769.jpg"
+            "type": "Entry",
+            "name": "at_home_alone--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

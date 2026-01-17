@@ -1,0 +1,25 @@
+{
+    "header_text": "Mowing the Lawn",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's a hot summer day, and you are mowing the lawn. You take a break and are surprised to notice that you are shaky. You think that your blood sugar must have dropped, so you find a snack that is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "mowing_the_lawn--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "delicious"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

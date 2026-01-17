@@ -1,14 +1,14 @@
 {
-    "header_text": "Masks for Guests",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you frustrated talking to your partner?"
+            "Text": "Will your friends make fun of your sweat marks on your shirt? "
         },
         {
             "type": "Buttons",
-            "name": "Masks for Guests_Social Situations_comp_question",
+            "name": "sweat_stains--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

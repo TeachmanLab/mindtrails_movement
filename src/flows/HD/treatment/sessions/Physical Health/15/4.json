@@ -1,20 +1,20 @@
 {
-    "header_text": "Noisy Neighbors",
+    "header_text": "Sitting at the Library",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you ready for your presentation?"
+            "Text": "Do you make the right decision by talking to the person sitting next to you?"
         },
         {
             "type": "Buttons",
-            "name": "Noisy Neighbors_Physical Health_comp_question",
+            "name": "sitting_at_the_library--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "Yes"

@@ -1,14 +1,14 @@
 {
-    "header_text": "Alone at Lunch",
+    "header_text": "Having a New Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Alone at Lunch"
+            "text": "Having a New Friend Over"
         },
         {
             "type": "Media",
-            "url": "./images/685.jpg"
+            "url": "./images/387.jpg"
         }
     ],
     "type": "positive",

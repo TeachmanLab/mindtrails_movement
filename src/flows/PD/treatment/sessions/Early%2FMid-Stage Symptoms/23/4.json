@@ -1,14 +1,14 @@
 {
-    "header_text": "Movie Mix-Up",
+    "header_text": "Lost Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Movie Mix-Up"
+            "text": "Lost Phone"
         },
         {
             "type": "Media",
-            "url": "./images/833.jpg"
+            "url": "./images/346.jpg"
         }
     ],
     "type": "positive",

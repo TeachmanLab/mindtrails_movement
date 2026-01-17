@@ -1,23 +1,23 @@
 {
-    "header_text": "Out on a boat",
+    "header_text": "Blood test results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The feeling in your legs is probably..."
+            "Text": "Is it unbearable to be nervous as you wait for your test results?"
         },
         {
             "type": "Buttons",
-            "name": "Out on a boat_Physical Health_comp_question",
+            "name": "blood_test_results--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Temporary and nothing you should be worried about",
-                "Something you should be worried about"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Temporary and nothing you should be worried about"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

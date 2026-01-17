@@ -1,16 +1,16 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Getting an Opportunity"
+            "text": "Working to Get Ahead"
         },
         {
             "type": "Media",
-            "url": "./images/90.jpg"
+            "url": "./images/36.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

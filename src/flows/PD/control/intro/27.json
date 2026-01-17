@@ -7,6 +7,7 @@
             "text": "How long have you been experiencing moderate-to-severe anxiety or depression symptoms?"
         },
         {
+            "name": "length_anxiety_symptoms",
             "type": "Buttons",
             "buttons": [
                 "0::One week",
@@ -19,9 +20,7 @@
                 "7::Between 5-10 years",
                 "8::More than 10 years",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "length_anxiety_symptoms"
+            ]
         }
     ],
     "condition": [

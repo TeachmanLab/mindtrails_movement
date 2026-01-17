@@ -1,14 +1,14 @@
 {
-    "header_text": "Disclosing Your Mental Health",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Disclosing Your Mental Health"
+            "text": "Trip to the Dentist"
         },
         {
             "type": "Media",
-            "url": "./images/393.jpg"
+            "url": "./images/369.jpg"
         }
     ],
     "type": "positive",

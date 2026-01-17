@@ -1,16 +1,17 @@
 {
-    "header_text": "Putting Yourself Out There",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You feel as though you and your significant other are drifting apart. You decide to plan a dinner date with them and spend some quality time just the two of you. You feel as though you're starting all of the conversations at dinner, and your partner seems... "
+            "text": "You would like to apply for a higher position at your job and further your skills. You feel very passionate about achieving this goal and have worked hard to make yourself a good employee. Still, you think that your chances of getting this new job are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "achieving_your_goals--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

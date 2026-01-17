@@ -7,7 +7,8 @@
             "text": "A friend recognizes that you're not behaving like your usual self and takes the time to talk to you. Their words of wisdom and listening ear make you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "friend's_birthday_party--early_mid-stage_symptoms--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

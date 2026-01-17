@@ -1,20 +1,20 @@
 {
-    "header_text": "Facial Expression ",
+    "header_text": "Hiking Incident",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You make a lighthearted joke that breaks the tension, and your friends realize you aren't angry at all. They quickly grasp your true warmth, and everyone feels..."
+            "text": "Your family is going on a hike to get some nice photos at a mountain overlook. You are having trouble navigating the terrain and fall and hurt your knee. Your family turns around to go home instead of finishing the hike, making you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Facial Expression _Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "hiking_incident--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "upset"
             ],
             "missing_letter_count": 2
         }

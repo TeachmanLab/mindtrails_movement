@@ -1,0 +1,17 @@
+{
+    "header_text": "Future Birthdays",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are playing with your young child and their friends at a birthday party. You start to think about if you will be able to play with them at more birthday parties as your disease progresses. You remember that the most important thing to your child is just that you are..."
+        },
+        {
+            "type": "Entry",
+            "name": "future_birthdays--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

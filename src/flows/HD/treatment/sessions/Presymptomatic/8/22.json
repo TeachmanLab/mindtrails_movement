@@ -1,14 +1,14 @@
 {
-    "header_text": "Overwhelmed at Conference",
+    "header_text": "Job Applications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Overwhelmed at Conference"
+            "text": "Job Applications"
         },
         {
             "type": "Media",
-            "url": "./images/808.jpg"
+            "url": "./images/920.jpg"
         }
     ],
     "type": "positive",

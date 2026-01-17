@@ -1,29 +1,17 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Online Payment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "At the end of your walk, you feel..."
+            "text": "Your spouse offers to help you pay a bill online. As you sit with them, you can't remember the login details for your accounts. You are embarrassed, but you know your spouse is not..."
         },
         {
-            "type": "Buttons",
-            "name": "Beach Walk_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Awestruck",
-                "Frightened"
-            ],
-            "column_count": 1,
-            "correct_value": "Awestruck"
+            "type": "Entry",
+            "name": "online_payment--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

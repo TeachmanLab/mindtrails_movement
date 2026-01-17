@@ -1,16 +1,16 @@
 {
-    "header_text": "Putting Yourself Out There",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Putting Yourself Out There"
+            "text": "Achieving Your Goals"
         },
         {
             "type": "Media",
-            "url": "./images/362.jpg"
+            "url": "./images/88.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

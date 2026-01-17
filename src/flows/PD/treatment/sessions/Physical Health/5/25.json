@@ -1,29 +1,16 @@
 {
-    "header_text": "Spider bite",
+    "header_text": "First time ice skating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to manage your worries while finishing your hike?"
+            "text": "First time ice skating"
         },
         {
-            "type": "Buttons",
-            "name": "Spider bite_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/462.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 7
 }

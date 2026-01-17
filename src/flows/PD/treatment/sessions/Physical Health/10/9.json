@@ -1,16 +1,17 @@
 {
-    "header_text": "Spring Allergies",
+    "header_text": "Meeting Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize that you usually get a stuffy nose with seasonal allergies and are probably tired from walking around for the last hour. You feel..."
+            "text": "You are at a birthday party for a friend of a friend. You start to feel a knot in your stomach while talking to someone you've never met before. This probably means that you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "meeting_someone_new--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

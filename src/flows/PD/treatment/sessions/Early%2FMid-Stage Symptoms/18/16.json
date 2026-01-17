@@ -1,23 +1,23 @@
 {
-    "header_text": "Forgetting Movie Title",
+    "header_text": "Crossing the Street",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "In the face of your discomfort, thinking of your friends makes you feel..."
+            "Text": "You realize that the most important thing is..."
         },
         {
             "type": "Buttons",
-            "name": "Forgetting Movie Title_Early/Mid-Stage Symptoms_comp_question",
+            "name": "crossing_the_street--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Supported",
-                "Discouraged"
+                "Your safety",
+                "The driver's opinion"
             ],
             "column_count": 1,
-            "correct_value": "Supported"
+            "correct_value": "Your safety"
         }
     ],
     "navigation_conditions": [

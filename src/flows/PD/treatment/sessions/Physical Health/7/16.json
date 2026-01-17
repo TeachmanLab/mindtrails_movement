@@ -1,30 +1,30 @@
 {
-    "header_text": "Friendly Neighbor",
+    "header_text": "A Birthday Cake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Has your elder neighbor likely been sick?"
+            "Text": "If you eat the cake, you will probably..."
         },
         {
             "type": "Buttons",
-            "name": "Friendly Neighbor_Physical Health_comp_question",
+            "name": "a_birthday_cake--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Not get sick",
+                "Get sick"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Get sick"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4,
     "information": {
         "elements": [

@@ -1,25 +1,25 @@
 {
-    "header_text": "Planning a Family Vacation",
+    "header_text": "Couple Strolling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your family is planning a big vacation in a few years. You wonder what life will look like for you by then and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family outside of traveling, and your family will be...  "
+            "text": "You and your spouse decide to go for an afternoon stroll. You reach out to hold their hand and notice your fingers twitching, so you pull your hand away. Thinking about whether they notice your symptoms always leaves you with a feeling of..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Planning a Family Vacation_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "couple_strolling--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "supportive"
+                "anxiety"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

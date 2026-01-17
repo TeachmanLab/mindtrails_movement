@@ -1,29 +1,17 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "Fitness Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to share your thoughts in a letter?"
+            "text": "You are walking with your fitness partner at a park. You can't seem to keep up with their pace but hesitate telling your friend because they seem to be in a groove. When you ask your friend to slow down, they quickly... "
         },
         {
-            "type": "Buttons",
-            "name": "Writing a Letter_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "fitness_walk--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 6
 }

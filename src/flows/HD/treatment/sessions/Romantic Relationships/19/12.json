@@ -1,0 +1,29 @@
+{
+    "header_text": "Relationship Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you think far into the future, you can see yourself..."
+        },
+        {
+            "type": "Buttons",
+            "name": "relationship_worries--romantic_relationships--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Realizing that you and your spouse couldn't make things work",
+                "Enjoying your golden years with your spouse"
+            ],
+            "column_count": 1,
+            "correct_value": "Realizing that you and your spouse couldn't make things work"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 3
+}

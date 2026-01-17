@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost Things",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lost Things"
+            "text": "Keys Forgotten"
         },
         {
             "type": "Media",
-            "url": "./images/734.jpg"
+            "url": "./images/208.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

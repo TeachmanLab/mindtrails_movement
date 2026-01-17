@@ -7,7 +7,8 @@
             "text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "stomach_ache--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

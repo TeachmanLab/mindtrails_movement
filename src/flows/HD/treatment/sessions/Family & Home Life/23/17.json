@@ -1,0 +1,16 @@
+{
+    "header_text": "Political Opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Political Opinions"
+        },
+        {
+            "type": "Media",
+            "url": "./images/174.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

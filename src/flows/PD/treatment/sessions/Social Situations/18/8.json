@@ -1,25 +1,25 @@
 {
-    "header_text": "Major Conference",
+    "header_text": "Taking a Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A well-known organization asked you to speak at a major conference. You think this is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people at the conference will react to your presentation, you believe they will think you look..."
+            "text": "You work in a large office with your supervisors. One morning you have to call your father and discuss an important matter. Everyone else is working quietly, and several colleagues look..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Major Conference_Social Situations_puzzle1",
+            "name": "taking_a_call--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "nervous"
+                "annoyed"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

@@ -1,25 +1,39 @@
 {
-    "header_text": "Hiking Incident",
+    "header_text": "Fitness Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You later speak with your family in the car. You realize that they just want you to be safe, and you can always try the hike again another..."
+            "Text": "Are you able to remain active?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Hiking Incident_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "fitness_class--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "time"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

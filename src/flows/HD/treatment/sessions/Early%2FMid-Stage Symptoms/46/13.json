@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptomatic in Public: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just experienced a lot of chorea while out in public. You fear that everyone around you saw it and is now judging you.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to scream in frustration, but I keep my eyes forward and think about how ocean waves calm me down.",
+                "I think about some happy memories to replace the anxiety.",
+                "I cover my face with my hands to hide from everyone around me.",
+                "I want to just run away from where I am, but I put one foot slowly in front of the other and own my condition.",
+                "I take a few steadying breaths before continuing on with my day as normal."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

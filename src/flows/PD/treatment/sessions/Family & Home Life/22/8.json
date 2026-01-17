@@ -1,0 +1,16 @@
+{
+    "header_text": "Neighborhood Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Neighborhood Walk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/236.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

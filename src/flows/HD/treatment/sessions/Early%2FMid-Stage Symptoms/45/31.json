@@ -1,0 +1,16 @@
+{
+    "header_text": "Changing Roles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Changing Roles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/722.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

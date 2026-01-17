@@ -1,14 +1,14 @@
 {
-    "header_text": "Drawing a Blank",
+    "header_text": "New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Drawing a Blank"
+            "text": "New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/244.jpg"
+            "url": "./images/854.jpg"
         }
     ],
     "type": "positive",

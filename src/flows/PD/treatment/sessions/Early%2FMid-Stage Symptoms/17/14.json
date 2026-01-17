@@ -1,16 +1,16 @@
 {
-    "header_text": "Couple Strolling",
+    "header_text": "Visiting the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Couple Strolling"
+            "text": "Visiting the Doctor's Office"
         },
         {
             "type": "Media",
-            "url": "./images/807.jpg"
+            "url": "./images/526.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

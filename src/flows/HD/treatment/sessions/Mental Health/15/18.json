@@ -1,14 +1,14 @@
 {
-    "header_text": "Opening Up",
+    "header_text": "Session Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Opening Up"
+            "text": "Session Costs"
         },
         {
             "type": "Media",
-            "url": "./images/390.jpg"
+            "url": "./images/190.jpg"
         }
     ],
     "type": "positive",

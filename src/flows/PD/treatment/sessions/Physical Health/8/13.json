@@ -1,16 +1,17 @@
 {
-    "header_text": "Poisonous Snakes",
+    "header_text": "Walking Hard",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend convinces you to go on a walk through a local park. You have heard that there are poisonous snakes in that park and start to feel worried. You think that the chances that you will see that kind of snake are..."
+            "text": "You finish a long walk. You notice that your heart is racing very fast, and your chest feels tight. You think you are about to..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "walking_hard--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

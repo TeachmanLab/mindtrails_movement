@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Family Not Approving of Significant Other_Romantic Relationships_puzzle1",
+            "name": "family_not_approving_of_significant_other--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

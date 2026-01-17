@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching up with a friend",
+    "header_text": "Walking Down Steps",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Catching up with a friend"
+            "text": "Walking Down Steps"
         },
         {
             "type": "Media",
-            "url": "./images/714.jpg"
+            "url": "./images/728.jpg"
         }
     ],
     "type": "positive",

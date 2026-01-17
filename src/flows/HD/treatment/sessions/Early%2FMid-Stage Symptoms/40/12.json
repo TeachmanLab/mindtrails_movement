@@ -1,0 +1,17 @@
+{
+    "header_text": "Disagreement with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently got into a fight with a close friend because you forgot their birthday. You've been feeling more irritable lately, and disagreements like this are becoming common. You think about the history between you and your friend, and you know that your friendship will stay..."
+        },
+        {
+            "type": "Entry",
+            "name": "disagreement_with_a_friend--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

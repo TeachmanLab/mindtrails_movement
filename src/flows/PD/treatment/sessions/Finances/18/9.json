@@ -1,0 +1,29 @@
+{
+    "header_text": "Family Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "In the next few months, your family will be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "family_car--finances--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Using your own vehicle",
+                "Borrowing a car"
+            ],
+            "column_count": 1,
+            "correct_value": "Borrowing a car"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

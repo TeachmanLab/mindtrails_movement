@@ -1,16 +1,16 @@
 {
-    "header_text": "Weekly Tea",
+    "header_text": "Dinner Party Conversation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices this change in you and looks at you with a..."
+            "text": "Dinner Party Conversation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/737.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 4
 }

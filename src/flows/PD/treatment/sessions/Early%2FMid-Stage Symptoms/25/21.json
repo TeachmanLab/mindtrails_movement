@@ -1,16 +1,16 @@
 {
-    "header_text": "Changing Household Roles",
+    "header_text": "Grocery Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Changing Household Roles"
+            "text": "Grocery Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/237.jpg"
+            "url": "./images/831.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 8
 }

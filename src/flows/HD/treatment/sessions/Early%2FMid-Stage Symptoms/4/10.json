@@ -1,14 +1,14 @@
 {
-    "header_text": "Minor Disagreement",
+    "header_text": "Difficulty Moving On",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Minor Disagreement"
+            "text": "Difficulty Moving On"
         },
         {
             "type": "Media",
-            "url": "./images/742.jpg"
+            "url": "./images/812.jpg"
         }
     ],
     "type": "positive",

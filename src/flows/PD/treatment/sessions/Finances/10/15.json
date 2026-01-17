@@ -7,7 +7,8 @@
             "text": "You are doing your taxes and start worrying about what the coming years hold, especially in terms of your finances. When you think about the coming years, you know that you will be financially... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "making_changes--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

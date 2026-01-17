@@ -1,22 +1,22 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "Friend's Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice a few lighter pieces of clothing have been stained by a darker item. You feel frustrated that your attention seems to be... "
+            "text": "You are normally calm and collected. At a friend's birthday party, you see someone forgetting to throw away their trash, and you blow up at them. Your friends look shocked, and you are left feeling isolated and..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Stained Laundry_Presymptomatic_puzzle1",
+            "name": "friend's_birthday_party--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "slipping"
+                "misunderstood"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

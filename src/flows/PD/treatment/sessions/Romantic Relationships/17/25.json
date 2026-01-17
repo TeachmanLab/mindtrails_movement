@@ -1,25 +1,25 @@
 {
-    "header_text": "Sending a Sweet Text",
+    "header_text": "Difficulty Baking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You send a sweet text to your partner that they read but don't respond to. You've both been busy with work all week, and you wonder if they still care about you in the same way. Thinking about how you've barely talked this week, you think you are drifting..."
+            "text": "You ask about how they're feeling, and they respond that they're trying to remember the answer to your question. This makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sending a Sweet Text_Romantic Relationships_puzzle1",
+            "name": "difficulty_baking--romantic_relationships--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "apart"
+                "comforted"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

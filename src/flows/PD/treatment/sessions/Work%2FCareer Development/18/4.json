@@ -1,0 +1,16 @@
+{
+    "header_text": "Extra Income",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Extra Income"
+        },
+        {
+            "type": "Media",
+            "url": "./images/101.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

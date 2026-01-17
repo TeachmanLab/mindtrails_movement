@@ -1,0 +1,15 @@
+{
+    "header_text": "Symptomatic in Public",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just experienced a lot of chorea while out in public. You fear that everyone around you saw it and is now judging you.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1010.jpg",
+            "border": true
+        }
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Not Having Much to Say",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Not Having Much to Say"
+            "text": "Corner Laughter"
         },
         {
             "type": "Media",
-            "url": "./images/684.jpg"
+            "url": "./images/671.jpg"
         }
     ],
     "type": "resilience/negation",

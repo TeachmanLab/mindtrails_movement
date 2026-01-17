@@ -1,25 +1,17 @@
 {
-    "header_text": "Cultural Family Celebrations",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your colleagues ask you to go to a conference, but it's the night of an important cultural celebration for your family. You are looking forward to the celebration with your family, but don't want your colleagues to think you're different. As you think about telling your colleagues, you realize that your culture is ..."
+            "text": "You are going to a potluck dinner party, and you want to take your family's macaroni casserole. You have the family recipe, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cultural Family Celebrations_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "important"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "cooking_a_casserole--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

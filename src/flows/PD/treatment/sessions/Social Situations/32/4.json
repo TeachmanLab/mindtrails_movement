@@ -1,0 +1,16 @@
+{
+    "header_text": "Bringing a New Friend Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bringing a New Friend Home"
+        },
+        {
+            "type": "Media",
+            "url": "./images/706.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Opening Up",
+    "header_text": "Session Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you tell your partner about your anxiety?"
+            "Text": "Do finances get in the way of therapy?"
         },
         {
             "type": "Buttons",
-            "name": "Opening Up_Mental Health_comp_question",
+            "name": "session_costs--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

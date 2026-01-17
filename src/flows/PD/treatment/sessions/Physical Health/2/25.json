@@ -1,29 +1,25 @@
 {
-    "header_text": "Weekend horseback riding",
+    "header_text": "Difficult walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it fun to go on a new roller coaster?"
+            "text": "You decide that these sensations are tolerable, and you..."
         },
         {
-            "type": "Buttons",
-            "name": "Weekend horseback riding_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "difficult_walk--physical_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "resume"
             ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

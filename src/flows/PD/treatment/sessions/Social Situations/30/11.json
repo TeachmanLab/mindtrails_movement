@@ -1,0 +1,16 @@
+{
+    "header_text": "Grocery Store Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Grocery Store Experience"
+        },
+        {
+            "type": "Media",
+            "url": "./images/648.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

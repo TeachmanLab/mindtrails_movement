@@ -1,16 +1,16 @@
 {
-    "header_text": "Being Talked About",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Being Talked About"
+            "text": "Important Opinion"
         },
         {
             "type": "Media",
-            "url": "./images/643.jpg"
+            "url": "./images/371.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

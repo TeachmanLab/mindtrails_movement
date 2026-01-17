@@ -1,16 +1,17 @@
 {
-    "header_text": "Holding the Phone",
+    "header_text": "Brushing Teeth",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been noticing your hands shaking badly when you hold your phone. Lately, you've even been dropping the phone on the ground as you're talking. When your phone rings in public, you avoid answering because you worry about feeling..."
+            "text": "You wake up feeling particularly anxious and stiff. It is hard to get out of bed, and you struggle as you try to go about your morning routine. You find that you are unable to brush your teeth, and you begin to..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "brushing_teeth--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

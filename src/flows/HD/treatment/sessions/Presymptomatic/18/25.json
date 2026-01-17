@@ -1,23 +1,23 @@
 {
-    "header_text": "Messy Living Room",
+    "header_text": "Crafting Hobby",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You react to your daughter by..."
+            "Text": "Are you able to finish the craft?"
         },
         {
             "type": "Buttons",
-            "name": "Messy Living Room_Presymptomatic_comp_question",
+            "name": "crafting_hobby--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Taking a pause",
-                "Exploding with anger"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Taking a pause"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

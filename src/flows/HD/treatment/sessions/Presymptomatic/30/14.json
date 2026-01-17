@@ -1,0 +1,29 @@
+{
+    "header_text": "Picnic Planning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "If someone brings up your HD status, the discussion will be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "picnic_planning--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Awkward",
+                "Authentic"
+            ],
+            "column_count": 1,
+            "correct_value": "Authentic"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

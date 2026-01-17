@@ -1,16 +1,16 @@
 {
-    "header_text": "Managing Multiple Positions",
+    "header_text": "Not Invited to Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Managing Multiple Positions"
+            "text": "Not Invited to Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/80.jpg"
+            "url": "./images/10.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

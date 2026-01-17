@@ -1,20 +1,20 @@
 {
-    "header_text": "Resolving a disagreement",
+    "header_text": "Collecting an old friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a minor disagreement with a coworker about the best way to complete a task, and you decide to ask your boss about it. When you talk to your boss, you momentarily forget what you were about to say. Your boss thinks you sound..."
+            "text": "You arrange to meet up with a friend you have not seen for many years. You drive to the train station to pick them up. When you arrive, you know they will find spending time with you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Resolving a disagreement_Social Situations_puzzle1",
+            "name": "collecting_an_old_friend--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "fun"
             ],
             "missing_letter_count": 1
         }

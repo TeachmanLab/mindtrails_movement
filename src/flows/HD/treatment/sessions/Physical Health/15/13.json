@@ -1,29 +1,25 @@
 {
-    "header_text": "Rearranging After Exposure",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your supervisor penalize you for getting sick?"
+            "text": "You think that tomorrow you will not fall behind. The chances you can keep up with your friend are..."
         },
         {
-            "type": "Buttons",
-            "name": "Rearranging After Exposure_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "walking_with_a_friend--physical_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "good"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

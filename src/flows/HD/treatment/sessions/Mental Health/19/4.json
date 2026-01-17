@@ -1,14 +1,14 @@
 {
-    "header_text": "Nerve-wracking presentation",
+    "header_text": "Having a New Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nerve-wracking presentation"
+            "text": "Having a New Friend Over"
         },
         {
             "type": "Media",
-            "url": "./images/26.jpg"
+            "url": "./images/387.jpg"
         }
     ],
     "type": "positive",

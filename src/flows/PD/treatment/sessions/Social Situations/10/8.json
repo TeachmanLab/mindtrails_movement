@@ -1,16 +1,17 @@
 {
-    "header_text": "Wearing Something Old",
+    "header_text": "Friend's Get Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look..."
+            "text": "Your friend is having a get together tonight. You weren't invited, but most of your other friends were. When you think about it, this makes you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "friend's_get_together--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

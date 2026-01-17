@@ -1,16 +1,16 @@
 {
-    "header_text": "Making a Toast",
+    "header_text": "Small Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Making a Toast"
+            "text": "Small Party"
         },
         {
             "type": "Media",
-            "url": "./images/635.jpg"
+            "url": "./images/636.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Expectations",
+    "header_text": "Different Expectations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Expectations"
+            "text": "Different Expectations"
         },
         {
             "type": "Media",
-            "url": "./images/67.jpg"
+            "url": "./images/955.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

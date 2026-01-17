@@ -1,16 +1,17 @@
 {
-    "header_text": "Challenging Notes",
+    "header_text": "Bakery Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're a talented guitarist, but you have noticed you're struggling to change from chord to chord. You start to worry that playing will become more and more challenging. The uncertainty of your future as a musician causes you to feel... "
+            "text": "Every Saturday morning you go to a bakery with your neighbor. Today while browsing around, you start to feel uneasy as you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "bakery_routine--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

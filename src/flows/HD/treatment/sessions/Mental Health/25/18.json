@@ -1,0 +1,17 @@
+{
+    "header_text": "Therapy Shift",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your therapist meet once a week to process events in your life. When you meet this week, you notice a sudden shift in your mood towards them. You feel agitated, but you choose to share this feeling to talk about a healthy way to... "
+        },
+        {
+            "type": "Entry",
+            "name": "therapy_shift--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

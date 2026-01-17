@@ -1,10 +1,10 @@
 {
-    "header_text": "Visiting your Partner's Parents",
+    "header_text": "Visiting your Partner's Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Visiting your Partner's Parents"
+            "text": "Visiting your Partner's Friends"
         },
         {
             "type": "Media",

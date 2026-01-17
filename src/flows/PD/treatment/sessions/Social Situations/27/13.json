@@ -1,16 +1,16 @@
 {
-    "header_text": "Commenting on a Friend's Post",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Commenting on a Friend's Post"
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/711.jpg"
+            "name": "Reason5_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    ]
 }

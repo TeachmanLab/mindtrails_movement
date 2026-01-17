@@ -1,16 +1,16 @@
 {
-    "header_text": "Trouble Making Friends",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you think about life in your new city, you do not see yourself having to go through this alone. You decide finding a local therapist will be..."
+            "text": "An Invitation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/396.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,25 +1,16 @@
 {
-    "header_text": "One More Item",
+    "header_text": "To-do List",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are almost ready to check out at the grocery store, but you forgot the last item on your list. When you forget something like this, it makes you think about when your mom started showing symptoms of HD. You think you probably can't remember the last item because, lately, you have been so..."
+            "text": "To-do List"
         },
         {
-            "type": "WordPuzzle",
-            "name": "One More Item_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "distracted"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/406.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

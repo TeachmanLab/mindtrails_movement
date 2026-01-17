@@ -1,0 +1,16 @@
+{
+    "header_text": "Fundraiser presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fundraiser presentation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/107.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

@@ -1,29 +1,17 @@
 {
-    "header_text": "Forgotten Item",
+    "header_text": "Local Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your forgetfulness probably a sign of dementia?"
+            "text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking in your direction, and you worry that they think you are... "
         },
         {
-            "type": "Buttons",
-            "name": "Forgotten Item_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "local_event--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 2
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

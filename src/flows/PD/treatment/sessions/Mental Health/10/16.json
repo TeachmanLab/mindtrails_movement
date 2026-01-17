@@ -1,16 +1,16 @@
 {
-    "header_text": "Difficult walk",
+    "header_text": "Opposing Opinions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Difficult walk"
+            "text": "Opposing Opinions "
         },
         {
             "type": "Media",
-            "url": "./images/363.jpg"
+            "url": "./images/146.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

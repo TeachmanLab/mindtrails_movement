@@ -1,0 +1,17 @@
+{
+    "header_text": "Disease and Identity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You feel as if HD has become central to your identity. You have recently been feeling the burden of explaining your diagnosis in every conversation, especially with new people. You begin to understand your disease as something that can be both shared and kept... "
+        },
+        {
+            "type": "Entry",
+            "name": "disease_and_identity--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

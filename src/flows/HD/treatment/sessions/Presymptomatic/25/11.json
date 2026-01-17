@@ -1,16 +1,17 @@
 {
-    "header_text": "Convenience Store",
+    "header_text": "Produce Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Convenience Store"
+            "text": "You are shopping in a new, huge grocery store. When you see all the options, you feel overwhelmed about making decisions on the spot. You check your list and only buy what you... "
         },
         {
-            "type": "Media",
-            "url": "./images/758.jpg"
+            "type": "Entry",
+            "name": "produce_shopping--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 3
 }

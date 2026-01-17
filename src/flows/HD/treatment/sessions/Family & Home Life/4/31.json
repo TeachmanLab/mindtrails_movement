@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Sharing Your Familial Traditions_Family & Home Life_puzzle1",
+            "name": "sharing_your_familial_traditions--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

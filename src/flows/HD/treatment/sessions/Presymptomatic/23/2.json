@@ -1,14 +1,14 @@
 {
-    "header_text": "Hiking with Friends",
+    "header_text": "Anniversary Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiking with Friends"
+            "text": "Anniversary Trip"
         },
         {
             "type": "Media",
-            "url": "./images/864.jpg"
+            "url": "./images/847.jpg"
         }
     ],
     "type": "positive",

@@ -1,20 +1,20 @@
 {
-    "header_text": "Checks at the dentist",
+    "header_text": "A birthday cake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a routine dentist appointment and find out that you need some tests to check the health of your gums and teeth. After the dentist performs the tests, you lie in the dentist's chair alone for a while, waiting for the results. You think your teeth and gums are probably..."
+            "text": "Your friend buys you a cake for your birthday. When they bring it over in the evening, they say they have recently gotten over being ill. Holding the cake, you think your chances of becoming sick are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Checks at the dentist_Physical Health_puzzle1",
+            "name": "a_birthday_cake--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "healthy"
+                "small"
             ],
             "missing_letter_count": 1
         }

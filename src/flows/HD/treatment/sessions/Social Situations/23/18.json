@@ -1,25 +1,17 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "New Training Plan",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store, and you think they will be..."
+            "text": "You are giving a presentation to your coworkers about a new training plan. You feel that your hands are shaking a little. Wondering if it is obvious, you look around and see that a few people have..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Close Friend's Birthday_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "upset"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "new_training_plan--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

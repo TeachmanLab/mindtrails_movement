@@ -1,25 +1,25 @@
 {
-    "header_text": "Planning a Trip",
+    "header_text": "Avid Traveler",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip takes a lot of thinking, and you feel really exhausted. You take a break to walk outside and return feeling... "
+            "text": "You remind yourself that you can still find fulfillment in traveling more locally. Focusing on other aspects of travel that you enjoy gives you... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Planning a Trip_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "avid_traveler--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "refreshed"
+                "peace"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

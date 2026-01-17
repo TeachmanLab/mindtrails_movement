@@ -1,16 +1,17 @@
 {
-    "header_text": "Missed a Turn",
+    "header_text": "Financial Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Missed a Turn"
+            "text": "You are meeting with your financial advisor to talk about the future of your finances with HD. You become easily aggravated during the conversation, but you are unsure why. You reflect on the hard work of your advisor as you give... "
         },
         {
-            "type": "Media",
-            "url": "./images/874.jpg"
+            "type": "Entry",
+            "name": "financial_planning--presymptomatic--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 5
 }

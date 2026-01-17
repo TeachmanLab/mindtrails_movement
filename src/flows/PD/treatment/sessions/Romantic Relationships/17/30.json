@@ -1,14 +1,14 @@
 {
-    "header_text": "Dating Again",
+    "header_text": "Family Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dating Again"
+            "text": "Family Communication"
         },
         {
             "type": "Media",
-            "url": "./images/959.jpg"
+            "url": "./images/180.jpg"
         }
     ],
     "type": "positive",

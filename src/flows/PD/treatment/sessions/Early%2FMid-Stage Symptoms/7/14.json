@@ -1,14 +1,14 @@
 {
-    "header_text": "Conflict with Spouse",
+    "header_text": "Coffee Ordering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conflict with Spouse"
+            "text": "Coffee Ordering"
         },
         {
             "type": "Media",
-            "url": "./images/593.jpg"
+            "url": "./images/766.jpg"
         }
     ],
     "type": "positive",

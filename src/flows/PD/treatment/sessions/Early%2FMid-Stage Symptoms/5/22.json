@@ -1,20 +1,20 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "Night of Bad Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are a dog owner. You've had difficulty with your balance lately, and you worry that it will become harder to take your dog for a walk. Thinking about whether you will be able to continue to care for your dog makes you feel..."
+            "text": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night, you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "night_of_bad_sleep--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "overwhelmed"
+                "frustrated"
             ],
             "missing_letter_count": 2
         }

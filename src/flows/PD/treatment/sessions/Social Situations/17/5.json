@@ -1,22 +1,22 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Issues While Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You invite your supervisor to an event this weekend. You're the only one of your friends that's close with their supervisor and are unsure of how others will perceive you. As you get ready for the event, you feel..."
+            "text": "You're hosting a dinner at your place with some neighborhood friends. The price of food at the grocery store is higher than you expected, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help..."
         },
         {
             "type": "WordPuzzle",
-            "name": "An Invitation_Social Situations_puzzle1",
+            "name": "issues_while_shopping--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "out"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

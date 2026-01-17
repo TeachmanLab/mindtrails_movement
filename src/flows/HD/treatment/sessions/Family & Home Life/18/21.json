@@ -1,14 +1,14 @@
 {
-    "header_text": "Building Project",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Building Project"
+            "text": "Pet Schedule"
         },
         {
             "type": "Media",
-            "url": "./images/239.jpg"
+            "url": "./images/211.jpg"
         }
     ],
     "type": "positive",

@@ -1,23 +1,23 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "HOA Meeting Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to share your thoughts in a letter?"
+            "Text": "After struggling to plan the meeting, you..."
         },
         {
             "type": "Buttons",
-            "name": "Writing a Letter_Presymptomatic_comp_question",
+            "name": "hoa_meeting_plans--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Notice your feelings",
+                "Try to ignore your concerns"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Notice your feelings"
         }
     ],
     "navigation_conditions": [

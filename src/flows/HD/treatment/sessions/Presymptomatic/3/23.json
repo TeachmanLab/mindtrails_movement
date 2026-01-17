@@ -1,16 +1,16 @@
 {
-    "header_text": "Word Trouble",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Word Trouble"
+            "text": "Moving to a New City"
         },
         {
             "type": "Media",
-            "url": "./images/897.jpg"
+            "url": "./images/789.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

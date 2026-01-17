@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other... "
+            "text": "You and your spouse recently divorced. Your grandchild is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Dealing with Divorce_Family & Home Life_puzzle1",
+            "name": "dealing_with_divorce--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

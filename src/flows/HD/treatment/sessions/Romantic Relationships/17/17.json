@@ -1,16 +1,16 @@
 {
-    "header_text": "Trying New Foods",
+    "header_text": "Opening Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trying New Foods"
+            "text": "Opening Up"
         },
         {
             "type": "Media",
-            "url": "./images/336.jpg"
+            "url": "./images/390.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

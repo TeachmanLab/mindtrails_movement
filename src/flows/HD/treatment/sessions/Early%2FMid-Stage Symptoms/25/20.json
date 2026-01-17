@@ -1,29 +1,17 @@
 {
-    "header_text": "Hosting a Dinner",
+    "header_text": "Family Board Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you ruin the celebration?"
+            "text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next..."
         },
         {
-            "type": "Buttons",
-            "name": "Hosting a Dinner_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "family_board_game--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

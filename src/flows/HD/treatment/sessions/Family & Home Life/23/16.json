@@ -1,0 +1,17 @@
+{
+    "header_text": "Moody Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At family dinner, you're feeling irritable, and you're not sure why. You feel so unsettled that you're not sure you want to finish the meal. You decide to focus food and family, helping you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "moody_dinner--family_&_home_life--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

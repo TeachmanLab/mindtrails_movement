@@ -1,16 +1,16 @@
 {
-    "header_text": "Customer Service Job",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Customer Service Job"
+            "text": "Reason 2:"
         },
         {
-            "type": "Media",
-            "url": "./images/950.jpg"
+            "name": "Reason2_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    ]
 }

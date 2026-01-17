@@ -1,16 +1,16 @@
 {
-    "header_text": "Rude Email Response",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Rude Email Response"
+            "text": "Reason 2:"
         },
         {
-            "type": "Media",
-            "url": "./images/73.jpg"
+            "name": "Reason2_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "negative",
-    "scenario_num": 3
+    ]
 }

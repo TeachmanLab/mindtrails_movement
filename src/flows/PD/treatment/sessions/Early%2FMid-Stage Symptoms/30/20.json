@@ -1,16 +1,29 @@
 {
-    "header_text": "Planning an Outing",
+    "header_text": "Smoothie Shop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planning family outings has always been a fun activity for you. As you plan an upcoming beach day, you become overwhelmed. After a break and a snack, you can..."
+            "Text": "Your colleague remembering your order is..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "smoothie_shop--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Embarrassing",
+                "Thoughtful"
+            ],
+            "column_count": 1,
+            "correct_value": "Thoughtful"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 5
 }

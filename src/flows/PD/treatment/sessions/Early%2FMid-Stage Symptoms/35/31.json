@@ -1,0 +1,16 @@
+{
+    "header_text": "Hosting Book Club",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hosting Book Club"
+        },
+        {
+            "type": "Media",
+            "url": "./images/860.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

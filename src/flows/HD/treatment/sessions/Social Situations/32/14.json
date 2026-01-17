@@ -1,0 +1,16 @@
+{
+    "header_text": "Your Friend's Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your Friend's Support"
+        },
+        {
+            "type": "Media",
+            "url": "./images/708.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

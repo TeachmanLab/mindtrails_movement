@@ -7,7 +7,8 @@
             "text": "Your child really wants to go to a theme park for vacation this year. You've been researching the cost of the trip, and you don't think you can afford it. You think that you can find an alternative trip that your child will still... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "affording_a_trip_--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

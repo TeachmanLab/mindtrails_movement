@@ -1,20 +1,20 @@
 {
-    "header_text": "Voicing Your Feelings",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Was your partner angry with you for voicing your concern?"
+            "Text": "Were your coworkers laughing at you?"
         },
         {
             "type": "Buttons",
-            "name": "Voicing Your Feelings_Social Situations_comp_question",
+            "name": "corner_laughter--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "No"
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

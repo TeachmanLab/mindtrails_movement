@@ -1,16 +1,16 @@
 {
-    "header_text": "Journaling Shift",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Journaling Shift"
+            "text": "Long Walk Outside"
         },
         {
             "type": "Media",
-            "url": "./images/409.jpg"
+            "url": "./images/397.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "A different haircut",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A different haircut"
+            "text": "Loud friend"
         },
         {
             "type": "Media",
-            "url": "./images/629.jpg"
+            "url": "./images/630.jpg"
         }
     ],
     "type": "positive",

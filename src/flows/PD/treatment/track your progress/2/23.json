@@ -7,6 +7,7 @@
             "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou will have to pay a fee for late payment."
         },
         {
+            "name": "mdib_6c_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

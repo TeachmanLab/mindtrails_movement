@@ -1,14 +1,14 @@
 {
-    "header_text": "Waking Up Ready",
+    "header_text": "Food Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Waking Up Ready"
+            "text": "Food Costs"
         },
         {
             "type": "Media",
-            "url": "./images/76.jpg"
+            "url": "./images/315.jpg"
         }
     ],
     "type": "positive",

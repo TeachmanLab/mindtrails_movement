@@ -1,29 +1,29 @@
 {
-    "header_text": "Dance Studio",
+    "header_text": "Social media photo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The music in the dance studio make you feel..."
+            "Text": "Are you looking forward to others seeing your picture on the website?"
         },
         {
             "type": "Buttons",
-            "name": "Dance Studio_Social Situations_comp_question",
+            "name": "social_media_photo--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Excited and lively",
-                "Disoriented and scared"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Excited and lively"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

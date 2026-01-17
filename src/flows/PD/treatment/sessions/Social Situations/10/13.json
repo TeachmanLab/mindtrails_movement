@@ -1,13 +1,14 @@
 {
-    "header_text": "An Acquaintance",
+    "header_text": "Hanging Out with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You run into someone you don't know well on the street who you look up to. You ask them how they are doing, and they continue to keep walking. This acquaintance probably thinks you are..."
+            "text": "You are hanging out with some friends. One friend invites another friend to come over to their house in a few days without inviting you. You think about it and realize you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "hanging_out_with_friends--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

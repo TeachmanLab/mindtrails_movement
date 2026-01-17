@@ -1,14 +1,14 @@
 {
-    "header_text": "Question at Work",
+    "header_text": "Movie Theater Distraction",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Question at Work"
+            "text": "Movie Theater Distraction"
         },
         {
             "type": "Media",
-            "url": "./images/733.jpg"
+            "url": "./images/804.jpg"
         }
     ],
     "type": "positive",

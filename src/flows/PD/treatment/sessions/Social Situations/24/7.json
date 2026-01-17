@@ -1,16 +1,16 @@
 {
-    "header_text": "Bringing a New Friend Home",
+    "header_text": "New Opportunity at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Bringing a New Friend Home"
+            "text": "New Opportunity at Work"
         },
         {
             "type": "Media",
-            "url": "./images/706.jpg"
+            "url": "./images/108.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

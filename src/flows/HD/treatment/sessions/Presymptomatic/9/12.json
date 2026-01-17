@@ -1,16 +1,16 @@
 {
-    "header_text": "Overwhelming Waiting Room",
+    "header_text": "Night of Bad Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Overwhelming Waiting Room"
+            "text": "Night of Bad Sleep"
         },
         {
             "type": "Media",
-            "url": "./images/922.jpg"
+            "url": "./images/760.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Finding Support",
+    "header_text": "One More Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to reach out to an HD support group to help find better ways to deal with the anxiety. You think the people you reach out to will... "
+            "text": "One More Item"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/413.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 9
+    "type": "positive",
+    "scenario_num": 7
 }

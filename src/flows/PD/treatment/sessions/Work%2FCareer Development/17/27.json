@@ -1,14 +1,14 @@
 {
-    "header_text": "Answering Unexpected Questions",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Answering Unexpected Questions"
+            "text": "Zoning Out"
         },
         {
             "type": "Media",
-            "url": "./images/120.jpg"
+            "url": "./images/98.jpg"
         }
     ],
     "type": "positive",

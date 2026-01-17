@@ -1,25 +1,17 @@
 {
-    "header_text": "Unfamiliar Walk",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a walk with your dog, trying to relax and exercise. You find yourself on an unusual route and don't recognize your surroundings. You take out your cell phone and reroute home, showing that you are able to..."
+            "text": "You have decorated cookies with your child and placed them in the oven to bake. As you pull the tray out, it drops to the floor, breaking a few of the cookies. You feel like you disappointed your kid, but they let out a... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Unfamiliar Walk_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "adapt"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "baking_cookies--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 3
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Work Concentration",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Work Concentration"
+        },
+        {
+            "type": "Media",
+            "url": "./images/888.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

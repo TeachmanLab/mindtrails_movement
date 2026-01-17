@@ -1,25 +1,25 @@
 {
-    "header_text": "Directions to Thrift Store",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enjoy walking to the thrift store occasionally. You turn on the wrong street and have to retrace your steps. This makes you..."
+            "text": "You and your spouse have been married for a long time. Recently, you find yourself becoming easily angered with them over things that haven't made you upset in the past. Instead of fearing the future, you realize how your marriage is a... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Directions to Thrift Store_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "new_conflict_with_spouse--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "worried"
+                "commitment"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

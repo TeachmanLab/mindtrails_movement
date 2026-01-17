@@ -1,14 +1,14 @@
 {
-    "header_text": "Waiting for a Reply ",
+    "header_text": "Inside Jokes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Waiting for a Reply "
+            "text": "Inside Jokes "
         },
         {
             "type": "Media",
-            "url": "./images/658.jpg"
+            "url": "./images/332.jpg"
         }
     ],
     "type": "positive",

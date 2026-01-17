@@ -1,25 +1,39 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Child Check-In",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After the performance is over, you speak with your grandchild and compliment them on their performance. You realize that your grandchild is just happy you were able to attend, regardless of your..."
+            "Text": "Is the child okay?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Attending a Dance Recital_Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "child_check-in--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "symptoms"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

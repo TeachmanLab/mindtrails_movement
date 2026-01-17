@@ -1,16 +1,16 @@
 {
-    "header_text": "Loan Repayment",
+    "header_text": "Getting Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have spent years repaying loan debt from your house, schooling, and cars. As you notice more signs of HD, you worry that you won't have enough time to pay off the loans. You set up a meeting with a financial planner, helping you feel more..."
+            "text": "Getting Coffee"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/719.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

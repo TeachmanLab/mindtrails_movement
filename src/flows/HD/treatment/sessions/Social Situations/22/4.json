@@ -1,14 +1,14 @@
 {
-    "header_text": "Cooking a Casserole",
+    "header_text": "Major Conference",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cooking a Casserole"
+            "text": "Major Conference"
         },
         {
             "type": "Media",
-            "url": "./images/574.jpg"
+            "url": "./images/126.jpg"
         }
     ],
     "type": "negative",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Seeing your Aunt",
+    "header_text": "Family Board Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Seeing your Aunt"
+            "text": "Family Board Game"
         },
         {
             "type": "Media",
-            "url": "./images/844.jpg"
+            "url": "./images/226.jpg"
         }
     ],
     "type": "positive",

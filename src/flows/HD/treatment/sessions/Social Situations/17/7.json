@@ -1,16 +1,16 @@
 {
-    "header_text": "Not Feeling Supported",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Not Feeling Supported"
+            "text": "Balancing Home Life and Friends"
         },
         {
             "type": "Media",
-            "url": "./images/678.jpg"
+            "url": "./images/194.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 2
 }

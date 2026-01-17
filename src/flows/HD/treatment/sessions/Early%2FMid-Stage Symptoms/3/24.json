@@ -1,25 +1,25 @@
 {
-    "header_text": "Forgetting the Laundry",
+    "header_text": "Comparing at the Gym",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still...\n"
+            "text": "You go to the gym twice a week to do strength training exercises. Although you enjoy your time at the gym, you can't help but notice your mobility compared to others. You realize that thinking about this gets you in a bad... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Forgetting the Laundry_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "comparing_at_the_gym--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "capable"
+                "mood"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

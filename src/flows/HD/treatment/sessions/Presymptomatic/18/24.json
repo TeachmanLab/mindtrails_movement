@@ -1,22 +1,22 @@
 {
-    "header_text": "Messy Living Room",
+    "header_text": "Crafting Hobby",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your living room is cluttered, so you decide to organize it today. You are soon feeling extremely frustrated at the mess your family has made. Your daughter yells from another room to ask you for help with something, and you close your eyes and..."
+            "text": "ou doctor encouraged you to try some new hobbies, so you decide to go to a crafting workshop. You're not particularly crafty, and you're having trouble learning to use the tools. You ask for help from the instructor, and you do the... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Messy Living Room_Presymptomatic_puzzle1",
+            "name": "crafting_hobby--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "breathe"
+                "craft"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

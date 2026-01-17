@@ -1,23 +1,23 @@
 {
-    "header_text": "Dentist Difficulty",
+    "header_text": "Playing Music",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The dentist is..."
+            "Text": "Your identity as a musician is..."
         },
         {
             "type": "Buttons",
-            "name": "Dentist Difficulty_Early/Mid-Stage Symptoms_comp_question",
+            "name": "playing_music--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Bothered",
-                "Accepting"
+                "Changing",
+                "Over"
             ],
             "column_count": 1,
-            "correct_value": "Accepting"
+            "correct_value": "Changing"
         }
     ],
     "navigation_conditions": [
@@ -25,5 +25,5 @@
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 7
 }

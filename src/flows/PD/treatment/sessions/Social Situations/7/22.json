@@ -1,14 +1,14 @@
 {
-    "header_text": "Funny Photos",
+    "header_text": "Making a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your friend think you look good?"
+            "Text": "Did your friends enjoy your toast?"
         },
         {
             "type": "Buttons",
-            "name": "Funny Photos_Social Situations_comp_question",
+            "name": "making_a_toast--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

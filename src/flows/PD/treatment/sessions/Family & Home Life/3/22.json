@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your colleagues ask you to go to a conference, but it's the night of an important cultural celebration for your family. You are looking forward to the celebration with your family, but don't want your colleagues to think you're different. As you think about telling your colleagues, you realize that your culture is ..."
+            "text": "Your neighbors ask you to go to a local theater show, but it's the night of an important cultural celebration for your family. You are looking forward to the celebration with your family, but don't want your neighbors to feel rejected. As you think about telling your neighbors, you realize that your culture is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cultural Family Celebrations_Family & Home Life_puzzle1",
+            "name": "cultural_family_celebrations--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

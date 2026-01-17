@@ -1,10 +1,10 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Manage Your Feelings: Presymptomatic",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #20 \n\n A calmer mind is within reach. Practice your flexible thinking today! "
+            "text": "It can be scary not knowing what the future holds, but fighting against reality can cause more difficulty with mood and anxiety. Acknowledge any feelings you are having about your situation, be it anger, fear, sadness, or something else, without judging or criticizing how you’re feeling."
         }
     ]
 }

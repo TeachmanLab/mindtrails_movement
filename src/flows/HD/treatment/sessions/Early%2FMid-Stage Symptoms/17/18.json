@@ -1,22 +1,22 @@
 {
-    "header_text": "Cut Finger",
+    "header_text": "Brother Getting Tested",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to make a hearty vegetable stew for lunch, meaning you have to cut many vegetables. You ask your family for help in the kitchen, but you still end up with a small cut on your finger due to chorea. Your family runs over to you because they're..."
+            "text": "Your sibling has not been tested for HD. They tell you that they think they have been experiencing some symptoms lately, and they have decided to undergo genetic testing. As you think about what the results could mean for your sibling, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cut Finger_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "brother_getting_tested--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "frightened"
+                "distraught"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

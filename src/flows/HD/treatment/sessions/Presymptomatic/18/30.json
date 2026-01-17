@@ -1,14 +1,14 @@
 {
-    "header_text": "Crafts and Crochet",
+    "header_text": "Handwriting Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crafts and Crochet"
+            "text": "Handwriting Thoughts"
         },
         {
             "type": "Media",
-            "url": "./images/229.jpg"
+            "url": "./images/411.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "Not Feeling Supported",
+    "header_text": "Jokes with Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Not Feeling Supported"
+            "text": "Jokes with Friends "
         },
         {
             "type": "Media",
-            "url": "./images/678.jpg"
+            "url": "./images/660.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

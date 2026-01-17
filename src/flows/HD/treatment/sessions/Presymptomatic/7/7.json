@@ -1,14 +1,14 @@
 {
-    "header_text": "Future Birthdays",
+    "header_text": "Forgetting Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Future Birthdays"
+            "text": "Forgetting Groceries"
         },
         {
             "type": "Media",
-            "url": "./images/886.jpg"
+            "url": "./images/796.jpg"
         }
     ],
     "type": "positive",

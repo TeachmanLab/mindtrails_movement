@@ -1,0 +1,16 @@
+{
+    "header_text": "Crafts and Crochet",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crafts and Crochet"
+        },
+        {
+            "type": "Media",
+            "url": "./images/229.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

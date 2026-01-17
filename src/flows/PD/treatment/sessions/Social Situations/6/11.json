@@ -7,6 +7,7 @@
             "text": "Your boss tells everyone that tomorrow you'll divide into small groups to plan out new work projects. They also say that you'll have to pick your group, but you realize you don't have any close friends in your workplace.\n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
         },
         {
+            "name": "long10",
             "type": "Entry"
         }
     ],

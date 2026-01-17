@@ -1,0 +1,29 @@
+{
+    "header_text": "Your Friend's Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you think about upcoming events in your life, you think your best friend will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "your_friend's_support--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Not empathize with your experiences",
+                "Try to understand what you're going through"
+            ],
+            "column_count": 1,
+            "correct_value": "Try to understand what you're going through"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

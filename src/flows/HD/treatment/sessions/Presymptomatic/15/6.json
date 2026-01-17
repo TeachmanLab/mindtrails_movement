@@ -1,22 +1,22 @@
 {
-    "header_text": "Movie Distraction",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's Friday night, and you decide to go to see a movie. During the movie, you have a lot on your mind, so you have trouble following the plot. You close your eyes and listen to the dialogue, and soon you are back on..."
+            "text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Movie Distraction_Presymptomatic_puzzle1",
+            "name": "name_recall_--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "track"
+                "laugh"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

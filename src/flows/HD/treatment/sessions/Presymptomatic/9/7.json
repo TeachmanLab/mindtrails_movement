@@ -1,13 +1,14 @@
 {
-    "header_text": "Typing An Email",
+    "header_text": "Outburst During Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're typing an email, you notice it's taking longer than usual to find the right words. This mental fog is concerning you, and you wonder if this is related to HD. You take a break to drink some water, and you feel refreshed when you return to the..."
+            "text": "You are playing card games with a group of friends when you start to get frustrated trying to remember the rules. Suddenly, you have an outburst of emotion and immediately feel embarrassed. You remember that your friends are aware of these symptoms and will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "outburst_during_cards--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

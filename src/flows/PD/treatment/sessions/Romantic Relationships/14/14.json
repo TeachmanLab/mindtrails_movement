@@ -1,29 +1,10 @@
 {
-    "header_text": "Work Gala",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your partner is..."
-        },
-        {
-            "type": "Buttons",
-            "name": "Work Gala_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Ashamed",
-                "Happy"
-            ],
-            "column_count": 1,
-            "correct_value": "Happy"
+            "text": "Motivational Statement #18 \n\n Think about a challenge you've overcome in the past. It was hard, but you succeeded, and you can do it again!"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    ]
 }

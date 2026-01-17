@@ -1,14 +1,14 @@
 {
-    "header_text": "Overwhelmed at Meeting",
+    "header_text": "Paying With Cash",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Overwhelmed at Meeting"
+            "text": "Paying With Cash"
         },
         {
             "type": "Media",
-            "url": "./images/808.jpg"
+            "url": "./images/787.jpg"
         }
     ],
     "type": "positive",

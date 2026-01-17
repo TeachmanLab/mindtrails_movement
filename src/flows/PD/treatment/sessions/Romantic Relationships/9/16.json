@@ -1,10 +1,10 @@
 {
-    "header_text": "Meeting the Parents",
+    "header_text": "Meeting the Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Meeting the Parents"
+            "text": "Meeting the Family"
         },
         {
             "type": "Media",

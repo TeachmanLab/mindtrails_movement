@@ -1,0 +1,17 @@
+{
+    "header_text": "Minor Disagreement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're enjoying a quiet evening at home with your partner when you notice that you're having difficulty letting go of a small disagreement. You worry that it is putting strain on your relationship. You remind yourself that if you express your worries, your partner will respond with..."
+        },
+        {
+            "type": "Entry",
+            "name": "minor_disagreement--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
+}

@@ -7,7 +7,8 @@
             "text": "Today, you woke up tired and sluggish. You're having trouble focusing on your work, and you wonder whether this is a sign of your disease progressing. Suddenly, you remember that you stayed up late last night and feeling tired is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "work_day--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

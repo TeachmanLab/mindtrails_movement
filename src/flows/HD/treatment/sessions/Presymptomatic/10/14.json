@@ -1,16 +1,16 @@
 {
-    "header_text": "Fear of Sharing",
+    "header_text": "Journaling Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fear of Sharing"
+            "text": "Journaling Issues"
         },
         {
             "type": "Media",
-            "url": "./images/925.jpg"
+            "url": "./images/819.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

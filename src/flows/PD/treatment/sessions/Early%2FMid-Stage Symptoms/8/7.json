@@ -1,16 +1,16 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "Therapist after Diagnosis",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are an avid traveler but have recently had mobility challenges and frequent fatigue. You worry about how this will impact your ability to explore new destinations and maintain a fast-paced lifestyle. The more you think about it, the more you become..."
+            "text": "Therapist after Diagnosis"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/774.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

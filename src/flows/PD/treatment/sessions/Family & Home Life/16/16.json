@@ -1,10 +1,14 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #20 \n\n Practicing how you perceive your surroundings every day will help build a positive habit in your life!"
+            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety?"
+        },
+        {
+            "type": "Entry",
+            "name": "tip #11--entry"
         }
     ]
 }

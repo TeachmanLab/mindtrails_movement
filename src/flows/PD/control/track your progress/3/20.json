@@ -7,6 +7,7 @@
             "text": "You are talking to a neighbor and have difficulty saying a word. What is your neighbor thinking? \n\nThey are trying to figure out which word you are trying to say so that they can help you."
         },
         {
+            "name": "mdib_5c_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

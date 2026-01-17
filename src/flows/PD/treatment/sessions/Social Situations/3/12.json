@@ -1,20 +1,20 @@
 {
-    "header_text": "Bumping into someone",
+    "header_text": "A personal question",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "On your way out from work, you stop in the restroom. As you leave the bathroom stall, your coworker passes you and gives you a funny look. Your coworker is probably..."
+            "text": "You're sitting on the couch, watching TV with a friend. Your friend asks you a personal question. You answer honestly, and you believe your friend probably thinks of you as being..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Bumping into someone_Social Situations_puzzle1",
+            "name": "a_personal_question--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "distracted"
+                "open"
             ],
             "missing_letter_count": 1
         }

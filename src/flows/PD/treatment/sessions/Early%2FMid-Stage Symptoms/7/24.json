@@ -1,14 +1,14 @@
 {
-    "header_text": "Coffee Together",
+    "header_text": "Book Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Coffee Together"
+            "text": "Book Club"
         },
         {
             "type": "Media",
-            "url": "./images/761.jpg"
+            "url": "./images/769.jpg"
         }
     ],
     "type": "positive",

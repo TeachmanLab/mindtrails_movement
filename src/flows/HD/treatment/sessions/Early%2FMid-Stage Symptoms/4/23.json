@@ -1,16 +1,16 @@
 {
-    "header_text": "Forgetting PIN Number",
+    "header_text": "Typing An Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgetting PIN Number"
+            "text": "Typing An Email"
         },
         {
             "type": "Media",
-            "url": "./images/744.jpg"
+            "url": "./images/815.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

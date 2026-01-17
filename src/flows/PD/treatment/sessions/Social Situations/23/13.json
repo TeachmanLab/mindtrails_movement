@@ -1,16 +1,16 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Taking Yourself to a Movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Grocery Store Experience"
+            "text": "Taking Yourself to a Movie"
         },
         {
             "type": "Media",
-            "url": "./images/648.jpg"
+            "url": "./images/689.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 5
 }

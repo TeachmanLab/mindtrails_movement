@@ -1,25 +1,17 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a trip to the beach with a close friend. Walking in the sand is making you lose your balance, and you are afraid to fall. You stop walking and look out at the horizon, feeling..."
+            "text": "You are enjoying a meal with your family at a restaurant. You choke on a bite that is too big and begin to cough very loudly. A few people turn to look over at your table, and you feel... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Beach Walk_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "awe"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "fresh_air--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

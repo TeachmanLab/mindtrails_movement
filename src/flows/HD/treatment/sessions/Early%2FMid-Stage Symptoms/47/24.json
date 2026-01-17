@@ -1,0 +1,16 @@
+{
+    "header_text": "Wedding Celebration",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Wedding Celebration"
+        },
+        {
+            "type": "Media",
+            "url": "./images/730.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

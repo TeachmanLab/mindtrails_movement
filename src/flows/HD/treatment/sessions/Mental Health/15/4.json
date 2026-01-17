@@ -1,14 +1,14 @@
 {
-    "header_text": "Mental Health Resources",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you unable to help your partner? "
+            "Text": "Are you anxious about your plan to finish your tasks in the morning?"
         },
         {
             "type": "Buttons",
-            "name": "Mental Health Resources_Mental Health_comp_question",
+            "name": "waking_up_ready--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

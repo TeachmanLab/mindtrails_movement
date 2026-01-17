@@ -1,14 +1,14 @@
 {
-    "header_text": "A new camera",
+    "header_text": "An organized outing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A new camera"
+            "text": "An organized outing"
         },
         {
             "type": "Media",
-            "url": "./images/603.jpg"
+            "url": "./images/604.jpg"
         }
     ],
     "type": "positive",

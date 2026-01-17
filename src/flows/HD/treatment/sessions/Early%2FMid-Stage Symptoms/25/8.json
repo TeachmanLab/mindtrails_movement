@@ -1,29 +1,17 @@
 {
-    "header_text": "Laundry Dilemma",
+    "header_text": "HOA Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Having a support system to help you makes you feel..."
+            "text": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before trying again, you take a break and ask a friend for..."
         },
         {
-            "type": "Buttons",
-            "name": "Laundry Dilemma_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Overwhelmed",
-                "Comforted"
-            ],
-            "column_count": 1,
-            "correct_value": "Comforted"
+            "type": "Entry",
+            "name": "hoa_meeting--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

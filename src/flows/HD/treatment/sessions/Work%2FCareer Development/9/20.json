@@ -7,7 +7,8 @@
             "text": "You sent an email to your department a few hours ago asking for responses to a topic. You check to see who's responded and notice that your boss hasn't responded yet. You think about how your boss didn't read the email from you, and you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "feedback_via_email--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

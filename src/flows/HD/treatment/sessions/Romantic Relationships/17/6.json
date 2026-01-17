@@ -1,23 +1,23 @@
 {
-    "header_text": "Shopping For Party Supplies",
+    "header_text": "Mental Health Resources",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "With the support of your spouse, you feel..."
+            "Text": "Are you unable to help your partner? "
         },
         {
             "type": "Buttons",
-            "name": "Shopping For Party Supplies_Romantic Relationships_comp_question",
+            "name": "mental_health_resources--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Grateful",
-                "Agitated"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Grateful"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

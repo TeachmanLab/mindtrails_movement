@@ -1,0 +1,16 @@
+{
+    "header_text": "Writing a Letter",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Writing a Letter"
+        },
+        {
+            "type": "Media",
+            "url": "./images/841.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

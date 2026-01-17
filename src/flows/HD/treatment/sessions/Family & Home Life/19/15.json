@@ -1,0 +1,16 @@
+{
+    "header_text": "Trying Times",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trying Times"
+        },
+        {
+            "type": "Media",
+            "url": "./images/218.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

@@ -1,25 +1,25 @@
 {
-    "header_text": "Facial Expression ",
+    "header_text": "Planning a Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You make a lighthearted joke that breaks the tension, and your friends realize you aren't angry at all. They quickly grasp your true warmth, and everyone feels..."
+            "text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip takes a lot of thinking, and you feel really exhausted. You take a break to walk outside and return feeling... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Facial Expression _Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "planning_a_trip--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "refreshed"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

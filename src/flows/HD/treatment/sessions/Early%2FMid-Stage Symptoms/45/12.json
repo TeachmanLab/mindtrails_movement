@@ -1,0 +1,16 @@
+{
+    "header_text": "Games with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Games with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/716.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

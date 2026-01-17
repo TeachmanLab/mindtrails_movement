@@ -1,25 +1,25 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be... "
+            "text": "You're at a party, and some of the partygoers notice your symptoms and stare. You feel uncomfortable and decide not to engage in conversation with them. You confide in your close friend that is also at the party, and your friend thinks that your decision is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Pool Time_Mental Health_puzzle1",
+            "name": "party_with_friends--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "angry"
+                "justified"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

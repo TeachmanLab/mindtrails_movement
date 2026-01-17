@@ -1,0 +1,16 @@
+{
+    "header_text": "Lightening the Mood",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lightening the Mood"
+        },
+        {
+            "type": "Media",
+            "url": "./images/73.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

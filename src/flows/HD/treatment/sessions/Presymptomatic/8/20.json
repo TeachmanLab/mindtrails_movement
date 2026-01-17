@@ -1,16 +1,16 @@
 {
-    "header_text": "Chopping Technique",
+    "header_text": "Overwhelmed at Conference",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're slicing vegetables for a salad. Your fingers aren't working quite right, causing the knife to wobble. Your friend comments on your chopping technique, and them noticing your unsteady hands makes you..."
+            "text": "Overwhelmed at Conference"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/808.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Shopping For Party Supplies",
+    "header_text": "Holding the Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Shopping For Party Supplies"
+            "text": "You've been noticing your hands shaking badly when you hold your phone. Lately, you've even been dropping the phone on the ground as you're talking. When your phone rings in public, you avoid answering because you worry about feeling..."
         },
         {
-            "type": "Media",
-            "url": "./images/581.jpg"
+            "type": "Entry",
+            "name": "holding_the_phone--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
     "scenario_num": 2
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Missing Wallet",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missing Wallet"
+        },
+        {
+            "type": "Media",
+            "url": "./images/304.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

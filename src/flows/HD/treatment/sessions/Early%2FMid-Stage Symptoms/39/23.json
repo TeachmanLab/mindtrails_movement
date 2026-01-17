@@ -1,0 +1,17 @@
+{
+    "header_text": "Babysitting Questions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him..."
+        },
+        {
+            "type": "Entry",
+            "name": "babysitting_questions--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

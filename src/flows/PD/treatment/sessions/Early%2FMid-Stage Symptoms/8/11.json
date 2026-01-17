@@ -1,16 +1,16 @@
 {
-    "header_text": "Talking to friends",
+    "header_text": "Family Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Talking to friends"
+            "text": "Family Wedding"
         },
         {
             "type": "Media",
-            "url": "./images/767.jpg"
+            "url": "./images/764.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

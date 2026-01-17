@@ -1,25 +1,17 @@
 {
-    "header_text": "Your Friend's Support",
+    "header_text": "Less Social Media",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your best friend have known each other since college. You then have different interests, and you worry that you won't understand each other as you continue to get older. When you think about upcoming major life events, you expect your best friend to be..."
+            "text": "You think about getting on social media more and still decide not to. You feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your Friend's Support_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "supportive"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "less_social_media--social_situations--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

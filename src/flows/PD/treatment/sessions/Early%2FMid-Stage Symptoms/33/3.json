@@ -1,16 +1,29 @@
 {
-    "header_text": "Park Walk",
+    "header_text": "Organizing your Desk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "During a leisurely walk in the park, you notice you are stumbling more than usual. Worry creeps in that your PD might be getting worse. You look around you, take a deep breath of fresh air, and feel... "
+            "Text": "Do you create more of a mess?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "organizing_your_desk--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Future Hobbies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Future Hobbies"
+        },
+        {
+            "type": "Media",
+            "url": "./images/243.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

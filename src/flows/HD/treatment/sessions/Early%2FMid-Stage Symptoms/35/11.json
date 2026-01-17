@@ -1,0 +1,16 @@
+{
+    "header_text": "A Few Falls",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Few Falls"
+        },
+        {
+            "type": "Media",
+            "url": "./images/217.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

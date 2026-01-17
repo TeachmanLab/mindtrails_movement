@@ -1,16 +1,16 @@
 {
-    "header_text": "Poisonous Snakes",
+    "header_text": "Walking Hard",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Poisonous Snakes"
+            "text": "Walking Hard"
         },
         {
             "type": "Media",
-            "url": "./images/476.jpg"
+            "url": "./images/477.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

@@ -7,6 +7,7 @@
             "text": "To the extent you completed the program... \n\nHow much could you relate to the stories presented during training sessions?"
         },
         {
+            "name": "ending_relatable",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all",
@@ -15,8 +16,7 @@
                 "3::Mostly",
                 "4::Very",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

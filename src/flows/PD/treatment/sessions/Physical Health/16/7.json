@@ -7,6 +7,7 @@
             "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
         },
         {
+            "name": "long6",
             "type": "Entry"
         }
     ],

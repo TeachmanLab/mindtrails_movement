@@ -1,25 +1,25 @@
 {
-    "header_text": "Pet Schedule",
+    "header_text": "Symptoms at Shopping Mall",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be... "
+            "text": "The receptionist helps to comfort you and makes you the earliest appointment possible. After the call, you feel a little more..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Pet Schedule_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "symptoms_at_shopping_mall--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "manageable"
+                "relaxed"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

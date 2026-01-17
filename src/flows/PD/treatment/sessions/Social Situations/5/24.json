@@ -1,16 +1,16 @@
 {
-    "header_text": "Dancing class",
+    "header_text": "Quiet Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dancing class"
+            "text": "Quiet Time"
         },
         {
             "type": "Media",
-            "url": "./images/516.jpg"
+            "url": "./images/628.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

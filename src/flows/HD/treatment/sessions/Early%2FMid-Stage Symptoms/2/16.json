@@ -1,25 +1,39 @@
 {
-    "header_text": "Meeting up with a Friend",
+    "header_text": "Taking Supplements ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is..."
+            "Text": "Do you feel worried about your mental health?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Meeting up with a Friend_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "taking_supplements_--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "understanding"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Planting Flowers ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planting Flowers "
+        },
+        {
+            "type": "Media",
+            "url": "./images/590.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

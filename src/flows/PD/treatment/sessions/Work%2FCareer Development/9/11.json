@@ -1,16 +1,16 @@
 {
-    "header_text": "Enjoyable Endeavor ",
+    "header_text": "Office Initiative",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Enjoyable Endeavor "
+            "text": "Office Initiative"
         },
         {
             "type": "Media",
-            "url": "./images/71.jpg"
+            "url": "./images/70.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

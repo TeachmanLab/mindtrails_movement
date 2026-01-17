@@ -1,16 +1,16 @@
 {
-    "header_text": "Sharing With Support Group ",
+    "header_text": "Major Conference",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sharing With Support Group "
+            "text": "Major Conference"
         },
         {
             "type": "Media",
-            "url": "./images/697.jpg"
+            "url": "./images/126.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

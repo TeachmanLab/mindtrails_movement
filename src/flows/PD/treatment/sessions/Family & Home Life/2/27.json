@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You apply for a new job in a different state, but your entire family lives in the state you're currently in. You think about how your family will react when you tell them your decision and they may not like the idea of you leaving. As you imagine telling them, you feel..."
+            "text": "You're considering moving to a different state, but your entire family lives in the state you're currently in. You think about how your family will react when you tell them your decision and they may not like the idea of you leaving. As you imagine telling them, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "New Experience_Family & Home Life_puzzle1",
+            "name": "new_experience--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

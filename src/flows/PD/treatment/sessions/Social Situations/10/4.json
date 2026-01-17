@@ -1,13 +1,14 @@
 {
-    "header_text": "Zoning Out",
+    "header_text": "Your New Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question, and you don't hear it. You ask her to repeat her question, and this makes you feel..."
+            "text": "You just posted a new picture an hour ago. When you check how many likes it has gotten, you see no one has liked it yet. It's late at night, and you realize that everyone is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "your_new_post--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

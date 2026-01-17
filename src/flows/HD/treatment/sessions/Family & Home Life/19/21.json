@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Recipe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Recipe"
+        },
+        {
+            "type": "Media",
+            "url": "./images/220.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Roles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Roles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/979.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

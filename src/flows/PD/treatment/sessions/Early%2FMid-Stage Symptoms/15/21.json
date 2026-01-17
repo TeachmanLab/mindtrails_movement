@@ -1,14 +1,14 @@
 {
-    "header_text": "Sunny Beach Day",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sunny Beach Day"
+            "text": "Moving to a New City"
         },
         {
             "type": "Media",
-            "url": "./images/809.jpg"
+            "url": "./images/789.jpg"
         }
     ],
     "type": "positive",

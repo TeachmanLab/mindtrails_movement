@@ -1,14 +1,14 @@
 {
-    "header_text": "Master's Degree",
+    "header_text": "Sibling's Genetic Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Master's Degree"
+            "text": "Sibling's Genetic Test"
         },
         {
             "type": "Media",
-            "url": "./images/896.jpg"
+            "url": "./images/740.jpg"
         }
     ],
     "type": "positive",

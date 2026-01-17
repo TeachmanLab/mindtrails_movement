@@ -7,7 +7,8 @@
             "text": "When you picture the future of your relationship with your spouse, you do not think the distance will end your relationship. You believe the two of you will stay..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "prestigious_program--romantic_relationships--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

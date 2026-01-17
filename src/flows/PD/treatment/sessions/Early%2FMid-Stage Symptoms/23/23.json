@@ -1,16 +1,17 @@
 {
-    "header_text": "Shopping Help",
+    "header_text": "Toy Store Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Shopping Help"
+            "text": "At the toy store, your young grandchild eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before PD. An excited giggle snaps your attention back to the present, and you decide to focus on your grandchild's..."
         },
         {
-            "type": "Media",
-            "url": "./images/838.jpg"
+            "type": "Entry",
+            "name": "toy_store_trip--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 9
 }

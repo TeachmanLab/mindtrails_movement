@@ -1,14 +1,14 @@
 {
-    "header_text": "Work-Life Balance",
+    "header_text": "Managing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Work-Life Balance"
+            "text": "Managing Responsibilities"
         },
         {
             "type": "Media",
-            "url": "./images/106.jpg"
+            "url": "./images/84.jpg"
         }
     ],
     "type": "positive",

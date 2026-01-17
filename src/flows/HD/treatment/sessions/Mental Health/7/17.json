@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Teaching Others_Mental Health_puzzle1",
+            "name": "teaching_others--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

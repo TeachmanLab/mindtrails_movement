@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking about TV",
+    "header_text": "Getting to Know New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Talking about TV"
+            "text": "Getting to Know New People"
         },
         {
             "type": "Media",
-            "url": "./images/641.jpg"
+            "url": "./images/642.jpg"
         }
     ],
     "type": "positive",

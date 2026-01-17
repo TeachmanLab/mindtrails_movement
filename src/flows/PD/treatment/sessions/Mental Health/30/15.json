@@ -1,0 +1,16 @@
+{
+    "header_text": "Park Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Park Walk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/424.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

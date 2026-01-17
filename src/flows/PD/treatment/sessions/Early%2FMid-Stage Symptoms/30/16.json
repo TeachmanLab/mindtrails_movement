@@ -1,16 +1,25 @@
 {
-    "header_text": "Picnic Packing",
+    "header_text": "Lost your Belongings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were invited to join a picnic with several friends. As you pack, you can't seem to remember what to bring. You grab paper and a pencil and call your friends again, knowing they will give you a... "
+            "text": "After coming home from running errands, you can't find your wallet. Recently, you have struggled to control your emotions and become angry at the thought of someone stealing it. Later, you find the wallet in the car and feel..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "lost_your_belongings--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "annoyed"
+            ],
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 4
 }

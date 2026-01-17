@@ -1,23 +1,23 @@
 {
-    "header_text": "A new camera",
+    "header_text": "An organized outing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think the sales assistant felt you were annoying?"
+            "Text": "Your friends did not enjoy the outing because..."
         },
         {
             "type": "Buttons",
-            "name": "A new camera_Social Situations_comp_question",
+            "name": "an_organized_outing--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "You planned it poorly",
+                "The weather was unpleasant"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "The weather was unpleasant"
         }
     ],
     "navigation_conditions": [

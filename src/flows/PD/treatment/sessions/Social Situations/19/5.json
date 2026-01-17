@@ -1,16 +1,25 @@
 {
-    "header_text": "Attending Wedding Alone",
+    "header_text": "Masks for Guests",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It is a long weekend, and you are invited to a friend's wedding. You notice that many people have brought a plus one when you arrive, but you are alone. You realize that you can still enjoy yourself at the wedding and get to know other..."
+            "text": "Your partner invites a few friends over for the evening, and you both agreed that everyone would wear masks. Your partner's friends aren't wearing masks when they arrive, yet your partner doesn't say anything. You pull your partner aside, and asking them to speak to their friends is... "
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "masks_for_guests--social_situations--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "frustrating"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

@@ -1,29 +1,29 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "Lost in the Forest",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your dog will be..."
+            "Text": "When you came home later than expected, your spouse..."
         },
         {
             "type": "Buttons",
-            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_comp_question",
+            "name": "lost_in_the_forest--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Neglected",
-                "Cared for"
+                "Did not notice",
+                "Was concerned"
             ],
             "column_count": 1,
-            "correct_value": "Cared for"
+            "correct_value": "Was concerned"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 7
 }

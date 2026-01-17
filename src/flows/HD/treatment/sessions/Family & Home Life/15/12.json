@@ -1,16 +1,25 @@
 {
-    "header_text": "A Few Falls",
+    "header_text": "Financial Dependence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A Few Falls"
+            "text": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be... "
         },
         {
-            "type": "Media",
-            "url": "./images/217.jpg"
+            "type": "WordPuzzle",
+            "name": "financial_dependence_--family_&_home_life--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "possible"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 3
 }

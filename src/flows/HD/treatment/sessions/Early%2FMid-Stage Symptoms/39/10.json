@@ -1,0 +1,17 @@
+{
+    "header_text": "Planning a Family Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family is planning a big vacation in a few years. You wonder what life will look like for you by then and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family outside of traveling, and your family will be...  "
+        },
+        {
+            "type": "Entry",
+            "name": "planning_a_family_vacation--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
+}

@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Introducing Your Spouse to New Friends_Family & Home Life_comp_question",
+            "name": "introducing_your_spouse_to_new_friends--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

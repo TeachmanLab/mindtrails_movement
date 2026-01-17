@@ -1,25 +1,29 @@
 {
-    "header_text": "Hosting a Dinner",
+    "header_text": "Weekly Game Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were asked to host a dinner event for a relative coming home from overseas. As you prepare, you begin to lose track of everything that needs to be done, and you start to think the event will be ruined. On the night of the dinner, everyone agrees it is a huge..."
+            "Text": "Thinking about your family succeeding in game night makes you feel... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Hosting a Dinner_Family & Home Life_puzzle1",
+            "type": "Buttons",
+            "name": "weekly_game_night--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "success"
+            "buttons": [
+                "Awesome",
+                "Terribly"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Awesome"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 7
 }

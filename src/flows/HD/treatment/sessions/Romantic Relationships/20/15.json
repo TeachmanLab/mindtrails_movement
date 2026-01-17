@@ -1,0 +1,16 @@
+{
+    "header_text": "At Home Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At Home Alone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/584.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

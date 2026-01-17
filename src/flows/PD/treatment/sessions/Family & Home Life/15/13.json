@@ -1,25 +1,29 @@
 {
-    "header_text": "A Few Falls",
+    "header_text": "Financial Dependence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've had a few falls lately around the house and in the garden. Your spouse and child meet with you to talk about this. You can see from the looks on their faces they're..."
+            "Text": "Will your children be able to be financially independent?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "A Few Falls_Family & Home Life_puzzle1",
+            "type": "Buttons",
+            "name": "financial_dependence_--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "worried"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 3
 }

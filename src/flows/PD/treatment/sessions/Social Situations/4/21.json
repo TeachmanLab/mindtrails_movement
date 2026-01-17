@@ -1,25 +1,25 @@
 {
-    "header_text": "Cancelled plans",
+    "header_text": "A heated discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You arrange to meet a friend in town. Last time you met, you disagreed on something you were discussing. Just before you leave, they call to say that they can't make it. As you put down the phone, you think that this is because they are..."
+            "text": "You invite work colleagues to your house for a dinner party, although you know they don't always get along. At dinner, the discussion gets very loud and..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cancelled plans_Social Situations_puzzle1",
+            "name": "a_heated_discussion--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "busy"
+                "argumentative"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

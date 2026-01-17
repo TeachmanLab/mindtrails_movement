@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Out on a boat_Physical Health_comp_question",
+            "name": "out_on_a_boat--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

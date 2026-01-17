@@ -1,25 +1,25 @@
 {
-    "header_text": "Sharing with Someone New",
+    "header_text": "Vacation Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're talking to a coworker about a presentation you're working on. They seem interested. They ask if they can look at it, and you mull it... "
+            "text": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Sharing with Someone New_Mental Health_puzzle1",
+            "name": "vacation_costs--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "over"
+                "fun"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

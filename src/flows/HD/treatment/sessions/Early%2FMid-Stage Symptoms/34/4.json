@@ -1,16 +1,16 @@
 {
-    "header_text": "Kitchen Coordination",
+    "header_text": "Cocktail Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Kitchen Coordination"
+            "text": "Cocktail Party"
         },
         {
             "type": "Media",
-            "url": "./images/246.jpg"
+            "url": "./images/849.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

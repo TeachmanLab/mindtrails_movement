@@ -1,29 +1,39 @@
 {
-    "header_text": "Planning a Family Vacation",
+    "header_text": "Couple Strolling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "This vacation..."
+            "Text": "Have your symptoms caused you to change how you act around others?"
         },
         {
             "type": "Buttons",
-            "name": "Planning a Family Vacation_Early/Mid-Stage Symptoms_comp_question",
+            "name": "couple_strolling--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Will not stand between you and your family",
-                "Will cause tension between you and your family"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Will not stand between you and your family"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
-    "scenario_num": 3
+    "type": "negative",
+    "scenario_num": 3,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

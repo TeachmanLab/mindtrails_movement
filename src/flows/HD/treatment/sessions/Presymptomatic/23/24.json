@@ -1,25 +1,10 @@
 {
-    "header_text": "Future Hobbies",
+    "header_text": "Manage Your Feelings: Presymptomatic",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Building model cars has been a hobby of yours since you were young. Recently, you've started thinking about how this hobby will be difficult for you one day. You know that thinking about future changes is..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Future Hobbies_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "normal"
-            ],
-            "missing_letter_count": 1
+            "text": "It's important to find support from a variety of places, whether it's from friends, family, or even new acquaintances. Connecting with different people can offer fresh perspectives and emotional support during tough times, which can strengthen your resilience and sense of community. "
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    ]
 }

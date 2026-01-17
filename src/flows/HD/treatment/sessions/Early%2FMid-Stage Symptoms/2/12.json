@@ -1,20 +1,20 @@
 {
-    "header_text": "Flights of Stairs",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are seeing a new specialist in a building with many floors. You realize that the elevator is currently broken. As you look up at the stairs you'll need to climb, it feels..."
+            "text": "You give yourself a moment to breathe. You pick up the record and realize that it is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Flights of Stairs_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "record_store--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "daunting"
+                "fine"
             ],
             "missing_letter_count": 1
         }

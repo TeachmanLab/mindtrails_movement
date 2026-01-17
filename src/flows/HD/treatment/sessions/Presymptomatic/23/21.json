@@ -1,25 +1,17 @@
 {
-    "header_text": "Studying a New Language",
+    "header_text": "Giving Up Favorite Hobby",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You are surprised how hard you have to study to learn the new language, and you start to worry that your memory is getting worse. You ask your doctor about it, and their test shows that your memory and thinking abilities are the same as..."
+            "text": "You're passionate about your favorite hobby but you've begun to notice a decline in your ability to focus on intricate details. Your half-finished project has been sitting out in the garage for months now. You decide that you can't continue your hobby anymore and you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Studying a New Language_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "before"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "giving_up_favorite_hobby--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 8
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Second meet-up",
+    "header_text": "Participation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At a dinner party, you are introduced to someone new and chat with them for quite a while. When you call them the next week to suggest meeting again, they pause for a moment. They probably think that getting together would be..."
+            "text": "You want to attend a hands-on workshop where you will be frequently asked about your opinion. However, you do not like talking in front of others. After attending the workshop, you realize that this decision was... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Second meet-up_Social Situations_puzzle1",
+            "name": "participation_--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

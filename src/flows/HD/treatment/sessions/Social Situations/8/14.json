@@ -7,7 +7,8 @@
             "text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile. Instead, they stare at you looking very..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "jacket_return--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

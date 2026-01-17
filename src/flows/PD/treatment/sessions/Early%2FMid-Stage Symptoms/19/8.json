@@ -1,16 +1,16 @@
 {
-    "header_text": "Game Night Mistake",
+    "header_text": "Delayed Texting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Game Night Mistake"
+            "text": "Delayed Texting "
         },
         {
             "type": "Media",
-            "url": "./images/824.jpg"
+            "url": "./images/806.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 2
 }

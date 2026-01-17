@@ -1,14 +1,14 @@
 {
-    "header_text": "Daily Tasks",
+    "header_text": "Day in the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Daily Tasks"
+            "text": "Day in the Park"
         },
         {
             "type": "Media",
-            "url": "./images/966.jpg"
+            "url": "./images/771.jpg"
         }
     ],
     "type": "positive",

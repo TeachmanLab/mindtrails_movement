@@ -1,14 +1,14 @@
 {
-    "header_text": "New Home",
+    "header_text": "Big Families ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your spouse be devastated if you don't buy the house they like?"
+            "Text": "Will you be able to adapt to having a large family?"
         },
         {
             "type": "Buttons",
-            "name": "New Home_Romantic Relationships_comp_question",
+            "name": "big_families_--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

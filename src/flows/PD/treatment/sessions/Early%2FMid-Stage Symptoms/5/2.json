@@ -1,14 +1,14 @@
 {
-    "header_text": "Favorite Restaurant",
+    "header_text": "Invitation to Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Favorite Restaurant"
+            "text": "Invitation to Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/748.jpg"
+            "url": "./images/756.jpg"
         }
     ],
     "type": "positive",

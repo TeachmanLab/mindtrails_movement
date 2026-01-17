@@ -1,16 +1,16 @@
 {
-    "header_text": "Going out in day clothes",
+    "header_text": "Unusual views",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Going out in day clothes"
+            "text": "Unusual views"
         },
         {
             "type": "Media",
-            "url": "./images/606.jpg"
+            "url": "./images/607.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

@@ -1,10 +1,16 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Voicing Your Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about something positive that happened when you interacted with someone today and savor how you felt during that experience."
+            "text": "Voicing Your Feelings"
+        },
+        {
+            "type": "Media",
+            "url": "./images/530.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

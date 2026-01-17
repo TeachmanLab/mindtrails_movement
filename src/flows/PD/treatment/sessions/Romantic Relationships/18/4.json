@@ -1,0 +1,29 @@
+{
+    "header_text": "Seeing A Dog",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Making a plan with your doctor helped you to feel more..."
+        },
+        {
+            "type": "Buttons",
+            "name": "seeing_a_dog--romantic_relationships--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Powerless",
+                "Confident"
+            ],
+            "column_count": 1,
+            "correct_value": "Confident"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
+}

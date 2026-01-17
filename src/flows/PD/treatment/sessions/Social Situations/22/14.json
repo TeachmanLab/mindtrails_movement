@@ -1,16 +1,16 @@
 {
-    "header_text": "The Dance Showcase",
+    "header_text": "Intoxication Situation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been taking a dance class at the local community center and are performing in a showcase. You want to invite your friends and family, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself doing..."
+            "text": "Intoxication Situation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/124.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 4
 }

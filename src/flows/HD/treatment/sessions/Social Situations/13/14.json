@@ -1,25 +1,14 @@
 {
-    "header_text": "Creative Confidence ",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are invited to a Halloween get-together and will only know a couple of people there. You decide to wear a really elaborate costume. When you arrive, everyone looks at you and probably thinks that you are..."
+            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Creative Confidence _Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "creative"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "tip #8--entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

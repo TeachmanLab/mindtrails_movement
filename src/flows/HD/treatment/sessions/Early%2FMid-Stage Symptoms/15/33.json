@@ -1,23 +1,23 @@
 {
-    "header_text": "Family Trivia",
+    "header_text": "Intimacy and Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "It is important..."
+            "Text": "You respond to your spouse's upset reaction by... "
         },
         {
             "type": "Buttons",
-            "name": "Family Trivia_Early/Mid-Stage Symptoms_comp_question",
+            "name": "intimacy_and_communication--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "That you are there with family",
-                "That you have the best memory"
+                "Avoiding them",
+                "Communicating"
             ],
             "column_count": 1,
-            "correct_value": "That you are there with family"
+            "correct_value": "Communicating"
         }
     ],
     "navigation_conditions": [

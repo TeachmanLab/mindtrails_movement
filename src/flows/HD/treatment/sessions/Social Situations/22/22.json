@@ -1,16 +1,25 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "Not Having Much to Say",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Keeping Up With Friends "
+            "text": "While listening to your friends, you remember that your friend was quiet the other day. You decide that not always sharing is..."
         },
         {
-            "type": "Media",
-            "url": "./images/82.jpg"
+            "type": "WordPuzzle",
+            "name": "not_having_much_to_say--social_situations--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "normal"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

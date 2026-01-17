@@ -1,16 +1,17 @@
 {
-    "header_text": "Your Friend's Support",
+    "header_text": "Vaccination Reassurance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your Friend's Support"
+            "text": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got... "
         },
         {
-            "type": "Media",
-            "url": "./images/708.jpg"
+            "type": "Entry",
+            "name": "vaccination_reassurance--social_situations--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6
 }

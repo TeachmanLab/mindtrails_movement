@@ -1,16 +1,16 @@
 {
-    "header_text": "Journaling Issues",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Journaling Issues"
+            "text": "Record Store"
         },
         {
             "type": "Media",
-            "url": "./images/819.jpg"
+            "url": "./images/799.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

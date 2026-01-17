@@ -1,13 +1,22 @@
 {
-    "header_text": "Forgotten Item",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are almost ready to check out at the grocery store, but you forgot the last item on your list. When you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because, lately, you have been so..."
+            "text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "family_questions--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "slow"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",

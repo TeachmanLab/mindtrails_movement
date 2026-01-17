@@ -1,16 +1,16 @@
 {
-    "header_text": "Friendships in the Future",
+    "header_text": "Intimacy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Friendships in the Future"
+            "text": "Intimacy"
         },
         {
             "type": "Media",
-            "url": "./images/707.jpg"
+            "url": "./images/902.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

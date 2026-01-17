@@ -7,7 +7,8 @@
             "text": "You want your family to have good educational opportunities. You want your grandkids to be able to attend good colleges but understand that this comes with a high price tag. When you think about your grandchildren, you think supporting their college education will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "providing_for_family--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

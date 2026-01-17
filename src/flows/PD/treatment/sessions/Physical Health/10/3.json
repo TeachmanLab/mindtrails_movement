@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting into the Groove",
+    "header_text": "Recent Exposure",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Getting into the Groove"
+            "text": "Recent Exposure"
         },
         {
             "type": "Media",
-            "url": "./images/487.jpg"
+            "url": "./images/488.jpg"
         }
     ],
     "type": "positive",

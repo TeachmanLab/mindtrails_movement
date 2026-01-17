@@ -1,20 +1,20 @@
 {
-    "header_text": "Enjoying the outdoors",
+    "header_text": "Getting Baked Goods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be able to wave and talk to your neighbors?"
+            "Text": "Do you think you will be able to pick up your baked goods without dropping them?"
         },
         {
             "type": "Buttons",
-            "name": "Enjoying the outdoors_Early/Mid-Stage Symptoms_comp_question",
+            "name": "getting_baked_goods--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "Yes"

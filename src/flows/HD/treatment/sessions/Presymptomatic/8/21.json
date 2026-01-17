@@ -1,16 +1,17 @@
 {
-    "header_text": "Chopping Technique",
+    "header_text": "Overwhelmed at Conference",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "They tell you that they used to work in a kitchen and show you the right technique. Understanding that they're just trying to help makes you feel..."
+            "text": "You're attending a work conference and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close coworker about your difficulty, knowing that they will be try to be helpful and..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "overwhelmed_at_conference--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

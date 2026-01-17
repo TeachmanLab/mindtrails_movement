@@ -1,16 +1,16 @@
 {
-    "header_text": "Yoga Routine",
+    "header_text": "Pool Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Yoga Routine"
+            "text": "Pool Time"
         },
         {
             "type": "Media",
-            "url": "./images/415.jpg"
+            "url": "./images/400.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

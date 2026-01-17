@@ -1,0 +1,16 @@
+{
+    "header_text": "Missed a Turn",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missed a Turn"
+        },
+        {
+            "type": "Media",
+            "url": "./images/874.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

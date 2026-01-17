@@ -1,16 +1,16 @@
 {
-    "header_text": "Playing Music",
+    "header_text": "Grocery Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing Music"
+            "text": "Grocery Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/416.jpg"
+            "url": "./images/831.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 8
 }

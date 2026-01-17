@@ -7,6 +7,7 @@
             "text": "You are introduced to someone at a party. The person fails to reply to a question you ask. Why? \n\nThey think you are uninteresting and boring."
         },
         {
+            "name": "bbsiq_10b_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

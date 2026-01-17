@@ -1,0 +1,16 @@
+{
+    "header_text": "Office Talk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Office Talk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/103.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

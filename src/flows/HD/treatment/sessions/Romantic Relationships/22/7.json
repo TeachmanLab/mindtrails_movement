@@ -1,0 +1,16 @@
+{
+    "header_text": "Loud Music",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Loud Music"
+        },
+        {
+            "type": "Media",
+            "url": "./images/140.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

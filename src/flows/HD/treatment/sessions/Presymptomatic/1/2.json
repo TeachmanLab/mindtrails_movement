@@ -1,20 +1,20 @@
 {
-    "header_text": "Fun With Film",
+    "header_text": "Organizing Bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have always loved taking film photos of nature, especially birds. Lately, you've been feeling that you can't track birds as well as you used to due to issues with vision. You decide that you can photograph plants or trees instead of birds and realizing this makes you..."
+            "text": "As you sit down to pay bills, you find it difficult to organize all the paperwork. You wonder whether this is because of your sleepless night last night, or if it could be related to HD. Your family member recommends a helpful app, and you are able to take care of the bills..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Fun With Film_Presymptomatic_puzzle1",
+            "name": "organizing_bills--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "easily"
             ],
             "missing_letter_count": 1
         }

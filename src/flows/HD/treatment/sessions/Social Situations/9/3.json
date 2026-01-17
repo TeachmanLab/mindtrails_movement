@@ -7,7 +7,8 @@
             "text": "Over the weekend, you decide to post a video and a few pictures on your social media. When you get to work on Monday, you overhear your coworkers gossiping about your pictures and videos. They probably think that you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "being_talked_about--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

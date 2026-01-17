@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Dinner",
+    "header_text": "Future Workouts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think you will still be valued and loved in the family?"
+            "Text": "Will you have to quit working out as soon as your symptoms worsen?"
         },
         {
             "type": "Buttons",
-            "name": "Family Dinner_Early/Mid-Stage Symptoms_comp_question",
+            "name": "future_workouts--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

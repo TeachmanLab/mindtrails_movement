@@ -1,23 +1,23 @@
 {
-    "header_text": "Pet Schedule",
+    "header_text": "Hiking Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you have to give up your pet?"
+            "Text": "Your friend thinks that your desire to continue an activity you love is..."
         },
         {
             "type": "Buttons",
-            "name": "Pet Schedule_Early/Mid-Stage Symptoms_comp_question",
+            "name": "hiking_hiatus--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Healthy",
+                "Foolish"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Healthy"
         }
     ],
     "navigation_conditions": [

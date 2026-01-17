@@ -1,22 +1,22 @@
 {
-    "header_text": "Shopping for Clothes",
+    "header_text": "Talking about the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a hard time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you look around, you see that others are focused on their..."
+            "text": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Shopping for Clothes_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "talking_about_the_future--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "shopping"
+                "communicate"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

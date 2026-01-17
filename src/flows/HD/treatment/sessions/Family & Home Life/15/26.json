@@ -1,25 +1,29 @@
 {
-    "header_text": "Retirement Celebration",
+    "header_text": "Upset Kid",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of..."
+            "Text": "Are they upset with you?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Retirement Celebration_Family & Home Life_puzzle1",
+            "type": "Buttons",
+            "name": "upset_kid--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "uncertainty"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 7
 }

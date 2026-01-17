@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Speaking Up During Collaboration_Mental Health_comp_question",
+            "name": "speaking_up_during_collaboration--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

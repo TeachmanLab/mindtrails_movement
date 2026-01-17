@@ -1,23 +1,23 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your neighbor think that you are friendly?"
+            "Text": "The customer across from you is probably..."
         },
         {
             "type": "Buttons",
-            "name": "Greeting Someone_Social Situations_comp_question",
+            "name": "busy_cafe--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Thinking that you are an unfriendly person",
+                "Distracted and unaware of their surroundings"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Distracted and unaware of their surroundings"
         }
     ],
     "navigation_conditions": [

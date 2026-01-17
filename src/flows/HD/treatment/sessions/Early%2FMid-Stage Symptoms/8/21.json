@@ -7,7 +7,8 @@
             "text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "thinking_fast_at_work--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

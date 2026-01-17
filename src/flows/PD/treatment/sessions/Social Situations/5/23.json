@@ -1,23 +1,23 @@
 {
-    "header_text": "Conversation with Stranger",
+    "header_text": "Dancing class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Overall, the conversation was probably a..."
+            "Text": "Did the person you met at dance class think you were anxious?"
         },
         {
             "type": "Buttons",
-            "name": "Conversation with Stranger_Social Situations_comp_question",
+            "name": "dancing_class--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Low-pressure and pleasant chance to meet a new person",
-                "Stressful situation, because the person might have found you uninteresting"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Low-pressure and pleasant chance to meet a new person"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

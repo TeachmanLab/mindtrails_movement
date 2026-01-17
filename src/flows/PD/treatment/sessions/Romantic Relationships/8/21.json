@@ -7,7 +7,8 @@
             "text": "You and your partner have been getting into arguments more often recently. You care about them a lot but worry they don't feel the same way. When you think about staying with your partner, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "staying_together--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

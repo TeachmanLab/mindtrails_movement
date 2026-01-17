@@ -1,14 +1,14 @@
 {
-    "header_text": "Chores and Errands",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Chores and Errands"
+            "text": "Forgotten Ingredients"
         },
         {
             "type": "Media",
-            "url": "./images/963.jpg"
+            "url": "./images/738.jpg"
         }
     ],
     "type": "positive",

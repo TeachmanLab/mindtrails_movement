@@ -7,7 +7,8 @@
             "text": "Your partner doesn’t take the necessary precautions to prevent the flu. This worries you because someone you know is immunocompromised. When you think about talking to your partner about their actions, you think they will..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "flu_worries--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,16 +1,25 @@
 {
-    "header_text": "Produce Shopping",
+    "header_text": "Food Bank Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Produce Shopping"
+            "text": "You are in charge of a group of volunteers at an event for a local food bank. You become overwhelmed by the amount of tasks needing to be done, and you snap at a volunteer who makes a small mistake. They look at you with surprise as you take a breath and..."
         },
         {
-            "type": "Media",
-            "url": "./images/762.jpg"
+            "type": "WordPuzzle",
+            "name": "food_bank_event--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "apologize"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 3
 }

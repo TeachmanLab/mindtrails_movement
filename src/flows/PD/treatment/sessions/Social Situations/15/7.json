@@ -1,14 +1,14 @@
 {
-    "header_text": "Having a New Friend Over",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your coworkers judge your home?"
+            "Text": "Will your friends make fun of your sweat marks on your shirt? "
         },
         {
             "type": "Buttons",
-            "name": "Having a New Friend Over_Social Situations_comp_question",
+            "name": "sweat_stains--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

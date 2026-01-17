@@ -1,25 +1,25 @@
 {
-    "header_text": "Tax Forms",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get..."
+            "text": "You can't find your keys and initially become upset with your family because you suspect that someone hid them. The next day, you discover the keys in one of your pockets. You realize you treated your family too..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tax Forms_Presymptomatic_puzzle1",
+            "name": "keys_forgotten--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "organized"
+                "harshly"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -7,7 +7,8 @@
             "text": "Your fiance has children, while you do not. You are trying to adapt to living with younger children and how to bond with them. You think you will be able to work out a routine and adapt to this new family... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "big_families_--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

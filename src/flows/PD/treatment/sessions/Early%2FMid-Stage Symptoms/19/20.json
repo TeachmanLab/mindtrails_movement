@@ -1,16 +1,16 @@
 {
-    "header_text": "Bakery Routine",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Bakery Routine"
+            "text": "Cleaning Your Home"
         },
         {
             "type": "Media",
-            "url": "./images/825.jpg"
+            "url": "./images/212.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

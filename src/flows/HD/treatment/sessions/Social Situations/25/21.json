@@ -1,16 +1,17 @@
 {
-    "header_text": "Picture with Friends",
+    "header_text": "Your Family's Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Picture with Friends"
+            "text": "Your family shares one older car that has a big dent in the front. Today, you are driving it around town. When you think about people you know seeing your car, you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/330.jpg"
+            "type": "Entry",
+            "name": "your_family's_car--social_situations--puzzle1_entry"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

@@ -7,6 +7,7 @@
             "text": "Suddenly, you feel confused and find it hard to think straight. Why? \n\nYou are going out of your mind."
         },
         {
+            "name": "bbsiq_12a_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

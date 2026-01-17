@@ -1,16 +1,29 @@
 {
-    "header_text": "Seeing Others Hanging Out",
+    "header_text": "Taking a Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Seeing Others Hanging Out"
+            "Text": "Were others judging you negatively because you called your father from work?"
         },
         {
-            "type": "Media",
-            "url": "./images/682.jpg"
+            "type": "Buttons",
+            "name": "taking_a_call--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 2
 }

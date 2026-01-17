@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversing at a party",
+    "header_text": "A different style",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conversing at a party"
+            "text": "A different style"
         },
         {
             "type": "Media",
-            "url": "./images/620.jpg"
+            "url": "./images/621.jpg"
         }
     ],
     "type": "positive",

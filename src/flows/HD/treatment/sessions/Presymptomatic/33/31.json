@@ -1,0 +1,25 @@
+{
+    "header_text": "Familiar Recipe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are setting out the ingredients to cook a favorite family dinner. You are blanking on how the recipe starts, and you begin to get upset. You get out the written recipe and know that you are... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "familiar_recipe--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "capable"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

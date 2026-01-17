@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "A heated discussion_Social Situations_puzzle_word2",
+            "name": "a_heated_discussion--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

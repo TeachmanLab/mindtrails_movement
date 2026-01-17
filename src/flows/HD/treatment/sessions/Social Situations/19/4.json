@@ -1,16 +1,16 @@
 {
-    "header_text": "Time to Yourself",
+    "header_text": "Masks for Guests",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Time to Yourself"
+            "text": "Masks for Guests"
         },
         {
             "type": "Media",
-            "url": "./images/177.jpg"
+            "url": "./images/181.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

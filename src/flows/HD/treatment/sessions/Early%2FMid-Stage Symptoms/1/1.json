@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching up with a friend",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Catching up with a friend"
+            "text": "Medical Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/714.jpg"
+            "url": "./images/126.jpg"
         }
     ],
     "type": "positive",

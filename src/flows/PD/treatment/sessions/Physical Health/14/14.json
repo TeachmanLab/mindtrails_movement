@@ -1,16 +1,14 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Coughing at the Store"
+            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
         },
         {
-            "type": "Media",
-            "url": "./images/513.jpg"
+            "type": "Entry",
+            "name": "tip #8--entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

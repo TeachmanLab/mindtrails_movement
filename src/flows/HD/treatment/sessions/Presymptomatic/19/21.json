@@ -1,16 +1,16 @@
 {
-    "header_text": "Forgotten Reservation",
+    "header_text": "Bills Due",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Friday night dinner parties with your neighbors are a highlight of your week. Things have felt overwhelming lately, and you completely forgot to make a reservation for this week's dinner. You ask your neighbors for help, knowing they are always quick to... "
+            "text": "Bills Due"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/323.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

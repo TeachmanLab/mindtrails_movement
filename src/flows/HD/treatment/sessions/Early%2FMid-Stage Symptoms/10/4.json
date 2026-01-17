@@ -1,13 +1,14 @@
 {
-    "header_text": "Birthday Cards",
+    "header_text": "Hiking Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been... "
+            "text": "You love to go hiking, but since your HD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "hiking_hiatus--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

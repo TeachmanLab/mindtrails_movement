@@ -1,14 +1,14 @@
 {
-    "header_text": "Safety at Home",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Safety at Home"
+            "text": "Future Gym Visits"
         },
         {
             "type": "Media",
-            "url": "./images/749.jpg"
+            "url": "./images/518.jpg"
         }
     ],
     "type": "positive",

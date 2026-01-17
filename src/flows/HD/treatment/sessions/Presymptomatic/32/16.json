@@ -1,0 +1,25 @@
+{
+    "header_text": "Airport Mix-Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remind yourself that travel can be stressful and disorienting for anyone. Normalizing the situation allows you to feel more..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "airport_mix-up--presymptomatic--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "positive"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

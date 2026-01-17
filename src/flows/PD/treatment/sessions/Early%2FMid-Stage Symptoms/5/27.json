@@ -1,23 +1,23 @@
 {
-    "header_text": "Collaging",
+    "header_text": "Crafts and Crochet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you still enjoy collaging today?"
+            "Text": "Making an error in the pattern shows that you are..."
         },
         {
             "type": "Buttons",
-            "name": "Collaging_Early/Mid-Stage Symptoms_comp_question",
+            "name": "crafts_and_crochet--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Learning",
+                "Incapable"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Learning"
         }
     ],
     "navigation_conditions": [

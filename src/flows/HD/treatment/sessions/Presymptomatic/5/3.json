@@ -1,25 +1,25 @@
 {
-    "header_text": "Getting Ready",
+    "header_text": "Hiking Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you fumble with your tie in front of the mirror, your fingers twitch slightly. You start to worry that these minor twitches could be an early sign of HD. This leaves you feeling..."
+            "text": "You love to go hiking, but since being diagnosed with HD, you've felt uneasy about going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Getting Ready_Presymptomatic_puzzle1",
+            "name": "hiking_hiatus--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "scared"
+                "good"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

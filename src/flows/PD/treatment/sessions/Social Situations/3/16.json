@@ -1,39 +1,25 @@
 {
-    "header_text": "A personal question",
+    "header_text": "Trivia tournament",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your friend have a more negative opinion of you after you share personal information?"
+            "text": "In the end, you realize that your round was a particularly hard one. Looking around the table, you see that others found the effort you put in to be very..."
         },
         {
-            "type": "Buttons",
-            "name": "A personal question_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "trivia_tournament--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "admirable"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

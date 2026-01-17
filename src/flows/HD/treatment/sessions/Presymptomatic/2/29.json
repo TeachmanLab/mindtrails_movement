@@ -1,23 +1,23 @@
 {
-    "header_text": "Planning a Family Vacation",
+    "header_text": "Forgetting the Laundry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "This vacation..."
+            "Text": "Will you be able to do the laundry tomorrow?"
         },
         {
             "type": "Buttons",
-            "name": "Planning a Family Vacation_Presymptomatic_comp_question",
+            "name": "forgetting_the_laundry--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Will not stand between you and your family",
-                "Will cause tension between you and your family"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Will not stand between you and your family"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

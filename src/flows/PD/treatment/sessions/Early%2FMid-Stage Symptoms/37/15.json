@@ -1,0 +1,25 @@
+{
+    "header_text": "Building Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are buying tools at the hardware store with your son to start a new project. You think about how your son will have to do most of the building because of your PD. You are still eager to complete the project, knowing you both will make a new... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "building_project--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "memory"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

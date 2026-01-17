@@ -7,6 +7,7 @@
             "text": "What is your birth year?"
         },
         {
+            "name": "birthyear",
             "type": "Picker",
             "items": [
                 "1935 or before",
@@ -79,8 +80,7 @@
                 "2002",
                 "2003",
                 "2004"
-            ],
-            "name": "birthyear"
+            ]
         }
     ]
 }

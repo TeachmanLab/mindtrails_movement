@@ -1,23 +1,23 @@
 {
-    "header_text": "Country Drive",
+    "header_text": "Planning a Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Despite the challenges, do you reach your final destination?"
+            "Text": "Walking outside when you felt tired was..."
         },
         {
             "type": "Buttons",
-            "name": "Country Drive_Presymptomatic_comp_question",
+            "name": "planning_a_trip--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Refreshing",
+                "Exhausting"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Refreshing"
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,16 @@
 {
-    "header_text": "Driving with a Friend",
+    "header_text": "Play Cancellation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Driving with a Friend"
+            "text": "Play Cancellation"
         },
         {
             "type": "Media",
-            "url": "./images/423.jpg"
+            "url": "./images/957.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

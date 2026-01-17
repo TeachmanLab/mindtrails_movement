@@ -1,25 +1,25 @@
 {
-    "header_text": "Participation ",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You want to attend a hands-on workshop where you will be frequently asked about your opinion. However, you do not like talking in front of others. After attending the workshop, you realize that this decision was... "
+            "text": "You send an intentionally bad picture of yourself to your friend over text. They text back saying that they took a screenshot of your photo. Your friend probably thinks that you look..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Participation _Social Situations_puzzle1",
+            "name": "funny_photos--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "great"
+                "awful"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

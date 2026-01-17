@@ -1,16 +1,16 @@
 {
-    "header_text": "Name Recall ",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both..."
+            "text": "A Tricky Hike"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/783.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

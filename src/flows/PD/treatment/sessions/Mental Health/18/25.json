@@ -1,22 +1,22 @@
 {
-    "header_text": "A Little Stumble",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While you feel upset, you realize that it's natural to make mistakes. You think that your boss won't..."
+            "text": "The event gets louder as more people arrive, and you consider leaving. You decide you can handle these feelings and keep on socializing..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A Little Stumble_Mental Health_puzzle_word2",
+            "name": "heart_rate_worries--mental_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "remember"
+                "smoothly"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

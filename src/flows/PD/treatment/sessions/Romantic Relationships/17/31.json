@@ -1,22 +1,22 @@
 {
-    "header_text": "Dating Again",
+    "header_text": "Family Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have recently decided to try dating again. However, with your diagnosis of PD, you are fearful about being honest about your condition. You decide to share your journey with your date, knowing they will be... "
+            "text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Dating Again_Romantic Relationships_puzzle1",
+            "name": "family_communication--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understanding"
+                "well"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

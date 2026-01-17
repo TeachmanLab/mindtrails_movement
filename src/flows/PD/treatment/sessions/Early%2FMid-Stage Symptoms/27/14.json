@@ -1,16 +1,10 @@
 {
-    "header_text": "Morning Coffee",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Morning Coffee"
-        },
-        {
-            "type": "Media",
-            "url": "./images/761.jpg"
+            "text": "Motivational Statement #12 \n\n Be patient with yourself. You are enough!"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

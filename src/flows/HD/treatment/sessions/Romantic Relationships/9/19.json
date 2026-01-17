@@ -7,7 +7,8 @@
             "text": "You’ve decided that you want to break up with your partner. You’ve developed a close friend group over the years, and you’re not sure about how the breakup will impact your friendships. When you think about moving forward with the breakup, you feel... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "breaking_up--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

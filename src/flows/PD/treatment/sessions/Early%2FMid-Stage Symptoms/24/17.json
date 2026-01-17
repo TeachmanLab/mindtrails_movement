@@ -1,16 +1,16 @@
 {
-    "header_text": "Cleaning the House",
+    "header_text": "Tripping at Family Barbecue",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cleaning the House"
+            "text": "Tripping at Family Barbecue"
         },
         {
             "type": "Media",
-            "url": "./images/227.jpg"
+            "url": "./images/215.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

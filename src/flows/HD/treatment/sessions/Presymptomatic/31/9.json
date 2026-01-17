@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptom Onset Fears: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just slipped while on a walk outside. Your mind begins to start worrying that this is your symptoms beginning to manifest and wonder if your whole life has just changed in an instant.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I feel like I'm fighting a losing battle with my anxiety and will never be the same again.",
+                "I'm scared that this is just the beginning of my difficulties, but I have faith in myself to take it one step at a time to make the most of the situation.",
+                "I am so thankful those around me have been supportive following my diagnosis.",
+                "I'm confident that I will be able to adjust appropriately and enjoy life.",
+                "The uncertainty of not knowing if this is the start of my symptoms gives me anxiety, but I've felt this anxiety before and can control it."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

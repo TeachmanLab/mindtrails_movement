@@ -7,6 +7,7 @@
             "text": "You and your friends took some pictures together. The next day, you get a notification that they tagged you in a post on social media. You don't like how you look in the picture.\n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
         },
         {
+            "name": "long10",
             "type": "Entry"
         }
     ],

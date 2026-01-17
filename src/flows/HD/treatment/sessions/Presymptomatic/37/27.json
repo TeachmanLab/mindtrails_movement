@@ -1,0 +1,16 @@
+{
+    "header_text": "Cautiously Optimistic",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cautiously Optimistic"
+        },
+        {
+            "type": "Media",
+            "url": "./images/953.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

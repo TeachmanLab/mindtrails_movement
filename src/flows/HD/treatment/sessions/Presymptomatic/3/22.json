@@ -1,29 +1,39 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Word Trouble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your reaction to your friend's invitation keeps you..."
+            "Text": "Are you concerned about your speech?"
         },
         {
             "type": "Buttons",
-            "name": "Invitation to Dinner_Presymptomatic_comp_question",
+            "name": "word_trouble--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Panicked",
-                "Grounded"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Grounded"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

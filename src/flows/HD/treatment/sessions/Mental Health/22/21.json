@@ -1,16 +1,25 @@
 {
-    "header_text": "Talk with Counselor",
+    "header_text": "Trusting Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You talk with your counselor about how you're doing. Sharing with them is not easy because the last few weeks have been hard. You don't want to revisit the pain, but you know your vulnerability will be... "
+            "text": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "trusting_yourself--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "smart"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

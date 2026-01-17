@@ -1,16 +1,16 @@
 {
-    "header_text": "House For Sale",
+    "header_text": "Convenience Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "House For Sale"
+            "text": "Convenience Store"
         },
         {
             "type": "Media",
-            "url": "./images/198.jpg"
+            "url": "./images/758.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 2
 }

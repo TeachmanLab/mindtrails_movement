@@ -1,25 +1,16 @@
 {
-    "header_text": "Different Personalities ",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You are a homebody, while your partner enjoys going out. You want to stay in for the night, but your partner wants to go to a bar. You think you can work together to figure out a... "
+            "text": "Reason 3:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Different Personalities _Romantic Relationships_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "compromise"
-            ],
-            "missing_letter_count": 1
+            "name": "Reason3_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    ]
 }

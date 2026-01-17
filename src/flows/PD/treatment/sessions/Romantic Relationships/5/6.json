@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Going to a Wedding_Romantic Relationships_puzzle1",
+            "name": "going_to_a_wedding--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

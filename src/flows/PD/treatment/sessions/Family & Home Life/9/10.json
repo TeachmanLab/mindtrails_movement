@@ -7,7 +7,8 @@
             "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "differing_beliefs--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

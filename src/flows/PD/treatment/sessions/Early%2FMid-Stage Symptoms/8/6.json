@@ -1,16 +1,17 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Avid Traveler"
+            "text": "You think about leaving your groceries and walking out right before you remember a breathing exercise you learned in therapy. After a minute of this technique, you start to feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/765.jpg"
+            "type": "Entry",
+            "name": "crowded_grocery_store--early_mid-stage_symptoms--puzzle2_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 1
 }

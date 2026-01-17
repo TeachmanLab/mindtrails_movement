@@ -1,22 +1,22 @@
 {
-    "header_text": "Building Project",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are buying tools at the hardware store with your son to start a new project. You think about how your son will have to do most of the building because of your PD. You are still eager to complete the project, knowing you both will make a new... "
+            "text": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Building Project_Family & Home Life_puzzle1",
+            "name": "pet_schedule--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "memory"
+                "manageable"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

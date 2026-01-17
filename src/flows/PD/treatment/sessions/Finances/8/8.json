@@ -7,7 +7,8 @@
             "text": "While running errands, you see a new T-shirt that you really like. You have a tight budget, and you don't think you have enough money left to buy the shirt. You don't buy it, and that decision makes you feel... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "new_t-shirt--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

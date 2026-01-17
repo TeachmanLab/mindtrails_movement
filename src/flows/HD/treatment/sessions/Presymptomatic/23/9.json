@@ -1,29 +1,16 @@
 {
-    "header_text": "HDSA Fundraiser",
+    "header_text": "Reading Music ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Prioritizing your mental health makes you feel..."
+            "text": "Reading Music "
         },
         {
-            "type": "Buttons",
-            "name": "HDSA Fundraiser_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Guilty",
-                "At peace"
-            ],
-            "column_count": 1,
-            "correct_value": "At peace"
+            "type": "Media",
+            "url": "./images/416.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 3
 }

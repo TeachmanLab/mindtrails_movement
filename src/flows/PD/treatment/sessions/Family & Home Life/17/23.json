@@ -1,25 +1,29 @@
 {
-    "header_text": "Hiking Incident",
+    "header_text": "Future Dog Walking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You later speak with your family in the car. You realize that they just want you to be safe, and you can always try the hike again another..."
+            "Text": "Your dog will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Hiking Incident_Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "future_dog_walking--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "time"
+            "buttons": [
+                "Cared for",
+                "Neglected"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Cared for"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 6
 }

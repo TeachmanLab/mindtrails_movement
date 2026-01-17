@@ -1,23 +1,23 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "At the Playground ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The laundry got stained because of your..."
+            "Text": "When you think about connecting with your grandchildren in the future, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Stained Laundry_Family & Home Life_comp_question",
+            "name": "at_the_playground_--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Difficulty paying attention",
-                "Partner's miscommunication"
+                "Hopeless",
+                "Hopeful"
             ],
             "column_count": 1,
-            "correct_value": "Partner's miscommunication"
+            "correct_value": "Hopeful"
         }
     ],
     "navigation_conditions": [

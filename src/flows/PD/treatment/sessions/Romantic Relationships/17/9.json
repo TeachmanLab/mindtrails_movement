@@ -1,29 +1,25 @@
 {
-    "header_text": "New Conflict With Spouse",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Reflecting on your relationship with your spouse, you feel..."
+            "text": "While deciding whether or not to invite your partner to your show, you think you won't have a bad performance. Instead, you see yourself doing..."
         },
         {
-            "type": "Buttons",
-            "name": "New Conflict With Spouse_Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "the_dance_showcase--romantic_relationships--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Committed",
-                "Afraid"
+            "display_delay": 2000,
+            "words": [
+                "fine"
             ],
-            "column_count": 1,
-            "correct_value": "Committed"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

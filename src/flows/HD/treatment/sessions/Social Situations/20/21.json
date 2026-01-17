@@ -1,16 +1,16 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "Waiting for a Reply ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Coughing at the Store"
+            "text": "Waiting for a Reply "
         },
         {
             "type": "Media",
-            "url": "./images/513.jpg"
+            "url": "./images/658.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

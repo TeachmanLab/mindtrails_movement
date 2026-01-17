@@ -1,0 +1,25 @@
+{
+    "header_text": "Dropping Food",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "On rare occasion, you cook dinner at home for your family. As you're making an omelet, you grab some eggs from the fridge then accidentally drop them. You've made several messes due to your symptoms this past week and as your brother helps you clean up the broken eggs, he acts..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "dropping_food--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "annoyed"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
+}

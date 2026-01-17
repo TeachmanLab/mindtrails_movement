@@ -1,25 +1,17 @@
 {
-    "header_text": "Smoothie Shop",
+    "header_text": "Social Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a smoothie shop with a former coworker, deciding what to order while you wait in line. When it's your turn to order, you forget what you wanted. Your colleague reminds you of your favorite drink, and you think they are..."
+            "text": "You've always been the life of the party. You've noticed that you're becoming less social lately and decide to tell your closest friends about your struggles. They offer support and understanding, making you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Smoothie Shop_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "thoughtful"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "social_changes--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

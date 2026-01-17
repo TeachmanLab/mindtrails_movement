@@ -1,14 +1,14 @@
 {
-    "header_text": "Alone at Lunch",
+    "header_text": "Leaning on your Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Alone at Lunch"
+            "text": "Leaning on your Peers"
         },
         {
             "type": "Media",
-            "url": "./images/685.jpg"
+            "url": "./images/62.jpg"
         }
     ],
     "type": "positive",

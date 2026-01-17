@@ -1,14 +1,14 @@
 {
-    "header_text": "Flashing movie",
+    "header_text": "Disease test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Flashing movie"
+            "text": "Disease test"
         },
         {
             "type": "Media",
-            "url": "./images/443.jpg"
+            "url": "./images/444.jpg"
         }
     ],
     "type": "positive",

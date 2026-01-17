@@ -1,16 +1,25 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your parent has Parkinson's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your..."
+            "text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "family_questions--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "slow"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

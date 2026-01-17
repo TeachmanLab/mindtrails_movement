@@ -7,7 +7,8 @@
             "text": "You are immunocompromised and have been taking precautions to protect yourself from the flu, such as getting this season's flu shot. A colleague tells you that they refuse to get the flu vaccine. You decide to start wearing a mask to work since you're immunocompromised and don't want to risk complications from the... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "wearing_a_mask_to_work--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

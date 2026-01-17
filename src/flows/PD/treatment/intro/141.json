@@ -7,6 +7,7 @@
             "text": "In the past 7 days, I felt unhappy"
         },
         {
+            "name": "neuroqol_dep_6",
             "type": "Buttons",
             "buttons": [
                 "0::Never",
@@ -14,8 +15,7 @@
                 "2::Sometimes",
                 "3::Often",
                 "4::Nearly always"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

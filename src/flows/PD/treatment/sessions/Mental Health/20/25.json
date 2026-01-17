@@ -1,14 +1,16 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "An international flight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
+            "text": "An international flight"
         },
         {
-            "type": "Entry",
-            "name": "Tip #5_entry"
+            "type": "Media",
+            "url": "./images/399.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

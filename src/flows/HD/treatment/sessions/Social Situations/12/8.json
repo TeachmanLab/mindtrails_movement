@@ -1,25 +1,12 @@
 {
-    "header_text": "Attention in Store",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You are in a store and accidentally knock over a few picture frames in one of the aisles. You feel your cheeks become hot as people in the store turn and look at you. When the shop owner comes over to rearrange the picture frames, they are..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Attention in Store_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "frowning"
-            ],
-            "missing_letter_count": 1
+            "text": "To help you get started, let's return to the example of emailing a friend to get coffee and wondering why they didn't respond. Below are some reasons why you might feel relieved in this situation:\n\nThis friend has told me that they like hanging out with me, so they probably wouldn't ignore me on purpose.\n\nI didn't get into an argument with this person recently, so it's unlikely that they are mad at me.\n\nA lot of times people send emails to me that I forget to respond to, and it doesn't mean that I am mad at them.\n\nMy friend could be busy and hasn't read my message yet.\n\nIf my friend was mad at me, they probably would say something rather than just ignore me. In the past, they have always told me if they were upset."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    ]
 }

@@ -7,6 +7,7 @@
             "text": "In the past four weeks, to what extent did you experience the following symptoms? \n\nFeeling anxious or nervous"
         },
         {
+            "name": "PAS_A1",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all, or never",
@@ -14,8 +15,7 @@
                 "2::Mild, or sometimes",
                 "3::Moderate, or often",
                 "4::Severe or (nearly) always"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

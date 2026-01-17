@@ -7,7 +7,8 @@
             "text": "You receive a call from a friend of yours telling you that he is getting a divorce. You then begin to reflect on your marriage. Although you love your spouse, you were under the impression that your friend and their partner also loved each..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "thinking_about_relationships--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

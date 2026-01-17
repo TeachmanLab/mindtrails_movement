@@ -1,16 +1,25 @@
 {
-    "header_text": "Cardio with friend",
+    "header_text": "Vacationing by plane",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cardio with friend"
+            "text": "You are traveling to your vacation destination on an airplane. As the plane accelerates during takeoff, your chest begins to feel tight. You decide to do five minutes of a breathing exercise, and you end up feeling..."
         },
         {
-            "type": "Media",
-            "url": "./images/360.jpg"
+            "type": "WordPuzzle",
+            "name": "vacationing_by_plane--physical_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relaxed"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 0
 }

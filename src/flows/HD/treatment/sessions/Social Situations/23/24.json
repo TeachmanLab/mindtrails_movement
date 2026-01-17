@@ -1,25 +1,14 @@
 {
-    "header_text": "New Environment",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are afraid of the wilderness. You are going walking with friends, and you know wild animals have been frequently spotted in the area. As you think about this, you feel..."
+            "text": "Think about a time a friend faced an uncertain situation and was feeling anxious about it. What advice would you give your friend for thinking about the situation based on what you've learned in the training?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "New Environment_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "scared"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "tip #0--entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    ]
 }

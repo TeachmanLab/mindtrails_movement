@@ -1,16 +1,16 @@
 {
-    "header_text": "Carrying Groceries",
+    "header_text": "Coughing friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Carrying Groceries"
+            "text": "Coughing friend"
         },
         {
             "type": "Media",
-            "url": "./images/435.jpg"
+            "url": "./images/436.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Gathering",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Gathering"
+        },
+        {
+            "type": "Media",
+            "url": "./images/721.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

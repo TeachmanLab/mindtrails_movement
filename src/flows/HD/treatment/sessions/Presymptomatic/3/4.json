@@ -1,16 +1,16 @@
 {
-    "header_text": "Eye Twitch",
+    "header_text": "Dinner Party Confusion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Eye Twitch"
+            "text": "Dinner Party Confusion"
         },
         {
             "type": "Media",
-            "url": "./images/895.jpg"
+            "url": "./images/881.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

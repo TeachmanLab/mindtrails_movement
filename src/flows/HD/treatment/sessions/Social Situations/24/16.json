@@ -1,29 +1,16 @@
 {
-    "header_text": "Your Friend's Support",
+    "header_text": "Vaccination Reassurance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you think about upcoming events in your life..."
+            "text": "Vaccination Reassurance"
         },
         {
-            "type": "Buttons",
-            "name": "Your Friend's Support_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "You expect your best friend will try to understand what you're going through",
-                "You think your best friend will not empathize with your experiences"
-            ],
-            "column_count": 1,
-            "correct_value": "You expect your best friend will try to understand what you're going through"
+            "type": "Media",
+            "url": "./images/695.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 6
 }

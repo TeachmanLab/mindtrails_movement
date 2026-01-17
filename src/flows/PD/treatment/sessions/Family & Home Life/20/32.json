@@ -1,0 +1,16 @@
+{
+    "header_text": "Painting Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Painting Project"
+        },
+        {
+            "type": "Media",
+            "url": "./images/233.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

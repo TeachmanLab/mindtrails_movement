@@ -1,0 +1,25 @@
+{
+    "header_text": "Morning Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At a morning work meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "morning_meeting--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "enthusiasm"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

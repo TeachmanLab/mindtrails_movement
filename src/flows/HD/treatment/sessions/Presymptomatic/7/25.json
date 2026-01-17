@@ -1,23 +1,23 @@
 {
-    "header_text": "Future Workouts",
+    "header_text": "Work Details",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you have to quit working out when you start having motor symptoms?"
+            "Text": "Your boss will be..."
         },
         {
             "type": "Buttons",
-            "name": "Future Workouts_Presymptomatic_comp_question",
+            "name": "work_details--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Pleased with your work",
+                "Annoyed at the delay"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Pleased with your work"
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,16 @@
 {
-    "header_text": "Losing Your Phone",
+    "header_text": "Local Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Losing Your Phone"
+            "text": "Local Event"
         },
         {
             "type": "Media",
-            "url": "./images/840.jpg"
+            "url": "./images/826.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 2
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Planning a Family Vacation",
+    "header_text": "Couple Strolling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planning a Family Vacation"
+            "text": "Couple Strolling"
         },
         {
             "type": "Media",
-            "url": "./images/735.jpg"
+            "url": "./images/807.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

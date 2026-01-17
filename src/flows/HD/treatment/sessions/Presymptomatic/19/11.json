@@ -1,16 +1,16 @@
 {
-    "header_text": "Reading Music ",
+    "header_text": "Beach Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reading Music "
+            "text": "Beach Reflection"
         },
         {
             "type": "Media",
-            "url": "./images/416.jpg"
+            "url": "./images/837.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 3
 }

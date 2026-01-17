@@ -1,16 +1,16 @@
 {
-    "header_text": "Minor Disagreement",
+    "header_text": "Painting Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Minor Disagreement"
+            "text": "Painting Changes"
         },
         {
             "type": "Media",
-            "url": "./images/742.jpg"
+            "url": "./images/923.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

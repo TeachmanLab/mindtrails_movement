@@ -1,16 +1,16 @@
 {
-    "header_text": "Anniversary Trip",
+    "header_text": "Game Night Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Anniversary Trip"
+            "text": "Game Night Mistake"
         },
         {
             "type": "Media",
-            "url": "./images/847.jpg"
+            "url": "./images/824.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

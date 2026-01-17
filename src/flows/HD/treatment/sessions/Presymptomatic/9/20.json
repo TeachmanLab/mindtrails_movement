@@ -1,16 +1,17 @@
 {
-    "header_text": "Painting Changes",
+    "header_text": "Focus While Driving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enjoy painting as a way to express your creativity. Recently you've been feeling less coordinated, and you wonder if this will affect your artistic skills. The thought of losing the ability to paint makes you feel... "
+            "text": "You're driving to work when you miss your turn, realizing you've been lost in thought. You feel concerned about these moments of distraction and worry about your focus and attention. You remember that there are exercises and techniques that can help you..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "focus_while_driving--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 8
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Spilling Soup",
+    "header_text": "House For Sale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Removing the stain makes you feel..."
+            "text": "House For Sale"
         },
         {
-            "type": "Buttons",
-            "name": "Spilling Soup_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Embarrassed",
-                "Glad"
-            ],
-            "column_count": 1,
-            "correct_value": "Glad"
+            "type": "Media",
+            "url": "./images/198.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 8
 }

@@ -7,7 +7,8 @@
             "text": "You invite a friend over for dinner one night, and you're in charge of the food. You aren't the best cook, and you might embarrass yourself in front of your friend. As your friend arrives, you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "having_someone_over--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

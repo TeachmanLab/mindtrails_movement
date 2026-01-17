@@ -1,16 +1,10 @@
 {
-    "header_text": "Social Media Presence",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Social Media Presence"
-        },
-        {
-            "type": "Media",
-            "url": "./images/601.jpg"
+            "text": "Motivational Statement #30 \n\n Trust in your strength to grow. Embrace vulnerability, practice flexible thinking, and nurture self-compassion to overcome your anxiety."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

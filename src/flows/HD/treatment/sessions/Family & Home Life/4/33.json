@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
+            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
         },
         {
             "type": "Entry",
-            "name": "Tip #9_entry"
+            "name": "tip #10--entry"
         }
     ]
 }

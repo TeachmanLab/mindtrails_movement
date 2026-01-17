@@ -1,16 +1,16 @@
 {
-    "header_text": "Strained Relationship",
+    "header_text": "Question at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Strained Relationship"
+            "text": "Question at Work"
         },
         {
             "type": "Media",
-            "url": "./images/894.jpg"
+            "url": "./images/733.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

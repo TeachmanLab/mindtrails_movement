@@ -1,25 +1,16 @@
 {
-    "header_text": "Work Gala",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "After you finish dancing, you speak with your partner. You realize they were just happy that you were able to dance together and that you are...  "
+            "text": "Reason 5:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Work Gala_Romantic Relationships_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "safe"
-            ],
-            "missing_letter_count": 1
+            "name": "Reason5_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    ]
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Taking a Break",
+    "header_text": "Cardio with friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been very busy the past few months, and you haven't had a lot of free time. You finally have a chance to rest, but you feel guilty that you're taking a break rather than completing work. You think that you deserve to... "
+            "text": "It's Wednesday night, and you and your friend go on a walk. You stop walking about halfway through because you feel you can't catch your... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "cardio_with_friend--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

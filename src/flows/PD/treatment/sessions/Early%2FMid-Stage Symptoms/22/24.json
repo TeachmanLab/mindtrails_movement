@@ -1,16 +1,16 @@
 {
-    "header_text": "Crafting Workshop",
+    "header_text": "Cut Finger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crafting Workshop"
+            "text": "Cut Finger"
         },
         {
             "type": "Media",
-            "url": "./images/521.jpg"
+            "url": "./images/814.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "type": "negative",
+    "scenario_num": 7
 }

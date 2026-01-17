@@ -1,0 +1,17 @@
+{
+    "header_text": "Trouble Getting Dressed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on your way to a nice dinner with friends. When getting dressed, you worry that putting on your favorite shirt will be a challenge because the buttons are too small. After trying for nearly 10 minutes to get your shirt on, you realize you have..."
+        },
+        {
+            "type": "Entry",
+            "name": "trouble_getting_dressed--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
+}

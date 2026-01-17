@@ -1,23 +1,23 @@
 {
-    "header_text": "Annual physical exam",
+    "header_text": "Walking pain",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you capable of managing your anxiety while waiting for your doctor?"
+            "Text": "You think that the pain in your hip is..."
         },
         {
             "type": "Buttons",
-            "name": "Annual physical exam_Physical Health_comp_question",
+            "name": "walking_pain--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "A sign of serious injury",
+                "Temporary"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Temporary"
         }
     ],
     "navigation_conditions": [

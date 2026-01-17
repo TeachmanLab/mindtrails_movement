@@ -1,20 +1,20 @@
 {
-    "header_text": "Seeing Others Hanging Out",
+    "header_text": "Saving Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did your colleagues exclude you on purpose?"
+            "Text": "Are you hard on yourself because you don't buy lunch like your friends?"
         },
         {
             "type": "Buttons",
-            "name": "Seeing Others Hanging Out_Social Situations_comp_question",
+            "name": "saving_money--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "No"
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "New Baby in the Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Baby in the Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/725.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

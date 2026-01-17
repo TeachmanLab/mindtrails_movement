@@ -1,0 +1,25 @@
+{
+    "header_text": "Animal Shelter",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You like to volunteer at your local animal shelter. Recently, you helped a rescue dog who liked to jump on people. With your balance challenges, being around the dog made you..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "animal_shelter--physical_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "uneasy"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

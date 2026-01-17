@@ -1,29 +1,29 @@
 {
-    "header_text": "Continuing Favorite Hobby",
+    "header_text": "Cut Finger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does continuing your hobby make you feel better?"
+            "Text": "Your family was frightened because... "
         },
         {
             "type": "Buttons",
-            "name": "Continuing Favorite Hobby_Early/Mid-Stage Symptoms_comp_question",
+            "name": "cut_finger--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "They don't like stew",
+                "You cut yourself"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "You cut yourself"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

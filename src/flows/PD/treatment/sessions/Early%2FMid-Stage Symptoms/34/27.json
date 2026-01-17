@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding a Therapist",
+    "header_text": "Friday Night Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Finding a Therapist"
+            "text": "Friday Night Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/421.jpg"
+            "url": "./images/853.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,17 @@
 {
-    "header_text": "Dismissive Doctor",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a visit with your doctor today in regards to some new symptoms of PD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been... "
+            "text": "One of your friends finds the perfect walking stick and hands it to you. You continue on your walk feeling..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "a_tricky_hike--early_mid-stage_symptoms--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

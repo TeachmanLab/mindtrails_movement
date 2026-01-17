@@ -7,14 +7,14 @@
             "text": "How would you rate your ability to perform basic daily activities such as bathing, grooming, and dressing?"
         },
         {
+            "name": "tfc_adls",
             "type": "Buttons",
             "buttons": [
                 "0::Need total assistance",
                 "1::Unable to perform fine motor tasks (e.g., buttons, cutting food)",
                 "2::A little bit impaired",
                 "3::Normal"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

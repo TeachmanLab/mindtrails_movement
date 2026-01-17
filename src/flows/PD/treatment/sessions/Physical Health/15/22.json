@@ -1,22 +1,22 @@
 {
-    "header_text": "Recovering from the Flu",
+    "header_text": "Masks with Sensitive Skin",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost..."
+            "text": "You have sensitive skin, and wearing a mask makes you break out. When you see people without masks on, their skin is completely clear. You feel insecure about how much acne you... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Recovering from the Flu_Physical Health_puzzle1",
+            "name": "masks_with_sensitive_skin--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "time"
+                "have"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

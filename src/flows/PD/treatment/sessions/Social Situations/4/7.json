@@ -1,16 +1,16 @@
 {
-    "header_text": "A different style",
+    "header_text": "Tripping in Public",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A different style"
+            "text": "Tripping in Public"
         },
         {
             "type": "Media",
-            "url": "./images/621.jpg"
+            "url": "./images/622.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

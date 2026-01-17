@@ -1,16 +1,29 @@
 {
-    "header_text": "Achieving Your Goals",
+    "header_text": "Time to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You would like to apply for a better position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal. You have worked hard to make yourself a good... "
+            "Text": "Are you okay with eating dinner alone?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "time_to_yourself--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

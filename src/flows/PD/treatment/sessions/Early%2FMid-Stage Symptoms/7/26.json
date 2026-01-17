@@ -1,23 +1,23 @@
 {
-    "header_text": "Coffee Together",
+    "header_text": "Book Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your spouse is trying to be..."
+            "Text": "Will you still be able to have discussions with your book club?"
         },
         {
             "type": "Buttons",
-            "name": "Coffee Together_Early/Mid-Stage Symptoms_comp_question",
+            "name": "book_club--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Hovering",
-                "Kind"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Kind"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

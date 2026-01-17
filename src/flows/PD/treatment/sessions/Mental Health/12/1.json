@@ -1,16 +1,12 @@
 {
-    "header_text": "Feeling Lightheaded",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Feeling Lightheaded"
-        },
-        {
-            "type": "Media",
-            "url": "./images/364.jpg"
+            "text": "In this exercise, help the Mindtrails Movement team come up with new training stories that may be included in our future program to help other participants!"
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    ]
 }

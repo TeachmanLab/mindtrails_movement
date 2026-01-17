@@ -1,16 +1,16 @@
 {
-    "header_text": "Changing Your Plans",
+    "header_text": "Completion Complications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Changing Your Plans"
+            "text": "Completion Complications"
         },
         {
             "type": "Media",
-            "url": "./images/52.jpg"
+            "url": "./images/51.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

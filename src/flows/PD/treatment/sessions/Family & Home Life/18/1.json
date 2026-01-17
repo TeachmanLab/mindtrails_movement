@@ -1,16 +1,16 @@
 {
-    "header_text": "Laundry Dilemma",
+    "header_text": "Arcade Games",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Laundry Dilemma"
+            "text": "Arcade Games"
         },
         {
             "type": "Media",
-            "url": "./images/234.jpg"
+            "url": "./images/205.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

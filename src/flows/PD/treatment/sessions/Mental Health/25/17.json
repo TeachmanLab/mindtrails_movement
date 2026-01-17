@@ -1,0 +1,16 @@
+{
+    "header_text": "Therapy Shift",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Therapy Shift"
+        },
+        {
+            "type": "Media",
+            "url": "./images/418.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

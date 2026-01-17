@@ -1,16 +1,25 @@
 {
-    "header_text": "Pet Schedule",
+    "header_text": "Symptoms at Shopping Mall",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pet Schedule"
+            "text": "While you're in a shopping mall, your chorea is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to call and make an appointment while feeling..."
         },
         {
-            "type": "Media",
-            "url": "./images/211.jpg"
+            "type": "WordPuzzle",
+            "name": "symptoms_at_shopping_mall--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

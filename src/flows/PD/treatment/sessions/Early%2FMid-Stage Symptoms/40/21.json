@@ -1,0 +1,17 @@
+{
+    "header_text": "Research Study",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "For the first time, you're taking part in a research study about PD. When someone tells you that you've been picked as a participant, you don't know what to expect. As you think about it more, you begin to feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "research_study--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

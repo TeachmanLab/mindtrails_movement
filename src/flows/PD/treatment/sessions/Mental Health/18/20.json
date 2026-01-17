@@ -1,14 +1,14 @@
 {
-    "header_text": "Certainty of being correct",
+    "header_text": "Awkward Conversations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Certainty of being correct"
+            "text": "Awkward Conversations"
         },
         {
             "type": "Media",
-            "url": "./images/10.jpg"
+            "url": "./images/382.jpg"
         }
     ],
     "type": "positive",

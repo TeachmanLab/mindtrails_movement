@@ -1,16 +1,16 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Getting an Opportunity"
+            "text": "Changing Your Trajectory"
         },
         {
             "type": "Media",
-            "url": "./images/90.jpg"
+            "url": "./images/94.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

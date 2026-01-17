@@ -1,23 +1,23 @@
 {
-    "header_text": "House Play",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You know that your spouse will be..."
+            "Text": "Is the principal investigator thankful for your participation?"
         },
         {
             "type": "Buttons",
-            "name": "House Play_Early/Mid-Stage Symptoms_comp_question",
+            "name": "research_visit--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Upset",
-                "At ease"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "At ease"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

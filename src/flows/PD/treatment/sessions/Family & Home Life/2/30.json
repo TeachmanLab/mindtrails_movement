@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your family expects you to get promoted at your job. You haven't told them yet that you actually want to take a few years off to travel. You think about telling them and feel..."
+            "text": "Your family expects you to get promoted at your job. You haven't told them yet that you're actually thinking about retiring soon. You think about telling them and feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Job Hiatus_Family & Home Life_puzzle1",
+            "name": "job_hiatus--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

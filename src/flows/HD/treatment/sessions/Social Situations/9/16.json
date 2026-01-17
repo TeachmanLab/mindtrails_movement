@@ -7,7 +7,8 @@
             "text": "You are invited to a formal event for work. You can't afford something new to wear, so you have to wear an old outfit. When you think about everyone's opinion of what you're wearing, you believe you'll feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "using_what_you_have--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

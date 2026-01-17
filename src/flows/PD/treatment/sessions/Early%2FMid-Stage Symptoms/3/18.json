@@ -1,25 +1,29 @@
 {
-    "header_text": "Out for dinner",
+    "header_text": "Enjoying the outdoors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're having dinner at a nice restaurant with some friends you haven't seen in a while. In the middle of dinner, your tremor starts to worsen, and your friends all turn and look at you. Your friends think having dinner with you is...  "
+            "Text": "Will you be able to enjoy the fresh air?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Out for dinner_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "enjoying_the_outdoors--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "nice"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 5
 }

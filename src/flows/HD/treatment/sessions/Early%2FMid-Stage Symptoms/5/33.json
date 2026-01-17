@@ -1,23 +1,23 @@
 {
-    "header_text": "House Cleaning",
+    "header_text": "Journaling Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You likely feel..."
+            "Text": "As your mind shifts, you..."
         },
         {
             "type": "Buttons",
-            "name": "House Cleaning_Early/Mid-Stage Symptoms_comp_question",
+            "name": "journaling_shift--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Even more tired",
-                "Better"
+                "Avoid the task",
+                "Embrace the challenge"
             ],
             "column_count": 1,
-            "correct_value": "Better"
+            "correct_value": "Embrace the challenge"
         }
     ],
     "navigation_conditions": [

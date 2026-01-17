@@ -1,16 +1,17 @@
 {
-    "header_text": "A Tricky Hike",
+    "header_text": "Shopping in a Crowd",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You love the great outdoors but have discovered recent unsteadiness in your footing when hiking. Friends notice the change and ask you about what's going on. When you answer, your friends realize that your fun escape has become a tricky..."
+            "text": "You're out shopping, and you notice that your body is moving uncontrollably. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "shopping_in_a_crowd--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

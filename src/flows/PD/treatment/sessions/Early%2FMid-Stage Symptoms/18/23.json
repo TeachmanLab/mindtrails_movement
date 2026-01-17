@@ -1,16 +1,16 @@
 {
-    "header_text": "Journaling Shift",
+    "header_text": "Animal Shelter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Journaling Shift"
+            "text": "Animal Shelter"
         },
         {
             "type": "Media",
-            "url": "./images/409.jpg"
+            "url": "./images/520.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

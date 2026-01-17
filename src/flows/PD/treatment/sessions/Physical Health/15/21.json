@@ -1,14 +1,14 @@
 {
-    "header_text": "Recovering from the Flu",
+    "header_text": "Masks with Sensitive Skin",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recovering from the Flu"
+            "text": "Masks with Sensitive Skin"
         },
         {
             "type": "Media",
-            "url": "./images/303.jpg"
+            "url": "./images/500.jpg"
         }
     ],
     "type": "positive",

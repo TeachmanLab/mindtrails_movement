@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Heart Rate Worries_Physical Health_puzzle1",
+            "name": "heart_rate_worries--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

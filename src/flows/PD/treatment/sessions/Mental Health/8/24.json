@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
+            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
         },
         {
             "type": "Entry",
-            "name": "Tip #1_entry"
+            "name": "tip #8--entry"
         }
     ]
 }

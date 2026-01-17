@@ -1,16 +1,16 @@
 {
-    "header_text": "Out for dinner",
+    "header_text": "Family Dinner Fight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Out for dinner"
+            "text": "Family Dinner Fight"
         },
         {
             "type": "Media",
-            "url": "./images/720.jpg"
+            "url": "./images/795.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

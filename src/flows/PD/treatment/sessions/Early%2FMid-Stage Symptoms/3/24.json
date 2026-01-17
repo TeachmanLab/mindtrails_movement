@@ -1,20 +1,20 @@
 {
-    "header_text": "Music Venue ",
+    "header_text": "Games with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you freeze..."
+            "text": "After playing a couple more rounds, you speak to your friends. They tell you that regardless of your symptoms, time spent with you is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Music Venue _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "games_with_friends--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "up"
+                "enjoyable"
             ],
             "missing_letter_count": 1
         }

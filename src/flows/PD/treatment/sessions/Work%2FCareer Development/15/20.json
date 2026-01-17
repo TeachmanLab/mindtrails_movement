@@ -1,25 +1,29 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Meeting New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your..."
+            "Text": "Can you still make friends with your colleagues even though everything is online?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Reviewing Your Work _Work/Career Development_puzzle1",
+            "type": "Buttons",
+            "name": "meeting_new_people--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "shortcomings"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
     "scenario_num": 5
 }

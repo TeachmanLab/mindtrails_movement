@@ -1,16 +1,29 @@
 {
-    "header_text": "Navigation Irritation",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Navigation Irritation"
+            "Text": "Your family's response makes you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/594.jpg"
+            "type": "Buttons",
+            "name": "keys_forgotten--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Good",
+                "Ashamed"
+            ],
+            "column_count": 1,
+            "correct_value": "Good"
         }
     ],
-    "type": "positive",
-    "scenario_num": 2
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

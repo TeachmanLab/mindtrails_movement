@@ -1,16 +1,16 @@
 {
-    "header_text": "Farmer's Market Sweets",
+    "header_text": "Certainty of being correct",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently, you have been craving sweets more than usual. You buy a small cookie, knowing it is sometimes okay to..."
+            "text": "Certainty of being correct"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/10.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 7
 }

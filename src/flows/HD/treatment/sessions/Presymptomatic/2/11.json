@@ -1,14 +1,14 @@
 {
-    "header_text": "Weekly Game Night",
+    "header_text": "Memory Training",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Weekly Game Night"
+            "text": "Memory Training"
         },
         {
             "type": "Media",
-            "url": "./images/202.jpg"
+            "url": "./images/893.jpg"
         }
     ],
     "type": "positive",

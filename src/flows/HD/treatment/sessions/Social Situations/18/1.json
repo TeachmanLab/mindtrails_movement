@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking with Your Friend",
+    "header_text": "Comedic Genius",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Talking with Your Friend"
+            "text": "Comedic Genius"
         },
         {
             "type": "Media",
-            "url": "./images/680.jpg"
+            "url": "./images/666.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,25 @@
 {
-    "header_text": "A Birthday Cake",
+    "header_text": "Being Near Someone Sick",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend buys you a cake for your birthday. When they bring it over in the evening, they note that they have recently gotten over being ill. Holding the cake, you think your chances of becoming sick are pretty..."
+            "text": "You go to the hospital to visit a friend. Someone behind you coughs a few times while you are in the waiting room. The chance that you will get sick is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A Birthday Cake_Physical Health_puzzle1",
+            "name": "being_near_someone_sick--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "high"
+                "low"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

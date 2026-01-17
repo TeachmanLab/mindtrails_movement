@@ -7,7 +7,8 @@
             "text": "When your grandchild is older, you do not believe that your grandkid will resent you. You think your relationship with them will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "new_family_member--mental_health--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

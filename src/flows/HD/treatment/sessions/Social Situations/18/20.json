@@ -1,16 +1,16 @@
 {
-    "header_text": "Not Having Much to Say",
+    "header_text": "Dinner at a Friend's House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Not Having Much to Say"
+            "text": "Dinner at a Friend's House"
         },
         {
             "type": "Media",
-            "url": "./images/684.jpg"
+            "url": "./images/177.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

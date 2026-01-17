@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "An engaged audience_Work/Career Development_puzzle1",
+            "name": "an_engaged_audience--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

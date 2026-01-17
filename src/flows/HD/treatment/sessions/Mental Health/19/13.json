@@ -1,16 +1,16 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have just been given a job in an office that you really like. To eventually receive the promotion you want, you know that you will have to work very hard for several years. Even then, the outcome is..."
+            "text": "Reviewing Your Work "
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/91.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 4
 }

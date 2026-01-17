@@ -1,25 +1,29 @@
 {
-    "header_text": "Virtual Worry",
+    "header_text": "Finishing Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get called on and give your answer. Everyone probably thought you sounded..."
+            "Text": "Are you worried about completing your project on time?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Virtual Worry_Work/Career Development_puzzle_word2",
+            "type": "Buttons",
+            "name": "finishing_work--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "knowledgeable"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 0
 }

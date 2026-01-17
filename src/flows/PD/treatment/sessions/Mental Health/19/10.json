@@ -1,16 +1,16 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Working to Get Ahead"
+            "text": "Mental Health Issues"
         },
         {
             "type": "Media",
-            "url": "./images/36.jpg"
+            "url": "./images/389.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

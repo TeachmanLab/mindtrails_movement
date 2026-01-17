@@ -1,29 +1,10 @@
 {
-    "header_text": "Baking Cookies",
+    "header_text": "Manage Your Feelings: Family & Home Life",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After you drop the tray, your child is..."
-        },
-        {
-            "type": "Buttons",
-            "name": "Baking Cookies_Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Upset",
-                "Entertained"
-            ],
-            "column_count": 1,
-            "correct_value": "Entertained"
+            "text": "When facing a difficult situation, try to find a way of handling it that feels right to you, regardless of how things might turn out."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

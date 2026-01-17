@@ -1,25 +1,16 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "Lost in the Forest",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are a dog owner. You've had difficulty with your balance lately, and you worry that it will become harder to take your dog for a walk. Thinking about whether you will be able to continue to care for your dog makes you feel..."
+            "text": "Lost in the Forest"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "overwhelmed"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/821.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 7
 }

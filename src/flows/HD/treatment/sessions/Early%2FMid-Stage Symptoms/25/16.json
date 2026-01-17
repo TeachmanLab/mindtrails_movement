@@ -1,25 +1,16 @@
 {
-    "header_text": "Parked Car",
+    "header_text": "Off Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're leaving the movie theater with a friend, you realize you don't remember where the car is parked. Your friend takes a deep sigh, and you wonder what they are thinking. Later that night, your friend remarks that lately you have been more..."
+            "text": "Off Balance"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Parked Car_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "forgetful"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/830.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

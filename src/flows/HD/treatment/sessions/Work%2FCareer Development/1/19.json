@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Feedback on your work_Work/Career Development_puzzle_word2",
+            "name": "feedback_on_your_work--work_career_development--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

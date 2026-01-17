@@ -1,29 +1,25 @@
 {
-    "header_text": "Favorite Restaurant",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If the other customers did notice your walk, you would likely be... "
+            "text": "After the performance is over, you speak with your child and compliment them on their performance. You realize that they are just happy you were able to attend, regardless of your..."
         },
         {
-            "type": "Buttons",
-            "name": "Favorite Restaurant_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "attending_a_dance_recital--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Disappointed",
-                "Okay"
+            "display_delay": 2000,
+            "words": [
+                "symptoms"
             ],
-            "column_count": 1,
-            "correct_value": "Okay"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

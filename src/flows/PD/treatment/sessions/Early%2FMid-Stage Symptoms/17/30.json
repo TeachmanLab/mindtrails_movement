@@ -1,16 +1,16 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Shopping Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Attending a Dance Recital"
+            "text": "Shopping Anxiety"
         },
         {
             "type": "Media",
-            "url": "./images/228.jpg"
+            "url": "./images/970.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

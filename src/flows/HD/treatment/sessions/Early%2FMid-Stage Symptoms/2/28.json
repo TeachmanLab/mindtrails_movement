@@ -1,20 +1,20 @@
 {
-    "header_text": "Family Dinner",
+    "header_text": "Future Workouts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You love to cook for your family. Lately, your symptoms have made it more difficult to make your favorite meals. Whether or not you can continue filling this role for your family, you know that dinner time together will be..."
+            "text": "You are attending your weekly workout class. While doing the exercises, you start to wonder if you will be able to attend your classes in the future as your HD symptoms worsen. You decide that, over time, your workouts will..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Family Dinner_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "future_workouts--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enjoyable"
+                "adapt"
             ],
             "missing_letter_count": 1
         }

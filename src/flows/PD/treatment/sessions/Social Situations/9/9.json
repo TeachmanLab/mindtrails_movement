@@ -1,14 +1,14 @@
 {
-    "header_text": "Disrupting the Silence",
+    "header_text": "Nerves at a Big Moment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Disrupting the Silence"
+            "text": "Nerves at a Big Moment"
         },
         {
             "type": "Media",
-            "url": "./images/644.jpg"
+            "url": "./images/645.jpg"
         }
     ],
     "type": "positive",

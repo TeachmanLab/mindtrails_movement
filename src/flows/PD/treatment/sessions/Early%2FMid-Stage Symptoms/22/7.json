@@ -1,16 +1,29 @@
 {
-    "header_text": "Retirement Celebration",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just retired because of your PD symptoms, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of..."
+            "Text": "Your grandchild is..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "attending_a_dance_recital--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Happy you were able to attend",
+                "Embarrassed"
+            ],
+            "column_count": 1,
+            "correct_value": "Happy you were able to attend"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "To-do List",
+    "header_text": "Future Workouts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you..."
+            "text": "Future Workouts"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/802.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

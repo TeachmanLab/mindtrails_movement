@@ -7,6 +7,7 @@
             "text": "Your doctor recommends a new type of exercise class to help your symptoms. You are hesitant. Why? \n\nYou will probably be bad at it and embarrass yourself."
         },
         {
+            "name": "mdib_7a_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

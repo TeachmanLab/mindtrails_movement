@@ -1,0 +1,16 @@
+{
+    "header_text": "Posting about Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Posting about Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/175.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "A sip of water",
+    "header_text": "Taking Your Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The department members probably think..."
+            "Text": "Are you able to answer the question?"
         },
         {
             "type": "Buttons",
-            "name": "A sip of water_Work/Career Development_comp_question",
+            "name": "taking_your_time--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You look very nervous during your presentation",
-                "You look calm and composed during your presentation"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "You look calm and composed during your presentation"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

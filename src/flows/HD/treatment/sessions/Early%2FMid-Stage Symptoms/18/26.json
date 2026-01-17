@@ -1,23 +1,23 @@
 {
-    "header_text": "Texting and TV",
+    "header_text": "Picnic Packing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Focusing on one task is..."
+            "Text": "When you struggle to remember, will your friends abandon you?"
         },
         {
             "type": "Buttons",
-            "name": "Texting and TV_Early/Mid-Stage Symptoms_comp_question",
+            "name": "picnic_packing--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Okay",
-                "Rude"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Okay"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

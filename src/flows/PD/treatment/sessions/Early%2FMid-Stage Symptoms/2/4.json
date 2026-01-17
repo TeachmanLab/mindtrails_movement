@@ -1,14 +1,14 @@
 {
-    "header_text": "Gathering at the park",
+    "header_text": "Catching up with a friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Gathering at the park"
+            "text": "Catching up with a friend"
         },
         {
             "type": "Media",
-            "url": "./images/961.jpg"
+            "url": "./images/714.jpg"
         }
     ],
     "type": "positive",

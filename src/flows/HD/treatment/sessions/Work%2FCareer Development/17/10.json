@@ -1,16 +1,16 @@
 {
-    "header_text": "Coming up with Questions",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Coming up with Questions"
+            "text": "Reviewing Your Work "
         },
         {
             "type": "Media",
-            "url": "./images/114.jpg"
+            "url": "./images/91.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

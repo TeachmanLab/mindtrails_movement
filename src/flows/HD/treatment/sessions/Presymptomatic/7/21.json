@@ -1,25 +1,25 @@
 {
-    "header_text": "Delayed Projects",
+    "header_text": "Future Workouts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You close your eyes and take a deep breath. You remind yourself that the projects will get done even if it takes a little longer, so everything will turn out..."
+            "text": "You are attending your weekly workout class. While doing the exercises, you start to wonder if you will be able to attend your classes when your motor symptoms worsen. You decide that when that happens, your workouts will..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Delayed Projects_Presymptomatic_puzzle_word2",
+            "name": "future_workouts--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "okay"
+                "adapt"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

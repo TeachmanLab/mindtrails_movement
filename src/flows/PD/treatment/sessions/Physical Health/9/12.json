@@ -1,16 +1,16 @@
 {
-    "header_text": "Upset Stomach",
+    "header_text": "Normal Functions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been feeling sick to your stomach for a few days. You make an appointment with your doctor. The nausea probably means that you are..."
+            "text": "Normal Functions "
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/483.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Confusing Movie",
+    "header_text": "Parked Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Confusing Movie"
+            "text": "As you're leaving the movie theater with a friend, you realize you don't remember where the car is parked. Your friend takes a deep sigh, and you wonder what they are thinking. Later that night, your friend remarks that lately you have been more..."
         },
         {
-            "type": "Media",
-            "url": "./images/245.jpg"
+            "type": "WordPuzzle",
+            "name": "parked_car--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "forgetful"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

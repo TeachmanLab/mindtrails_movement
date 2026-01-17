@@ -1,16 +1,16 @@
 {
-    "header_text": "At the Park",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the Park"
+            "text": "Crowded Grocery Store"
         },
         {
             "type": "Media",
-            "url": "./images/968.jpg"
+            "url": "./images/956.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

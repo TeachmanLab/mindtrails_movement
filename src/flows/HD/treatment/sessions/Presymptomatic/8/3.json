@@ -1,29 +1,17 @@
 {
-    "header_text": "Cleaning Your Home",
+    "header_text": "Job Interview",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to calm yourself down and focus?"
+            "text": "You go to a job interview and feel confident going into it. As soon as they ask you a basic question, you struggle to find an answer and your mind goes blank. At first, you are worried about making a bad impression, but then you think about how getting nervous and fumbling words during an interview are... "
         },
         {
-            "type": "Buttons",
-            "name": "Cleaning Your Home_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "job_interview--presymptomatic--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

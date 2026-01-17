@@ -1,16 +1,16 @@
 {
-    "header_text": "Sharing Favorite Shows",
+    "header_text": "Feeling Lightheaded",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sharing Favorite Shows"
+            "text": "Feeling Lightheaded"
         },
         {
             "type": "Media",
-            "url": "./images/388.jpg"
+            "url": "./images/364.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

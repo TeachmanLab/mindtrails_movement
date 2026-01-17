@@ -1,20 +1,20 @@
 {
-    "header_text": "An organized outing",
+    "header_text": "A new state",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You organize a day outside with your friends. The outing does not go very well, and you feel discouraged. As you head home, you think that others thought the event did not go well because of the..."
+            "text": "For your vacation this year you are visiting a new state for the first time. When you are there, everything around you feels different and strange. You think this is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "An organized outing_Social Situations_puzzle1",
+            "name": "a_new_state--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "rain"
+                "awesome"
             ],
             "missing_letter_count": 1
         }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Safety at Home",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When walking through your home, you..."
+            "Text": "You embrace the future with..."
         },
         {
             "type": "Buttons",
-            "name": "Safety at Home_Early/Mid-Stage Symptoms_comp_question",
+            "name": "future_gym_visits--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Get hurt",
-                "Make it safely to a sitting position"
+                "Pessimism",
+                "Optimism"
             ],
             "column_count": 1,
-            "correct_value": "Make it safely to a sitting position"
+            "correct_value": "Optimism"
         }
     ],
     "navigation_conditions": [

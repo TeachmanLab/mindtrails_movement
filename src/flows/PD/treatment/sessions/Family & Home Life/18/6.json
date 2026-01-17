@@ -1,25 +1,29 @@
 {
-    "header_text": "Giving a Toast",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been looking forward to your family reunion all year. As you give a toast at dinner, your speech is quiet, and your family members' expressions are blank as they listen. They are probably... "
+            "Text": "Swimming in the ocean with your nieces and nephews will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Giving a Toast_Family & Home Life_puzzle1",
+            "type": "Buttons",
+            "name": "beach_vacation--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "concentrating"
+            "buttons": [
+                "Unpleasant",
+                "Amusing"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Amusing"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 1
 }

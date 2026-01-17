@@ -1,16 +1,16 @@
 {
-    "header_text": "Losing Your Phone",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Losing Your Phone"
+            "text": "New Kitten"
         },
         {
             "type": "Media",
-            "url": "./images/840.jpg"
+            "url": "./images/219.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

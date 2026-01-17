@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Advice for a friend_Romantic Relationships_comp_question",
+            "name": "advice_for_a_friend--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

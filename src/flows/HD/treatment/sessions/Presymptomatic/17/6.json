@@ -1,29 +1,25 @@
 {
-    "header_text": "Tax Forms",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "As the numbers start to overwhelm you, you respond by..."
+            "text": "You apologize to your family for treating them that way. They say that they don't think you treated them badly, so you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Tax Forms_Presymptomatic_comp_question",
+            "type": "WordPuzzle",
+            "name": "keys_forgotten--presymptomatic--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Getting organized",
-                "Giving up"
+            "display_delay": 2000,
+            "words": [
+                "better"
             ],
-            "column_count": 1,
-            "correct_value": "Getting organized"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

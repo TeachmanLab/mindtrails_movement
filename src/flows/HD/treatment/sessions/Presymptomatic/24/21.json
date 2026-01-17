@@ -1,16 +1,17 @@
 {
-    "header_text": "A Balancing Act",
+    "header_text": "Finding Support",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A Balancing Act"
+            "text": "You decide to reach out to an HD support group to help find better ways to deal with the anxiety. You think the people you reach out to will... "
         },
         {
-            "type": "Media",
-            "url": "./images/524.jpg"
+            "type": "Entry",
+            "name": "finding_support--presymptomatic--puzzle2_entry"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

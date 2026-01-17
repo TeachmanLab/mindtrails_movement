@@ -1,0 +1,16 @@
+{
+    "header_text": "Cooking Struggle",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cooking Struggle"
+        },
+        {
+            "type": "Media",
+            "url": "./images/247.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

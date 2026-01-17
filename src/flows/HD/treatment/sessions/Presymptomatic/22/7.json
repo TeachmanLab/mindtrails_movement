@@ -1,16 +1,16 @@
 {
-    "header_text": "Tricky Website",
+    "header_text": "Home Renovation Preparation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "The bank just alerted you of an upcoming bill. You go online to make a payment and find that the website is hard to navigate. You decide to pay the bill over the phone, making you feel..."
+            "text": "Home Renovation Preparation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/227.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

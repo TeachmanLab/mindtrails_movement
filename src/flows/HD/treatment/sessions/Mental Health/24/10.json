@@ -1,0 +1,17 @@
+{
+    "header_text": "Assembling Furniture",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently ordered furniture online that you have to put together yourself. You struggle to make out the diagrams and wonder if you are struggling because of HD. You think to yourself that the instructions are bad, and this makes you... "
+        },
+        {
+            "type": "Entry",
+            "name": "assembling_furniture--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
+}

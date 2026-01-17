@@ -1,16 +1,39 @@
 {
-    "header_text": "Setting up Camp",
+    "header_text": "Replying to Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Setting up Camp"
+            "Text": "Did your boss respond angrily?"
         },
         {
-            "type": "Media",
-            "url": "./images/836.jpg"
+            "type": "Buttons",
+            "name": "replying_to_email--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

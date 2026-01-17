@@ -1,0 +1,25 @@
+{
+    "header_text": "Stained Laundry",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice a few lighter pieces of clothing have been stained by a darker item. You feel frustrated that your attention seems to be... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "stained_laundry--family_&_home_life--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "slipping"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

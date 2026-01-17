@@ -1,16 +1,16 @@
 {
-    "header_text": "A new state",
+    "header_text": "A new camera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A new state"
+            "text": "A new camera"
         },
         {
             "type": "Media",
-            "url": "./images/605.jpg"
+            "url": "./images/603.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

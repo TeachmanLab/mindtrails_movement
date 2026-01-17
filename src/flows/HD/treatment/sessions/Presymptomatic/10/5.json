@@ -1,16 +1,16 @@
 {
-    "header_text": "Spilling Food on Laptop",
+    "header_text": "Team Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize that the spill is not that bad and you clean it up fairly easily. You now feel..."
+            "text": "Team Project"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/882.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "type": "positive",
+    "scenario_num": 1
 }

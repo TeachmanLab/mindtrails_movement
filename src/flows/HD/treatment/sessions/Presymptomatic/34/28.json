@@ -1,0 +1,25 @@
+{
+    "header_text": "Car Accident",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are driving with a friend in your car, and you pass the scene of a car accident. You start to feel queasy as you think about a future when you will no longer be able to drive safely. Your friend reminds you that that future is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "car_accident--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "distant"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

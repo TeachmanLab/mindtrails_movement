@@ -1,0 +1,16 @@
+{
+    "header_text": "Recovering from the Flu",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Recovering from the Flu"
+        },
+        {
+            "type": "Media",
+            "url": "./images/303.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

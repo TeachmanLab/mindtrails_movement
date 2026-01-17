@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Checks at the dentist_Mental Health_comp_question",
+            "name": "checks_at_the_dentist--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

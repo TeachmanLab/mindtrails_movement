@@ -1,16 +1,16 @@
 {
-    "header_text": "Online Shopping",
+    "header_text": "Replying to Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Online Shopping"
+            "text": "Replying to Email"
         },
         {
             "type": "Media",
-            "url": "./images/222.jpg"
+            "url": "./images/776.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

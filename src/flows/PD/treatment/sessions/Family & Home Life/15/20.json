@@ -1,25 +1,16 @@
 {
-    "header_text": "New Kitten",
+    "header_text": "Keeping Up With Family ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your PD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to..."
+            "text": "Keeping Up With Family "
         },
         {
-            "type": "WordPuzzle",
-            "name": "New Kitten_Family & Home Life_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "adopt"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/82.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

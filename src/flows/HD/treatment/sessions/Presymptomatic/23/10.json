@@ -1,16 +1,17 @@
 {
-    "header_text": "Work Deadline",
+    "header_text": "Reading Music ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Work Deadline"
+            "text": "Playing musical instruments has been a hobby of yours since childhood, but it has been a few years since you played anything. When you try to play this time, you find it more difficult than you were expecting. When you take a deep breath and slow down, you are able to refocus and..."
         },
         {
-            "type": "Media",
-            "url": "./images/936.jpg"
+            "type": "Entry",
+            "name": "reading_music_--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "resilience/negation",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 3
 }

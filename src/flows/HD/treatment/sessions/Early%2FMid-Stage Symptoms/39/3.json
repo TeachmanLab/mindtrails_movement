@@ -1,0 +1,17 @@
+{
+    "header_text": "Question at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At a work meeting, you forget the answer to an important question. Your colleagues exchange glances that leave you unsure about how they perceive your capabilities and HD symptoms. However, one colleague offers to fill you in, and you think that your colleagues are..."
+        },
+        {
+            "type": "Entry",
+            "name": "question_at_work--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,20 +1,20 @@
 {
-    "header_text": "Produce Shopping",
+    "header_text": "Thinking fast at work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping for fresh fruits and vegetables in the produce section at the store. When you see all the options, you feel overwhelmed about making decisions on the spot. You check your list and only buy what you... "
+            "text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Produce Shopping_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "thinking_fast_at_work--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "need"
+                "competence"
             ],
             "missing_letter_count": 2
         }

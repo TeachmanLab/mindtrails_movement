@@ -1,16 +1,25 @@
 {
-    "header_text": "Forgotten Ingredients",
+    "header_text": "Dentist Appointment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgotten Ingredients"
+            "text": "During a difficult visit to the dentist, you have a hard time staying still. You start to worry this restlessness could be a sign of HD progressing. Later, your partner reminds you that lots of people get fidgety when they are..."
         },
         {
-            "type": "Media",
-            "url": "./images/738.jpg"
+            "type": "WordPuzzle",
+            "name": "dentist_appointment--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "anxious"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Trip to the Dentist",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide... "
+            "text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "long_walk_outside--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

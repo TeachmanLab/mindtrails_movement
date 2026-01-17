@@ -1,39 +1,29 @@
 {
-    "header_text": "Meeting an old acquaintance",
+    "header_text": "Overhearing your name ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you take your acquaintance’s call to meet for coffee?"
+            "Text": "Your coworkers were probably..."
         },
         {
             "type": "Buttons",
-            "name": "Meeting an old acquaintance_Social Situations_comp_question",
+            "name": "overhearing_your_name_--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Talking poorly about you",
+                "Giving you a compliment"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Giving you a compliment"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
-    "scenario_num": 8,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 8
 }

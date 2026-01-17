@@ -1,25 +1,25 @@
 {
-    "header_text": "Eye Twitch",
+    "header_text": "Dinner Party Confusion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have not been sleeping well this week because of a stressful situation at work. After an especially restless night of sleep, you notice your eye is twitching the next day. Instead of thinking it is a symptom of HD, you realize you are just..."
+            "text": "During a dinner party, you become overwhelmed talking to multiple people at once. You find yourself quickly losing track of conversations. After asking too many questions, you notice your friends' expressions shift from giddiness to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Eye Twitch_Presymptomatic_puzzle1",
+            "name": "dinner_party_confusion--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tired"
+                "worry"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Cut Finger",
+    "header_text": "Brother Getting Tested",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cut Finger"
+            "text": "Brother Getting Tested"
         },
         {
             "type": "Media",
-            "url": "./images/814.jpg"
+            "url": "./images/863.jpg"
         }
     ],
     "type": "negative",

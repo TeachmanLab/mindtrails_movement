@@ -1,13 +1,14 @@
 {
-    "header_text": "Opposing Opinions ",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your family has strong opinions that you don't always agree with. As you listen to your family talk, you feel that you are pretty different from them. You feel having your own unique views is..."
+            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "reviewing_your_work_--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

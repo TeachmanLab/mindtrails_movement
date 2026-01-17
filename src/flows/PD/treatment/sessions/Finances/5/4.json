@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Going to the Dentist_Finances_comp_question",
+            "name": "going_to_the_dentist--finances--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

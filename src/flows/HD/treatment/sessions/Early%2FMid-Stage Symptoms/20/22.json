@@ -1,16 +1,25 @@
 {
-    "header_text": "Navigation Irritation",
+    "header_text": "Worsening condition",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in the passenger seat as your partner drives to a new friend's house. They struggle, and the trip goes from 15 to 30 minutes, making you irritated. When your partner eventually stops the car and apologizes for getting lost, you give them..."
+            "text": "You spend some time with your family and friends. You realize, if your symptoms become that severe, you will still be surrounded by loved ones who..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "worsening_condition--early_mid-stage_symptoms--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "care"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

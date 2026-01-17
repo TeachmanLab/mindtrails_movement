@@ -1,29 +1,25 @@
 {
-    "header_text": "Coming up with Questions",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are everyone else's questions better than yours?"
+            "text": "As you prepare for the review, you do not think your boss will forget your good work. In your meeting, you think you will receive..."
         },
         {
-            "type": "Buttons",
-            "name": "Coming up with Questions_Work/Career Development_comp_question",
+            "type": "WordPuzzle",
+            "name": "reviewing_your_work_--work_career_development--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "praise"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

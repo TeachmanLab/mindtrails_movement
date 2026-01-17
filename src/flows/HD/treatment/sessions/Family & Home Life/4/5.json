@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Introducing Your Spouse to New Friends_Family & Home Life_puzzle1",
+            "name": "introducing_your_spouse_to_new_friends--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

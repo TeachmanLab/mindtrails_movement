@@ -1,16 +1,39 @@
 {
-    "header_text": "Trying Times",
+    "header_text": "Family Money Troubles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trying Times"
+            "Text": "Can you help your sibling even if you can't offer them money right now? "
         },
         {
-            "type": "Media",
-            "url": "./images/218.jpg"
+            "type": "Buttons",
+            "name": "family_money_troubles--family_&_home_life--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "type": "negative",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,16 +1,29 @@
 {
-    "header_text": "Cooking Class",
+    "header_text": "Paying and Organizing Bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You attend a cooking class to try out something new. During the lesson, you realize you are a few steps behind everyone else. You follow at your own pace, ask lots of questions, and end up feeling..."
+            "Text": "With the right support, continuing to pay your own bills is..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "paying_and_organizing_bills--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Feasible",
+                "Unlikely"
+            ],
+            "column_count": 1,
+            "correct_value": "Feasible"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

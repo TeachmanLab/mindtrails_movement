@@ -1,16 +1,16 @@
 {
-    "header_text": "Work Comparisons",
+    "header_text": "Coughing at the Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Work Comparisons"
+            "text": "Coughing at the Store"
         },
         {
             "type": "Media",
-            "url": "./images/640.jpg"
+            "url": "./images/513.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 8
 }

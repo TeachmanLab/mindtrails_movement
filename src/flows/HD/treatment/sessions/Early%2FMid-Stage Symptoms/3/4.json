@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost Things",
+    "header_text": "Directions to Thrift Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lost Things"
+            "text": "Directions to Thrift Store"
         },
         {
             "type": "Media",
-            "url": "./images/734.jpg"
+            "url": "./images/805.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

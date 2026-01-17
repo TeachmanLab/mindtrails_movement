@@ -1,25 +1,29 @@
 {
-    "header_text": "Research Study",
+    "header_text": "New Medications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For the first time, you're taking part in a research study about HD. When someone tells you that you've been picked as a participant, you don't know what to expect. As you think about it more, you begin to feel..."
+            "Text": "Searching for support resources online helps you to..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Research Study_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "new_medications--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "uneasy"
+            "buttons": [
+                "Panic",
+                "Cope"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Cope"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 3
 }

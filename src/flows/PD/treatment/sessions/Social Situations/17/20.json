@@ -1,16 +1,16 @@
 {
-    "header_text": "Fundraiser presentation",
+    "header_text": "Social Media Self-Confidence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fundraiser presentation"
+            "text": "Social Media Self-Confidence"
         },
         {
             "type": "Media",
-            "url": "./images/107.jpg"
+            "url": "./images/663.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

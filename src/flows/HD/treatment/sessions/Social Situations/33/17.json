@@ -1,0 +1,16 @@
+{
+    "header_text": "Worrying About Spending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Worrying About Spending"
+        },
+        {
+            "type": "Media",
+            "url": "./images/259.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

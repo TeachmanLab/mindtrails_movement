@@ -1,29 +1,16 @@
 {
-    "header_text": "Cold Weather",
+    "header_text": "Vision Troubles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Before you go indoors again, you... "
+            "text": "Vision Troubles"
         },
         {
-            "type": "Buttons",
-            "name": "Cold Weather_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Tolerate your body's normal response to the cold",
-                "Assume that something bad is happening to you"
-            ],
-            "column_count": 1,
-            "correct_value": "Tolerate your body's normal response to the cold"
+            "type": "Media",
+            "url": "./images/460.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 4
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Research Study",
+    "header_text": "Parked Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "The research team tells you that your participation is completely voluntary, and you can opt out at anytime. After that, you start to feel more..."
+            "text": "Parked Car"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/848.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 5
 }

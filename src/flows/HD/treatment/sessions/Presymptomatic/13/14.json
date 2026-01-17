@@ -1,16 +1,10 @@
 {
-    "header_text": "Organizing Closet",
+    "header_text": "Manage Your Feelings: Presymptomatic",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Organizing Closet"
-        },
-        {
-            "type": "Media",
-            "url": "./images/405.jpg"
+            "text": "When the future feels incredibly uncertain, building a community of friends, professionals, and relatives to support you can help you find a piece of certainty. "
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

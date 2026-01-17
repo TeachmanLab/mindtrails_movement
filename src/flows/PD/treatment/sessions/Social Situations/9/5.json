@@ -1,16 +1,17 @@
 {
-    "header_text": "Being Talked About",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Over the weekend, you decide to post a video and a few pictures on your social media. When you get to work on Monday, you overhear your coworkers gossiping about your pictures and videos. They probably think that you are..."
+            "text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "important_opinion--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

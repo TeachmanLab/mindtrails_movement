@@ -1,25 +1,16 @@
 {
-    "header_text": "Important Opinion",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are..."
+            "text": "Now it's your turn! Thinking about the short story you just created, what are some reasons why this positive or non-threatening ending might have occurred? Really try to come up with a few different explanations.\n\nReason 1:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Important Opinion_Mental Health_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "learning"
-            ],
-            "missing_letter_count": 1
+            "name": "Reason1_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    ]
 }

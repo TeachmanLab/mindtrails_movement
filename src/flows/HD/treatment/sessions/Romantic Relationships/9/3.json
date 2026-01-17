@@ -7,7 +7,8 @@
             "text": "You are going on a date with your spouse. You look in the mirror before you leave and wonder if they will like your look. You realize that the only opinion that matters about your appearance is... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "how_you_look--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

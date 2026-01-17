@@ -1,0 +1,16 @@
+{
+    "header_text": "Unmasked Peers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unmasked Peers"
+        },
+        {
+            "type": "Media",
+            "url": "./images/512.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

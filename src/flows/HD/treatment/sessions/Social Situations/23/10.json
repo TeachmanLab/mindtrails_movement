@@ -1,16 +1,16 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Friends Excluding You",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Grocery Store Experience"
+            "text": "Friends Excluding You"
         },
         {
             "type": "Media",
-            "url": "./images/648.jpg"
+            "url": "./images/688.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 4
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Interview anticipation",
+    "header_text": "Past Experiences",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does feeling shaky frighten you?"
+            "Text": "Will your partner understand?"
         },
         {
             "type": "Buttons",
-            "name": "Interview anticipation_Mental Health_comp_question",
+            "name": "past_experiences--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,29 @@
 {
-    "header_text": "Mistake on a task",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mistake on a task"
+            "Text": "Do you think your boss will mainly focus on your strengths during your performance review?"
         },
         {
-            "type": "Media",
-            "url": "./images/116.jpg"
+            "type": "Buttons",
+            "name": "reviewing_your_work_--work_career_development--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 3
 }

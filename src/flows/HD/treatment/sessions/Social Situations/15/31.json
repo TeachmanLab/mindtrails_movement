@@ -1,14 +1,14 @@
 {
-    "header_text": "Lightening the Mood",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lightening the Mood"
+            "text": "Friends Hanging Out"
         },
         {
             "type": "Media",
-            "url": "./images/73.jpg"
+            "url": "./images/659.jpg"
         }
     ],
     "type": "positive",

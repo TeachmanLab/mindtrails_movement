@@ -1,16 +1,17 @@
 {
-    "header_text": "Social Media Comments",
+    "header_text": "Turning Down a Drink",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel..."
+            "text": "You're out with some friends and they are talking about ordering drinks at the bar. They ask if you want a drink, but you don't feel like drinking tonight. If you tell them the truth they will think that you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "turning_down_a_drink--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

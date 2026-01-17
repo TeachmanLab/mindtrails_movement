@@ -1,16 +1,25 @@
 {
-    "header_text": "Finding Balance",
+    "header_text": "Dropped Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At yoga class, you struggle to balance in your poses. Anxiety grips you as you worry about your ability to continue physical activities in the future. However, you modify poses, focus on breathing, and prove to yourself that you can..."
+            "text": "You are at the store getting groceries. You are having trouble picking things up off the shelf, and you accidentally drop something. A worker has to come clean up the mess, and you feel..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "dropped_groceries--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "embarrassed"
+            ],
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Farmer's Market Sweets",
+    "header_text": "Trusting Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Farmer's Market Sweets"
+            "text": "Trusting Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/420.jpg"
+            "url": "./images/403.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

@@ -1,22 +1,22 @@
 {
-    "header_text": "Making a Choice",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel..."
+            "text": "You haven't been feeling like yourself lately and want to ask your partner for help. Although you trust them, you are struggling to find the right words to say. You decide to sit down with your partner, and you feel... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Making a Choice_Romantic Relationships_puzzle1",
+            "name": "mental_health_issues--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "prepared"
+                "confident"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,16 +1,17 @@
 {
-    "header_text": "Hanging Out with Friends",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are hanging out with some friends. One friend invites another friend to come over to their house in a few days without inviting you. You think about it and realize you feel..."
+            "text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "sharing_favorite_shows--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

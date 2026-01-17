@@ -1,0 +1,17 @@
+{
+    "header_text": "Fitness Class",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fitness classes have always motivated you to stay active. Recently, your inability to focus on the instructor and coordinate movements with theirs has discouraged you. Instead of dropping the class, you decide to do your best each time, knowing that any exercise is..."
+        },
+        {
+            "type": "Entry",
+            "name": "fitness_class--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Video Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a big family, and you're on a video call with family members who live in different states. You find it difficult to concentrate on the discussion and start to worry that your family will think you're uninterested. After the call, your cousin texts you to say that talking with you was a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "video_call--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "treat"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

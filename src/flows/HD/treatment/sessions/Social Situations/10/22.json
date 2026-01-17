@@ -7,7 +7,8 @@
             "text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "friend_in_the_hospital--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

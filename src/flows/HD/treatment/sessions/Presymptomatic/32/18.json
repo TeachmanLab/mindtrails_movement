@@ -1,0 +1,16 @@
+{
+    "header_text": "A Balancing Act",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Balancing Act"
+        },
+        {
+            "type": "Media",
+            "url": "./images/524.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

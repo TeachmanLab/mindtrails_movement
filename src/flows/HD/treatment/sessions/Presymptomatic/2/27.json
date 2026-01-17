@@ -1,14 +1,14 @@
 {
-    "header_text": "Planning a Family Vacation",
+    "header_text": "Forgetting the Laundry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planning a Family Vacation"
+            "text": "Forgetting the Laundry"
         },
         {
             "type": "Media",
-            "url": "./images/735.jpg"
+            "url": "./images/739.jpg"
         }
     ],
     "type": "positive",

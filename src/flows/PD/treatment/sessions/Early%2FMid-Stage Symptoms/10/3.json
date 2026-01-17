@@ -1,14 +1,14 @@
 {
-    "header_text": "Beach Vacation",
+    "header_text": "Lost Things",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Beach Vacation"
+            "text": "Lost Things"
         },
         {
             "type": "Media",
-            "url": "./images/206.jpg"
+            "url": "./images/734.jpg"
         }
     ],
     "type": "positive",

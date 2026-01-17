@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Expensive Dinner_Mental Health_comp_question",
+            "name": "expensive_dinner--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

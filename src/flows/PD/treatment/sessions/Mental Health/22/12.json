@@ -1,16 +1,25 @@
 {
-    "header_text": "New Book Club ",
+    "header_text": "Meditation Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really..."
+            "text": "Your therapist recommends starting meditation to help manage your anxiety. At first, you struggle to quiet your mind and feel frustrated with the process. Over time, though, you notice that these moments of meditation bring you a sense of calm and..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "meditation_journey--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "clarity"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

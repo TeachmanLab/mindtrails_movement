@@ -1,29 +1,25 @@
 {
-    "header_text": "Bowling Alley",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your symptoms are affecting your communication..."
+            "text": "You realize that the spill is not that bad and you clean it up fairly easily. You now feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Bowling Alley_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "spilling_food_on_laptop--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Negatively",
-                "Positively"
+            "display_delay": 2000,
+            "words": [
+                "relieved"
             ],
-            "column_count": 1,
-            "correct_value": "Negatively"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

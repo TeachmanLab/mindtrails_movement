@@ -1,0 +1,16 @@
+{
+    "header_text": "High Anxiety",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "High Anxiety"
+        },
+        {
+            "type": "Media",
+            "url": "./images/101.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

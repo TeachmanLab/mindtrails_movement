@@ -1,14 +1,14 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Farmer's Market",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At Home Alone"
+            "text": "Farmer's Market"
         },
         {
             "type": "Media",
-            "url": "./images/584.jpg"
+            "url": "./images/781.jpg"
         }
     ],
     "type": "positive",

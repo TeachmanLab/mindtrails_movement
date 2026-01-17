@@ -1,16 +1,16 @@
 {
-    "header_text": "Crowded Waiting Room",
+    "header_text": "Garden Planting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crowded Waiting Room"
+            "text": "Garden Planting"
         },
         {
             "type": "Media",
-            "url": "./images/967.jpg"
+            "url": "./images/772.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

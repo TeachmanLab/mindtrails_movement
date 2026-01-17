@@ -1,14 +1,14 @@
 {
-    "header_text": "Messy to Live With ",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you mad at your partner?"
+            "Text": "Do you think your partner will like your casserole?"
         },
         {
             "type": "Buttons",
-            "name": "Messy to Live With _Romantic Relationships_comp_question",
+            "name": "cooking_a_casserole--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

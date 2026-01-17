@@ -1,0 +1,17 @@
+{
+    "header_text": "Kitchen Coordination",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're cooking dinner for your family, and you accidentally drop a slippery plate. You start thinking about the future and worrying about being a burden to those around you. You take a moment to breathe deeply, and your anxiety..."
+        },
+        {
+            "type": "Entry",
+            "name": "kitchen_coordination--family_&_home_life--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

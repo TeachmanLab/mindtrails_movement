@@ -1,0 +1,16 @@
+{
+    "header_text": "Commenting on a Friend's Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Commenting on a Friend's Post"
+        },
+        {
+            "type": "Media",
+            "url": "./images/711.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

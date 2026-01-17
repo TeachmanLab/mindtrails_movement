@@ -1,23 +1,23 @@
 {
-    "header_text": "Familiar Recipe",
+    "header_text": "Caring for Children",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your attempt to cook dinner will be a..."
+            "Text": "As your symptoms progress, you will be..."
         },
         {
             "type": "Buttons",
-            "name": "Familiar Recipe_Presymptomatic_comp_question",
+            "name": "caring_for_children--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Failure",
-                "Success"
+                "Alone",
+                "Supported"
             ],
             "column_count": 1,
-            "correct_value": "Success"
+            "correct_value": "Supported"
         }
     ],
     "navigation_conditions": [

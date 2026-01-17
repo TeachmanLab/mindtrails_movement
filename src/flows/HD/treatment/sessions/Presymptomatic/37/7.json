@@ -1,0 +1,16 @@
+{
+    "header_text": "Sharing Results",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sharing Results"
+        },
+        {
+            "type": "Media",
+            "url": "./images/951.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

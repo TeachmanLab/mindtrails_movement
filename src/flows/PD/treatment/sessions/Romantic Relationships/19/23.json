@@ -1,0 +1,16 @@
+{
+    "header_text": "Introducing Your Spouse to New Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Introducing Your Spouse to New Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/152.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

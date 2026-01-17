@@ -1,14 +1,14 @@
 {
-    "header_text": "Voicing Your Feelings",
+    "header_text": "For the First Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Voicing Your Feelings"
+            "text": "For the First Time"
         },
         {
             "type": "Media",
-            "url": "./images/530.jpg"
+            "url": "./images/569.jpg"
         }
     ],
     "type": "positive",

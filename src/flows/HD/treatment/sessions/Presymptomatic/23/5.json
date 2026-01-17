@@ -1,22 +1,14 @@
 {
-    "header_text": "Gym Costs",
+    "header_text": "Hosting a Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enjoy fitness classes, but the cost of your gym membership is expensive. You've been thinking about your future health costs, and you consider quitting your gym to save some money. After talking with your doctor, you decide that staying active is a..."
+            "text": "You were asked to host a dinner event for a relative coming home from overseas. As you prepare, you begin to lose track of everything that needs to be done, and you start to think the event will be ruined. On the night of the dinner, everyone agrees it is a huge..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Gym Costs_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "priority"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "hosting_a_dinner--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

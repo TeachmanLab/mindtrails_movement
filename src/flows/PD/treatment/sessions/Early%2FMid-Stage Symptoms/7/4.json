@@ -1,16 +1,16 @@
 {
-    "header_text": "Spilling Food on Laptop",
+    "header_text": "Crowded Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Spilling Food on Laptop"
+            "text": "Crowded Waiting Room"
         },
         {
             "type": "Media",
-            "url": "./images/757.jpg"
+            "url": "./images/967.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 1
 }

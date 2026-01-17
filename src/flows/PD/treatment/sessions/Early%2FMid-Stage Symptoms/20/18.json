@@ -1,16 +1,16 @@
 {
-    "header_text": "Tax Forms",
+    "header_text": "Easily Agitated",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get..."
+            "text": "Easily Agitated"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/213.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 5
 }

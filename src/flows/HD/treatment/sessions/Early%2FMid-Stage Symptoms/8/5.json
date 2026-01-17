@@ -7,7 +7,8 @@
             "text": "You're helping your sister prepare for her wedding. When you meet with the bridal party, you forget the groom's name. Desperate to hide this from her, you secretively ask another sibling for the groom's name while your sister glances over at you with a look of..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "family_wedding--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

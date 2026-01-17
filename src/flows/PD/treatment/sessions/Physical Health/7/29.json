@@ -1,23 +1,23 @@
 {
-    "header_text": "Catching Your Breath",
+    "header_text": "Trampoline Safety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does feeling winded scare you?"
+            "Text": "As you continue to watch your kids on the trampoline, you will probably..."
         },
         {
             "type": "Buttons",
-            "name": "Catching Your Breath_Physical Health_comp_question",
+            "name": "trampoline_safety--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Enjoy seeing them have fun",
+                "Worry they will hurt themselves"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Enjoy seeing them have fun"
         }
     ],
     "navigation_conditions": [

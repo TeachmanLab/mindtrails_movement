@@ -1,14 +1,14 @@
 {
-    "header_text": "A different style",
+    "header_text": "Tripping in Public",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did your friend think your new suit looked foolish?"
+            "Text": "Are you okay with people seeing you stumble?"
         },
         {
             "type": "Buttons",
-            "name": "A different style_Social Situations_comp_question",
+            "name": "tripping_in_public--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Gym Costs",
+    "header_text": "Hosting a Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Gym Costs"
+            "text": "Hosting a Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/523.jpg"
+            "url": "./images/231.jpg"
         }
     ],
     "type": "positive",

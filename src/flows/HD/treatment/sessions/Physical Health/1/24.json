@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Time to sleep_Physical Health_puzzle1",
+            "name": "time_to_sleep--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

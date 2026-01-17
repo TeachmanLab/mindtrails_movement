@@ -1,16 +1,17 @@
 {
-    "header_text": "Movie Mix-Up",
+    "header_text": "Bicycle Ride",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Movie Mix-Up"
+            "text": "On your usual bike route, you feel it's more difficult to balance. The ride that used to be smooth is now interrupted by occasional wobbles and you almost wipe out. Each time you pedal, you become more and more..."
         },
         {
-            "type": "Media",
-            "url": "./images/833.jpg"
+            "type": "Entry",
+            "name": "bicycle_ride--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
     "scenario_num": 2
 }

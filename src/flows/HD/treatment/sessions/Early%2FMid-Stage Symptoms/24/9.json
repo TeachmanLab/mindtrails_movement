@@ -1,25 +1,17 @@
 {
-    "header_text": "Losing Your Phone",
+    "header_text": "Local Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at home, and you have misplaced your phone again. You become stressed about your memory loss lately. You retrace your steps to jog your memory, and you realize that your chances of finding your phone are relatively..."
+            "text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking in your direction, and you worry that they think you are... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Losing Your Phone_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "low"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "local_event--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 2
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

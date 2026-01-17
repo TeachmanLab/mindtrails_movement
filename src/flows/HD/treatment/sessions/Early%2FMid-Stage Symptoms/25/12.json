@@ -1,16 +1,17 @@
 {
-    "header_text": "Trip Planning",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trip Planning"
+            "text": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of..."
         },
         {
-            "type": "Media",
-            "url": "./images/847.jpg"
+            "type": "Entry",
+            "name": "retirement_celebration--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "type": "positive",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

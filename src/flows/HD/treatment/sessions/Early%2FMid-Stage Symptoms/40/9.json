@@ -1,0 +1,16 @@
+{
+    "header_text": "Minor Disagreement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Minor Disagreement"
+        },
+        {
+            "type": "Media",
+            "url": "./images/742.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

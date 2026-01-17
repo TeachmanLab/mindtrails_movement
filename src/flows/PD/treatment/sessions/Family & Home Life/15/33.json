@@ -1,25 +1,29 @@
 {
-    "header_text": "Baking Cookies",
+    "header_text": "Having a Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have decorated cookies with your grandchild and placed them in the oven to bake. As you pull the tray out, it drops to the floor, breaking a few of the cookies. You feel like you disappointed your grandkid, but they let out a... "
+            "Text": "Are you anxious as you and your friend walk in?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Baking Cookies_Family & Home Life_puzzle1",
+            "type": "Buttons",
+            "name": "having_a_friend_over--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "giggle"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 9
 }

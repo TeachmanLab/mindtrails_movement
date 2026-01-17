@@ -1,13 +1,14 @@
 {
-    "header_text": "Catching up to Friends",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means and realize that it probably means that you walked too..."
+            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "trip_to_the_dentist--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

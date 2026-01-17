@@ -1,16 +1,16 @@
 {
-    "header_text": "Balancing Home Life and Friends",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Balancing Home Life and Friends"
+            "text": "Reason 2:"
         },
         {
-            "type": "Media",
-            "url": "./images/194.jpg"
+            "name": "Reason2_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "negative",
-    "scenario_num": 3
+    ]
 }

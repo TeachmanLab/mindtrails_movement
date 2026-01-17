@@ -1,29 +1,16 @@
 {
-    "header_text": "Gym Costs",
+    "header_text": "Downsizing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Talking with your doctor helps you make a..."
+            "text": "Downsizing"
         },
         {
-            "type": "Buttons",
-            "name": "Gym Costs_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Mistake",
-                "Decision"
-            ],
-            "column_count": 1,
-            "correct_value": "Decision"
+            "type": "Media",
+            "url": "./images/861.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 1
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

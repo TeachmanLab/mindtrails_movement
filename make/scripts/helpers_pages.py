@@ -39,8 +39,13 @@ def create_nav_conditions(buttons:Literal["WhenCorrect","AfterTimeout","Never","
         return {"navigation_conditions": ["wait_for_complete", "wait_for_click"]}
     return {}
 
-def create_input(tipe, items=None, min=None, max=None, text=None):
+def create_input(tipe, name, items=None, min=None, max=None, text=None):
     if not tipe: return None
+
+#    if not name:
+#        print("A")
+
+    assert name, "all inputs require a name"
 
     if items: items = clean_up_unicode(items).split(";")
     if items == [""]: items = None
@@ -49,14 +54,15 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     tipe = lower(tipe)
 
     ## Based on what the input is, create input "add"
-    if tipe == "picker"   : return {"type": "Picker", "items": items}
-    if tipe == "slider"   : return {"type": "Slider", "min": min, "max": max, "others": items or ["^Prefer not to answer"]}
-    if tipe == "entry"    : return {"type": "Entry" }
-    if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
-    if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "action": "flow://flows/${global:population}/treatment/sessions", "count":2, "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session."}
-    if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multiselect": True }
+    if tipe == "picker"   : return {"name": name, "type": "Picker", "items": items}
+    if tipe == "slider"   : return {"name": name, "type": "Slider", "min": min, "max": max, "others": items or ["^Prefer not to answer"]}
+    if tipe == "entry"    : return {"name": name, "type": "Entry" }
+    if tipe == "buttons"  : return {"name": name, "type": "Buttons", "buttons": items, **({"ColumnCount": 2} if is_yesno(items) else {}) }
+    if tipe == "scheduler": return {"name": name, "type": "Scheduler", "days_ahead": 1, "action": "flow://flows/${global:population}/treatment/sessions", "count":2, "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session."}
+    if tipe == "checkbox" : return {"name": name, "type": "Buttons", "buttons": items, "multiselect": True }
     if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }
     if tipe == "puzzle"   : return {
+        "name": name,
         "type": "WordPuzzle",
         "correct_feedback": "Correcto!",  # changed
         "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
@@ -84,7 +90,7 @@ def create_long_pages(label, scenario_description, thoughts, feelings, behaviors
     behaviors = [b.strip() for b in behaviors]
 
     with open(f"{dir_csv}/MTM_long_scenarios_structure.csv","r", encoding="utf-8") as csvfile:
-        for row in islice(csv.reader(csvfile),1,None):
+        for i, row in enumerate(islice(csv.reader(csvfile),1,None)):
 
             input_1, is_image, timeout = lower(row[6]), lower(row[10]) == "true", row[13]
 
@@ -108,7 +114,7 @@ def create_long_pages(label, scenario_description, thoughts, feelings, behaviors
             if timedtext: shuffle(timedtext,"long_pages")
 
             #input_1 is either timedtext or entry
-            input = create_input(input_1,text=timedtext)
+            input = create_input(input_1, f"long{i}", text=timedtext)
 
             pages.append({
                 "header_text": title,
@@ -119,7 +125,7 @@ def create_long_pages(label, scenario_description, thoughts, feelings, behaviors
 
     return pages
 
-def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, comp_question,
+def create_scenario_pages(domain, title, scenario_num, puzzle_text_1, word_1, comp_question,
                           answers, correct_answer, image_url, is_first, word_2=None,
                           puzzle_text_2=None, n_missing=1, include_lessons_learned=False,
                           lessons_learned_dict=None, tipe=None):
@@ -132,13 +138,16 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     n_missing = lower(str(n_missing))
     pages = []
 
+    base_name = f"{title}--{domain}".lower().replace(" ","_").replace("/","_")
+    base_domain = f"{domain}".lower().replace(" ","_").replace("/","_")
+
     if include_lessons_learned and domain in lessons_learned_dict:  # if it should include a "lessons learned" page
         pages.append({
             "header_text": "Lessons Learned",
             "header_icon": "assets/subtitle.png",
             "elements": [
                 {"type": "Text","Text": clean_up_unicode(lessons_learned_dict[domain])},
-                {"type": "Entry", "name": f"lessons_learned_{domain}_{scenario_num}"}
+                {"type": "Entry", "name": f"lessons_learned--{base_domain}--{scenario_num}"}
             ]
         })
 
@@ -159,16 +168,16 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         })
 
     pages.append({  # adding the image page
-        "header_text": label,
+        "header_text": title,
         "header_icon": "assets/subtitle.png",
         "elements": [
-            {"type": "Text", "text": label },
+            {"type": "Text", "text": title },
             {"type": "Media", "url": lower(image_url) }
         ]
     })
 
     pages.append({  # adding the puzzle page
-        "header_text": label,
+        "header_text": title,
         "header_icon": "assets/subtitle.png",
         "elements": [
             {
@@ -176,7 +185,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             },
             {
                 "type": "WordPuzzle",
-                "name": f"{label}_{domain}_puzzle1",
+                "name": f"{base_name}--puzzle1",
                 "correct_feedback": "Correct!",
                 "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                 "incorrect_delay": 5000,
@@ -190,11 +199,11 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     if n_missing in ["1","2"]:
         pages[-1]["elements"][-1]["missing_letter_count"] = int(n_missing)
     elif n_missing == "all":
-        pages[-1]["elements"][-1] = {"type": "Entry"}
+        pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{base_name}--puzzle1_entry"}
 
     if has_value(word_2) and has_value(puzzle_text_2):
         pages.append({
-            "header_text": label,
+            "header_text": title,
             "header_icon": "assets/subtitle.png",
             "elements": [
                 {
@@ -202,7 +211,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 },
                 {
                     "type": "WordPuzzle",
-                    "name": f"{label}_{domain}_puzzle_word2",
+                    "name": f"{base_name}--puzzle_word2".lower().replace(" ","_").replace("/","_"),
                     "correct_feedback": "Correct!",
                     "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                     "incorrect_delay": 5000,
@@ -216,11 +225,11 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         if n_missing in ["1","2"]:
             pages[-1]["elements"][-1]["missing_letter_count"] = int(n_missing)
         elif n_missing == "all":
-            pages[-1]["elements"][-1] = {"type": "Entry"}
+            pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{base_name}--puzzle2_entry"}
 
     if n_missing != "all":
         pages.append({
-            "header_text": label,
+            "header_text": title,
             "header_icon": "assets/subtitle.png",
             "elements": [
                 {
@@ -228,7 +237,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                 },
                 {
                     "type": "Buttons",
-                    "name": f"{label}_{domain}_comp_question",
+                    "name": f"{base_name}--comp_question",
                     "correct_feedback": "Correct!",
                     "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                     "incorrect_delay": 5000,
@@ -263,7 +272,7 @@ def create_resource_page(motivations, tips, ER_lookup, domain):
         tips.append([label,text])  # adding that tip back to the end of the list
 
         title = "Apply to Daily Life: Make It Work for You!"
-        input = {"type": "Entry", "name": f"{label}_entry"}
+        input = {"type": "Entry", "name": f"{label}--entry".lower()}
 
     if resource_type == "ER Strategy":
         [label,text] = ER_lookup[domain].pop(0)
@@ -280,9 +289,8 @@ def create_resource_page(motivations, tips, ER_lookup, domain):
 def create_discrimination_page(conditions, text, items, input_1, input_name, variable_name, title):
 
     text = {"type": "Text", "text": text, 'html':True}
-    input = create_input(input_1, items)
+    input = create_input(input_1, input_name, items)
 
-    if input and input_name: input["name"] = input_name
     if input and variable_name: input["variable_name"] = variable_name
 
     elements = [text,input] if input else [text]
@@ -296,8 +304,8 @@ def create_discrimination_page(conditions, text, items, input_1, input_name, var
 
     return page
 
-def create_survey_page(text=None, media=None, image_framed=None, items=None, input_1=None, input_2=None,
-                       variable_name=None, title=None, input_name=None, minimum=None, maximum=None,
+def create_survey_page(text=None, media=None, image_framed=None, items=None, input_1=None,
+                       variable_name=None, title=None, input_name1=None, minimum=None, maximum=None,
                        show_buttons=None, conditions=None, timeout=None, is_html=None):
     """
     This function creates a page with a survey question.
@@ -330,14 +338,8 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
 
     if textinput and is_html: textinput["html"] = is_html 
 
-    input1 = create_input(input_1, items, minimum, maximum)
-    input2 = create_input(input_2, items, minimum, maximum)
-
-    if lower(input_1) == "scheduler": input1["name"] = 'schedule_session'
-    if lower(input_2) == "scheduler": input2["name"] = 'schedule_session'
-
-    if input1 and input_name: input1["name"] = input_name
-    if input2 and input_name: input2["name"] = input_name
+    input1 = create_input(input_1, input_name1, items, minimum, maximum)
+    input2 = None #create_input(input_2, input_name2, items, minimum, maximum)
 
     if variable_name and     input1            : input1["variable_name"] = variable_name
     if variable_name and not input1 and input2 : input2["variable_name"] = variable_name
@@ -347,7 +349,7 @@ def create_survey_page(text=None, media=None, image_framed=None, items=None, inp
         "header_icon": "assets/subtitle.png",
         "elements": list(filter(None, [textinput, mediainput, input1, input2] )),
         **create_conditions(conditions),
-        **create_nav_conditions(show_buttons,timeout,[input_1,input_2])
+        **create_nav_conditions(show_buttons,timeout,[input_1])
     }
 
     return page
@@ -369,7 +371,7 @@ def create_video_page(video_number):
     }
 
 def create_write_your_own_page(text, input_1, title, input_name):
-    page = create_survey_page(text=text, input_1=input_1, title=title, input_name=input_name)
+    page = create_survey_page(text=text, input_1=input_1, title=title, input_name1=input_name)
     page["header_text"] = title or "Write Your Own"
     page["header_icon"] = "assets/subtitle.png",
     return page

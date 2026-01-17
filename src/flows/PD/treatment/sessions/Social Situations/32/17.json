@@ -1,0 +1,16 @@
+{
+    "header_text": "Work Comparisons",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Work Comparisons"
+        },
+        {
+            "type": "Media",
+            "url": "./images/640.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

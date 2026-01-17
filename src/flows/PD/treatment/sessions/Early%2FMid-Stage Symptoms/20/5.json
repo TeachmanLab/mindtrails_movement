@@ -1,16 +1,16 @@
 {
-    "header_text": "Local Event",
+    "header_text": "Poor Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Local Event"
+            "text": "Poor Sleep"
         },
         {
             "type": "Media",
-            "url": "./images/826.jpg"
+            "url": "./images/591.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

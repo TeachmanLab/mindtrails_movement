@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "A Moment of Forgetfulness_Mental Health_puzzle_word2",
+            "name": "a_moment_of_forgetfulness--mental_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

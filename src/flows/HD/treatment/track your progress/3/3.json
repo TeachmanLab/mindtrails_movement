@@ -7,6 +7,7 @@
             "text": "You hear a knock on the front door. When you open the door, no one is there. Why? \n\nSomeone is playing a joke on you and ran away after knocking."
         },
         {
+            "name": "mdib_samplequestion2",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

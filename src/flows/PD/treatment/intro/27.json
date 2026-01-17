@@ -7,14 +7,13 @@
             "text": "Do you have moderate-to-severe anxiety or depression symptoms?"
         },
         {
+            "name": "anxiety_or_depression",
             "type": "Buttons",
             "buttons": [
                 "Yes::Yes",
                 "No::No",
                 "Unsure::Unsure"
             ],
-            "selectable": true,
-            "name": "anxiety_or_depression",
             "variable_name": "anxiety_or_depression"
         }
     ]

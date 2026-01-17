@@ -1,25 +1,29 @@
 {
-    "header_text": "Babysitting Questions",
+    "header_text": "Project Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him..."
+            "Text": "Breaking complex tasks into simpler steps is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Babysitting Questions_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "project_planning--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "happy"
+            "buttons": [
+                "Beneficial",
+                "Useless"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Beneficial"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

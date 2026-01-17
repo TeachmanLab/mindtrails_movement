@@ -1,14 +1,14 @@
 {
-    "header_text": "Book Club Meeting",
+    "header_text": "Yoga Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Book Club Meeting"
+            "text": "Yoga Routine"
         },
         {
             "type": "Media",
-            "url": "./images/425.jpg"
+            "url": "./images/415.jpg"
         }
     ],
     "type": "positive",

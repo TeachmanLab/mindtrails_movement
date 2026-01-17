@@ -1,0 +1,17 @@
+{
+    "header_text": "Finding Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ordinarily, you're very calm, but you've started to experience more anxiety lately. You've read that anxiety is a symptom of HD. Thinking about developing HD symptoms leaves you feeling even more..."
+        },
+        {
+            "type": "Entry",
+            "name": "finding_support--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

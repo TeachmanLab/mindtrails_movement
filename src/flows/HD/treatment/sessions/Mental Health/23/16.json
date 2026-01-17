@@ -1,0 +1,17 @@
+{
+    "header_text": "Ready to Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "ready_to_work--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

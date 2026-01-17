@@ -1,16 +1,16 @@
 {
-    "header_text": "Cooking Injury",
+    "header_text": "Food Bank Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You start to clean your cut and acknowledge that accidents happen to everyone. Putting things into perspective helps you feel..."
+            "text": "Food Bank Event"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/843.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

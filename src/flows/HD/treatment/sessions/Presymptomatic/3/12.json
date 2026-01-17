@@ -1,20 +1,20 @@
 {
-    "header_text": "Master's Degree",
+    "header_text": "Sibling's Genetic Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your dream job was just posted, and the site says a Master's Degree is required. You have always thought about going back to school, but you are fearful HD symptoms will begin when you've already made a financial commitment. After thinking it over, you decide to..."
+            "text": "Your sibling shared with you that they are planning to get genetic testing for HD. The idea of your sibling possibly getting the same diagnosis as you causes you to feel uneasy. You think that regardless of the outcome of your sibling's testing, the two of you will still be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Master's Degree_Presymptomatic_puzzle1",
+            "name": "sibling's_genetic_test--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "apply"
+                "close"
             ],
             "missing_letter_count": 1
         }

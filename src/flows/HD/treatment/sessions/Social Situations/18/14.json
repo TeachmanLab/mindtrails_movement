@@ -1,14 +1,14 @@
 {
-    "header_text": "Intoxication Situation",
+    "header_text": "Trick or Treat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Intoxication Situation"
+            "text": "Trick or Treat"
         },
         {
             "type": "Media",
-            "url": "./images/124.jpg"
+            "url": "./images/669.jpg"
         }
     ],
     "type": "positive",

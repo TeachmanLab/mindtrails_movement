@@ -1,16 +1,16 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Pool Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your parent has Huntington's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your..."
+            "text": "Pool Time"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/400.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 2
 }

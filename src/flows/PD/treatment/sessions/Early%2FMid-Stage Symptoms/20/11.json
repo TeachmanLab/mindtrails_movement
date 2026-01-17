@@ -1,16 +1,16 @@
 {
-    "header_text": "Daughter's Birthday",
+    "header_text": "Difficulty Moving On",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While shopping at the grocery store, the long checkout line triggers a surge of anxiety, bringing on your tremor. You begin to worry about whether others in line will mistakenly believe you're exaggerating your tremor. As you sneak a glance around, you notice they look..."
+            "text": "Difficulty Moving On"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/812.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Family Board Game",
+    "header_text": "Journaling Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next..."
+            "text": "You are writing in your journal and start to flip back through. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You brainstorm creative ways to journal and soon feel confident that you can..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "journaling_issues--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "adapt"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 4
 }

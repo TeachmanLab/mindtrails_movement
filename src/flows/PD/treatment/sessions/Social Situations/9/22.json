@@ -1,16 +1,16 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping in a grocery store. You accidently knock several cans on the floor as you're browing, and shoppers turn to look at you. The shoppers see the cans on the floor and respond with..."
+            "text": "Zoning Out"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/98.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

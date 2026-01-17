@@ -1,29 +1,16 @@
 {
-    "header_text": "Organizing Bills",
+    "header_text": "Cooking Injury",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Using a new app makes paying bills..."
+            "text": "Cooking Injury"
         },
         {
-            "type": "Buttons",
-            "name": "Organizing Bills_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Difficult",
-                "Easy"
-            ],
-            "column_count": 1,
-            "correct_value": "Easy"
+            "type": "Media",
+            "url": "./images/932.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 1
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

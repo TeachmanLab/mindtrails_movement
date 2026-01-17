@@ -1,16 +1,25 @@
 {
-    "header_text": "Genetic Uncertainty",
+    "header_text": "Messy Living Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were recently diagnosed with HD. You’re at home looking at photographs of your children, and you begin to wonder about how HD will affect them. The uncertainty of whether they will receive the same diagnosis leaves you feeling..."
+            "text": "Your living room is cluttered, so you decide to organize it today. You are soon feeling extremely frustrated at the mess your family has made. Your daughter yells from another room to ask you for help with something, and you close your eyes and..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "messy_living_room--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "breathe"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 6
 }

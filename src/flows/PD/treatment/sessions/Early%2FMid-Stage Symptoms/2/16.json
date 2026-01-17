@@ -1,23 +1,23 @@
 {
-    "header_text": "Chores and Errands",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you upset with yourself for having to take a break?"
+            "Text": "Your friend would share the recipe again..."
         },
         {
             "type": "Buttons",
-            "name": "Chores and Errands_Early/Mid-Stage Symptoms_comp_question",
+            "name": "forgotten_ingredients--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Reluctantly",
+                "Happily"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Happily"
         }
     ],
     "navigation_conditions": [

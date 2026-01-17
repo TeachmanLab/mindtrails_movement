@@ -1,29 +1,12 @@
 {
-    "header_text": "Record Store",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "After taking a moment, you see that you..."
-        },
-        {
-            "type": "Buttons",
-            "name": "Record Store_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Did cause damage",
-                "Did not cause damage"
-            ],
-            "column_count": 1,
-            "correct_value": "Did not cause damage"
+            "text": "Now, on the next page, list as many reasons as you can think of for why the ending in the scenario could be likely to occur to you. For example, why do you think you will be able to handle the situation, or what evidence is there to suggest that the situation will turn out okay?"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 1
+    ]
 }

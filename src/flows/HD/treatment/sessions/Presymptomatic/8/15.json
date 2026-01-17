@@ -1,16 +1,16 @@
 {
-    "header_text": "Challenging Notes",
+    "header_text": "Bakery Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Challenging Notes"
+            "text": "Bakery Routine"
         },
         {
             "type": "Media",
-            "url": "./images/919.jpg"
+            "url": "./images/825.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

@@ -7,7 +7,8 @@
             "text": "Your children are thinking about going to college, but you think you would have to take out a loan to help send them. You remember stories you have heard of people still paying their loans when they are in retirement. Imagining yourself in retirement, you think your loans will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "affording_education--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

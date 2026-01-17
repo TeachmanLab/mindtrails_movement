@@ -1,16 +1,16 @@
 {
-    "header_text": "New Training Plan",
+    "header_text": "Social Media Scores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are giving a presentation to your coworkers about a new training plan. You feel that your hands are shaking a little. Wondering if it is obvious, you look around and see that a few people have..."
+            "text": "Social Media Scores"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/672.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 6
 }

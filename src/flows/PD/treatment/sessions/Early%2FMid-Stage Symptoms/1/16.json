@@ -1,39 +1,25 @@
 {
-    "header_text": "House Play",
+    "header_text": "Morning errands",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You know that your son will be..."
+            "text": "Your heart starts racing, and you feel lightheaded while running errands, and you worry that you might be having a panic attack. You remember that these symptoms could also be related to low blood pressure caused by your Parkinson’s. You turn on the air conditioning and drink some water, and your body soon starts to..."
         },
         {
-            "type": "Buttons",
-            "name": "House Play_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "morning_errands--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "At ease",
-                "Upset"
+            "display_delay": 2000,
+            "words": [
+                "relax"
             ],
-            "column_count": 1,
-            "correct_value": "At ease"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 4
 }

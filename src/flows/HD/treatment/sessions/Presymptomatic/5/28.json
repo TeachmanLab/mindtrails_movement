@@ -1,16 +1,16 @@
 {
-    "header_text": "Forgotten Name",
+    "header_text": "Slowed Response ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgotten Name"
+            "text": "Slowed Response "
         },
         {
             "type": "Media",
-            "url": "./images/913.jpg"
+            "url": "./images/884.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

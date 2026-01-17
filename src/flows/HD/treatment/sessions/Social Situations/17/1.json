@@ -1,14 +1,14 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Alternative Contact ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "An Invitation"
+            "text": "Alternative Contact "
         },
         {
             "type": "Media",
-            "url": "./images/396.jpg"
+            "url": "./images/421.jpg"
         }
     ],
     "type": "positive",

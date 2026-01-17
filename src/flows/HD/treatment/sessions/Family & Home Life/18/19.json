@@ -1,25 +1,25 @@
 {
-    "header_text": "Long-Distance Relationship",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spouse has decided to go back to school to join a prestigious program in another state. You love your spouse, but you know that long-distance relationships can be challenging. When you picture the future of your relationship with your spouse, you believe the two of you will get..."
+            "text": "A family member offers to walk outside with you for some fresh air. As you rehash the incident, they point out that the other people probably just wanted to make sure you were okay. You realize this is likely... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Long-Distance Relationship_Family & Home Life_puzzle1",
+            "name": "fresh_air--family_&_home_life--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "divorced"
+                "true"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

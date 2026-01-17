@@ -1,14 +1,14 @@
 {
-    "header_text": "New Costs",
+    "header_text": "Organizing Closet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Costs"
+            "text": "Organizing Closet"
         },
         {
             "type": "Media",
-            "url": "./images/747.jpg"
+            "url": "./images/405.jpg"
         }
     ],
     "type": "positive",

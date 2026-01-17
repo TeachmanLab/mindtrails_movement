@@ -1,39 +1,16 @@
 {
-    "header_text": "Hospital waiting room",
+    "header_text": "Sunday Morning Run",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If you wash your hands, you will most likely..."
+            "text": "Sunday Morning Run"
         },
         {
-            "type": "Buttons",
-            "name": "Hospital waiting room_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Still get sick",
-                "Stay healthy"
-            ],
-            "column_count": 1,
-            "correct_value": "Still get sick"
+            "type": "Media",
+            "url": "./images/432.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 2,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 3
 }

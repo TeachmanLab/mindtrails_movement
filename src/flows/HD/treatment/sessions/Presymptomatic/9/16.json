@@ -1,16 +1,17 @@
 {
-    "header_text": "Night of Bad Sleep",
+    "header_text": "Minor Disagreement",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the morning, you decide to cancel your earliest appointment so that you can get more sleep. You wake up after a nap feeling a bit more..."
+            "text": "You're enjoying a quiet evening at home with your partner when you notice that you're having difficulty letting go of a small disagreement. You worry that it is putting strain on your relationship. You remind yourself that if you express your worries, your partner will respond with..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "minor_disagreement--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

@@ -1,0 +1,17 @@
+{
+    "header_text": "Confusing Movie",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a family movie night, you can't keep up with the plot. You keep pausing the movie to ask questions, and you worry your family is annoyed. You decide to ask them if they mind the interruptions, and they all agree that your questions are..."
+        },
+        {
+            "type": "Entry",
+            "name": "confusing_movie--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

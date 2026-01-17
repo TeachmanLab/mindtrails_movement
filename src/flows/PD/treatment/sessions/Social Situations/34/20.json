@@ -1,0 +1,16 @@
+{
+    "header_text": "Fashion Statement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fashion Statement"
+        },
+        {
+            "type": "Media",
+            "url": "./images/712.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

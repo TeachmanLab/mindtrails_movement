@@ -1,13 +1,14 @@
 {
-    "header_text": "Travel Dreams",
+    "header_text": "House Play",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You haven't gotten to travel very much in your life due to family and other commitments. You always told yourself you would start traveling later in life, but your diagnosis of PD is giving you doubts. Despite the concern, you book a flight, anticipating the opportunity to..."
+            "text": "You are babysitting your grandchild in your home. You are having difficulty keeping up with grandkid running around and wonder if your son will be worried about the child's safety. You believe that your son will feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "house_play--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

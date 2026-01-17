@@ -1,14 +1,14 @@
 {
-    "header_text": "Intimacy and Communication",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Intimacy and Communication"
+            "text": "Family Questions"
         },
         {
             "type": "Media",
-            "url": "./images/587.jpg"
+            "url": "./images/183.jpg"
         }
     ],
     "type": "positive",

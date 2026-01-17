@@ -1,16 +1,17 @@
 {
-    "header_text": "Thinking fast at work",
+    "header_text": "Replying to Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Thinking fast at work"
+            "text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. You find that your boss has sent you a message when you return, and you worry that he is... "
         },
         {
-            "type": "Media",
-            "url": "./images/770.jpg"
+            "type": "Entry",
+            "name": "replying_to_email--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

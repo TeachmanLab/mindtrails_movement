@@ -1,25 +1,16 @@
 {
-    "header_text": "Special Day",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is..."
+            "text": "Part 1: Set up the uncertain situation in 1-2 sentences"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Special Day_Mental Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "okay"
-            ],
-            "missing_letter_count": 1
+            "name": "Part1_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    ]
 }

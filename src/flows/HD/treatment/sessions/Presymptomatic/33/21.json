@@ -1,0 +1,16 @@
+{
+    "header_text": "Expecting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Expecting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/904.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

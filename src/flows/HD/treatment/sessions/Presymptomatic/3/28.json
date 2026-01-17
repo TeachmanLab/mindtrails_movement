@@ -1,23 +1,23 @@
 {
-    "header_text": "Moving to a New City",
+    "header_text": "Spring Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Moving to a new city with HD will be a/an..."
+            "Text": "You are confident that as your HD progresses, your fiancé will..."
         },
         {
             "type": "Buttons",
-            "name": "Moving to a New City_Presymptomatic_comp_question",
+            "name": "spring_proposal--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Burden",
-                "Adventure"
+                "Abandon you",
+                "Support you"
             ],
             "column_count": 1,
-            "correct_value": "Adventure"
+            "correct_value": "Support you"
         }
     ],
     "navigation_conditions": [

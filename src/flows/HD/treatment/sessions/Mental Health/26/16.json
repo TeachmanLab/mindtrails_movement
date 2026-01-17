@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you're feeling overwhelmed, take a moment to notice three things in your environment that stick out to you (e.g., is the person sitting next to you wearing cool shoes?)"
+        }
+    ]
+}

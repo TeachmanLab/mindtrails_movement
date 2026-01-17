@@ -1,16 +1,17 @@
 {
-    "header_text": "Enjoyable Endeavor ",
+    "header_text": "Anticipating a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and some coworkers were given some extra tasks to complete by the end of the week, and you've been working hard. You overheard your coworkers saying that you'd be \"crazy\" to enjoy the extra work. You think about how productive it makes you feel to be working this hard, and feel..."
+            "text": "You and your partner have different spending habits, leading to many arguments. This tension has started to impact your relationship, and you feel like you are growing resentful of one another. If you share how you're feeling, it might lead to more..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "anticipating_a_response--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

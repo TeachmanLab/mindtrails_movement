@@ -7,6 +7,7 @@
             "text": "You receive an unexpected message from your doctor that they want to talk to you about starting a new medication. Why? \n\nThe new medication may have fewer side effects than your current medication."
         },
         {
+            "name": "mdib_8c_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

@@ -1,16 +1,14 @@
 {
-    "header_text": "Making New Friends",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Making New Friends"
+            "text": "Think about a time a friend faced an uncertain situation and was feeling anxious about it. What advice would you give your friend for thinking about the situation based on what you've learned in the training?"
         },
         {
-            "type": "Media",
-            "url": "./images/709.jpg"
+            "type": "Entry",
+            "name": "tip #0--entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    ]
 }

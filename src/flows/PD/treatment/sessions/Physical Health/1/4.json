@@ -1,26 +1,16 @@
 {
-    "header_text": "Cardio with friend",
+    "header_text": "Hospital waiting room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You begin to have anxious thoughts about passing out. You decide to simply notice these..."
+            "text": "Hospital waiting room"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/430.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 0,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "negative",
+    "scenario_num": 1
 }

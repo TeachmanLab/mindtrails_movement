@@ -1,0 +1,25 @@
+{
+    "header_text": "Finding a Therapist",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "With so much going on in your life, you've been thinking about starting therapy. You find a therapist online, but you are skeptical that a stranger will be able to understand how Parkinson's impacts your life. At the end of your first video session, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "finding_a_therapist--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "hopeful"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

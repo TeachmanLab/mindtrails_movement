@@ -1,16 +1,25 @@
 {
-    "header_text": "Toy Store Trip",
+    "header_text": "Overwhelmed at Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Toy Store Trip"
+            "text": "You're attending a neighborhood council meeting and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close neighbor about your difficulty, knowing that they will be try to be helpful and..."
         },
         {
-            "type": "Media",
-            "url": "./images/410.jpg"
+            "type": "WordPuzzle",
+            "name": "overwhelmed_at_meeting--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "inclusive"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 5
 }

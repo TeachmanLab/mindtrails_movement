@@ -1,29 +1,17 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "Garden Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to share your thoughts in a letter?"
+            "text": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Writing a Letter_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "garden_changes--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

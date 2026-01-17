@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Not Getting a Response_Romantic Relationships_comp_question",
+            "name": "not_getting_a_response--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

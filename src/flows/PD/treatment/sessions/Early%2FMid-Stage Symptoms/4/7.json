@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Dinner",
+    "header_text": "Safety at Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Dinner"
+            "text": "Safety at Home"
         },
         {
             "type": "Media",
-            "url": "./images/731.jpg"
+            "url": "./images/749.jpg"
         }
     ],
     "type": "positive",

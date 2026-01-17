@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Sudden noise"
+            "Text": "Did you let worries get in the way of you walking?"
         },
         {
-            "type": "Media",
-            "url": "./images/445.jpg"
+            "type": "Buttons",
+            "name": "sudden_noise--physical_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 2
 }

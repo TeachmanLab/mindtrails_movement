@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Feeling Isolated for Being Single_Romantic Relationships_puzzle1",
+            "name": "feeling_isolated_for_being_single--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

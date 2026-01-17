@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Social Situations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Think of a time in the past when a one-on-one social event went well. "
+        }
+    ]
+}

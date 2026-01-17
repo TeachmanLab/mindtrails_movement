@@ -1,29 +1,29 @@
 {
-    "header_text": "Appointment with the doctor",
+    "header_text": "A scratchy throat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think you are going to feel better soon?"
+            "Text": "Will drinking some water make your throat feel better?"
         },
         {
             "type": "Buttons",
-            "name": "Appointment with the doctor_Physical Health_comp_question",
+            "name": "a_scratchy_throat--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

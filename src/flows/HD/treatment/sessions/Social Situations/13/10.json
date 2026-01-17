@@ -1,16 +1,16 @@
 {
-    "header_text": "Jokes with Friends ",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Jokes with Friends "
+            "text": "Reason 2:"
         },
         {
-            "type": "Media",
-            "url": "./images/660.jpg"
+            "name": "Reason2_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    ]
 }

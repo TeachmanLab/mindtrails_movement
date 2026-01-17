@@ -1,25 +1,25 @@
 {
-    "header_text": "Trouble Reading",
+    "header_text": "Missing Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While reading at home, you notice you are having trouble focusing on the words and remembering the information. This causes you to feel concerned and makes it even harder to read. You and your doctor make a plan to help you with this, and you feel..."
+            "text": "You reach into the other pocket and think to yourself how easy it is to misplace items. Being compassionate to yourself despite the memory lapse feels..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trouble Reading_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "missing_wallet--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "better"
+                "great"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

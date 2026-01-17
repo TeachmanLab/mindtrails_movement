@@ -1,39 +1,25 @@
 {
-    "header_text": "Rearranging After Exposure",
+    "header_text": "Late Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your supervisor penalize you for getting sick?"
+            "text": "Your friend invites you to a dinner party and after you leave, they casually mention that one of the people there had been sick. You can’t believe your friend wouldn’t tell you this before the party ended. You decide to talk to your friend about it, and they say they will communicate..."
         },
         {
-            "type": "Buttons",
-            "name": "Rearranging After Exposure_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "late_communication--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "better"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 4
 }

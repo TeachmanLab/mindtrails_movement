@@ -7,7 +7,8 @@
             "text": "Budgeting and paying bills has always been your job in the family. Recently, you have been late on some important bills. The idea that one day you might not be able to keep up your normal role in the family is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "shifting_household_roles--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

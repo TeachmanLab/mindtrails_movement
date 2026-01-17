@@ -1,0 +1,15 @@
+{
+    "header_text": "Symptom Onset Fears",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just slipped while on a walk outside. Your mind begins to start worrying that this is your symptoms beginning to manifest and wonder if your whole life has just changed in an instant.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/998.jpg",
+            "border": true
+        }
+    ]
+}

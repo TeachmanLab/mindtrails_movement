@@ -1,14 +1,14 @@
 {
-    "header_text": "A Little Stumble",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A Little Stumble"
+            "text": "Heart Rate Worries"
         },
         {
             "type": "Media",
-            "url": "./images/59.jpg"
+            "url": "./images/383.jpg"
         }
     ],
     "type": "resilience/negation",

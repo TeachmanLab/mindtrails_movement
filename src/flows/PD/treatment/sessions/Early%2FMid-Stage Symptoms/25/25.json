@@ -1,16 +1,10 @@
 {
-    "header_text": "Board Game Mishap",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Board Game Mishap"
-        },
-        {
-            "type": "Media",
-            "url": "./images/232.jpg"
+            "text": "Motivational Statement #11 \n\n 'When life takes away, something of greater value is always given in return.' - Michael J. Fox"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    ]
 }

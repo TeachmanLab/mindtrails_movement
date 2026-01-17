@@ -1,14 +1,14 @@
 {
-    "header_text": "Travel Dreams",
+    "header_text": "House Play",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Travel Dreams"
+            "text": "House Play"
         },
         {
             "type": "Media",
-            "url": "./images/782.jpg"
+            "url": "./images/203.jpg"
         }
     ],
     "type": "positive",

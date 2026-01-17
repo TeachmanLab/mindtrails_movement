@@ -1,25 +1,29 @@
 {
-    "header_text": "Carrying Groceries",
+    "header_text": "Coughing friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You sit with the feelings of discomfort. Then, you decide to work through these feelings by just accepting..."
+            "Text": "Can you manage your anxiety about potentially getting sick from your friend?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Carrying Groceries_Physical Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "coughing_friend--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "them"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 9
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "Conflict with Spouse",
+    "header_text": "Conflict with Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conflict with Spouse"
+            "text": "Conflict with Partner"
         },
         {
             "type": "Media",

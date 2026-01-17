@@ -1,25 +1,29 @@
 {
-    "header_text": "Looking at your Resume",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are moving to a new town and need to start applying for jobs. You start looking at the qualifications for jobs, and you wonder if the work you've done putting your resume together will be enough even though you've worked hard on it. You look back on your accomplishments and know that you've done more than..."
+            "Text": "Your boss likely feels that"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Looking at your Resume_Work/Career Development_puzzle1",
+            "type": "Buttons",
+            "name": "reviewing_your_work_--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "enough"
+            "buttons": [
+                "Most of your work has been of very high quality.",
+                "Your mistakes have been serious and unacceptable."
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Most of your work has been of very high quality."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 7
 }

@@ -1,29 +1,26 @@
 {
-    "header_text": "Music Venue ",
+    "header_text": "Feeling Unsteady",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your partner's support makes you feel..."
+            "text": "Feeling Unsteady"
         },
         {
-            "type": "Buttons",
-            "name": "Music Venue _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Reassured",
-                "Anxious"
-            ],
-            "column_count": 1,
-            "correct_value": "Reassured"
+            "type": "Media",
+            "url": "./images/209.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "type": "positive",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

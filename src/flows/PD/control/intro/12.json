@@ -7,13 +7,13 @@
             "text": "Do you have an implanted DBS device?"
         },
         {
+            "name": "dbs",
             "type": "Buttons",
             "buttons": [
                 "Yes::Yes",
                 "No::No",
                 "Unsure::Unsure"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

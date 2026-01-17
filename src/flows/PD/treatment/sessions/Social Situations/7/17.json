@@ -1,16 +1,16 @@
 {
-    "header_text": "Participation ",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Participation "
+            "text": "Funny Photos"
         },
         {
             "type": "Media",
-            "url": "./images/118.jpg"
+            "url": "./images/634.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

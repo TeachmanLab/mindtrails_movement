@@ -1,16 +1,25 @@
 {
-    "header_text": "Gardening Help",
+    "header_text": "Local Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a garden you're really proud of and enjoy working in every year. As you think about getting older, you wonder how gardening will change. You think about how your HD symptoms could prevent you from caring for your plants, and they'll..."
+            "text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking in your direction, and you worry that they think you are... "
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "local_event--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "incapable"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 5
 }

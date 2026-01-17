@@ -1,23 +1,23 @@
 {
-    "header_text": "Building Project",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making a new memory with your son is..."
+            "Text": "Will you have to give up your pet?"
         },
         {
             "type": "Buttons",
-            "name": "Building Project_Family & Home Life_comp_question",
+            "name": "pet_schedule--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tiring",
-                "Exciting"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Exciting"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

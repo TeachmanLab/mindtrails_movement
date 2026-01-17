@@ -1,14 +1,14 @@
 {
-    "header_text": "New Neighborhood",
+    "header_text": "Movie Distraction",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Neighborhood"
+            "text": "Movie Distraction"
         },
         {
             "type": "Media",
-            "url": "./images/846.jpg"
+            "url": "./images/833.jpg"
         }
     ],
     "type": "positive",

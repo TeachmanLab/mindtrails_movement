@@ -1,0 +1,15 @@
+{
+    "header_text": "Symptomatic in Public",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A random person comes up to you to ask you a question, but all you can manage in response is a quiet mumble they can't hear. You start wondering what their response will be.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1010.jpg",
+            "border": true
+        }
+    ]
+}

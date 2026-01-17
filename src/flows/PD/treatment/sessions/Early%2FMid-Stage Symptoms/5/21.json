@@ -1,14 +1,14 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "Night of Bad Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Future Dog Walking"
+            "text": "Night of Bad Sleep"
         },
         {
             "type": "Media",
-            "url": "./images/201.jpg"
+            "url": "./images/760.jpg"
         }
     ],
     "type": "resilience/negation",

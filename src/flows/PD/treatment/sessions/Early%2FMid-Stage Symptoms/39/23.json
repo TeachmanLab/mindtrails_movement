@@ -1,0 +1,17 @@
+{
+    "header_text": "Finding Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At yoga class, you struggle to balance in your poses. Anxiety grips you as you worry about your ability to continue physical activities in the future. However, you modify poses, focus on breathing, and prove to yourself that you can..."
+        },
+        {
+            "type": "Entry",
+            "name": "finding_balance--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

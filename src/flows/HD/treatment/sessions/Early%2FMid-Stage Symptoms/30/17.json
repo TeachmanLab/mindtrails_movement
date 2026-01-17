@@ -1,16 +1,29 @@
 {
-    "header_text": "Picnic Packing",
+    "header_text": "Lost your Belongings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Picnic Packing"
+            "Text": "Are you having trouble controlling your emotions?"
         },
         {
-            "type": "Media",
-            "url": "./images/867.jpg"
+            "type": "Buttons",
+            "name": "lost_your_belongings--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

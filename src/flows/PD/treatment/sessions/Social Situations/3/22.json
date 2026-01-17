@@ -1,20 +1,20 @@
 {
-    "header_text": "A big presentation",
+    "header_text": "Suggestion to meet again",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are about to give an important presentation. You are anxious about it. This feeling makes you..."
+            "text": "You meet someone at an event and feel that you got along well. Later, you call and suggest meeting again. The reply you get makes you feel that the person thinks meeting again would be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A big presentation_Social Situations_puzzle1",
+            "name": "suggestion_to_meet_again--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "exhilarated"
+                "enjoyable"
             ],
             "missing_letter_count": 1
         }

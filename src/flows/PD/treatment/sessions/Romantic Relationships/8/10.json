@@ -7,7 +7,8 @@
             "text": "Reflecting on the idea of marrying your partner, you don't feel too scared. You believe your marriage would be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "marrying_your_partner--romantic_relationships--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

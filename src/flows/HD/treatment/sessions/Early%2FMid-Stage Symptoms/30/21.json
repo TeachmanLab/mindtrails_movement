@@ -1,16 +1,16 @@
 {
-    "header_text": "Planning an Outing",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planning an Outing"
+            "text": "Setting up Camp"
         },
         {
             "type": "Media",
-            "url": "./images/242.jpg"
+            "url": "./images/836.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

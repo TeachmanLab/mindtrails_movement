@@ -1,16 +1,16 @@
 {
-    "header_text": "Long Walk Outside",
+    "header_text": "Doctor's Appointment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is..."
+            "text": "Doctor's Appointment"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/479.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

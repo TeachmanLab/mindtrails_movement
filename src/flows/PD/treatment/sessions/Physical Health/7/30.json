@@ -1,14 +1,14 @@
 {
-    "header_text": "Trampoline Safety",
+    "header_text": "A Toothache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trampoline Safety"
+            "text": "A Toothache"
         },
         {
             "type": "Media",
-            "url": "./images/471.jpg"
+            "url": "./images/472.jpg"
         }
     ],
     "type": "positive",

@@ -1,20 +1,20 @@
 {
-    "header_text": "Trusting Yourself",
+    "header_text": "Awkward Conversations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think that you're dumb because you made a mistake?"
+            "Text": "Will your friends judge you because of your spouse?"
         },
         {
             "type": "Buttons",
-            "name": "Trusting Yourself_Mental Health_comp_question",
+            "name": "awkward_conversations--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
             "correct_value": "No"

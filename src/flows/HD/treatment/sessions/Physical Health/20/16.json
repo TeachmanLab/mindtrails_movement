@@ -1,0 +1,25 @@
+{
+    "header_text": "Fitness Class",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fitness classes have always motivated you to stay active. Recently, your inability to focus on the instructor and coordinate movements with theirs has discouraged you. Instead of dropping the class, you decide to do your best each time, knowing that any exercise is..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "fitness_class--physical_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "healthy"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

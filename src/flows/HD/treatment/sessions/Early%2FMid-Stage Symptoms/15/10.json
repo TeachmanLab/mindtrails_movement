@@ -1,25 +1,29 @@
 {
-    "header_text": "Couple Strolling",
+    "header_text": "Research Study Risks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse decide to go for an afternoon stroll. You reach out to hold their hand and notice your fingers twitching, so you pull your hand away. Thinking about whether they notice your symptoms always leaves you with a feeling of..."
+            "Text": "The study's side effects are likely to be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Couple Strolling_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "research_study_risks--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "anxiety"
+            "buttons": [
+                "Severe",
+                "Mild"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Mild"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 2
 }

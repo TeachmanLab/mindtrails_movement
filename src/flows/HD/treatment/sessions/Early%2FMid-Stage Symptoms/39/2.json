@@ -1,0 +1,16 @@
+{
+    "header_text": "Question at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Question at Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/733.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

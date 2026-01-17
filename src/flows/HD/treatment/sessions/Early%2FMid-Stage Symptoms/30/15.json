@@ -1,16 +1,16 @@
 {
-    "header_text": "Dream Car",
+    "header_text": "Lost your Belongings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recently, you have felt like you are in a good place financially and were looking into getting the car you have always wanted. However, after getting your HD diagnosis, you feel like getting the car will be a waste since you may not be able to drive in a couple years. You are... "
+            "text": "Lost your Belongings"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/834.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 4
 }

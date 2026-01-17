@@ -1,25 +1,29 @@
 {
-    "header_text": "Checks at the dentist",
+    "header_text": "First time ice skating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a routine dentist appointment and find out that you need some tests to check the health of your gums and teeth. After the dentist performs the tests, you continue to lie in the dentist chair while waiting for the results. You think your teeth and gums are probably..."
+            "Text": "As you continue ice skating, you will probably..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Checks at the dentist_Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "first_time_ice_skating--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "diseased"
+            "buttons": [
+                "Successfully skate around the rink several times",
+                "Fall over and hurt yourself"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Successfully skate around the rink several times"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 7
 }

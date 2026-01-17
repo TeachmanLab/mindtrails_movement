@@ -1,25 +1,17 @@
 {
-    "header_text": "Trip Planning",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "This year, you and your spouse are taking an anniversary trip. As you plan hotel stays and activities, you become anxious about forgetting important details. You decide to make a checklist, and as you lie in bed that night, you think about the trip with..."
+            "text": "You think about how many people have come out to celebrate your retirement. In the end, your family caring enough to throw you a party makes you feel very..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Trip Planning_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "excitement"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "retirement_celebration--early_mid-stage_symptoms--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

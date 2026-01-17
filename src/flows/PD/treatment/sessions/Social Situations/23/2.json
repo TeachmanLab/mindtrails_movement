@@ -1,14 +1,14 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "Attending Wedding Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Keeping Up With Friends "
+            "text": "Attending Wedding Alone"
         },
         {
             "type": "Media",
-            "url": "./images/82.jpg"
+            "url": "./images/686.jpg"
         }
     ],
     "type": "positive",

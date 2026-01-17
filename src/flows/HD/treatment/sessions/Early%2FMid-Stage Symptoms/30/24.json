@@ -1,16 +1,16 @@
 {
-    "header_text": "Model Car",
+    "header_text": "Beach Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Building model cars has been a hobby of yours since you were young. You start a new model and find it hard to put together. In the end, you work very slowly, and the final model is..."
+            "text": "Beach Walk"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/837.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 7
 }

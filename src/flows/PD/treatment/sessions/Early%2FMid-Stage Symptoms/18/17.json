@@ -1,16 +1,16 @@
 {
-    "header_text": "Cut Finger",
+    "header_text": "Planting Flowers ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cut Finger"
+            "text": "Planting Flowers "
         },
         {
             "type": "Media",
-            "url": "./images/814.jpg"
+            "url": "./images/590.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

@@ -7,7 +7,8 @@
             "text": "During a holiday gathering, you have trouble choosing your words during conversations. Anxiety builds as you think about how your family views your challenges with speech. You focus on listening actively and making conversations... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "holiday_conversations--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

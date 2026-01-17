@@ -1,16 +1,16 @@
 {
-    "header_text": "Major Conference",
+    "header_text": "Taking a Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Major Conference"
+            "text": "Taking a Call"
         },
         {
             "type": "Media",
-            "url": "./images/126.jpg"
+            "url": "./images/667.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

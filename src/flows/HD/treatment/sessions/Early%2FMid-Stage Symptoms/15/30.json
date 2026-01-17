@@ -1,23 +1,23 @@
 {
-    "header_text": "Clapping at Concert",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are your symptoms distracting others from the concert?"
+            "Text": "You are confident that as your HD progresses, your fiancé will..."
         },
         {
             "type": "Buttons",
-            "name": "Clapping at Concert_Early/Mid-Stage Symptoms_comp_question",
+            "name": "april_proposal--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Support you",
+                "Abandon you"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Support you"
         }
     ],
     "navigation_conditions": [

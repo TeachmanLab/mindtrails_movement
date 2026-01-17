@@ -1,20 +1,20 @@
 {
-    "header_text": "Morning errands",
+    "header_text": "Family Gathering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your heart starts racing, and you feel lightheaded while running errands, and you worry that you might be having a panic attack. You remember that these symptoms could also be related to low blood pressure caused by your Parkinson’s. You turn on the air conditioning and drink some water, and your body soon starts to..."
+            "text": "You are at a family gathering and see people you haven’t spoken to in years. Your tremors have gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be...\n"
         },
         {
             "type": "WordPuzzle",
-            "name": "Morning errands_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "family_gathering--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relax"
+                "enjoyable"
             ],
             "missing_letter_count": 1
         }

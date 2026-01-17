@@ -1,14 +1,14 @@
 {
-    "header_text": "Reading before Bedtime",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you find a way to work around your concentration difficulties?"
+            "Text": "Are you able to calm yourself down?"
         },
         {
             "type": "Buttons",
-            "name": "Reading before Bedtime_Family & Home Life_comp_question",
+            "name": "cleaning_your_home--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

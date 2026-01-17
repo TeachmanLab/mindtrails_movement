@@ -7,7 +7,8 @@
             "text": "Some friends have reached out to you about going out to dinner for a friend's birthday. You've had some unforseen expenses this month, and you're worried about being able to afford a nice dinner. You talk to your friends, and they reassure you that the restaurant they choose won't be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "friend's_birthday--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

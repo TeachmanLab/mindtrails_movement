@@ -1,25 +1,39 @@
 {
-    "header_text": "Slowed Response ",
+    "header_text": "Trouble Understanding ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are speaking to a friend over lunch. Lately, you've been processing information a bit slower than usual, and you begin to worry that your friend will think you aren't paying attention. You remember that she is aware of your diagnosis and will be..."
+            "Text": "If you ask the presenter to re-explain the concept, they..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Slowed Response _Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "trouble_understanding_--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "compassionate"
+            "buttons": [
+                "Will be irritated",
+                "Won't mind"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Won't mind"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -7,7 +7,8 @@
             "text": "Tonight, you find out the results of your yearly performance evaluation at work. Your rankings are low in one category, and you know your supervisor will want to meet with you to discuss your performance. When you think about what your supervisor will say to you, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "supportive_guidance_--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

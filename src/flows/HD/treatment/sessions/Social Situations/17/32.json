@@ -1,14 +1,14 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you let the challenge of making creative posts hold you back? "
+            "Text": "Is your friend upset with you?"
         },
         {
             "type": "Buttons",
-            "name": "Posting New Content_Social Situations_comp_question",
+            "name": "missed_connection--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

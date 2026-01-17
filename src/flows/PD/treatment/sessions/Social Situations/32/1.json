@@ -1,0 +1,16 @@
+{
+    "header_text": "Reconciling with your friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reconciling with your friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/129.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Social Media Comments",
+    "header_text": "Turning Down a Drink",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Social Media Comments"
+            "text": "Turning Down a Drink"
         },
         {
             "type": "Media",
-            "url": "./images/73.jpg"
+            "url": "./images/638.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

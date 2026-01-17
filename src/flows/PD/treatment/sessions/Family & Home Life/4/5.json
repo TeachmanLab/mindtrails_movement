@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You invited your spouse to meet your friends from work tonight. You know that they can often tell embarrassing stories about you to other people. You think about what they're going to do tonight, and feel..."
+            "text": "You invited your spouse to meet your friends from boxing class tonight. You know that your spouse sometimes tells embarrassing stories about you to other people. You think about what they're going to do tonight, and feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Introducing Your Spouse to New Friends_Family & Home Life_puzzle1",
+            "name": "introducing_your_spouse_to_new_friends--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

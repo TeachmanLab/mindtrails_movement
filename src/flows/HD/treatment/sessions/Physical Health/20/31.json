@@ -1,0 +1,16 @@
+{
+    "header_text": "Research Visit",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Research Visit"
+        },
+        {
+            "type": "Media",
+            "url": "./images/438.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

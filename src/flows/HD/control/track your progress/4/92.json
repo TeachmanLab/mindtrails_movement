@@ -7,6 +7,7 @@
             "text": "In the past 7 days, I had sudden feelings of panic"
         },
         {
+            "name": "neuroqol_anx_7",
             "type": "Buttons",
             "buttons": [
                 "0::Never",
@@ -15,8 +16,7 @@
                 "3::Often",
                 "4::Always",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Journaling Issues",
+    "header_text": "At the Playground ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are writing in your journal and start to flip back through some previous entries. You notice that your handwriting is starting to change and begin to worry about your ability to journal in the future. You begin to brainstorm other ways to keep track of your thoughts and feelings and soon feel confident that you can..."
+            "text": "At the Playground "
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/200.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

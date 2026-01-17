@@ -1,23 +1,23 @@
 {
-    "header_text": "Presenting your Work",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your work impress the people at the event?"
+            "Text": "Your potential employer will probably think..."
         },
         {
             "type": "Buttons",
-            "name": "Presenting your Work_Work/Career Development_comp_question",
+            "name": "your_resume--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "That your previous experience is a good fit for the job",
+                "That your listed skills are unimpressive"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "That your previous experience is a good fit for the job"
         }
     ],
     "navigation_conditions": [

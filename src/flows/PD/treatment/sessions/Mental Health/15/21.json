@@ -1,14 +1,14 @@
 {
-    "header_text": "Supporting Partner",
+    "header_text": "Blood test results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Supporting Partner"
+            "text": "Blood test results"
         },
         {
             "type": "Media",
-            "url": "./images/392.jpg"
+            "url": "./images/366.jpg"
         }
     ],
     "type": "positive",

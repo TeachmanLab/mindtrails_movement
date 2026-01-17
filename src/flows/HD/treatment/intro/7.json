@@ -7,6 +7,7 @@
             "text": "What is your highest educational attainment?"
         },
         {
+            "name": "education",
             "type": "Buttons",
             "buttons": [
                 "0::Elementary School",
@@ -19,9 +20,7 @@
                 "6::Master's Degree",
                 "7::Doctorate/PhD",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "education"
+            ]
         }
     ]
 }

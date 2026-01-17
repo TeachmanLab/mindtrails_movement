@@ -1,20 +1,20 @@
 {
-    "header_text": "Dinner Alone",
+    "header_text": "Conflict with Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a restaurant alone, enjoying your dinner despite experiencing some uncontrollable hand movements. You notice people staring at you while you eat, and it makes you feel self-conscious. You remind yourself that you do not owe them an..."
+            "text": "Arguments have been happening with your spouse more frequently. Today, your spouse takes their frustration out on you with unkind words. Instead of retaliating, you step outside to walk the dog and have time to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dinner Alone_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "conflict_with_spouse--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "explanation"
+                "think"
             ],
             "missing_letter_count": 2
         }

@@ -1,25 +1,25 @@
 {
-    "header_text": "Strained Relationship",
+    "header_text": "Question at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse have been discussing the possibility of having children. After your recent diagnosis, you've been on the fence because you don't want to pass the HD gene to your kids. You and your spouse start having..."
+            "text": "At a work meeting, you forget the answer to an important question. Your colleagues exchange glances that leave you unsure about how they perceive your capabilities and HD symptoms. However, one colleague offers to fill you in, and you think that your colleagues are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Strained Relationship_Presymptomatic_puzzle1",
+            "name": "question_at_work--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "arguments"
+                "supportive"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

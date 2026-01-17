@@ -7,8 +7,8 @@
             "text": "Please describe the situation in a few words:"
         },
         {
-            "type": "Entry",
-            "name": "entry_anxious_imagery"
+            "name": "entry_anxious_imagery",
+            "type": "Entry"
         }
     ],
     "condition": [

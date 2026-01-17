@@ -7,6 +7,7 @@
             "text": "You are playing a game for the first time with friends and new acquaintances. On your turn, you ask for a reminder of the rules, and the others become quiet. What are they thinking? \n\nThey are thinking of how best to explain the rules."
         },
         {
+            "name": "mdib_3b_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

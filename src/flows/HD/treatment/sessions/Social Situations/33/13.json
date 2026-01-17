@@ -1,0 +1,16 @@
+{
+    "header_text": "Working Late",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Working Late"
+        },
+        {
+            "type": "Media",
+            "url": "./images/290.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

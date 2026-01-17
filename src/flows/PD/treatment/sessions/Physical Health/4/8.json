@@ -1,20 +1,20 @@
 {
-    "header_text": "Tingly fingers",
+    "header_text": "Dry mouth cause",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are helping a friend water their plants and holding the water for a long time. Your fingers begin to tingle. This sensation is..."
+            "text": "You have experienced dry mouth for a few days. You wonder whether the dry mouth is a minor side effect from a medicine you just started or something more serious. The chance that your dry mouth reflects a serious health problem is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tingly fingers_Physical Health_puzzle1",
+            "name": "dry_mouth_cause--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "funny"
+                "small"
             ],
             "missing_letter_count": 2
         }

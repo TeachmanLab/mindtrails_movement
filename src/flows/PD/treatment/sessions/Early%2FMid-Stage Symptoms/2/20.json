@@ -1,14 +1,14 @@
 {
-    "header_text": "Babysitting Questions",
+    "header_text": "Out for dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Babysitting Questions"
+            "text": "Out for dinner"
         },
         {
             "type": "Media",
-            "url": "./images/204.jpg"
+            "url": "./images/720.jpg"
         }
     ],
     "type": "positive",

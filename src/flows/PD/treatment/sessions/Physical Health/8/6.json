@@ -1,16 +1,16 @@
 {
-    "header_text": "Unknown Sensations",
+    "header_text": "An accidental bang",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unknown Sensations"
+            "text": "An accidental bang"
         },
         {
             "type": "Media",
-            "url": "./images/474.jpg"
+            "url": "./images/456.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

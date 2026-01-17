@@ -1,16 +1,17 @@
 {
-    "header_text": "Research Visit",
+    "header_text": "Cooking Injury",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Research Visit"
+            "text": "You're normally very careful when working in the kitchen. While chopping vegetables, you accidentally cut your finger. This makes you scared that your coordination is getting..."
         },
         {
-            "type": "Media",
-            "url": "./images/438.jpg"
+            "type": "Entry",
+            "name": "cooking_injury--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

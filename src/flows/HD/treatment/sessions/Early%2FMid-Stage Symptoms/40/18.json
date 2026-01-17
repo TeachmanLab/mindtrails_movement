@@ -1,0 +1,16 @@
+{
+    "header_text": "Forgetting PIN Number",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Forgetting PIN Number"
+        },
+        {
+            "type": "Media",
+            "url": "./images/744.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

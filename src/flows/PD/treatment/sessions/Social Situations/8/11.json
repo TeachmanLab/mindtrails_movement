@@ -1,16 +1,16 @@
 {
-    "header_text": "Practicing Presentation",
+    "header_text": "Fear of Missing Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big..."
+            "text": "Fear of Missing Out"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/640.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

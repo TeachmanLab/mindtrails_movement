@@ -1,14 +1,14 @@
 {
-    "header_text": "Movie Distraction",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Movie Distraction"
+            "text": "Name Recall "
         },
         {
             "type": "Media",
-            "url": "./images/833.jpg"
+            "url": "./images/777.jpg"
         }
     ],
     "type": "positive",

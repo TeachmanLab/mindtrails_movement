@@ -1,25 +1,25 @@
 {
-    "header_text": "Catching Transportation",
+    "header_text": "Annual physical exam",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a strong urge to get off the plane and go back home, but you sit down at the nearest seat. Instead of exiting, you decide to observe these sensations and stay..."
+            "text": "You are getting your annual physical with your doctor. After an initial exam, your doctor says that something looks unusual and that you will need to get a second opinion. When it comes to managing your anxiety while you are in the exam room, you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Catching Transportation_Mental Health_puzzle_word2",
+            "name": "annual_physical_exam--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "seated"
+                "capable"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

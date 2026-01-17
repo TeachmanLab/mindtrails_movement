@@ -1,0 +1,16 @@
+{
+    "header_text": "Trying for a Baby",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trying for a Baby"
+        },
+        {
+            "type": "Media",
+            "url": "./images/577.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
+}

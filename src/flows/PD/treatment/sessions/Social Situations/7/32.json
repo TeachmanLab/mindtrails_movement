@@ -1,23 +1,23 @@
 {
-    "header_text": "Old friend ",
+    "header_text": "Your Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend probably did not reply to you because..."
+            "Text": "Are you excited about having people there to celebrate your birthday?"
         },
         {
             "type": "Buttons",
-            "name": "Old friend _Social Situations_comp_question",
+            "name": "your_birthday_party--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They did not see you call out to them",
-                "They do not like you"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "They did not see you call out to them"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

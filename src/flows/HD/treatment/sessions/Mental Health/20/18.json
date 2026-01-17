@@ -1,16 +1,39 @@
 {
-    "header_text": "Handwriting Challenge",
+    "header_text": "Feeling Excluded on Social Media",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Handwriting Challenge"
+            "Text": "Can you handle that sometimes your friends hang out without you?"
         },
         {
-            "type": "Media",
-            "url": "./images/411.jpg"
+            "type": "Buttons",
+            "name": "feeling_excluded_on_social_media--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

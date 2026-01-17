@@ -1,25 +1,25 @@
 {
-    "header_text": "Catching Transportation",
+    "header_text": "Friendly Neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a strong urge to get off the plane and go back home, but you sit down at the nearest seat. Instead of exiting, you decide to observe these sensations and stay..."
+            "text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Catching Transportation_Physical Health_puzzle_word2",
+            "name": "friendly_neighbor--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "seated"
+                "fine"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

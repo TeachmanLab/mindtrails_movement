@@ -1,25 +1,25 @@
 {
-    "header_text": "Dry mouth cause",
+    "header_text": "Feeling Lightheaded",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have experienced dry mouth for a few days. You wonder whether the dry mouth is a minor side effect from a medicine you just started or something more serious. The chance that your dry mouth reflects a serious health problem is..."
+            "text": "You have been working hard all day and have not had much to eat. As you stand up from your desk, you feel dizzy and weak. This makes you a little... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Dry mouth cause_Physical Health_puzzle1",
+            "name": "feeling_lightheaded--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "small"
+                "worried"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

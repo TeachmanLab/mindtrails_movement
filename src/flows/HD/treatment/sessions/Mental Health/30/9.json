@@ -1,0 +1,16 @@
+{
+    "header_text": "Community Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Community Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/422.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

@@ -1,0 +1,17 @@
+{
+    "header_text": "Working to Get Ahead",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have just been given a job in an office that you really like. To eventually receive the promotion you want, you know that you will have to work very hard for several years. Even then, the outcome is..."
+        },
+        {
+            "type": "Entry",
+            "name": "working_to_get_ahead--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

@@ -1,25 +1,25 @@
 {
-    "header_text": "Unusual views",
+    "header_text": "A child's request",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Even though your colleagues didn't share your view, they found your opinion interesting. They ask you for your thoughts, and you feel..."
+            "text": "You are looking after a friend's child. The child asks to go to a park in a different neighborhood. In your opinion, an ordinary outing like this is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Unusual views_Social Situations_puzzle_word2",
+            "name": "a_child's_request--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "included"
+                "safe"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

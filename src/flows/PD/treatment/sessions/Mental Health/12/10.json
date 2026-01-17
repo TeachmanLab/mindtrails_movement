@@ -1,29 +1,16 @@
 {
-    "header_text": "Burn Out",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it important to take breaks sometimes?"
+            "text": "Reason 2:"
         },
         {
-            "type": "Buttons",
-            "name": "Burn Out_Mental Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "name": "Reason2_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 2
+    ]
 }

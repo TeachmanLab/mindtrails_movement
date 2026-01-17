@@ -1,17 +1,18 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Putting Yourself Out There",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your..."
+            "text": "After you decide to share how you're feeling with them, they tell you they've just been tired and didn't realize how much it was affecting your relationship. You feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "putting_yourself_out_there--mental_health--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4,
     "information": {
         "elements": [

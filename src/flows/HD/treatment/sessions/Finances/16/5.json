@@ -1,0 +1,25 @@
+{
+    "header_text": "Financial responsibilities: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner was in the hospital recently and you have been helping to pay their medical bills. You wonder what this will mean for your finances moving forward.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I think about how challenging this situation is, but remind myself that it will not last forever.",
+                "My partner is so strong.",
+                "We are going to run out of money paying these bills.",
+                "We will get through this.",
+                "I try to imagine how this could have been avoided, but accept that my partner needed to be in the hospital."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

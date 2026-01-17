@@ -1,25 +1,25 @@
 {
-    "header_text": "Journaling Issues",
+    "header_text": "Dine with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are writing in your journal and start to flip back through. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You brainstorm creative ways to journal and soon feel confident that you can..."
+            "text": "You're at a busy restaurant chatting with friends. HD has made your speech less clear, and you are worried that your friends will have difficulty hearing you over the background noise. One friend asks you to repeat yourself multiple times, and you can see that they look..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Journaling Issues_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "dine_with_friends--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "adapt"
+                "irritated"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

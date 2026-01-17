@@ -1,16 +1,17 @@
 {
-    "header_text": "New Acquaintance",
+    "header_text": "Navigation Irritation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Acquaintance"
+            "text": "You are in the passenger seat as your partner drives to a new friend's house. They struggle, and the trip goes from 15 to 30 minutes, making you irritated. When your partner eventually stops the car and apologizes for getting lost, you give them..."
         },
         {
-            "type": "Media",
-            "url": "./images/844.jpg"
+            "type": "Entry",
+            "name": "navigation_irritation--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 9
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you envision your likely position in the company down the road, you do not see yourself getting passed by. You are hopeful that you'll land your dream..."
+            "text": "You have been called in for a performance review with your boss. Overall, you do good work. You know your boss has noticed some errors..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "reviewing_your_work_--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "recently"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 4
 }

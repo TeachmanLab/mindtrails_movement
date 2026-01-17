@@ -1,16 +1,16 @@
 {
-    "header_text": "Absent Sister",
+    "header_text": "Social Media Scores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Absent Sister"
+            "text": "Social Media Scores"
         },
         {
             "type": "Media",
-            "url": "./images/186.jpg"
+            "url": "./images/672.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

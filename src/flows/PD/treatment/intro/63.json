@@ -7,6 +7,7 @@
             "text": "Your younger family member is applying for a job. You offer to help with the application, and they decline. Why? \n\nSeveral other people have already helped them, and they are ready to submit the application."
         },
         {
+            "name": "mdib_10c_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

@@ -7,7 +7,8 @@
             "text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "shopping_for_party_supplies--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

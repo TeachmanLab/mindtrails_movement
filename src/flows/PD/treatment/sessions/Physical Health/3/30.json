@@ -1,25 +1,16 @@
 {
-    "header_text": "Walking Trail",
+    "header_text": "Hot surface burn",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a weekend walking trip with a friend. When you reach a slight incline, you start to breathe heavily. You are scared about what this could mean for your health, especially given that you are out in the... "
+            "text": "Hot surface burn"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Walking Trail_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "wilderness"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/450.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

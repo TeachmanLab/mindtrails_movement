@@ -1,14 +1,14 @@
 {
-    "header_text": "Video Call",
+    "header_text": "Morning Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Video Call"
+            "text": "Morning Coffee"
         },
         {
             "type": "Media",
-            "url": "./images/249.jpg"
+            "url": "./images/761.jpg"
         }
     ],
     "type": "positive",

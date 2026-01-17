@@ -1,16 +1,16 @@
 {
-    "header_text": "Family Board Game",
+    "header_text": "Journaling Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Board Game"
+            "text": "Journaling Issues"
         },
         {
             "type": "Media",
-            "url": "./images/226.jpg"
+            "url": "./images/819.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 4
 }

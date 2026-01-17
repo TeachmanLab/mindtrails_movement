@@ -1,0 +1,16 @@
+{
+    "header_text": "Catching up with a friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Catching up with a friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/714.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

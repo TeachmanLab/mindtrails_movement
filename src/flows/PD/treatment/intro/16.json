@@ -7,6 +7,7 @@
             "text": "Are you currently receiving any help for issues related to mental health? Please select all that apply, or \"I am not receiving help\"."
         },
         {
+            "name": "help",
             "type": "Buttons",
             "buttons": [
                 "Therapy::Therapy (talking with a trained professional)\n\nExamples: Psychologist, licensed mental health practitioner (LMHC), school counselor, social worker, marriage and family therapist, group therapist",
@@ -19,9 +20,7 @@
                 "^NoAnswer::Prefer not to answer",
                 "!Other::Other:"
             ],
-            "selectable": true,
             "multiselect": true,
-            "name": "help",
             "variable_name": "HelpReceived"
         }
     ]

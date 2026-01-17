@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "How You Look_Romantic Relationships_puzzle1",
+            "name": "how_you_look--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

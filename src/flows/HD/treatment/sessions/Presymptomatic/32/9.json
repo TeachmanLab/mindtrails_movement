@@ -1,0 +1,25 @@
+{
+    "header_text": "Holiday Conversation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a holiday gathering, you feel overwhelmed trying to keep track of all the different conversations. Anxiety builds as you think that others might notice you struggling. You focus on listening actively and still add to the conversation... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "holiday_conversation--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "meaningfully"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

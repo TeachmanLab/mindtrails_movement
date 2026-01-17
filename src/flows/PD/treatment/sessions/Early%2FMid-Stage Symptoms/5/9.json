@@ -1,25 +1,25 @@
 {
-    "header_text": "Bowling Alley",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a bowling alley, and it's your turn to bowl. A friend stands up, joking that they are going to take your turn. As you speak up to stop them, your words come out unclear, and they look..."
+            "text": "You just sat down for some lunch and decide to use your laptop while eating. As you're feeding yourself, you spill some of your pasta on your laptop. After you spill, you quickly get a cloth to clean up the mess, and you feel very..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Bowling Alley_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "spilling_food_on_laptop--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "confused"
+                "disappointed"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

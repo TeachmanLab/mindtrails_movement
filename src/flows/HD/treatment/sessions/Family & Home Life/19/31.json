@@ -1,0 +1,16 @@
+{
+    "header_text": "Baking Cookies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Baking Cookies"
+        },
+        {
+            "type": "Media",
+            "url": "./images/223.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

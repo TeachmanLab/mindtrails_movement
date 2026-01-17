@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Family & Home Life",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #10_entry"
+            "text": "It helps to remember that everyone has a different perspective. If you're having a hard time understanding why a loved one is acting a certain way, try considering the situation from their perspective. "
         }
     ]
 }

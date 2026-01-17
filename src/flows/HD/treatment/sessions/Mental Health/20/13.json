@@ -1,26 +1,25 @@
 {
-    "header_text": "Journaling Shift",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you become more..."
+            "text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "long_walk_outside--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "scary"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

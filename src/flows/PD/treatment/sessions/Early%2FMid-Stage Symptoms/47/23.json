@@ -1,0 +1,16 @@
+{
+    "header_text": "New Grandparent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Grandparent"
+        },
+        {
+            "type": "Media",
+            "url": "./images/978.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

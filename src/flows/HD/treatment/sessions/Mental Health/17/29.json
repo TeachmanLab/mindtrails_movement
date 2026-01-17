@@ -1,14 +1,14 @@
 {
-    "header_text": "Evaluation results",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you tolerate your nervousness as you wait to find out your evaluation?"
+            "Text": "Was your boss pleased with your progress?"
         },
         {
             "type": "Buttons",
-            "name": "Evaluation results_Mental Health_comp_question",
+            "name": "important_opinion--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

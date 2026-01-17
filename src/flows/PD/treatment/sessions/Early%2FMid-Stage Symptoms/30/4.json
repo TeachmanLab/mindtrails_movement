@@ -1,13 +1,22 @@
 {
-    "header_text": "Missing Wallet",
+    "header_text": "Delayed Projects",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping at the mall, and in line to check out. When you reach into your pocket, you realize your wallet is missing. You don't know where you misplaced it, and realize that your memory lately has been... "
+            "text": "You close your eyes and take a deep breath. You remind yourself that the projects will get done even if it takes a little longer, so everything will turn out..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "delayed_projects--early_mid-stage_symptoms--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "okay"
+            ],
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

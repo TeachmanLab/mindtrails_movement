@@ -1,16 +1,25 @@
 {
-    "header_text": "Dine with Friends",
+    "header_text": "Crafting Workshop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a busy restaurant chatting with friends. PD has made your speech quieter, and you are worried that your friends will have difficulty hearing you over the background noise. One friend asks you to repeat yourself multiple times, and you can see that they look..."
+            "text": "ou doctor encouraged you to try some new hobbies, so you decide to go to a crafting workshop. You have trouble handling the tools due to a tremor. You ask for help from the instructor and finish the... "
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "crafting_workshop--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "craft"
+            ],
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

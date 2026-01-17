@@ -1,39 +1,25 @@
 {
-    "header_text": "Getting Baked Goods",
+    "header_text": "Journaling Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think you will be able to pick up your baked goods without dropping them?"
+            "text": "You are writing in your journal and start to flip back through. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You brainstorm creative ways to journal and soon feel confident that you can..."
         },
         {
-            "type": "Buttons",
-            "name": "Getting Baked Goods_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "journaling_issues--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "adapt"
             ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 4
 }

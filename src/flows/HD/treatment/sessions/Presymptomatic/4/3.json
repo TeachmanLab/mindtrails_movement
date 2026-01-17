@@ -1,25 +1,29 @@
 {
-    "header_text": "Trivia Jitters",
+    "header_text": "Job promotion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After your first practice, you believe that you will not let your teammates down. Instead, you will contribute to your team's..."
+            "Text": "Are you capable of handling your new workload?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Trivia Jitters_Presymptomatic_puzzle_word2",
+            "type": "Buttons",
+            "name": "job_promotion--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "success"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 0
 }

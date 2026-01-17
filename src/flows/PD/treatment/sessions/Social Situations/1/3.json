@@ -1,25 +1,39 @@
 {
-    "header_text": "Important Presentation ",
+    "header_text": "A welcome greeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you think about how people at the conference will react to your presentation, you don't think they will look down on your presentation. Instead, you believe they will think you look... "
+            "Text": "While hugging your friend, you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Important Presentation _Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "a_welcome_greeting--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "competent"
+            "buttons": [
+                "Like you can't catch your breath",
+                "Missed and loved"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Missed and loved"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

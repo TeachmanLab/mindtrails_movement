@@ -1,13 +1,14 @@
 {
-    "header_text": "Approaching Deadline",
+    "header_text": "Feeling Prepared ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner share a computer. You have a work assignment due tonight but they're using the computer. When you think about completing the work on time, you feel..."
+            "text": "You are giving a presentation at a meeting tomorrow. You know that the quality of your presentation will be taken into account by your boss. As you think about the presentation, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "feeling_prepared_--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,13 +1,14 @@
 {
-    "header_text": "Running Late",
+    "header_text": "Approaching Deadline",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You wake up and realize that you're late for your first online meeting of the day. You log into the meeting and when you do, your supervisor stops talking. You apologize for being late in the chat, and spend the rest of the meeting feeling..."
+            "text": "You and your partner share a computer. You have a work assignment due tonight but they're using the computer. When you think about completing the work on time, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "approaching_deadline--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

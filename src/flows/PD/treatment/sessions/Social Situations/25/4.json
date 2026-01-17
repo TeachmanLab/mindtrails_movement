@@ -1,29 +1,17 @@
 {
-    "header_text": "Showcasing your experience",
+    "header_text": "Sharing With Support Group ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your supervisor probably found you to be..."
+            "text": "You have been asked to talk about your journey with PD in your support group. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people in the support group will react to your story, you believe they will be... "
         },
         {
-            "type": "Buttons",
-            "name": "Showcasing your experience_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Effective",
-                "Unprepared and lacking"
-            ],
-            "column_count": 1,
-            "correct_value": "Effective"
+            "type": "Entry",
+            "name": "sharing_with_support_group_--social_situations--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

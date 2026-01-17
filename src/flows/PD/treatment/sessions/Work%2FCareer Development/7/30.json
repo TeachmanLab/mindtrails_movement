@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Prepared ",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Feeling Prepared "
+            "text": "Using Different Technology"
         },
         {
             "type": "Media",
-            "url": "./images/40.jpg"
+            "url": "./images/32.jpg"
         }
     ],
     "type": "positive",

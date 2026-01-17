@@ -1,22 +1,22 @@
 {
-    "header_text": "Best Friend's Party",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your tremor causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and..."
+            "text": "You are at an educational event about Parkinson's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Best Friend's Party_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "medical_presentation--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "supportive"
+                "confused"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

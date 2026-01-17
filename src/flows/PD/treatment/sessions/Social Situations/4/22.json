@@ -1,29 +1,25 @@
 {
-    "header_text": "Cancelled plans",
+    "header_text": "A heated discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend probably cancelled your plans together because..."
+            "text": "As you are cleaning up afterwards, you realize that the debate between your guests was heated yet respectful. They probably found the party..."
         },
         {
-            "type": "Buttons",
-            "name": "Cancelled plans_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "a_heated_discussion--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "They remembered they had an important meeting at work at the same time",
-                "They are mad at you because of your previous disagreement"
+            "display_delay": 2000,
+            "words": [
+                "entertaining"
             ],
-            "column_count": 1,
-            "correct_value": "They remembered they had an important meeting at work at the same time"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Studying a New Language",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Studying a New Language"
+        },
+        {
+            "type": "Media",
+            "url": "./images/868.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

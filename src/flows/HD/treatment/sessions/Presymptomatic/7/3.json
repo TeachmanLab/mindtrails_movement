@@ -1,23 +1,23 @@
 {
-    "header_text": "Trouble Understanding ",
+    "header_text": "Family Game Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If you ask the presenter to re-explain the concept, they..."
+            "Text": "Your family will be..."
         },
         {
             "type": "Buttons",
-            "name": "Trouble Understanding _Presymptomatic_comp_question",
+            "name": "family_game_night--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Will be irritated",
-                "Won't mind"
+                "Distant",
+                "Caring"
             ],
             "column_count": 1,
-            "correct_value": "Won't mind"
+            "correct_value": "Caring"
         }
     ],
     "navigation_conditions": [

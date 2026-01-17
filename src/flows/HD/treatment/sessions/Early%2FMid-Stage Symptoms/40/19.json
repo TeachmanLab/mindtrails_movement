@@ -1,0 +1,17 @@
+{
+    "header_text": "Forgetting PIN Number",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried that you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a..."
+        },
+        {
+            "type": "Entry",
+            "name": "forgetting_pin_number--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

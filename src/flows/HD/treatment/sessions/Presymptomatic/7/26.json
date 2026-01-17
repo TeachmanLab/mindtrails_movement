@@ -1,16 +1,16 @@
 {
-    "header_text": "Work Details",
+    "header_text": "Shifting Household Roles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Work Details"
+            "text": "Shifting Household Roles"
         },
         {
             "type": "Media",
-            "url": "./images/916.jpg"
+            "url": "./images/297.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Playing Music",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Playing Music"
+        },
+        {
+            "type": "Media",
+            "url": "./images/416.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

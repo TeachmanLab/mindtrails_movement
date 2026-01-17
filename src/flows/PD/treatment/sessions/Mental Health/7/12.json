@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Coming up with Questions_Mental Health_comp_question",
+            "name": "coming_up_with_questions--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

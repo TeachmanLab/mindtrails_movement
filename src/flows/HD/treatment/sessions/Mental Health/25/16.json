@@ -1,0 +1,17 @@
+{
+    "header_text": "New Book Club ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You consider inviting them over for dinner. You make a plan to have someone help you tidy up because your book club friends are..."
+        },
+        {
+            "type": "Entry",
+            "name": "new_book_club_--mental_health--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

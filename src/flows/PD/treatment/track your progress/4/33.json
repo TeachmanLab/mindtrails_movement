@@ -7,6 +7,7 @@
             "text": "Your younger family member is applying for a job. You offer to help with the application, and they decline. Why? \n\nThey think your disease makes your opinion less relevant."
         },
         {
+            "name": "mdib_10a_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Having a New Friend Over",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Having a New Friend Over"
+            "text": "Waking Up Ready"
         },
         {
             "type": "Media",
-            "url": "./images/387.jpg"
+            "url": "./images/76.jpg"
         }
     ],
     "type": "positive",

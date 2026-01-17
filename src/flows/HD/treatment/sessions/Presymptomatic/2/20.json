@@ -1,29 +1,29 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Strained Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will there be people who care about you that help you in the future?"
+            "Text": "The relationship feels..."
         },
         {
             "type": "Buttons",
-            "name": "Worsening condition_Presymptomatic_comp_question",
+            "name": "strained_relationship--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Comfortable",
+                "Strained"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Strained"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 5
 }

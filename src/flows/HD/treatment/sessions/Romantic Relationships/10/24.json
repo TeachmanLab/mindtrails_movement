@@ -7,7 +7,8 @@
             "text": "You've wanted your friends to come over for a long time, and you have finally planned a dinner. You expect your spouse to be social when the time comes, but it feels like they don't want to get to know your friends since they stay quiet. You remember that everyone responds to social situations..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "shy_significant_other--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

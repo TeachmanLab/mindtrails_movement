@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptomatic in Public: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just experienced a lot of chorea while out in public. You fear that everyone around you saw it and is now judging you.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm scared that this caused a huge scene and people will be talking about me negatively.",
+                "I'm happy that my movements did not cause me to break or hit anything around me.",
+                "I'm confident I won't let my social anxiety control me.",
+                "I'm anxious about what people might think about me, but I know that the only people's opinions who are valid are those who were worried about me.",
+                "I'm anxious if I look up that a lot of people will be staring at me, but I know if I go about my day as normal, they'll all forget about it quickly."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

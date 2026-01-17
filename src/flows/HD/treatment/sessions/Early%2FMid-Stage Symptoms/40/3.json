@@ -1,0 +1,16 @@
+{
+    "header_text": "Sibling's Genetic Test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sibling's Genetic Test"
+        },
+        {
+            "type": "Media",
+            "url": "./images/740.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

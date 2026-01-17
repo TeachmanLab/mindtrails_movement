@@ -1,14 +1,14 @@
 {
-    "header_text": "Mental Health Resources",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mental Health Resources"
+            "text": "Waking Up Ready"
         },
         {
             "type": "Media",
-            "url": "./images/386.jpg"
+            "url": "./images/76.jpg"
         }
     ],
     "type": "positive",

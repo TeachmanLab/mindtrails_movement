@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Comparisons",
+    "header_text": "Using What You Have",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Social Media Comparisons"
+            "text": "Using What You Have"
         },
         {
             "type": "Media",
-            "url": "./images/601.jpg"
+            "url": "./images/646.jpg"
         }
     ],
     "type": "positive",

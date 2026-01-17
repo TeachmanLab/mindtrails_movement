@@ -7,6 +7,7 @@
             "text": "What is your gender identity?"
         },
         {
+            "name": "gender",
             "type": "Buttons",
             "buttons": [
                 "0::Woman",
@@ -15,9 +16,7 @@
                 "3::Transgender Man",
                 "4::Another identity",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "gender"
+            ]
         }
     ]
 }

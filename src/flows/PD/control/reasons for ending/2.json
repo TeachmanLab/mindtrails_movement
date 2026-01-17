@@ -7,6 +7,7 @@
             "text": "Why did you decide to end the program? Please check all that apply."
         },
         {
+            "name": "ending_why",
             "type": "Buttons",
             "buttons": [
                 "0::I did not have enough time to complete the program",
@@ -19,7 +20,6 @@
                 "7::Other",
                 "99::Prefer not to answer"
             ],
-            "selectable": true,
             "multiselect": true
         }
     ]

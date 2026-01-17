@@ -1,0 +1,17 @@
+{
+    "header_text": "At the Playground ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You reassure yourself that your children are loved, and you will find other ways to foster connection. Ultimately, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "at_the_playground_--early_mid-stage_symptoms--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

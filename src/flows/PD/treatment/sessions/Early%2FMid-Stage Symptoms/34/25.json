@@ -1,25 +1,25 @@
 {
-    "header_text": "Vacation Abroad",
+    "header_text": "Dining Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're preparing for a vacation abroad for the first time in many years. You feel anxious at the thought of dealing with an unfamiliar environment. You get some fresh air and remind yourself that this trip is an opportunity to create cherished memories, and you start feeling..."
+            "text": "When eating out with your friends, you feel self-conscious about how you now move and eat slower than before your diagnosis. Your friends are already done with their food, and you can see them watching you closely. You look over at them, and they appear to be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Vacation Abroad_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "dining_out--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "excited"
+                "frustrated"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

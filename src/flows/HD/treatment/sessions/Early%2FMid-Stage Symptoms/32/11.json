@@ -1,16 +1,16 @@
 {
-    "header_text": "Lunch with Neighbor",
+    "header_text": "Losing Your Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "The following week, you meet up with your neighbor for lunch again, even though you can't remember everything from last week. You ask if everything is going well, a question that your neighbor..."
+            "text": "Losing Your Phone"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/840.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 3
 }

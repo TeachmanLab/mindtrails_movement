@@ -1,16 +1,39 @@
 {
-    "header_text": "New Apartment to Yourself",
+    "header_text": "Recovering From a Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just moved to a new apartment, and you are living alone for the first time in a while. Your days are very quiet, and you often find yourself staying in on the weekends more often than when you were living with people. This feels like a relaxing change of..."
+            "Text": "Do you think that the audience thought of you as awkward for making a mistake?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "recovering_from_a_mistake--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

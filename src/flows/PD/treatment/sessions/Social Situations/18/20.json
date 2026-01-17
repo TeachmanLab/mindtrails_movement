@@ -1,14 +1,14 @@
 {
-    "header_text": "Call Ending Suddenly",
+    "header_text": "Dinner at a Friend's House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Call Ending Suddenly"
+            "text": "Dinner at a Friend's House"
         },
         {
             "type": "Media",
-            "url": "./images/683.jpg"
+            "url": "./images/177.jpg"
         }
     ],
     "type": "positive",

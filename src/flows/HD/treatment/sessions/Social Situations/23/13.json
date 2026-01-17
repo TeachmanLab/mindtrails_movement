@@ -1,29 +1,16 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Taking Yourself to a Movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The other shoppers probably felt..."
+            "text": "Taking Yourself to a Movie"
         },
         {
-            "type": "Buttons",
-            "name": "Grocery Store Experience_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Annoyed by the loud sound",
-                "Relieved that no one was injured"
-            ],
-            "column_count": 1,
-            "correct_value": "Relieved that no one was injured"
+            "type": "Media",
+            "url": "./images/689.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 5
 }

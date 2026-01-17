@@ -1,29 +1,25 @@
 {
-    "header_text": "Follow-up at Doctor's Office",
+    "header_text": "Cocktail Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you feel that the doctor is pitying you?"
+            "text": "You and your partner come up with a system to help jog your memory. Having your partner there to help you remember people's names allows you to enjoy the party and feel more..."
         },
         {
-            "type": "Buttons",
-            "name": "Follow-up at Doctor's Office_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "cocktail_party--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "comfortable"
             ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

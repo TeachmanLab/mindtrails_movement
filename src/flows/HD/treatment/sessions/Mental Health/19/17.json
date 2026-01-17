@@ -1,16 +1,16 @@
 {
-    "header_text": "Disease and Identity",
+    "header_text": "Opening Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Disease and Identity"
+            "text": "Opening Up"
         },
         {
             "type": "Media",
-            "url": "./images/404.jpg"
+            "url": "./images/390.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 5
 }

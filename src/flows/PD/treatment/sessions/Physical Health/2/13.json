@@ -1,16 +1,16 @@
 {
-    "header_text": "A scratchy throat",
+    "header_text": "Cardio with friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A scratchy throat"
+            "text": "Cardio with friend"
         },
         {
             "type": "Media",
-            "url": "./images/439.jpg"
+            "url": "./images/360.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

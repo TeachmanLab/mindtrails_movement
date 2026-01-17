@@ -1,23 +1,23 @@
 {
-    "header_text": "A big presentation",
+    "header_text": "Suggestion to meet again",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you excited about the presentation?"
+            "Text": " \n \t\t\n\nThe person you met at the event will probably...\n"
         },
         {
             "type": "Buttons",
-            "name": "A big presentation_Social Situations_comp_question",
+            "name": "suggestion_to_meet_again--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Say no if you suggest meeting again",
+                "Say yes if you suggest meeting again"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Say yes if you suggest meeting again"
         }
     ],
     "navigation_conditions": [

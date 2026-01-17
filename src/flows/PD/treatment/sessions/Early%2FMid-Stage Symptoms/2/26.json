@@ -1,16 +1,16 @@
 {
-    "header_text": "Question at Meeting",
+    "header_text": "Music Venue ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Question at Meeting"
+            "text": "Music Venue "
         },
         {
             "type": "Media",
-            "url": "./images/733.jpg"
+            "url": "./images/723.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

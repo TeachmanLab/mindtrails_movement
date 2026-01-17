@@ -1,39 +1,16 @@
 {
-    "header_text": "Gardening",
+    "header_text": "Enjoying the outdoors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "In the future, your symptoms will cause your plants to..."
+            "text": "Enjoying the outdoors"
         },
         {
-            "type": "Buttons",
-            "name": "Gardening_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Thrive",
-                "Die"
-            ],
-            "column_count": 1,
-            "correct_value": "Die"
+            "type": "Media",
+            "url": "./images/729.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 5
 }

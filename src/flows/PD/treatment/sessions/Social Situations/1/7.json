@@ -1,29 +1,16 @@
 {
-    "header_text": "A welcome greeting",
+    "header_text": "Spotting a friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "While hugging your friend, you feel..."
+            "text": "Spotting a friend"
         },
         {
-            "type": "Buttons",
-            "name": "A welcome greeting_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Like you can't catch your breath",
-                "Missed and loved"
-            ],
-            "column_count": 1,
-            "correct_value": "Missed and loved"
+            "type": "Media",
+            "url": "./images/597.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2
 }

@@ -7,7 +7,8 @@
             "text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "wearing_something_old--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

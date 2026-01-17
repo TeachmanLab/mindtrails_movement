@@ -1,25 +1,25 @@
 {
-    "header_text": "Music Venue ",
+    "header_text": "Talking about the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're..."
+            "text": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Music Venue _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "talking_about_the_future--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "nervous"
+                "communicate"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

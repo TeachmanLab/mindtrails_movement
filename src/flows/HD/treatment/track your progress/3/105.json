@@ -7,6 +7,7 @@
             "text": "In the past four weeks, to what extent did you fear or avoid the following situations? \n\nPublic situations (situations from which it may be difficult or embarrassing to escape, such as queues or lines, crowds, bridges, or public transportation)"
         },
         {
+            "name": "PAS_C2",
             "type": "Buttons",
             "buttons": [
                 "0::Never",
@@ -14,8 +15,7 @@
                 "2::Sometimes",
                 "3::Often",
                 "4::Nearly always"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

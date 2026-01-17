@@ -1,14 +1,14 @@
 {
-    "header_text": "Sibling's Genetic Test",
+    "header_text": "Diagnosed and Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sibling's Genetic Test"
+            "text": "Diagnosed and Dating"
         },
         {
             "type": "Media",
-            "url": "./images/740.jpg"
+            "url": "./images/588.jpg"
         }
     ],
     "type": "positive",

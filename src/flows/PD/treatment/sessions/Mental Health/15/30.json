@@ -1,23 +1,23 @@
 {
-    "header_text": "Disclosing Your Mental Health",
+    "header_text": "Annual physical exam",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your partner reject you?"
+            "Text": "Are you capable of managing your anxiety while waiting for your doctor?"
         },
         {
             "type": "Buttons",
-            "name": "Disclosing Your Mental Health_Mental Health_comp_question",
+            "name": "annual_physical_exam--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

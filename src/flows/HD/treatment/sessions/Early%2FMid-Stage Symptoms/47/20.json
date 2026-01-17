@@ -1,0 +1,29 @@
+{
+    "header_text": "Walking Down Steps",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "In the future, walking down the stairs will be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "walking_down_steps--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Impossible",
+                "Manageable"
+            ],
+            "column_count": 1,
+            "correct_value": "Manageable"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

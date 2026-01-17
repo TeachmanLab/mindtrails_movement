@@ -1,16 +1,17 @@
 {
-    "header_text": "Team Project",
+    "header_text": "Brother Getting Tested",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Team Project"
+            "text": "Your brother has not been tested for HD. He tells you that he thinks he has been experiencing some symptoms lately, and he decides to undergo genetic testing. As you think about what the results could mean for your brother, you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/882.jpg"
+            "type": "Entry",
+            "name": "brother_getting_tested--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
     "scenario_num": 2
 }

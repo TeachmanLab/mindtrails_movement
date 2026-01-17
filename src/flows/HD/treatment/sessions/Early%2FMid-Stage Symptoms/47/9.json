@@ -1,0 +1,25 @@
+{
+    "header_text": "New Baby in the Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your sibling is about to have a baby. You worry that your HD symptoms will make it difficult to safely hold the new baby. You remind yourself that you are a loving family member and are... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "new_baby_in_the_family--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "trustworthy"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

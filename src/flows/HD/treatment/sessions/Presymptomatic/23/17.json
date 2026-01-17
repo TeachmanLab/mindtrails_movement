@@ -1,16 +1,17 @@
 {
-    "header_text": "Gardening",
+    "header_text": "Gardening Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Gardening"
+            "text": "You remember that your sibling has always wanted to have their own garden, and you decide to invite them to help you with yours. This leaves you feeling..."
         },
         {
-            "type": "Media",
-            "url": "./images/937.jpg"
+            "type": "Entry",
+            "name": "gardening_help--presymptomatic--puzzle2_entry"
         }
     ],
-    "type": "negative",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

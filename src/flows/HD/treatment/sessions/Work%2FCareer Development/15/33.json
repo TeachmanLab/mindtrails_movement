@@ -1,23 +1,23 @@
 {
-    "header_text": "A big presentation",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you excited about the presentation?"
+            "Text": "Your potential employer will probably think..."
         },
         {
             "type": "Buttons",
-            "name": "A big presentation_Work/Career Development_comp_question",
+            "name": "your_resume--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "That your listed skills are unimpressive",
+                "That your previous experience is a good fit for the job"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "That your previous experience is a good fit for the job"
         }
     ],
     "navigation_conditions": [

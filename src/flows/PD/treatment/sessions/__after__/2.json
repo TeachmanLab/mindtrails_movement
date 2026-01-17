@@ -7,6 +7,7 @@
             "text": "The program helped me think about a stressful or upsetting situation in a new or different way"
         },
         {
+            "name": "post_check_thinkdifferently",
             "type": "Buttons",
             "buttons": [
                 "7::7: Very true",
@@ -16,8 +17,7 @@
                 "3::3",
                 "2::2",
                 "1::1: Not at all true"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

@@ -1,13 +1,14 @@
 {
-    "header_text": "Prepare to Succeed",
+    "header_text": "Enjoyable Endeavor ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In your meeting today, you have an important presentation. In order to follow your boss's instructions, you must present for 15 minutes. When you think about completing this presentation, you feel..."
+            "text": "You and some coworkers were given some extra tasks to complete by the end of the week, and you've been working hard. You overheard your coworkers saying that you'd be \"crazy\" to enjoy the extra work. You think about how productive it makes you feel to be working this hard, and feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "enjoyable_endeavor_--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

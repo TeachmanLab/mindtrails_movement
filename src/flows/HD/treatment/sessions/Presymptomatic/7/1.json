@@ -1,14 +1,14 @@
 {
-    "header_text": "Trouble Understanding ",
+    "header_text": "Family Game Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trouble Understanding "
+            "text": "Family Game Night"
         },
         {
             "type": "Media",
-            "url": "./images/914.jpg"
+            "url": "./images/887.jpg"
         }
     ],
     "type": "positive",

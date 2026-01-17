@@ -1,20 +1,20 @@
 {
-    "header_text": "Future Birthdays",
+    "header_text": "Forgetting Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are playing with your young child and their friends at a birthday party. You start to think about if you will be able to play with them at more birthday parties as your disease progresses. You remember that the most important thing to your child is just that you are..."
+            "text": "You are grocery shopping and realize that you need something, but you can't remember what the item is. You spend a long time in the store trying to think of what's missing, and you can't seem to move on. After a while, you realize that you can return to the store another day, and everything will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Future Birthdays_Presymptomatic_puzzle1",
+            "name": "forgetting_groceries--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "present"
+                "okay"
             ],
             "missing_letter_count": 2
         }

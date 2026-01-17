@@ -1,29 +1,10 @@
 {
-    "header_text": "Waking Up Ready",
+    "header_text": "Manage Your Feelings: Mental Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you anxious about your plan to finish your tasks in the morning?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Waking Up Ready_Mental Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "text": "Try to put a specific label on your feelings (are you sad, angry, disgusted, nervous, terrfiied, etc.?) - feelings are easier to manage when we can describe them fully."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

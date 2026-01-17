@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
+            "text": "Think about a situation that you face regluarly that causes some anxiety. What do you usually tell yourself? Is there another thought that you could say to yourself that may make it less anxiety-provoking? "
         },
         {
             "type": "Entry",
-            "name": "Tip #5_entry"
+            "name": "tip #12--entry"
         }
     ]
 }

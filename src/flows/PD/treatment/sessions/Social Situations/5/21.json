@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversation with Stranger",
+    "header_text": "Dancing class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conversation with Stranger"
+            "text": "Dancing class"
         },
         {
             "type": "Media",
-            "url": "./images/627.jpg"
+            "url": "./images/516.jpg"
         }
     ],
     "type": "positive",

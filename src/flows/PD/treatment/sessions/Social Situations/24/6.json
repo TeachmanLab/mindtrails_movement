@@ -1,29 +1,17 @@
 {
-    "header_text": "Reconciling with your friend",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend cancelled the meeting because they are..."
+            "text": "You decide to continue to draft the email and send it once you are happy with how it sounds. You look forward to people's..."
         },
         {
-            "type": "Buttons",
-            "name": "Reconciling with your friend_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Exhausted from a busy week",
-                "Mad at you"
-            ],
-            "column_count": 1,
-            "correct_value": "Exhausted from a busy week"
+            "type": "Entry",
+            "name": "overwhelming_options--social_situations--puzzle2_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

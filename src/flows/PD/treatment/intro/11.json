@@ -7,6 +7,7 @@
             "text": "How old were you (in years) when you were first diagnosed with Parkinson's disease?"
         },
         {
+            "name": "age_diagnosis",
             "type": "Picker",
             "items": [
                 "40 or younger",

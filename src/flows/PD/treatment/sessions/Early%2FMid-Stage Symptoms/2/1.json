@@ -1,17 +1,17 @@
 {
-    "header_text": "The Movies Solo",
+    "header_text": "Planning a Family Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "The Movies Solo"
+            "text": "Planning a Family Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/724.jpg"
+            "url": "./images/735.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0,
     "information": {
         "elements": [

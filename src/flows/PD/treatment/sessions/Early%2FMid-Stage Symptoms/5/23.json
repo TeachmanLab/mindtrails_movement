@@ -1,20 +1,20 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "Night of Bad Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You remind yourself that your dog's love is unconditional and that you can find creative ways to care for them. This helps you to see the future more..."
+            "text": "In the morning, you decide to cancel your earliest appointment so that you can get more sleep. You wake up after a nap feeling a bit more..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "night_of_bad_sleep--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "positively"
+                "refreshed"
             ],
             "missing_letter_count": 2
         }

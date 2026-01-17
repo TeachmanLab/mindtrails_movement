@@ -1,0 +1,16 @@
+{
+    "header_text": "Walking with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Walking with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/497.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

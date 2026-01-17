@@ -1,16 +1,25 @@
 {
-    "header_text": "Research Study",
+    "header_text": "New Medications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Research Study"
+            "text": "In the past few years, several new HD medications have been approved. While this makes you excited, today you're feeling anxious about how expensive your future health care might be. As you search the web for information about support resources, you begin to..."
         },
         {
-            "type": "Media",
-            "url": "./images/877.jpg"
+            "type": "WordPuzzle",
+            "name": "new_medications--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relax"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "resilience/negation",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 3
 }

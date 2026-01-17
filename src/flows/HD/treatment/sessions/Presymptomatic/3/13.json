@@ -1,23 +1,23 @@
 {
-    "header_text": "Master's Degree",
+    "header_text": "Sibling's Genetic Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to move forward, despite your fears?"
+            "Text": "Your know that once your sibling finds out their HD status, your close relationship will..."
         },
         {
             "type": "Buttons",
-            "name": "Master's Degree_Presymptomatic_comp_question",
+            "name": "sibling's_genetic_test--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "...Become ruined",
+                "...Stay intact"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "...Stay intact"
         }
     ],
     "navigation_conditions": [

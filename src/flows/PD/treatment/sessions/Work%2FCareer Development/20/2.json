@@ -1,0 +1,16 @@
+{
+    "header_text": "Presenting your Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Presenting your Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/112.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

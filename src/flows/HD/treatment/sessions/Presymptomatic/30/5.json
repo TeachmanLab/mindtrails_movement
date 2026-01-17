@@ -1,0 +1,16 @@
+{
+    "header_text": "HDSA Fundraiser",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "HDSA Fundraiser"
+        },
+        {
+            "type": "Media",
+            "url": "./images/866.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

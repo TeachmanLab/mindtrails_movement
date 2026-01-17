@@ -7,7 +7,8 @@
             "text": "Your grandchildren are thinking about going to college, but you think you would have to take out a loan to help their parents to send them. You remember stories you have heard of people still paying their loans well after retirement. Looking at your finances while in retirement, you think your loans will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "affording_education--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

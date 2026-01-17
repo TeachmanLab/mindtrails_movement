@@ -1,0 +1,25 @@
+{
+    "header_text": "Missed a Turn",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While driving to run errands, you lose focus and miss a turn. You start to worry about how HD will eventually affect your driving. You reroute and arrive at your destination feeling..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "missed_a_turn--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "calm"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
+}

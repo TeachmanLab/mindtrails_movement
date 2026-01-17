@@ -1,16 +1,16 @@
 {
-    "header_text": "Tax Forms",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tax Forms"
+            "text": "Keys Forgotten"
         },
         {
             "type": "Media",
-            "url": "./images/322.jpg"
+            "url": "./images/208.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

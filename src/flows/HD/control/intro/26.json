@@ -7,6 +7,7 @@
             "text": "There are many reasons people do not receive help. Why are you not receiving mental health treatment? Please select all that apply."
         },
         {
+            "name": "reasons_not_receiving_help",
             "type": "Buttons",
             "buttons": [
                 "0::I don't think a prescription medication would help me",
@@ -25,9 +26,7 @@
                 "!11::Other",
                 "^99::Prefer not to anwer"
             ],
-            "selectable": true,
-            "multiselect": true,
-            "name": "reasons_not_receiving_help"
+            "multiselect": true
         }
     ],
     "condition": [

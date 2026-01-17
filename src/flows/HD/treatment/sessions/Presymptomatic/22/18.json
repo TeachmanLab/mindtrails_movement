@@ -1,16 +1,25 @@
 {
-    "header_text": "Reading before Bedtime",
+    "header_text": "Seeing your Aunt",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reading before Bedtime"
+            "text": "You walk into a relative's birthday party after traveling in from out of town. An aunt who does not know about your CAG repeats approaches you, and you become nervous she will ask you about HD. Your aunt hugs you and asks about your..."
         },
         {
-            "type": "Media",
-            "url": "./images/240.jpg"
+            "type": "WordPuzzle",
+            "name": "seeing_your_aunt--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "trip"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 5
 }

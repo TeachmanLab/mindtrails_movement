@@ -7,7 +7,8 @@
             "text": "You pick up something mediocre from a nearby store. You don't worry about disappointing your family member because you think they will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "family_member's_birthday--family_&_home_life--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

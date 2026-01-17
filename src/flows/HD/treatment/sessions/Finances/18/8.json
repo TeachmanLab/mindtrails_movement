@@ -1,0 +1,25 @@
+{
+    "header_text": "Family Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family has been borrowing your friend's car for transportation. You have been saving for a new family car, but it's a big expense. Considering the possibility of buying a new car, your think your funds will fall..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "family_car--finances--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "short"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
+}

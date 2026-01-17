@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Working to Get Ahead_Work/Career Development_puzzle_word2",
+            "name": "working_to_get_ahead--work_career_development--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

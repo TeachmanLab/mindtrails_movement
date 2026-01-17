@@ -1,0 +1,16 @@
+{
+    "header_text": "Organizing Desk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Organizing Desk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/883.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

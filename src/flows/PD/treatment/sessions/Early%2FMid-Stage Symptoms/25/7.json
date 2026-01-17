@@ -1,25 +1,16 @@
 {
-    "header_text": "Unfamiliar Walk",
+    "header_text": "HOA Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a walk with your dog, trying to relax and exercise. You find yourself on an unusual route and don't recognize your surroundings. You take out your cell phone and reroute home, showing that you are able to..."
+            "text": "HOA Meeting"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Unfamiliar Walk_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "adapt"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/829.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2
 }

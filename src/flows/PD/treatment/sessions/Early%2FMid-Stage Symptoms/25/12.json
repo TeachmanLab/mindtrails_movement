@@ -1,16 +1,17 @@
 {
-    "header_text": "Parked Car",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Parked Car"
+            "text": "You just retired because of your PD symptoms, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of..."
         },
         {
-            "type": "Media",
-            "url": "./images/848.jpg"
+            "type": "Entry",
+            "name": "retirement_celebration--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "type": "negative",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

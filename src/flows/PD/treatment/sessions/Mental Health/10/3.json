@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Responsibilities",
+    "header_text": "Enjoyable Endeavor ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Managing Responsibilities"
+            "text": "Enjoyable Endeavor "
         },
         {
             "type": "Media",
-            "url": "./images/84.jpg"
+            "url": "./images/71.jpg"
         }
     ],
     "type": "positive",

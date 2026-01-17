@@ -1,16 +1,16 @@
 {
-    "header_text": "Dream Car",
+    "header_text": "Movie Mix-Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dream Car"
+            "text": "Movie Mix-Up"
         },
         {
             "type": "Media",
-            "url": "./images/266.jpg"
+            "url": "./images/833.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

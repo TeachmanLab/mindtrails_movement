@@ -1,14 +1,14 @@
 {
-    "header_text": "Trouble Reading",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trouble Reading"
+            "text": "Neighbor Chat"
         },
         {
             "type": "Media",
-            "url": "./images/818.jpg"
+            "url": "./images/798.jpg"
         }
     ],
     "type": "positive",

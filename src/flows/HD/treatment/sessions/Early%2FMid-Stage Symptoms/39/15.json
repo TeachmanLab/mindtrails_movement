@@ -1,0 +1,16 @@
+{
+    "header_text": "Forgotten Ingredients",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Forgotten Ingredients"
+        },
+        {
+            "type": "Media",
+            "url": "./images/738.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

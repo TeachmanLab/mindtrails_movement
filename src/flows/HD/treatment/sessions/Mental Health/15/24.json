@@ -1,16 +1,16 @@
 {
-    "header_text": "Supporting Partner",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Supporting Partner"
+            "text": "Friends in Relationships"
         },
         {
             "type": "Media",
-            "url": "./images/392.jpg"
+            "url": "./images/367.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

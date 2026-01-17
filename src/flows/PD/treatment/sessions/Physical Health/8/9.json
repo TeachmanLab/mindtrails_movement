@@ -1,16 +1,17 @@
 {
-    "header_text": "An accidental bang",
+    "header_text": "Broken Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One evening, you are climbing the stairs and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has..."
+            "text": "Your car is broken again, and you have to walk a few blocks to get to where you need to go. You feel your chest tighten, and you feel out of breath as you reach your destination. You feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "broken_car--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

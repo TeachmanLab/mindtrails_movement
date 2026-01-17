@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking with Your Friend",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "There's an important question that you've been wanting to ask your friend for a while, but you haven't. You picture yourself asking when you meet next. As you think about the question, you feel..."
+            "text": "During your work meeting over Zoom, everyone is placed into breakout rooms. Your camera is on when you start the discussion, but everyone else leaves their cameras off. You assume that the others will think that you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Talking with Your Friend_Social Situations_puzzle1",
+            "name": "taking_charge--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -16,7 +16,7 @@
             "words": [
                 "ready"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

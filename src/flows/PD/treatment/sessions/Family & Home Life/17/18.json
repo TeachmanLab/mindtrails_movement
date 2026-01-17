@@ -1,16 +1,25 @@
 {
-    "header_text": "Crafts and Crochet",
+    "header_text": "Reconnecting With People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crafts and Crochet"
+            "text": "You have had a lot of work pile up these past couple of weeks. As a result, you have not been able to spend time with friends or family as much as you would want and have often times felt lonely. Once your workload lessens, you plan on reconnecting with people who mean a lot to..."
         },
         {
-            "type": "Media",
-            "url": "./images/229.jpg"
+            "type": "WordPuzzle",
+            "name": "reconnecting_with_people--family_&_home_life--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "you"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

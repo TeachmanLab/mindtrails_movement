@@ -1,0 +1,16 @@
+{
+    "header_text": "Biting Fingernails",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Biting Fingernails"
+        },
+        {
+            "type": "Media",
+            "url": "./images/954.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,29 +1,17 @@
 {
-    "header_text": "Making New Friends",
+    "header_text": "Trivia Team",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Thinking about life in your new home going forward, you imagine..."
+            "text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be..."
         },
         {
-            "type": "Buttons",
-            "name": "Making New Friends_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Having a new group of friends you can rely on",
-                "Needing to do everything yourself"
-            ],
-            "column_count": 1,
-            "correct_value": "Having a new group of friends you can rely on"
+            "type": "Entry",
+            "name": "trivia_team--social_situations--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 9
 }

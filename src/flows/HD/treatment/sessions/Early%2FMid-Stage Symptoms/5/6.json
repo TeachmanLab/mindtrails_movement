@@ -1,25 +1,25 @@
 {
-    "header_text": "Favorite Restaurant",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be..."
+            "text": "You are attending your child's dance recital. As you are walking into the theater with your family, you notice the new environment is causing you to have a bit more chorea than usual. You are worried that your kid will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Favorite Restaurant_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "attending_a_dance_recital--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enj­­oyable"
+                "embarrassed"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

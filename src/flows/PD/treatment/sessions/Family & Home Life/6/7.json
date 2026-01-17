@@ -7,6 +7,7 @@
             "text": "You are home for a holiday and you notice your siblings are upset with each other. They give you a short answer when you try to talk with them. \n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
         },
         {
+            "name": "long6",
             "type": "Entry"
         }
     ],

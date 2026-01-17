@@ -1,0 +1,17 @@
+{
+    "header_text": "Caring for Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were recently diagnosed with HD and are aware that challenges lie ahead. The changing symptoms and unpredictable nature of your condition makes you question whether you will be able to care for your family. However, your family reminds you that you are not alone, and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "caring_for_family--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

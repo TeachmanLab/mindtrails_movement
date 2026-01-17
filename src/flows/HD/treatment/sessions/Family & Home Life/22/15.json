@@ -1,0 +1,16 @@
+{
+    "header_text": "Saturday Brunch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Saturday Brunch"
+        },
+        {
+            "type": "Media",
+            "url": "./images/238.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

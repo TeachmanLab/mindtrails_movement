@@ -1,14 +1,14 @@
 {
-    "header_text": "Morning errands",
+    "header_text": "Family Gathering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Morning errands"
+            "text": "Family Gathering"
         },
         {
             "type": "Media",
-            "url": "./images/962.jpg"
+            "url": "./images/721.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,25 @@
 {
-    "header_text": "Forgotten Ingredients",
+    "header_text": "Family Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgotten Ingredients"
+            "text": "You love to cook for your family. Lately, your symptoms have made it more difficult to make your favorite meals. Whether or not you can continue filling this role for your family, you know that dinner time together will be..."
         },
         {
-            "type": "Media",
-            "url": "./images/738.jpg"
+            "type": "WordPuzzle",
+            "name": "family_dinner--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "enjoyable"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

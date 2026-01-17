@@ -1,25 +1,25 @@
 {
-    "header_text": "Word Trouble",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Normally, you can say what's on your mind easily. Lately, you've begun to struggle because it takes more effort to get your words out. You start wondering if this problem will get worse, leaving you feeling..."
+            "text": "Your job has taken you all over the country with new opportunities. Your boss approaches you at work asking if you can take a position a few hours away, but moving to a new place would mean needing a new medical team unfamiliar with your HD history. The thought of a new city, friends, and medical providers is... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Word Trouble_Presymptomatic_puzzle1",
+            "name": "moving_to_a_new_city--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "worried"
+                "exciting"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

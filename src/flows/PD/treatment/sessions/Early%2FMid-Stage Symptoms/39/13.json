@@ -1,0 +1,17 @@
+{
+    "header_text": "Lunch with Neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The following week, you meet up with your neighbor for lunch again, even though you can't remember everything from last week. You ask if everything is going well, a question that your neighbor..."
+        },
+        {
+            "type": "Entry",
+            "name": "lunch_with_neighbor--early_mid-stage_symptoms--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

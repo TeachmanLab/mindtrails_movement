@@ -1,22 +1,22 @@
 {
-    "header_text": "Delayed Texting ",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be... "
+            "text": "You and your spouse have been married for a long time. Recently, you find yourself becoming easily angered with them over things that haven't made you upset in the past. Instead of fearing the future, you realize how your marriage is a... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Delayed Texting _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "new_conflict_with_spouse--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "patient"
+                "commitment"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

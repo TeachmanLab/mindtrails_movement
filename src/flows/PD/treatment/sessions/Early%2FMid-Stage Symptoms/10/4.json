@@ -1,13 +1,14 @@
 {
-    "header_text": "Beach Vacation",
+    "header_text": "Lost Things",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on your family's annual beach vacation. Your nieces and nephews want you to go in the water with them, but you are nervous about staying balanced with the crash and force of the waves. You think about how they will be with you in the water and decide to go have some... "
+            "text": "This past week, you've consistently lost track of things, such as your keys and wallet. You've had some recent stressors in your life, and losing track of your things makes you even more anxious. You know that stress can worsen memory, and your memory will probably improve when things are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "lost_things--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

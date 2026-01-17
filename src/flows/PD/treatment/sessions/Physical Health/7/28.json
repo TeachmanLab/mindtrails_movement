@@ -1,20 +1,20 @@
 {
-    "header_text": "Catching Your Breath",
+    "header_text": "Trampoline Safety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a cool morning, and you're walking to get to your office. You start to feel really winded as you make it to the door. You take a second to breathe and feel..."
+            "text": "Your children are bouncing on a trampoline. They are having fun, but you also consider their safety, knowing that trampolines can be dangerous. While watching them bouncing up and down on the trampoline, you feel they are quite..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Catching Your Breath_Physical Health_puzzle1",
+            "name": "trampoline_safety--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "safe"
             ],
             "missing_letter_count": 2
         }

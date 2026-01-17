@@ -1,14 +1,14 @@
 {
-    "header_text": "One-on-one thoughts",
+    "header_text": "Not Getting a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One-on-one thoughts"
+            "text": "Not Getting a Response"
         },
         {
             "type": "Media",
-            "url": "./images/41.jpg"
+            "url": "./images/377.jpg"
         }
     ],
     "type": "positive",

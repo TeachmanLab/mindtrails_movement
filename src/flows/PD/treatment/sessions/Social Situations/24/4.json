@@ -1,16 +1,16 @@
 {
-    "header_text": "Reconciling with your friend",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reconciling with your friend"
+            "text": "Overwhelming Options"
         },
         {
             "type": "Media",
-            "url": "./images/129.jpg"
+            "url": "./images/691.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Social Situations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Give yourself a challenge to speak to someone new today."
+        }
+    ]
+}

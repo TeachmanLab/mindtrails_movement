@@ -1,14 +1,14 @@
 {
-    "header_text": "Unmasked Peers",
+    "header_text": "Friend Neglecting Chores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unmasked Peers"
+            "text": "Friend Neglecting Chores"
         },
         {
             "type": "Media",
-            "url": "./images/512.jpg"
+            "url": "./images/677.jpg"
         }
     ],
     "type": "positive",

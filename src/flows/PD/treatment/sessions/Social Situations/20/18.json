@@ -1,16 +1,16 @@
 {
-    "header_text": "Less Social Media",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about getting on social media more and still decide not to. You feel..."
+            "text": "Fundraiser presentation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/107.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 5
 }

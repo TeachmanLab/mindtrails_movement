@@ -1,16 +1,29 @@
 {
-    "header_text": "Lost in the Forest",
+    "header_text": "Movie Theater Distraction",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enjoy exploring the forest and picking flowers. On a walk, you get lost in the woods but luckily run into someone who helps you find your way. When you return home later than usual and explain what happened, your spouse becomes very..."
+            "Text": "As you become aware of your movements, you decide to focus on the..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "movie_theater_distraction--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Thoughts of people nearby",
+                "Film in front of you"
+            ],
+            "column_count": 1,
+            "correct_value": "Film in front of you"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 0
 }

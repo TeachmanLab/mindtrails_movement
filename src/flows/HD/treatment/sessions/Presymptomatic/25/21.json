@@ -1,16 +1,16 @@
 {
-    "header_text": "New Provider",
+    "header_text": "Holiday Decor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Provider"
+            "text": "Holiday Decor"
         },
         {
             "type": "Media",
-            "url": "./images/942.jpg"
+            "url": "./images/935.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 8
 }

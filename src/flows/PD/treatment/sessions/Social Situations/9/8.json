@@ -1,16 +1,17 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Disrupting the Silence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are..."
+            "text": "You walk into a quiet meeting room a few minutes late. The door squeaks really loudly as you enter, and your coworkers look in your direction. They are probably feeling..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "disrupting_the_silence--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

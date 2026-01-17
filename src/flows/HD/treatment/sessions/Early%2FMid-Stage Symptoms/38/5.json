@@ -1,0 +1,17 @@
+{
+    "header_text": "Volunteer Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're volunteering on a project when you feel overwhelmed and snap at another volunteer over a small mistake. You feel embarrassed and worried about your behavior and what others will think. You remind yourself that you can develop skills to be more... "
+        },
+        {
+            "type": "Entry",
+            "name": "volunteer_project--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

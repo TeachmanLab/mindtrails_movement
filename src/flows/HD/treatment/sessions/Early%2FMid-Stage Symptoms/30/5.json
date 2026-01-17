@@ -1,16 +1,29 @@
 {
-    "header_text": "Missing Wallet",
+    "header_text": "Delayed Projects",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Missing Wallet"
+            "Text": "If the projects take longer than they used to, then..."
         },
         {
-            "type": "Media",
-            "url": "./images/304.jpg"
+            "type": "Buttons",
+            "name": "delayed_projects--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "That is okay",
+                "The house will become a disaster"
+            ],
+            "column_count": 1,
+            "correct_value": "That is okay"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 1
+    "scenario_num": 0
 }

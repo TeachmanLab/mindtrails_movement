@@ -1,0 +1,16 @@
+{
+    "header_text": "Holiday Decorating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Holiday Decorating"
+        },
+        {
+            "type": "Media",
+            "url": "./images/241.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

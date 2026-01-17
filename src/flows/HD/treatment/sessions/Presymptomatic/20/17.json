@@ -1,16 +1,39 @@
 {
-    "header_text": "Financial Planning",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are meeting with your financial advisor to talk about the future of your finances with HD. You become easily aggravated during the conversation, but you are unsure why. You reflect on the hard work of your advisor as you give... "
+            "Text": "After putting up your tent at your own pace, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "setting_up_camp--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Self-conscious",
+                "Giddy"
+            ],
+            "column_count": 1,
+            "correct_value": "Giddy"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Sensational Party",
+    "header_text": "Riding a boat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sensational Party"
+            "text": "Riding a boat"
         },
         {
             "type": "Media",
-            "url": "./images/465.jpg"
+            "url": "./images/466.jpg"
         }
     ],
     "type": "positive",

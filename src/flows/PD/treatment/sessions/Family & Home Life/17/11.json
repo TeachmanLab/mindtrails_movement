@@ -1,16 +1,16 @@
 {
-    "header_text": "Cleaning the House",
+    "header_text": "Providing for Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cleaning the House"
+            "text": "Providing for Family"
         },
         {
             "type": "Media",
-            "url": "./images/227.jpg"
+            "url": "./images/191.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

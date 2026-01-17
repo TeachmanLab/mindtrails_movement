@@ -1,16 +1,17 @@
 {
-    "header_text": "Social Situations",
+    "header_text": "At the Playground ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Social Situations"
+            "text": "You are a parent with young children, and you have just been diagnosed with HD. Lately, you've noticed some difficulty keeping up with your children at the playground. You worry that the impact on your children’s lives will be..."
         },
         {
-            "type": "Media",
-            "url": "./images/885.jpg"
+            "type": "Entry",
+            "name": "at_the_playground_--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

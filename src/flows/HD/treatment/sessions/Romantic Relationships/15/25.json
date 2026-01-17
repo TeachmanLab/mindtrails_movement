@@ -1,22 +1,22 @@
 {
-    "header_text": "Introducing Your Spouse to New Friends",
+    "header_text": "Ghosting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You invited your spouse to meet your friends from work tonight. You know that they can often tell embarrassing stories about you to other people. You think about what they're going to do tonight, and feel..."
+            "text": "You’ve been talking to someone from a dating app. About a week ago, they stopped texting you, and you haven’t heard anything since. You enjoyed the conversation, but you are moving on... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Introducing Your Spouse to New Friends_Romantic Relationships_puzzle1",
+            "name": "ghosting_--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "well"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

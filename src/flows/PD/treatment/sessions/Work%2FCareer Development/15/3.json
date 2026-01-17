@@ -1,25 +1,25 @@
 {
-    "header_text": "Changing Your Trajectory",
+    "header_text": "Managing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been in the same position at work for five years, and you are beginning to feel bored and unchallenged. You would like to apply to a new position. You worry about whether you will be a competitive... "
+            "text": "You have started to volunteer at a local organization and have had a difficult time managing it with work. One of the volunteer leaders asked if you would be willing to help her out with a project outside of your usual responsibilities,and you are worried if she will be disappointed if you say no. After thinking on it, you tell her that you can't help out with this project because of work, but are willing to help out on the next..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Changing Your Trajectory_Work/Career Development_puzzle1",
+            "name": "managing_responsibilities--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "candidate"
+                "one"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

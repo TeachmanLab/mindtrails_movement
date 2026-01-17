@@ -1,16 +1,12 @@
 {
-    "header_text": "Taking Supplements ",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Taking Supplements "
-        },
-        {
-            "type": "Media",
-            "url": "./images/800.jpg"
+            "text": "To help you get started, let's return to the example of emailing a friend to get coffee and wondering why they didn't respond. Below are some reasons why you might feel relieved in this situation:\n\nThis friend has told me that they like hanging out with me, so they probably wouldn't ignore me on purpose.\n\nI didn't get into an argument with this person recently, so it's unlikely that they are mad at me.\n\nA lot of times people send emails to me that I forget to respond to, and it doesn't mean that I am mad at them.\n\nMy friend could be busy and hasn't read my message yet.\n\nIf my friend was mad at me, they probably would say something rather than just ignore me. In the past, they have always told me if they were upset."
         }
-    ],
-    "type": "negative",
-    "scenario_num": 2
+    ]
 }

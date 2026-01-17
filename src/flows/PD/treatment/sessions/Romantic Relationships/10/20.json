@@ -7,7 +7,8 @@
             "text": "Your best friend has just gotten into a new relationship. You feel jealous of their new partner because you aren’t getting to spend as much time with your friend as usual. Reflecting on the situation, you realize that they can be in a relationship and still be a great... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "jealousy--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

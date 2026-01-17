@@ -1,0 +1,16 @@
+{
+    "header_text": "Work Gala",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Work Gala"
+        },
+        {
+            "type": "Media",
+            "url": "./images/578.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

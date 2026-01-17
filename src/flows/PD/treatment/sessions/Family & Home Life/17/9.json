@@ -1,22 +1,22 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "At the Playground ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You mention this to you partner, who admits that they added new clothes to the wash load without telling you. You realize that this was not your fault and laugh as you reflect on the..."
+            "text": "You reassure yourself that your grandchildren are loved, and you will find other ways to foster connection. Ultimately, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Stained Laundry_Family & Home Life_puzzle_word2",
+            "name": "at_the_playground_--family_&_home_life--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "mix-up"
+                "optimistic"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

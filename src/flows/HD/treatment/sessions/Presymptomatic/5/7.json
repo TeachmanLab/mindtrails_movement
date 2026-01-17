@@ -1,25 +1,25 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "Lost Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You love to go hiking, but since being diagnosed with HD, you've felt uneasy about going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is..."
+            "text": "Luckily, a store employee finds your wallet and returns it. This is a good reminder that asking for help when needed can make things..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Hiking Hiatus_Presymptomatic_puzzle1",
+            "name": "lost_wallet--presymptomatic--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "good"
+                "easier"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

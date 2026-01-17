@@ -1,0 +1,16 @@
+{
+    "header_text": "Driving with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Driving with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/423.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 3
+}

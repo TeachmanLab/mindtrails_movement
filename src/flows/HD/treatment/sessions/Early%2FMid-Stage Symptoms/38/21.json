@@ -1,0 +1,17 @@
+{
+    "header_text": "Finding Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to reach out to an HD support group to help find better ways to deal with the anxiety. You think the people you reach out to will... "
+        },
+        {
+            "type": "Entry",
+            "name": "finding_support--early_mid-stage_symptoms--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

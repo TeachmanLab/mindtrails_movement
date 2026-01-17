@@ -1,16 +1,16 @@
 {
-    "header_text": "Health evaluation",
+    "header_text": "Appointment with the doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Health evaluation"
+            "text": "Appointment with the doctor"
         },
         {
             "type": "Media",
-            "url": "./images/438.jpg"
+            "url": "./images/433.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

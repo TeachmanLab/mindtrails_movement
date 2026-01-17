@@ -1,16 +1,17 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Putting Yourself Out There",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reviewing Your Work "
+            "text": "You feel as though you and your significant other are drifting apart. You decide to plan a dinner date with them and spend some quality time just the two of you. You feel as though you're starting all of the conversations at dinner, and your partner seems... "
         },
         {
-            "type": "Media",
-            "url": "./images/91.jpg"
+            "type": "Entry",
+            "name": "putting_yourself_out_there--mental_health--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

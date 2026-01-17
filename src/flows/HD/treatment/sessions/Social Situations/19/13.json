@@ -1,16 +1,16 @@
 {
-    "header_text": "Taking Yourself to a Movie",
+    "header_text": "Recovering From a Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Taking Yourself to a Movie"
+            "text": "Recovering From a Mistake"
         },
         {
             "type": "Media",
-            "url": "./images/689.jpg"
+            "url": "./images/108.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Lost your Belongings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lost your Belongings"
+        },
+        {
+            "type": "Media",
+            "url": "./images/834.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

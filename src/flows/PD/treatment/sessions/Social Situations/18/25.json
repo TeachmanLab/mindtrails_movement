@@ -1,22 +1,22 @@
 {
-    "header_text": "Not Having Much to Say",
+    "header_text": "Corner Laughter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While listening to your friends, you remember that your friend was quiet the other day. You decide that not always sharing is..."
+            "text": "After a moment, you remember situations where you and your coworkers have laughed about things unrelated to who is speaking. You move on from their laughter and complete your presentation..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Not Having Much to Say_Social Situations_puzzle_word2",
+            "name": "corner_laughter--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "normal"
+                "successfully"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

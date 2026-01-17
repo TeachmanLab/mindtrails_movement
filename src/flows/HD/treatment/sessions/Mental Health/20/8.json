@@ -1,16 +1,29 @@
 {
-    "header_text": "Trouble Making Friends",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been living in a new city for a few months and have been having some trouble making new friends. You have also been very busy since your move. As a result, your anxiety has gotten a lot worse since you moved to your new... "
+            "Text": "Are you worried about what your coworker thinks of your presentation?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "sharing_with_someone_new--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 1
 }

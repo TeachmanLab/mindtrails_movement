@@ -1,22 +1,22 @@
 {
-    "header_text": "Voicing Your Feelings",
+    "header_text": "For the First Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner takes you out to dinner. They mention something that upsets you, but you worry about confronting them in public. Ultimately, you decide to tell them what they said upset you, and they apologize..."
+            "text": "You have been asked out on a date for the first time in a while! You feel nervous about this somewhat new experience, and you worry you might do something embarrassing. When you think about the date, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Voicing Your Feelings_Romantic Relationships_puzzle1",
+            "name": "for_the_first_time--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "genuinely"
+                "excited"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

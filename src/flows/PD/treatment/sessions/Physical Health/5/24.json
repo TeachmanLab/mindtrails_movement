@@ -1,25 +1,29 @@
 {
-    "header_text": "Spider bite",
+    "header_text": "Checks at the dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While hiking, you get bitten by a spider. Your friend assures you that the spider was not venomous and that you will be fine. You worry that it could have been a deadly spider, but you continue your hike because your worries are... "
+            "Text": "Do you think you have gum disease?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Spider bite_Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "checks_at_the_dentist--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "manageable"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
     "scenario_num": 6
 }

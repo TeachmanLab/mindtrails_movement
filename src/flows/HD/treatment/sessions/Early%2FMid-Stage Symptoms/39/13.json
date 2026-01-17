@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner Party Conversation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dinner Party Conversation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/737.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 5
+}

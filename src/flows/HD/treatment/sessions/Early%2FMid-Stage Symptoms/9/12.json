@@ -7,7 +7,8 @@
             "text": "Lately, you've been a bit clumsy. Yesterday, you even dropped your phone on the ground as you were talking. Today, when your phone rings in public, you avoid answering because you worry about feeling..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "holding_the_phone--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

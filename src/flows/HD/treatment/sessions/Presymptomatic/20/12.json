@@ -1,16 +1,16 @@
 {
-    "header_text": "Finding Your Wallet",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After coming home from running errands, you can't find your wallet. Recently, you have struggled to control your emotions and become angry at the thought of someone stealing it. Later, you find the wallet in the car and feel..."
+            "text": "Online Shopping"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/222.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

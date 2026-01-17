@@ -1,14 +1,14 @@
 {
-    "header_text": "Using Different Technology",
+    "header_text": "Not Getting a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you feel capable of completing the work for this project?"
+            "Text": "Will you continue to be anxious about this knowing it is not the case?"
         },
         {
             "type": "Buttons",
-            "name": "Using Different Technology_Mental Health_comp_question",
+            "name": "not_getting_a_response--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "No"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

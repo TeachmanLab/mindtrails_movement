@@ -1,14 +1,14 @@
 {
-    "header_text": "A sip of water",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A sip of water"
+            "text": "Changing Your Trajectory"
         },
         {
             "type": "Media",
-            "url": "./images/113.jpg"
+            "url": "./images/94.jpg"
         }
     ],
     "type": "positive",

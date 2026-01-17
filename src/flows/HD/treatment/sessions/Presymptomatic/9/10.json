@@ -1,14 +1,14 @@
 {
-    "header_text": "Clapping at Concert",
+    "header_text": "Overwhelming Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Clapping at Concert"
+            "text": "Overwhelming Waiting Room"
         },
         {
             "type": "Media",
-            "url": "./images/810.jpg"
+            "url": "./images/922.jpg"
         }
     ],
     "type": "positive",

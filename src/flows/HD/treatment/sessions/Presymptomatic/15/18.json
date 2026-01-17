@@ -1,16 +1,16 @@
 {
-    "header_text": "Dinner Party Conversation",
+    "header_text": "Travel Dreams",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dinner Party Conversation"
+            "text": "Travel Dreams"
         },
         {
             "type": "Media",
-            "url": "./images/737.jpg"
+            "url": "./images/782.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

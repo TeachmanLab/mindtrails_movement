@@ -1,16 +1,16 @@
 {
-    "header_text": "Unsteadiness in the Park",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Unsteadiness in the Park"
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/915.jpg"
+            "name": "Reason5_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "negative",
-    "scenario_num": 4
+    ]
 }

@@ -1,30 +1,30 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Long-Distance Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Being home alone with a cell phone makes you more..."
+            "Text": "You can see your spouse saying..."
         },
         {
             "type": "Buttons",
-            "name": "At Home Alone_Romantic Relationships_comp_question",
+            "name": "long-distance_relationship--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Relaxed",
-                "Fearful"
+                "\"I don't think this is working out\"",
+                "\"I'm so glad we are able to do this together\""
             ],
             "column_count": 1,
-            "correct_value": "Relaxed"
+            "correct_value": "\"I don't think this is working out\""
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4,
     "information": {
         "elements": [

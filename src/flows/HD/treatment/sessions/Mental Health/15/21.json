@@ -1,14 +1,14 @@
 {
-    "header_text": "Trying Out a Funny Caption",
+    "header_text": "Blood test results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trying Out a Funny Caption"
+            "text": "Blood test results"
         },
         {
             "type": "Media",
-            "url": "./images/391.jpg"
+            "url": "./images/366.jpg"
         }
     ],
     "type": "positive",

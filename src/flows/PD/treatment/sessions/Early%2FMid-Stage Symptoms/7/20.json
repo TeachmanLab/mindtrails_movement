@@ -1,29 +1,16 @@
 {
-    "header_text": "Night of Bad Sleep",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After deciding to prioritize rest, you feel... "
+            "text": "Creating Art "
         },
         {
-            "type": "Buttons",
-            "name": "Night of Bad Sleep_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Better",
-                "Worse"
-            ],
-            "column_count": 1,
-            "correct_value": "Better"
+            "type": "Media",
+            "url": "./images/768.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 6
 }

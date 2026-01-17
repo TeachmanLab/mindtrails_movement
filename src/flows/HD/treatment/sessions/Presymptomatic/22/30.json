@@ -1,0 +1,16 @@
+{
+    "header_text": "New Neighborhood",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Neighborhood"
+        },
+        {
+            "type": "Media",
+            "url": "./images/846.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

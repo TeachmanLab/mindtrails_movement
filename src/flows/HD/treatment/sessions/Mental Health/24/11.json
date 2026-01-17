@@ -1,0 +1,16 @@
+{
+    "header_text": "Journaling Shift",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Journaling Shift"
+        },
+        {
+            "type": "Media",
+            "url": "./images/409.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

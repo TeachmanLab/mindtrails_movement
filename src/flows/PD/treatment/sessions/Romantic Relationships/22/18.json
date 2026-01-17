@@ -1,0 +1,25 @@
+{
+    "header_text": "Formal Event",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Today you are going to a formal event with your spouse. Normally you enjoy getting ready and socializing with others, but today you are feeling very down thinking how your PD might progress. You want to stay home but decide to go because you think it will help you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "formal_event--romantic_relationships--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

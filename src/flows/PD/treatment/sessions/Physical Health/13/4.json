@@ -1,16 +1,12 @@
 {
-    "header_text": "Computer Screen Problems",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Computer Screen Problems"
-        },
-        {
-            "type": "Media",
-            "url": "./images/504.jpg"
+            "text": "Not sure what to write? Here's an example:\n\nPart 1:\nI send an email message to a friend asking them to grab coffee, but they never respond. I wonder if they are mad at me.\n\nPart 2:\nThinking back on the last time I got together with this friend, I remember they don't check email often and I feel ... relieved.\n\nNotice that the statement, \"I wonder if they are mad at me\" creates uncertainty, but the final sentence resolves this in a non-threatening way.\n\nNow it's your turn to try it out!"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 1
+    ]
 }

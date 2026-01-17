@@ -1,0 +1,17 @@
+{
+    "header_text": "Missing Wallet",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You reach into the other pocket and think to yourself how easy it is to misplace items. Being compassionate to yourself despite the memory lapse feels..."
+        },
+        {
+            "type": "Entry",
+            "name": "missing_wallet--early_mid-stage_symptoms--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

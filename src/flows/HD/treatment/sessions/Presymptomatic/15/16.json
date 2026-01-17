@@ -1,25 +1,25 @@
 {
-    "header_text": "Beach Reflection",
+    "header_text": "Sleep Disruption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a trip to the beach with a close friend. As you walk along the shore, your mind gets stuck on thoughts of the future. You wonder if your HD symptoms might make walks in the sand more difficult. You stop walking and look out at the horizon, noticing the sunset and feeling..."
+            "text": "You are having sleep disturbances, and this causes you to wake up frequently during the night. Each time you wake up, your partner wakes up as well. As a result of these disruptions, your partner ends up being late for work because they're..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Beach Reflection_Presymptomatic_puzzle1",
+            "name": "sleep_disruption--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "awe"
+                "fatigued"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

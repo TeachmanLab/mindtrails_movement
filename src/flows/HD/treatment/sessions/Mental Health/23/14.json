@@ -1,0 +1,17 @@
+{
+    "header_text": "Working to Get Ahead",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you envision your likely position in the company down the road, you do not see yourself getting passed by. You are hopeful that you'll land your dream..."
+        },
+        {
+            "type": "Entry",
+            "name": "working_to_get_ahead--mental_health--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

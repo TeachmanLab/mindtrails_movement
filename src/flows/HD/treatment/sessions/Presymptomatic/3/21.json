@@ -1,25 +1,25 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Word Trouble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is... "
+            "text": "Normally, you can say what's on your mind easily. Lately, you've begun to struggle because it takes more effort to get your words out. You start wondering if this problem will get worse, leaving you feeling..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Invitation to Dinner_Presymptomatic_puzzle1",
+            "name": "word_trouble--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "breathe"
+                "worried"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

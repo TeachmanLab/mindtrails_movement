@@ -1,25 +1,25 @@
 {
-    "header_text": "Spilling Soup",
+    "header_text": "Fun With Film",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You go to the bathroom to try to get the mess off of your pants. As you realize the stain is coming off easily, you feel..."
+            "text": "You have always loved taking film photos of nature, especially birds. Lately, you've been feeling that you can't track birds as well as you used to due to issues with vision. You decide that you can photograph plants or trees instead of birds and realizing this makes you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Spilling Soup_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "fun_with_film--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "thrilled"
+                "happy"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

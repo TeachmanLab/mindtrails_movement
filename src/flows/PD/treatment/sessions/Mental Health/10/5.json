@@ -1,16 +1,16 @@
 {
-    "header_text": "Evolving Relationship",
+    "header_text": "Managing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Evolving Relationship"
+            "text": "Managing Responsibilities"
         },
         {
             "type": "Media",
-            "url": "./images/157.jpg"
+            "url": "./images/84.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

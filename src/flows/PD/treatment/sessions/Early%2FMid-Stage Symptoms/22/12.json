@@ -1,16 +1,25 @@
 {
-    "header_text": "Off Balance",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance and you think about your ability to get ready in the future. The progression of your PD makes you feel..."
+            "text": "While reading at home, you notice you are having trouble focusing on the words and remembering the information. This causes you to feel concerned and makes it even harder to read. You and your doctor make a plan to help you with this, and you feel..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "trouble_reading--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

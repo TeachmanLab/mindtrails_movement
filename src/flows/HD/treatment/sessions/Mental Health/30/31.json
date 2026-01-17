@@ -1,0 +1,16 @@
+{
+    "header_text": "Vacation Abroad",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vacation Abroad"
+        },
+        {
+            "type": "Media",
+            "url": "./images/428.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,25 +1,16 @@
 {
-    "header_text": "Long Distance Walk",
+    "header_text": "Catching Your Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a walk with a group of friends and everyone you're with wants to go along a 5 mile path. As you walk the trail, you see that there is still a long time to go. You think that this walk will be..."
+            "text": "Catching Your Breath"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Long Distance Walk_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tiring"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/470.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

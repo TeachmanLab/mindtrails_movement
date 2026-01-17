@@ -7,7 +7,8 @@
             "text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "social_media_comments--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

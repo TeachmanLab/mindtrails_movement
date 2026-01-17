@@ -7,7 +7,8 @@
             "text": "A play you bought tickets for a while ago is finally approaching. However, the actors got food poisoning, and the play may be cancelled last minute. You accept this fact and know the director will reschedule if they need..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "play_cancellation--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

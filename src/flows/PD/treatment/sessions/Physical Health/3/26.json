@@ -1,16 +1,16 @@
 {
-    "header_text": "Carnival ride",
+    "header_text": "Walking Trail",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Carnival ride"
+            "text": "Walking Trail"
         },
         {
             "type": "Media",
-            "url": "./images/448.jpg"
+            "url": "./images/449.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

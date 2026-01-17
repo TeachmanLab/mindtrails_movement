@@ -1,16 +1,29 @@
 {
-    "header_text": "Unmasked Peers",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be... "
+            "Text": "Are you happy to have your supervisor come to your school event? "
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "an_invitation--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

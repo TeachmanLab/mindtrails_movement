@@ -1,29 +1,25 @@
 {
-    "header_text": "Eye Twitch",
+    "header_text": "Dinner Party Confusion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The twitch in your eye is a sign of..."
+            "text": "You explain that this happens when you try to talk to too many people at once. Your friends understand, and you all end up..."
         },
         {
-            "type": "Buttons",
-            "name": "Eye Twitch_Presymptomatic_comp_question",
+            "type": "WordPuzzle",
+            "name": "dinner_party_confusion--presymptomatic--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Exhaustion",
-                "HD"
+            "display_delay": 2000,
+            "words": [
+                "laughing"
             ],
-            "column_count": 1,
-            "correct_value": "Exhaustion"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

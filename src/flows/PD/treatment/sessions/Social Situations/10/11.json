@@ -1,16 +1,17 @@
 {
-    "header_text": "Friend's Get Together",
+    "header_text": "An Acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize you told your friends you had a lot of other things you needed to do tonight. This makes you feel..."
+            "text": "You run into someone you don't know well on the street who you look up to. You ask them how they are doing, and they continue to keep walking. This acquaintance probably thinks you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "an_acquaintance--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

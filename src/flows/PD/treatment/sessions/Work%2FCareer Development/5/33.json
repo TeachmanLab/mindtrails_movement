@@ -1,10 +1,39 @@
 {
-    "header_text": "Manage Your Feelings: Work/Career Development",
+    "header_text": "Others' Opinions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you feel stuck, pick one small step you feel you can do and start with that."
+            "Text": "Is your friend disappointed that you did not get the promotion?"
+        },
+        {
+            "type": "Buttons",
+            "name": "others'_opinions--work_career_development--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

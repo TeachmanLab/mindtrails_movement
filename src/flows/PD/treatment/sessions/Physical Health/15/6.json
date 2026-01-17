@@ -1,22 +1,22 @@
 {
-    "header_text": "Noisy Neighbors",
+    "header_text": "Out of Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your neighbors were really loud last night so you couldn't sleep. You have a huge presentation to give to your coworkers this morning on a complicated topic. As you think about how you'll do in the presentation, you feel..."
+            "text": "On a walk over the weekend, you noticed you were getting out of breath faster than usual. You remember that the flu causes shortness of breath, and you start to panic. Luckily, you know you've had your flu shot and have done everything you could to prevent the..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Noisy Neighbors_Physical Health_puzzle1",
+            "name": "out_of_breath--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "prepared"
+                "flu"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

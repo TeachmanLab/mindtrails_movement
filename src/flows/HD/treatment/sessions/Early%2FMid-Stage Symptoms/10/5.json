@@ -1,14 +1,14 @@
 {
-    "header_text": "Beach Vacation",
+    "header_text": "Birthday Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Beach Vacation"
+            "text": "Birthday Cards"
         },
         {
             "type": "Media",
-            "url": "./images/206.jpg"
+            "url": "./images/779.jpg"
         }
     ],
     "type": "positive",

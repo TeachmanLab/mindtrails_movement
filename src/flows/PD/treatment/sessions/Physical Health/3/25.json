@@ -1,23 +1,23 @@
 {
-    "header_text": "A birthday cake",
+    "header_text": "Carnival ride",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If you eat the cake, you will probably..."
+            "Text": "Do you find it fun to feel dizzy after carnival rides?"
         },
         {
             "type": "Buttons",
-            "name": "A birthday cake_Physical Health_comp_question",
+            "name": "carnival_ride--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Not get sick",
-                "Get sick"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Not get sick"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

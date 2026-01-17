@@ -1,16 +1,16 @@
 {
-    "header_text": "Airport Mix-Up",
+    "header_text": "Hosting Book Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Airport Mix-Up"
+            "text": "Hosting Book Club"
         },
         {
             "type": "Media",
-            "url": "./images/940.jpg"
+            "url": "./images/860.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 7
 }

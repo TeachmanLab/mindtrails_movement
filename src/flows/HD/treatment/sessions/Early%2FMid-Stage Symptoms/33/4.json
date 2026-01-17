@@ -1,14 +1,14 @@
 {
-    "header_text": "Park Walk",
+    "header_text": "Yoga Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Park Walk"
+            "text": "Yoga Routine"
         },
         {
             "type": "Media",
-            "url": "./images/424.jpg"
+            "url": "./images/415.jpg"
         }
     ],
     "type": "positive",

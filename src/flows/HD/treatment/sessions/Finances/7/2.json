@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "New T-Shirt_Finances_puzzle1",
+            "name": "new_t-shirt--finances--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

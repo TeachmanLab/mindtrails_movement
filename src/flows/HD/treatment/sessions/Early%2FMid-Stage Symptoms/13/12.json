@@ -1,25 +1,16 @@
 {
-    "header_text": "Gardening Help",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You remember that your sibling has always wanted to have their own garden, and you decide to invite them to help you with yours. This leaves you feeling..."
+            "text": "Reason 4:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Gardening Help_Early/Mid-Stage Symptoms_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "optimistic"
-            ],
-            "missing_letter_count": 1
+            "name": "Reason4_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    ]
 }

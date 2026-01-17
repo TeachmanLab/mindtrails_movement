@@ -1,25 +1,25 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have applied for a job that you have been hoping to get. You hope to get an interview for the job, but you know it is very competitive. With your qualifications, you expect to get no..."
+            "text": "You have just been given a job in an office that you really like. To get the promotion you want, you know that you will have to work very hard for several years. As you envision your position in the company down the road, you think the job you want will be filled by..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Getting an Opportunity_Work/Career Development_puzzle1",
+            "name": "working_to_get_ahead--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "response"
+                "you"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

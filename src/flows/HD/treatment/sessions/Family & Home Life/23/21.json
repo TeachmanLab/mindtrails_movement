@@ -1,0 +1,17 @@
+{
+    "header_text": "Video Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a big family, and you're on a video call with family members who live in different states. You find it difficult to concentrate on the discussion and start to worry that your family will think you're uninterested. After the call, your cousin texts you to say that talking with you was a..."
+        },
+        {
+            "type": "Entry",
+            "name": "video_call--family_&_home_life--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Playing Music",
+    "header_text": "Meditation Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing Music"
+            "text": "Meditation Journey"
         },
         {
             "type": "Media",
-            "url": "./images/416.jpg"
+            "url": "./images/401.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 3
 }

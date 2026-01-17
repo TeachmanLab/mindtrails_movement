@@ -8,13 +8,13 @@
             "html": true
         },
         {
+            "name": "mds_updrs_1",
             "type": "Buttons",
             "buttons": [
                 "0::Patient",
                 "1::Caregiver",
                 "2::Patient and Caregiver in Equal Proportion"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

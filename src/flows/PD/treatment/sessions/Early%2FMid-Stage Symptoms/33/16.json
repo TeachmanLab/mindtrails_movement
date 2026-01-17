@@ -1,16 +1,29 @@
 {
-    "header_text": "Research Study",
+    "header_text": "Trip Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For the first time, you're taking part in a research study about PD. When someone tells you that you've been picked as a participant, you don't know what to expect. As you think about it more, you begin to feel..."
+            "Text": "Thinking about the trip is..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "trip_planning--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Thrilling",
+                "Overwhelming"
+            ],
+            "column_count": 1,
+            "correct_value": "Thrilling"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

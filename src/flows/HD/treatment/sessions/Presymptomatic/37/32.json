@@ -1,0 +1,29 @@
+{
+    "header_text": "Biting Fingernails",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Noticing your fingernails reminds you that... "
+        },
+        {
+            "type": "Buttons",
+            "name": "biting_fingernails--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Your only outlet is biting your fingernails",
+                "You can find better ways to deal with anxiety"
+            ],
+            "column_count": 1,
+            "correct_value": "You can find better ways to deal with anxiety"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

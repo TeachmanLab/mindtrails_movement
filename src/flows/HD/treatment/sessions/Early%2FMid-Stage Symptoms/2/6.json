@@ -1,25 +1,29 @@
 {
-    "header_text": "The Movies Solo",
+    "header_text": "Feeling Unsteady",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a crowded movie theater alone and enjoying your movie despite experiencing some chorea. You notice people staring at you while you watch the movie. This makes you feel self-conscious, and not being able to explain yourself makes you feel..."
+            "Text": "Your family will..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "The Movies Solo_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "feeling_unsteady--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "frustrated"
+            "buttons": [
+                "Be annoyed",
+                "Forgive you"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Forgive you"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 1
 }

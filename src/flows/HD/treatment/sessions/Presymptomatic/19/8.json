@@ -1,16 +1,16 @@
 {
-    "header_text": "Downsizing",
+    "header_text": "Smoothie Order",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Downsizing"
+            "text": "Smoothie Order"
         },
         {
             "type": "Media",
-            "url": "./images/861.jpg"
+            "url": "./images/835.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 2
 }

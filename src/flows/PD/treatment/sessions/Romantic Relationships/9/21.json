@@ -7,7 +7,8 @@
             "text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. Once the wedding is over, you think you and your spouse will feel less..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "stress_in_your_relationship--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

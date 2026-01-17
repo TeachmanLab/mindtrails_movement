@@ -1,16 +1,29 @@
 {
-    "header_text": "Giving Up Favorite Hobby",
+    "header_text": "Bills Due",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're passionate about your favorite hobby but you've begun to notice a decline in your ability to focus on intricate details. Your half-finished project has been sitting out in the garage for months now. You decide that you can't continue your hobby anymore and you feel..."
+            "Text": "Will your lack of focus cause you to be late on paying your bills?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "bills_due--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

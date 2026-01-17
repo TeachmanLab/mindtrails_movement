@@ -1,23 +1,23 @@
 {
-    "header_text": "Trouble Reading",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making a plan with your doctor makes you feel more..."
+            "Text": "Your neighbor is asking if you are okay because..."
         },
         {
             "type": "Buttons",
-            "name": "Trouble Reading_Early/Mid-Stage Symptoms_comp_question",
+            "name": "neighbor_chat--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Confident",
-                "Concerned"
+                "They care about you",
+                "They are offended"
             ],
             "column_count": 1,
-            "correct_value": "Confident"
+            "correct_value": "They care about you"
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,29 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Dinner Party Confusion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a situation that you face regluarly that causes some anxiety. What do you usually tell yourself? Is there another thought that you could say to yourself that may make it less anxiety-provoking? "
+            "Text": "Do you and your friends laugh off your confusion?"
         },
         {
-            "type": "Entry",
-            "name": "Tip #12_entry"
+            "type": "Buttons",
+            "name": "dinner_party_confusion--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

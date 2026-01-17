@@ -1,0 +1,16 @@
+{
+    "header_text": "Falling Behind at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Falling Behind at Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/110.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

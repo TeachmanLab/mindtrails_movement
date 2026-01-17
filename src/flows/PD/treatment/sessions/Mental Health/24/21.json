@@ -1,0 +1,17 @@
+{
+    "header_text": "Achieving Your Goals",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You feel that you are a good candidate. You believe your chances of getting this new job are..."
+        },
+        {
+            "type": "Entry",
+            "name": "achieving_your_goals--mental_health--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

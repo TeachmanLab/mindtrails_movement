@@ -7,13 +7,13 @@
             "text": "If you take medication for your PD, are you currently \"on\", \"wearing off\", or \"off\"?"
         },
         {
+            "name": "wearingoff_status",
             "type": "Buttons",
             "buttons": [
                 "1::On",
                 "0::Wearing off or off (i.e., you are due or overdue for another dose)",
                 "99::Not applicable/do not take PD medication that wears off"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

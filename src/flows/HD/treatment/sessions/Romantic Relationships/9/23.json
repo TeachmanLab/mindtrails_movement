@@ -7,7 +7,8 @@
             "text": "Your friends have set you up on a date, and you're getting ready. The closer you get to leaving, the more you wonder if you look okay and if the person you're meeting will be attracted to you. You remember that one person will not dictate your... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "getting_ready_for_a_date--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

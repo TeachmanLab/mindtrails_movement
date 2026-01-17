@@ -1,14 +1,14 @@
 {
-    "header_text": "Having a New Friend Over",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Having a New Friend Over"
+            "text": "Sweat Stains"
         },
         {
             "type": "Media",
-            "url": "./images/387.jpg"
+            "url": "./images/483.jpg"
         }
     ],
     "type": "positive",

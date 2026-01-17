@@ -1,16 +1,25 @@
 {
-    "header_text": "Dedicated Teacher",
+    "header_text": "Juice Bar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dedicated Teacher"
+            "text": "You go to your favorite juice bar downtown. While comparing prices between juices, you struggle to keep all the prices straight in your head. This reminds you of how your parent with HD used to struggle with numbers, and you start to feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/736.jpg"
+            "type": "WordPuzzle",
+            "name": "juice_bar--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "frustrated"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

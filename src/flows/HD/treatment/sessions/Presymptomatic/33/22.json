@@ -1,0 +1,25 @@
+{
+    "header_text": "Expecting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been a parent for a few years, and you have just found out that you're having another baby. After feeling excited at first, you think about the added responsibilities and worry about how your future symptoms might affect your children's upbringing. You think about all the love you and your first child have shared, and you realize that you really feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "expecting--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "hopeful"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

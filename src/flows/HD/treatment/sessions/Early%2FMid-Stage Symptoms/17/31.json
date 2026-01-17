@@ -1,22 +1,22 @@
 {
-    "header_text": "Organizing Closet",
+    "header_text": "Holiday Decorating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay..."
+            "text": "It's time to decorate for the holidays, and you invite your family over. You have trouble remembering where each decoration belongs. Your family steps up to help, and having them there for the holidays is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Organizing Closet_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "holiday_decorating--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "delightful"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

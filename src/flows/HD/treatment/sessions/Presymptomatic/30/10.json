@@ -1,0 +1,25 @@
+{
+    "header_text": "Work Deadline",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take short breaks and practice mindfulness techniques to regain focus. Due to this, you're able to complete the task..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "work_deadline--presymptomatic--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "successfully"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

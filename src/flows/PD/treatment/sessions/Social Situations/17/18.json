@@ -1,25 +1,25 @@
 {
-    "header_text": "Receiving Explicit Email Messages",
+    "header_text": "Meeting Rush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more..."
+            "text": "You sit down to calm yourself. You decide to focus on your breath and..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Receiving Explicit Email Messages_Social Situations_puzzle1",
+            "name": "meeting_rush--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relaxed"
+                "relax"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

@@ -1,13 +1,14 @@
 {
-    "header_text": "Online Payment",
+    "header_text": "Toy Store Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You sit down at your computer to pay a bill online. You can't remember the login for your account, and you start to panic that you are losing your memory. You look up and make eye contact with your partner across the room, and just having them there helps you feel... "
+            "text": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before your HD diagnosis. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "toy_store_trip--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

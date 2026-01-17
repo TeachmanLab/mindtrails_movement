@@ -1,16 +1,16 @@
 {
-    "header_text": "Support Group",
+    "header_text": "Hosting a Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Support Group"
+            "text": "Hosting a Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/427.jpg"
+            "url": "./images/231.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

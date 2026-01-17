@@ -1,0 +1,16 @@
+{
+    "header_text": "A Crucial Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Crucial Call"
+        },
+        {
+            "type": "Media",
+            "url": "./images/74.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Dedicated Teacher",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dedicated Teacher"
+        },
+        {
+            "type": "Media",
+            "url": "./images/736.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Caring for Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Caring for Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/745.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

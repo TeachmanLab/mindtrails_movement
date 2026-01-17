@@ -1,16 +1,17 @@
 {
-    "header_text": "Different Expectations",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You check online to see if you were selected for a raise. You see that you were not, although you expected to be. You think about what this will mean for your future, and know everything will be..."
+            "text": "After a minute, your internet comes back. You log back in and realize you feel more..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "out_of_your_control--work_career_development--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

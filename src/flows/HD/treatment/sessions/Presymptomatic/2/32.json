@@ -1,14 +1,14 @@
 {
-    "header_text": "Forgetting the Laundry",
+    "header_text": "Disagreement with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be able to do the laundry tomorrow?"
+            "Text": "Will your friendship be alright?"
         },
         {
             "type": "Buttons",
-            "name": "Forgetting the Laundry_Presymptomatic_comp_question",
+            "name": "disagreement_with_a_friend--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

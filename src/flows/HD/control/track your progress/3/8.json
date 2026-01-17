@@ -7,6 +7,7 @@
             "text": "At the grocery store, you see a recent acquaintance but are unable to remember her name. Why?\n\nIt is normal to forget the name of someone you have only met once."
         },
         {
+            "name": "mdib_1c_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

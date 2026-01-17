@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching up to Friends",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Catching up to Friends"
+            "text": "Trip to the Dentist"
         },
         {
             "type": "Media",
-            "url": "./images/478.jpg"
+            "url": "./images/369.jpg"
         }
     ],
     "type": "positive",

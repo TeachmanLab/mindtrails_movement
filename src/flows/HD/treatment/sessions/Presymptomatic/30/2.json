@@ -1,0 +1,16 @@
+{
+    "header_text": "Gym Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gym Costs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/523.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

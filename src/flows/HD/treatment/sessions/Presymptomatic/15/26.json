@@ -1,25 +1,29 @@
 {
-    "header_text": "Bills Due",
+    "header_text": "Talking about the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's the beginning of the month, and you are getting organized to pay your bills. You've had so much going on lately that it is difficult to get focused. As you work through the bills one at a time, you think the likelihood of getting them all paid on time is..."
+            "Text": "The next time your family is talking about a life event in the distant future, you will..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Bills Due_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "talking_about_the_future--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "high"
+            "buttons": [
+                "Avoid the conversation",
+                "Tell them how you're feeling"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Tell them how you're feeling"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 7
 }

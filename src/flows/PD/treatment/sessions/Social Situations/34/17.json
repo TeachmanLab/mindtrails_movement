@@ -1,0 +1,16 @@
+{
+    "header_text": "An unwashed table",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An unwashed table"
+        },
+        {
+            "type": "Media",
+            "url": "./images/463.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Excluded on Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Excluded on Social Media"
+        },
+        {
+            "type": "Media",
+            "url": "./images/398.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

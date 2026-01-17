@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding a Therapist",
+    "header_text": "New Friendship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Finding a Therapist"
+            "text": "New Friendship"
         },
         {
             "type": "Media",
-            "url": "./images/421.jpg"
+            "url": "./images/854.jpg"
         }
     ],
     "type": "positive",

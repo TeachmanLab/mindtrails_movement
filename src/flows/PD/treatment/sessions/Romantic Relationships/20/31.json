@@ -1,0 +1,16 @@
+{
+    "header_text": "Dating Again",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dating Again"
+        },
+        {
+            "type": "Media",
+            "url": "./images/959.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

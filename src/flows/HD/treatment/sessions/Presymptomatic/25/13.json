@@ -1,29 +1,17 @@
 {
-    "header_text": "Convenience Store",
+    "header_text": "Farmer's Market Sweets",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Has the cashier noticed that you're having trouble?"
+            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently, you have been craving sweets more than usual. You buy a small cookie, knowing it is sometimes okay to..."
         },
         {
-            "type": "Buttons",
-            "name": "Convenience Store_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "farmer's_market_sweets--presymptomatic--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

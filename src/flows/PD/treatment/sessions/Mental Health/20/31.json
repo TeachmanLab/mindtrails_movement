@@ -1,0 +1,16 @@
+{
+    "header_text": "One-on-one thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One-on-one thoughts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/41.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

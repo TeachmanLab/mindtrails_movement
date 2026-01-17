@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Romantic Relationships",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Try to imagine something from your partner's point of view."
+        }
+    ]
+}

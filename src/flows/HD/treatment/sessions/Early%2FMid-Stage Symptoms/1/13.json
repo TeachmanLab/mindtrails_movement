@@ -1,25 +1,29 @@
 {
-    "header_text": "Games with Friends",
+    "header_text": "Gardening Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After playing a couple more rounds, you speak to your friends. They tell you that regardless of your symptoms, time spent with you is..."
+            "Text": "In the future, your symptoms will cause your plants to..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Games with Friends_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "gardening_help--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "enjoyable"
+            "buttons": [
+                "Thrive",
+                "Die"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Thrive"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 3
 }

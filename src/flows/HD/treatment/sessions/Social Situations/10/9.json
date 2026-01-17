@@ -7,7 +7,8 @@
             "text": "You realize you told your friends you had a lot of other things you needed to do tonight. This makes you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "friend's_get_together--social_situations--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

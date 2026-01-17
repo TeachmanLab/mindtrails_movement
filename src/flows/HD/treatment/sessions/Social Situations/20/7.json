@@ -1,16 +1,29 @@
 {
-    "header_text": "Overwhelming Options",
+    "header_text": "Friend Neglecting Chores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to continue to draft the email and send it once you are happy with how it sounds. You look forward to people's..."
+            "Text": "Did calling them make you feel more at ease?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "friend_neglecting_chores--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 1
 }

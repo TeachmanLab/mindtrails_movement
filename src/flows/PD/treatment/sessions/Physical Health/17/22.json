@@ -1,29 +1,16 @@
 {
-    "header_text": "Health and aging",
+    "header_text": "Taking Precautions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend will probably ..."
+            "text": "Taking Precautions "
         },
         {
-            "type": "Buttons",
-            "name": "Health and aging_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Remain healthy in the future",
-                "Get sicker in the future"
-            ],
-            "column_count": 1,
-            "correct_value": "Get sicker in the future"
+            "type": "Media",
+            "url": "./images/510.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 7
 }

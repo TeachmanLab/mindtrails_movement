@@ -1,16 +1,29 @@
 {
-    "header_text": "Yoga Equipment",
+    "header_text": "Family Dinner Fight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your yoga instructor suggested you and your partner buy some new equipment. As you look around the store, you wonder about your future participation in yoga. You decide to buy the equipment and stay... "
+            "Text": "Your angry outburst caused your family to feel..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "family_dinner_fight--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Bored",
+                "Stunned"
+            ],
+            "column_count": 1,
+            "correct_value": "Stunned"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
     "scenario_num": 0
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Greeting Someone"
+            "text": "Busy cafe"
         },
         {
             "type": "Media",
-            "url": "./images/631.jpg"
+            "url": "./images/632.jpg"
         }
     ],
     "type": "positive",

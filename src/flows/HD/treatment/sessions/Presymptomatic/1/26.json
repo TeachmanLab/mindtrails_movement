@@ -1,29 +1,16 @@
 {
-    "header_text": "Forgotten Ingredients",
+    "header_text": "Juice Bar",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend would share the recipe again..."
+            "text": "Juice Bar"
         },
         {
-            "type": "Buttons",
-            "name": "Forgotten Ingredients_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Happily",
-                "Reluctantly"
-            ],
-            "column_count": 1,
-            "correct_value": "Happily"
+            "type": "Media",
+            "url": "./images/944.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

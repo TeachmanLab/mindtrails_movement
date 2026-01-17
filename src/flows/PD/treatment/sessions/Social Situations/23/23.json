@@ -1,16 +1,17 @@
 {
-    "header_text": "Party with Friends",
+    "header_text": "New City New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Party with Friends"
+            "text": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on, and you miss your close friends from your old city. You decide to spend more time with the people you have met so that you can become closer..."
         },
         {
-            "type": "Media",
-            "url": "./images/379.jpg"
+            "type": "Entry",
+            "name": "new_city_new_friends--social_situations--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 9
 }

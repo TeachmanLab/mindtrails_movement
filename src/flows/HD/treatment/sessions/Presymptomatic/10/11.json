@@ -1,16 +1,16 @@
 {
-    "header_text": "Brother Getting Tested",
+    "header_text": "Fear of Sharing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your brother has not been tested for HD. He tells you that he thinks he has been experiencing some symptoms lately, and he decides to undergo genetic testing. As you think about what the results could mean for your brother, you feel..."
+            "text": "Fear of Sharing"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/925.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

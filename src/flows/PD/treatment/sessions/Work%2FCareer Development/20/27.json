@@ -1,0 +1,16 @@
+{
+    "header_text": "Honest Feedback",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Honest Feedback"
+        },
+        {
+            "type": "Media",
+            "url": "./images/119.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

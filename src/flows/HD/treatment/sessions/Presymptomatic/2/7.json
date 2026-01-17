@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Taking Time Off"
+            "Text": "After asking for time off..."
         },
         {
-            "type": "Media",
-            "url": "./images/517.jpg"
+            "type": "Buttons",
+            "name": "taking_time_off--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You feel more at ease",
+                "You are fearful"
+            ],
+            "column_count": 1,
+            "correct_value": "You feel more at ease"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 1
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Familiar Recipe",
+    "header_text": "Caring for Children",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Familiar Recipe"
+            "text": "Caring for Children"
         },
         {
             "type": "Media",
-            "url": "./images/220.jpg"
+            "url": "./images/892.jpg"
         }
     ],
     "type": "positive",

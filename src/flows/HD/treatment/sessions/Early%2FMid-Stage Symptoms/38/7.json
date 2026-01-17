@@ -1,0 +1,17 @@
+{
+    "header_text": "Organizing Desk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're organizing your desk when you find yourself repeatedly rearranging the same set of papers. You cannot move on to other tasks, causing you to feel frustrated. Finally, you decide to step away for a moment, knowing you will return more efficient and... "
+        },
+        {
+            "type": "Entry",
+            "name": "organizing_desk--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

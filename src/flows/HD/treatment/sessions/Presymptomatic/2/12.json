@@ -1,20 +1,20 @@
 {
-    "header_text": "Weekly Game Night",
+    "header_text": "Memory Training",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel..."
+            "text": "You've been struggling with your memory lately, so you've started learning a new technique for remembering lists of items. Training your brain to memorize lists has been a challenge. You remember more items as you practice the technique more, and this is very... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Weekly Game Night_Presymptomatic_puzzle1",
+            "name": "memory_training--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "great"
+                "rewarding"
             ],
             "missing_letter_count": 1
         }

@@ -1,25 +1,16 @@
 {
-    "header_text": "Having Someone Over",
+    "header_text": "Late Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You invite a friend over for dinner one night, and you're in charge of the food. You aren't the best cook, and you might embarrass yourself in front of your friend. As your friend arrives, you are..."
+            "text": "Late Friend"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Having Someone Over_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "calm"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/655.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

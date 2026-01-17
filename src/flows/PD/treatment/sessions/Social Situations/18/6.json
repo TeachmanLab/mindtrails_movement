@@ -1,23 +1,23 @@
 {
-    "header_text": "Talking with Your Friend",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you looking forward to asking your friend a question?"
+            "Text": "Are the others in the meeting judging you?"
         },
         {
             "type": "Buttons",
-            "name": "Talking with Your Friend_Social Situations_comp_question",
+            "name": "taking_charge--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

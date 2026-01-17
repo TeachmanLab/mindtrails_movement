@@ -1,16 +1,16 @@
 {
-    "header_text": "Shopping For Party Supplies",
+    "header_text": "Loan Repayment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel..."
+            "text": "Loan Repayment"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/316.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 3
 }

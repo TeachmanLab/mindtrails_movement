@@ -1,25 +1,12 @@
 {
-    "header_text": "Boxing Class",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Joining a boxing class has helped you find excitement in movement again. During today's class, your symptoms are making it difficult to perform as well as you would like. You consider quitting for the day, but you remember that your main goal is to have..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Boxing Class_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "fun"
-            ],
-            "missing_letter_count": 2
+            "text": "Think about a situation that makes you anxious that has occurred for you in the past, or that you worry will happen in the future. Please write your own training story based on this situation, making sure to include a positive or non-threatening ending in the final sentence of the story."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

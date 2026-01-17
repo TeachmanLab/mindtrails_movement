@@ -1,25 +1,16 @@
 {
-    "header_text": "Taking Charge",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "During your work meeting over Zoom, everyone is placed into breakout rooms. Your camera is on when you start the discussion, but everyone else leaves their cameras off. You assume that the others will think that you are..."
+            "text": "Part 1: Set up the uncertain situation in 1-2 sentences"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Taking Charge_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ready"
-            ],
-            "missing_letter_count": 1
+            "name": "Part1_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    ]
 }

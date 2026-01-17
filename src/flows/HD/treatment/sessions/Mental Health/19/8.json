@@ -1,16 +1,25 @@
 {
-    "header_text": "Waiting for Big News",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Waiting for Big News"
+            "text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are..."
         },
         {
-            "type": "Media",
-            "url": "./images/43.jpg"
+            "type": "WordPuzzle",
+            "name": "sharing_favorite_shows--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "weird"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

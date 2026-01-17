@@ -1,16 +1,16 @@
 {
-    "header_text": "Book Club Meeting",
+    "header_text": "Laundry Dilemma",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at at your monthly book club meeting. Your friends keep asking you to repeat yourself, which makes you feel irritated and unsettled. You practice breathing exercises that help you regulate your emotions and end up having a good..."
+            "text": "Laundry Dilemma"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/234.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

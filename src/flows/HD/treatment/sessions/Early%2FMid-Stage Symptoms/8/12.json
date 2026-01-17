@@ -7,7 +7,8 @@
             "text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear, and you see confusion on the employee's face. You remind yourself that there's no rush, and the employee is likely just trying to hear you without judging... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "coffee_ordering--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

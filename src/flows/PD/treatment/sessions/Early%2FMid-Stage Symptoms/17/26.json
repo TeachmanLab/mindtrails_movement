@@ -1,29 +1,29 @@
 {
-    "header_text": "Balancing Checkbook",
+    "header_text": "Family Dinner Fight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "There are people in your life that could..."
+            "Text": "Your angry outburst caused your family to feel..."
         },
         {
             "type": "Buttons",
-            "name": "Balancing Checkbook_Early/Mid-Stage Symptoms_comp_question",
+            "name": "family_dinner_fight--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Harm",
-                "Help"
+                "Bored",
+                "Stunned"
             ],
             "column_count": 1,
-            "correct_value": "Help"
+            "correct_value": "Stunned"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

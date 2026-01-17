@@ -1,0 +1,16 @@
+{
+    "header_text": "At the Playground ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the Playground "
+        },
+        {
+            "type": "Media",
+            "url": "./images/200.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

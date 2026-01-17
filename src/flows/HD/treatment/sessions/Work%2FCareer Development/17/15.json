@@ -1,39 +1,25 @@
 {
-    "header_text": "Writing Notes",
+    "header_text": "First meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your coworkers judge you negatively while you write on the board?"
+            "text": "Your supervisor arranges a meeting for you with a new coworker you have yet to meet. As you sit in the room waiting to meet this coworker for the first time, you wonder how it will go. You feel that your coworker will think you are..."
         },
         {
-            "type": "Buttons",
-            "name": "Writing Notes_Work/Career Development_comp_question",
+            "type": "WordPuzzle",
+            "name": "first_meeting--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "pleasant"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 4
 }

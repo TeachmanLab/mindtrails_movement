@@ -1,0 +1,16 @@
+{
+    "header_text": "Disclosing Your Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Disclosing Your Mental Health"
+        },
+        {
+            "type": "Media",
+            "url": "./images/393.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

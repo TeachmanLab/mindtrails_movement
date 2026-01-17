@@ -1,14 +1,14 @@
 {
-    "header_text": "Presenting your Work",
+    "header_text": "Taking Your Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your work impress the people at the event?"
+            "Text": "Are you able to answer the question?"
         },
         {
             "type": "Buttons",
-            "name": "Presenting your Work_Work/Career Development_comp_question",
+            "name": "taking_your_time--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

@@ -1,16 +1,16 @@
 {
-    "header_text": "Fitness Class",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fitness classes have always motivated you to stay active. Recently, your inability to focus on the instructor and coordinate movements with theirs has discouraged you. Instead of dropping the class, you decide to do your best each time, knowing that any exercise is..."
+            "text": "Handwriting Challenge"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/411.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

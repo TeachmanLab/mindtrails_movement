@@ -1,16 +1,16 @@
 {
-    "header_text": "Holiday Decor",
+    "header_text": "Stained Laundry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's time to decorate for the holidays, and you invite your family over. As you watch your family interact, you start to feel sad about how future holidays might look. Someone starts to giggle about a silly decoration, and having family there for the holidays is..."
+            "text": "Stained Laundry"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/869.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

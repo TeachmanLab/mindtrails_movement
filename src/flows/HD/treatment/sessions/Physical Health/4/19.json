@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Thoughts at the train station_Physical Health_comp_question",
+            "name": "thoughts_at_the_train_station--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

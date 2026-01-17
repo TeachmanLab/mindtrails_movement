@@ -1,23 +1,23 @@
 {
-    "header_text": "Video Call",
+    "header_text": "Morning Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Was your family upset with how you handled the video call?"
+            "Text": "Your spouse is trying to be..."
         },
         {
             "type": "Buttons",
-            "name": "Video Call_Early/Mid-Stage Symptoms_comp_question",
+            "name": "morning_coffee--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Kind",
+                "Hovering"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Kind"
         }
     ],
     "navigation_conditions": [

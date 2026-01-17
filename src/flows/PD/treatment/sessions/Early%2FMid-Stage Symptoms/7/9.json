@@ -1,25 +1,29 @@
 {
-    "header_text": "Convenience Store",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a convenience store getting coffee, a task that you have done many times before. Today, you struggle to recall the steps needed to work the coffee machine. The cashier knows you fairly well and starts to look..."
+            "Text": "Will you always feel like this?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Convenience Store_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "at_the_park--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "concerned"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 2
 }

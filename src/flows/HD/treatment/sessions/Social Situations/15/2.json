@@ -1,14 +1,14 @@
 {
-    "header_text": "Having a New Friend Over",
+    "header_text": "Smelly Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Having a New Friend Over"
+            "text": "Smelly Lunch"
         },
         {
             "type": "Media",
-            "url": "./images/387.jpg"
+            "url": "./images/653.jpg"
         }
     ],
     "type": "positive",

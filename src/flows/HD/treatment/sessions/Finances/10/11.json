@@ -7,7 +7,8 @@
             "text": "You set a family meeting to talk things over. Everyone feels that if you take on different responsibilities around the house, they will..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "shifting_household_roles--finances--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,25 +1,25 @@
 {
-    "header_text": "Hardware Store",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in the checkout line at the hardware store, and you notice your hands begin shaking. The cashier glances down towards your hands, and you wonder what they think of you. When the cashier looks up, they give you a...  "
+            "text": "You have a garden you're really proud of and enjoy getting to work on every year. As you think about getting older, you wonder how your ability to do this pastime will change. You think about how your Parkinson's symptoms could prevent you from caring for your plants, and decide your plants will likely..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Hardware Store_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "gardening--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "smile"
+                "die"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

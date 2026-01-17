@@ -1,16 +1,16 @@
 {
-    "header_text": "New Opportunity at Work",
+    "header_text": "Not Feeling Supported",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Opportunity at Work"
+            "text": "Not Feeling Supported"
         },
         {
             "type": "Media",
-            "url": "./images/108.jpg"
+            "url": "./images/678.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

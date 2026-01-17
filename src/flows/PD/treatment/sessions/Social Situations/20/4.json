@@ -1,16 +1,29 @@
 {
-    "header_text": "New City New Friends",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on, and you miss your close friends from your old city. You decide to spend more time with the people you have met so that you can become closer..."
+            "Text": "Are you happy to have your supervisor come to your school event? "
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "an_invitation--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

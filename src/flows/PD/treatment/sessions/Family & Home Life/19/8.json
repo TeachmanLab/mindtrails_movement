@@ -1,0 +1,16 @@
+{
+    "header_text": "Texting and TV",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Texting and TV"
+        },
+        {
+            "type": "Media",
+            "url": "./images/216.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

@@ -7,6 +7,7 @@
             "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
         },
         {
+            "name": "long6",
             "type": "Entry"
         }
     ],

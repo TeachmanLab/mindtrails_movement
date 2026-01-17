@@ -1,0 +1,17 @@
+{
+    "header_text": "Farmer's Market Sweets",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently, you have been craving sweets more than usual. You buy a small cookie, knowing it is sometimes okay to..."
+        },
+        {
+            "type": "Entry",
+            "name": "farmer's_market_sweets--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,16 +1,17 @@
 {
-    "header_text": "Picnic Planning",
+    "header_text": "Reuniting with Old Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Picnic Planning"
+            "text": "You are having lunch with some friends from your past, and they haven't seen you in a couple years. They only recently heard about HD running in your family, so you feel nervous about how they will react. As you sit down at the table, you immediately feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/867.jpg"
+            "type": "Entry",
+            "name": "reuniting_with_old_friends--presymptomatic--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 5
 }

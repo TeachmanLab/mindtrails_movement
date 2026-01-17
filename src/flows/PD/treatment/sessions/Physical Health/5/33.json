@@ -1,25 +1,39 @@
 {
-    "header_text": "An unwashed table",
+    "header_text": "Annual checkup results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You meet a friend for lunch at a new restaurant. You realize that your table was not wiped down after the previous customers left, and this makes you anxious about germs. You decide to stay and have lunch with your friend, and your anxiety is..."
+            "Text": "Are your worries about your blood test results tolerable? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "An unwashed table_Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "annual_checkup_results--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tolerable"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

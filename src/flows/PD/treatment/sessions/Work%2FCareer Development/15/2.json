@@ -1,16 +1,16 @@
 {
-    "header_text": "Changing Your Trajectory",
+    "header_text": "Managing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Changing Your Trajectory"
+            "text": "Managing Responsibilities"
         },
         {
             "type": "Media",
-            "url": "./images/94.jpg"
+            "url": "./images/84.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

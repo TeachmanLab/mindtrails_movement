@@ -1,14 +1,14 @@
 {
-    "header_text": "Difficult Handoff",
+    "header_text": "Paying your Bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you have any trouble handing over the phone?"
+            "Text": "Are you able to find a way to pay the bill?"
         },
         {
             "type": "Buttons",
-            "name": "Difficult Handoff_Early/Mid-Stage Symptoms_comp_question",
+            "name": "paying_your_bills--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Gathering",
+    "header_text": "Forgetting Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Gathering"
+            "text": "Forgetting Groceries"
         },
         {
             "type": "Media",
-            "url": "./images/721.jpg"
+            "url": "./images/796.jpg"
         }
     ],
     "type": "positive",

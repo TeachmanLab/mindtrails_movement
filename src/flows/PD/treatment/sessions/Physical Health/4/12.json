@@ -1,29 +1,25 @@
 {
-    "header_text": "Dry mouth cause",
+    "header_text": "Feeling Lightheaded",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your dry mouth is probably due to..."
+            "text": "You decide to focus your mind on the sensations. This helps you worry less and makes you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Dry mouth cause_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "feeling_lightheaded--physical_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "A new medication",
-                "A serious illness"
+            "display_delay": 2000,
+            "words": [
+                "calmer"
             ],
-            "column_count": 1,
-            "correct_value": "A new medication"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

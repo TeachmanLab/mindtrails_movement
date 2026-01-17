@@ -1,39 +1,25 @@
 {
-    "header_text": "Online Shopping",
+    "header_text": "Replying to Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you tell your child about the mix-up, they will probably respond..."
+            "text": "You decide to check in with your boss to see how he's feeling. His nice response leaves you feeling..."
         },
         {
-            "type": "Buttons",
-            "name": "Online Shopping_Presymptomatic_comp_question",
+            "type": "WordPuzzle",
+            "name": "replying_to_email--presymptomatic--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Gently",
-                "Harshly"
+            "display_delay": 2000,
+            "words": [
+                "upbeat"
             ],
-            "column_count": 1,
-            "correct_value": "Gently"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

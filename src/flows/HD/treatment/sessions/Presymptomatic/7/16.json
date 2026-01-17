@@ -1,16 +1,16 @@
 {
-    "header_text": "Staying Present",
+    "header_text": "Delayed Projects",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Staying Present"
+            "text": "Delayed Projects"
         },
         {
             "type": "Media",
-            "url": "./images/803.jpg"
+            "url": "./images/832.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

@@ -1,0 +1,17 @@
+{
+    "header_text": "Continuing Favorite Hobby",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're passionate about your favorite hobby, but you've not been able to focus on the details. Your half-finished project has been sitting out in the garage for months now. You decide to continue your hobby, even if it takes more time, and you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "continuing_favorite_hobby--family_&_home_life--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

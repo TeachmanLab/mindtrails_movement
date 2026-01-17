@@ -1,39 +1,25 @@
 {
-    "header_text": "Going out in day clothes",
+    "header_text": "Unusual views",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think that other diners think you are dressed inappropriately?"
+            "text": "Even though your colleagues didn't share your view, they found your opinion interesting. They ask you for your thoughts, and you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Going out in day clothes_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "unusual_views--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "included"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/wondering_training.png"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

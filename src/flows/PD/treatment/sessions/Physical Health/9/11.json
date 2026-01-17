@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Upset Stomach"
+            "text": "You meet with the doctor, and they tell you what's probably going on. You think about it and realize that getting sick sometimes is..."
         },
         {
-            "type": "Media",
-            "url": "./images/482.jpg"
+            "type": "Entry",
+            "name": "upset_stomach--physical_health--puzzle2_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 3
 }

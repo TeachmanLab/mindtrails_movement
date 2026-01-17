@@ -1,14 +1,14 @@
 {
-    "header_text": "Shopping For Party Supplies",
+    "header_text": "Mental Health Resources",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Shopping For Party Supplies"
+            "text": "Mental Health Resources"
         },
         {
             "type": "Media",
-            "url": "./images/581.jpg"
+            "url": "./images/386.jpg"
         }
     ],
     "type": "positive",

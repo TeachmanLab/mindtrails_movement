@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "mds_updrs_11",
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: No problems.",
@@ -15,8 +16,7 @@
                 "2::2: Mild: I need to have my pills cut or my food specially prepared because of chewing or swallowing problems, but I have not choked over the past week.",
                 "3::3: Moderate: I choked at least once in the past week.",
                 "4::4: Severe: Because of chewing and swallowing problems, I need a feeding tube."
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

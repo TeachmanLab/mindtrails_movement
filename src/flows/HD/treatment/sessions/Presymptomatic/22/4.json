@@ -1,14 +1,14 @@
 {
-    "header_text": "Talk with Counselor",
+    "header_text": "Country Drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Talk with Counselor"
+            "text": "Country Drive"
         },
         {
             "type": "Media",
-            "url": "./images/419.jpg"
+            "url": "./images/594.jpg"
         }
     ],
     "type": "positive",

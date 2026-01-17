@@ -1,14 +1,14 @@
 {
-    "header_text": "Peer Evaluations",
+    "header_text": "Giving a Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Peer Evaluations"
+            "text": "Giving a Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/55.jpg"
+            "url": "./images/54.jpg"
         }
     ],
     "type": "positive",

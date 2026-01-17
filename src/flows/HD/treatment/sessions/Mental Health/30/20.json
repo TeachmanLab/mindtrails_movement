@@ -1,0 +1,29 @@
+{
+    "header_text": "Book Club Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Breathing exercises allow you to..."
+        },
+        {
+            "type": "Buttons",
+            "name": "book_club_meeting--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Get worked up",
+                "Enjoy yourself"
+            ],
+            "column_count": 1,
+            "correct_value": "Enjoy yourself"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

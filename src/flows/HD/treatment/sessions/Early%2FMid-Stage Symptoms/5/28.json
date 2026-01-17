@@ -1,14 +1,14 @@
 {
-    "header_text": "Collaging",
+    "header_text": "Texting and TV",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Collaging"
+            "text": "Texting and TV"
         },
         {
             "type": "Media",
-            "url": "./images/754.jpg"
+            "url": "./images/216.jpg"
         }
     ],
     "type": "positive",

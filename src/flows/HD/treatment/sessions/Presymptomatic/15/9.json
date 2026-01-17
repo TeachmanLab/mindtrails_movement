@@ -1,22 +1,22 @@
 {
-    "header_text": "Game Night Mistake",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enjoy strategy games but have recently had more trouble keeping up. At the last game night, you made a silly mistake during your favorite game. Since then, you can't stop obsessing over whether your friends..."
+            "text": "You enjoy making art. As you are considering your next project, you can't help but think about how HD might affect your creative ability in the future. Thinking about this makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Game Night Mistake_Presymptomatic_puzzle1",
+            "name": "creating_art_--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "noticed"
+                "down"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

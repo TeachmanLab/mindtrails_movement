@@ -1,29 +1,12 @@
 {
-    "header_text": "Paying your Bills",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to find a way to pay the bill?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Paying your Bills_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "text": "Now, on the next page, list as many reasons as you can think of for why the ending in the scenario could be likely to occur to you. For example, why do you think you will be able to handle the situation, or what evidence is there to suggest that the situation will turn out okay?"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 1
+    ]
 }

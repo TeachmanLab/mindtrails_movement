@@ -1,13 +1,14 @@
 {
-    "header_text": "Rearranging After Exposure",
+    "header_text": "A Crucial Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a presentation for your department coming up, and you’ve been working hard in the hopes that you'll impress your supervisor. The night before, you find out a friend you had dinner with has a virus, and now you're feeling sick. You think your supervisor will understand and help you arrange a better time to..."
+            "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "a_crucial_call--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,25 +1,17 @@
 {
-    "header_text": "Work Comparisons",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You haven't had much experience with this aspect and your coworkers know this. They have probably been through similar experiences and weren't trying to be..."
+            "text": "You have been taking a dance class at the local community center and are performing in a showcase. You want to invite your friends and family to the showcase, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Work Comparisons_Social Situations_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mean"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "the_dance_showcase--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 7
 }

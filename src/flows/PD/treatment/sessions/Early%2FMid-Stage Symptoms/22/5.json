@@ -1,16 +1,25 @@
 {
-    "header_text": "Baking Cookies",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have decorated cookies with your grandchild and placed them in the oven to bake. As you pull the tray out, it drops to the floor, breaking a few of the cookies. You feel like you disappointed your grandkid, but they let out a... "
+            "text": "You are attending your grandchild's dance recital. As you are walking into the theater with your family, you freeze in the doorway. You are worried that your grandkid will be..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "attending_a_dance_recital--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "embarrassed"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,25 +1,25 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Stomach Ache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you prepare for the review, you do not think your boss will forget your good work. In your meeting, you think you will receive..."
+            "text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Reviewing Your Work _Mental Health_puzzle_word2",
+            "name": "stomach_ache--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "praise"
+                "anxiety"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 4
 }

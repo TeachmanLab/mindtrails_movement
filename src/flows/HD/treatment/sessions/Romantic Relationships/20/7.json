@@ -1,0 +1,29 @@
+{
+    "header_text": "Shopping For Party Supplies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "With the support of your spouse, you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "shopping_for_party_supplies--romantic_relationships--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Grateful",
+                "Agitated"
+            ],
+            "column_count": 1,
+            "correct_value": "Grateful"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

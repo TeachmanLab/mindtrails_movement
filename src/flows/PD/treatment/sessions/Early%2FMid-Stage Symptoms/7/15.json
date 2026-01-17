@@ -1,20 +1,20 @@
 {
-    "header_text": "Conflict with Spouse",
+    "header_text": "Coffee Ordering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Arguments have been happening with your spouse more frequently. Today, your spouse takes their frustration out on you with unkind words. Instead of retaliating, you step outside to walk the dog and have time to..."
+            "text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear, and you see confusion on the employee's face. You remind yourself that there's no rush, and the employee is likely just trying to hear you without judging... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Conflict with Spouse_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "coffee_ordering--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "think"
+                "you"
             ],
             "missing_letter_count": 2
         }

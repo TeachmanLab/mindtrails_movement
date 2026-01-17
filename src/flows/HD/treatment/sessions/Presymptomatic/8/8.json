@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Coffee Effect"
+            "text": "You remember that caffeine can make people more shaky and anxious. You decide that the shakiness you feel is most likely related to the..."
         },
         {
-            "type": "Media",
-            "url": "./images/918.jpg"
+            "type": "Entry",
+            "name": "coffee_effect--presymptomatic--puzzle2_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 2
 }

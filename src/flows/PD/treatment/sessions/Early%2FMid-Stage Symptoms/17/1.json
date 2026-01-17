@@ -1,14 +1,14 @@
 {
-    "header_text": "Best Friend's Party",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Best Friend's Party"
+            "text": "Medical Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/811.jpg"
+            "url": "./images/126.jpg"
         }
     ],
     "type": "positive",

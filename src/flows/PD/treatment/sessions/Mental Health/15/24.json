@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching Transportation",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Catching Transportation"
+            "text": "Friends in Relationships"
         },
         {
             "type": "Media",
-            "url": "./images/100.jpg"
+            "url": "./images/367.jpg"
         }
     ],
     "type": "resilience/negation",

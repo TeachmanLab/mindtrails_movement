@@ -1,17 +1,18 @@
 {
-    "header_text": "Nerves at a Big Moment",
+    "header_text": "Feeling Abandoned",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are about to give a presentation, and you feel your body tremble. You don't usually feel this way when you speak in front of people. These trembling feelings mean that you are..."
+            "text": "As you scroll through your social media accounts, you see that your closest friend is hanging out with someone you don't know. You wonder who this person is and why you haven't heard about them. When you think about your friendship with this friend, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "feeling_abandoned--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4,
     "information": {
         "elements": [

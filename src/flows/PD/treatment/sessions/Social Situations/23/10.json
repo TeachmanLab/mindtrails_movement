@@ -1,16 +1,16 @@
 {
-    "header_text": "On a Walk",
+    "header_text": "Friends Excluding You",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "On a Walk"
+            "text": "Friends Excluding You"
         },
         {
             "type": "Media",
-            "url": "./images/700.jpg"
+            "url": "./images/688.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

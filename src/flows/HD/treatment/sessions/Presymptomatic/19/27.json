@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Changes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Changes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/823.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

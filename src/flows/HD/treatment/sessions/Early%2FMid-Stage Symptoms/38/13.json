@@ -1,0 +1,17 @@
+{
+    "header_text": "Social Situations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're walking through the aisles at the grocery store when you find yourself feeling irritated. You snap at another shopper who accidentally bumps into you, and you feel uncomfortable with your behavior. You apologize and explain that you were feeling overwhelmed, and the shopper seems..."
+        },
+        {
+            "type": "Entry",
+            "name": "social_situations--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

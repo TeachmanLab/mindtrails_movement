@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Questions",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you upset that you're single? "
+            "Text": "Does your friend agree with you about not engaging with others?"
         },
         {
             "type": "Buttons",
-            "name": "Family Questions_Mental Health_comp_question",
+            "name": "party_with_friends--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

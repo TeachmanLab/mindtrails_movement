@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptomatic in Public: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A random person comes up to you to ask you a question, but all you can manage in response is a quiet mumble they can't hear. You start wondering what their response will be.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to express my frustration at this difficulty, but I accept this is my condition and do my best.",
+                "I accept the situation I'm in and do my best to think of alternative ways of communicating.",
+                "I feel like avoiding the interaction after, but I meet their gaze to try and convey that I am engaged with them.",
+                "I turn away before the person has a chance to respond to avoid any potentially negative interaction.",
+                "I try to smile to show that I am not being rude."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Choice",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Making a Choice"
+            "text": "Mental Health Issues"
         },
         {
             "type": "Media",
-            "url": "./images/60.jpg"
+            "url": "./images/389.jpg"
         }
     ],
     "type": "positive",

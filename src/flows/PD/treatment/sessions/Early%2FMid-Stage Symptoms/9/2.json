@@ -1,16 +1,16 @@
 {
-    "header_text": "Crowded Grocery Store",
+    "header_text": "Birthday Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Crowded Grocery Store"
+            "text": "Birthday Cards"
         },
         {
             "type": "Media",
-            "url": "./images/956.jpg"
+            "url": "./images/779.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

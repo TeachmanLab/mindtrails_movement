@@ -1,16 +1,17 @@
 {
-    "header_text": "Jacket Return",
+    "header_text": "Talking about TV",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that the person at the counter was very stressed out because of a previous customer. Once they started helping you, they were very..."
+            "text": "You are talking with a group of friends about TV shows. When you share your opinion on an old TV show that you just discovered, no one responds. They are probably thinking about how interesting the plot..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "talking_about_tv--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

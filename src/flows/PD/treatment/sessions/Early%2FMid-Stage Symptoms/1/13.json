@@ -1,29 +1,25 @@
 {
-    "header_text": "Memory Training",
+    "header_text": "Seeing A Dog",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Learning a new memory technique has been... "
+            "text": "You call your doctor who reassures you that hallucinations can be a normal and treatable part of PD. Together, you make a plan for what you will do if this happens again, and you start to feel more in..."
         },
         {
-            "type": "Buttons",
-            "name": "Memory Training_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "seeing_a_dog--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "A useful challenge",
-                "A useless task"
+            "display_delay": 2000,
+            "words": [
+                "control"
             ],
-            "column_count": 1,
-            "correct_value": "A useful challenge"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

@@ -7,6 +7,7 @@
             "text": "I was able to think about stressful or upsetting situations in a new or different way today."
         },
         {
+            "name": "nightly_thinkdifferently",
             "type": "Buttons",
             "buttons": [
                 "7::7: Very true",
@@ -16,8 +17,7 @@
                 "3::3",
                 "2::2",
                 "1::1: Not at all true"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

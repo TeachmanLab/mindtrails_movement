@@ -1,16 +1,29 @@
 {
-    "header_text": "Forgotten Item",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are almost ready to check out at the grocery store, but you forgot the last item on your list. When you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because, lately, you have been so..."
+            "Text": "Do you feel capable of completing the work for this project?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "using_different_technology--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

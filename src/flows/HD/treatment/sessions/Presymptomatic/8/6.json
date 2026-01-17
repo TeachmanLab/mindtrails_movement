@@ -1,16 +1,16 @@
 {
-    "header_text": "Conflict with Spouse",
+    "header_text": "Coffee Effect",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Conflict with Spouse"
+            "text": "Coffee Effect"
         },
         {
             "type": "Media",
-            "url": "./images/593.jpg"
+            "url": "./images/918.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Hanging Out with Friends",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hanging Out with Friends"
+            "text": "Sharing Favorite Shows"
         },
         {
             "type": "Media",
-            "url": "./images/651.jpg"
+            "url": "./images/388.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

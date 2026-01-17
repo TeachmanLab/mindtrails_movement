@@ -1,16 +1,17 @@
 {
-    "header_text": "At the Park",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the park with a friend when your hands start shaking. Your heart begins to pound when your friend notices your hands, and you feel out of control. You begin to focus on taking slow, deep breaths and remind yourself this feeling will..."
+            "text": "You are at a crowded grocery store. Suddenly, you feel your heart start to race, and you begin to sweat. Thinking about whether others will notice makes you worried that you'll fall. You begin to feel self-conscious and..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "crowded_grocery_store--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

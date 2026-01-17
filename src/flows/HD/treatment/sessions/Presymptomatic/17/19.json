@@ -1,29 +1,25 @@
 {
-    "header_text": "Setting up Camp",
+    "header_text": "Forgetting Movie Title",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After putting up your tent at your own pace, you feel..."
+            "text": "You're in the middle of a conversation with friends when you can't remember the name of a movie. It's uncomfortable to experience this, leaving you wondering if something more concerning is happening. You look around at your friends and remember that there are people in your life that are..."
         },
         {
-            "type": "Buttons",
-            "name": "Setting up Camp_Presymptomatic_comp_question",
+            "type": "WordPuzzle",
+            "name": "forgetting_movie_title--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Self-conscious",
-                "Giddy"
+            "display_delay": 2000,
+            "words": [
+                "supportive"
             ],
-            "column_count": 1,
-            "correct_value": "Giddy"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

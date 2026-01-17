@@ -1,14 +1,14 @@
 {
-    "header_text": "Messy to Live With ",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Messy to Live With "
+            "text": "Cooking a Casserole"
         },
         {
             "type": "Media",
-            "url": "./images/580.jpg"
+            "url": "./images/574.jpg"
         }
     ],
     "type": "resilience/negation",

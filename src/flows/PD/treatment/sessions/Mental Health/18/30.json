@@ -1,14 +1,14 @@
 {
-    "header_text": "A night off",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A night off"
+            "text": "A Rude Comment"
         },
         {
             "type": "Media",
-            "url": "./images/22.jpg"
+            "url": "./images/385.jpg"
         }
     ],
     "type": "positive",

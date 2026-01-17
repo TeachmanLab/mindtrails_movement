@@ -1,14 +1,14 @@
 {
-    "header_text": "Birthday Cards",
+    "header_text": "Unconditional Love",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Birthday Cards"
+            "text": "Unconditional Love"
         },
         {
             "type": "Media",
-            "url": "./images/779.jpg"
+            "url": "./images/589.jpg"
         }
     ],
     "type": "positive",

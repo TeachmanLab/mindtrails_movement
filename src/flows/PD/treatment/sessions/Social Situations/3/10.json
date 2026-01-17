@@ -1,29 +1,29 @@
 {
-    "header_text": "Helping an elder neighbor",
+    "header_text": "Bumping into someone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your neighbor appreciate your offer to help with the groceries?"
+            "Text": "Is your coworker negatively judging you as you leave the restroom?"
         },
         {
             "type": "Buttons",
-            "name": "Helping an elder neighbor_Social Situations_comp_question",
+            "name": "bumping_into_someone--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

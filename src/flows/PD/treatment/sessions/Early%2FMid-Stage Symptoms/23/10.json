@@ -1,16 +1,16 @@
 {
-    "header_text": "Smoothie Shop",
+    "header_text": "Social Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Smoothie Shop"
+            "text": "Social Changes"
         },
         {
             "type": "Media",
-            "url": "./images/835.jpg"
+            "url": "./images/823.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

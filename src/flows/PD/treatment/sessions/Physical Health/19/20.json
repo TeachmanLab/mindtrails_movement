@@ -1,0 +1,16 @@
+{
+    "header_text": "Longer Walks",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Longer Walks"
+        },
+        {
+            "type": "Media",
+            "url": "./images/508.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

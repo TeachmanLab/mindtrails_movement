@@ -1,16 +1,17 @@
 {
-    "header_text": "Making a Choice",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel..."
+            "text": "While you feel upset, you realize that it's natural to make mistakes. You think that your boss won't..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "a_little_stumble--work_career_development--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

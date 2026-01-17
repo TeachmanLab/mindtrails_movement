@@ -1,16 +1,16 @@
 {
-    "header_text": "Riding a boat",
+    "header_text": "Catching Transportation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Riding a boat"
+            "text": "Catching Transportation"
         },
         {
             "type": "Media",
-            "url": "./images/466.jpg"
+            "url": "./images/100.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

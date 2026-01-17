@@ -1,39 +1,16 @@
 {
-    "header_text": "Intimacy",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your first step in dealing with this conflict is to... "
+            "text": "Forgotten Ingredients"
         },
         {
-            "type": "Buttons",
-            "name": "Intimacy_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Fight",
-                "Communicate"
-            ],
-            "column_count": 1,
-            "correct_value": "Communicate"
+            "type": "Media",
+            "url": "./images/738.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 5
 }

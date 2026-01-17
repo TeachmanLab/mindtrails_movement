@@ -1,0 +1,16 @@
+{
+    "header_text": "Shoe Shopping",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Shoe Shopping"
+        },
+        {
+            "type": "Media",
+            "url": "./images/858.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

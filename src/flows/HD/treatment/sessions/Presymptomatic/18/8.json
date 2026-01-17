@@ -1,22 +1,22 @@
 {
-    "header_text": "Country Drive",
+    "header_text": "Planning a Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You drive a back road using GPS to get to a friend's house. The time of the trip doubles because you take a few wrong turns. You turn on audio instructions on the GPS, slow your speed, and soon..."
+            "text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip takes a lot of thinking, and you feel really exhausted. You take a break to walk outside and return feeling... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Country Drive_Presymptomatic_puzzle1",
+            "name": "planning_a_trip--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "arrive"
+                "refreshed"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

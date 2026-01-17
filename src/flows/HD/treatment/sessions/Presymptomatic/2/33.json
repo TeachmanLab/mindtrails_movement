@@ -1,10 +1,10 @@
 {
-    "header_text": "Manage Your Feelings: Presymptomatic",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It can be scary not knowing what the future holds, but fighting against reality can cause more difficulty with mood and anxiety. Acknowledge any feelings you are having about your situation, be it anger, fear, sadness, or something else, without judging or criticizing how you’re feeling."
+            "text": "Motivational Statement #10 \n\n You are stronger than you know and are taking the right steps to think more positively."
         }
     ]
 }

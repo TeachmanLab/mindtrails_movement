@@ -1,16 +1,16 @@
 {
-    "header_text": "Creating Art ",
+    "header_text": "Arcade Games",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Creating Art "
+            "text": "Arcade Games"
         },
         {
             "type": "Media",
-            "url": "./images/768.jpg"
+            "url": "./images/205.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

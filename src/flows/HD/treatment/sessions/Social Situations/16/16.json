@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Rather than only focusing on negative moments you've spent with friends, also think about positive ones. Remind yourself of all the times when you've smiled and laughed together."
+            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety?"
+        },
+        {
+            "type": "Entry",
+            "name": "tip #11--entry"
         }
     ]
 }

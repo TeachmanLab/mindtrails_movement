@@ -1,29 +1,25 @@
 {
-    "header_text": "Safety at Home",
+    "header_text": "Shopping for Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When walking through your home, you..."
+            "text": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a hard time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you look around, you see that others are focused on their..."
         },
         {
-            "type": "Buttons",
-            "name": "Safety at Home_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "shopping_for_clothes--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Get hurt",
-                "Make it safely to a sitting position"
+            "display_delay": 2000,
+            "words": [
+                "shopping"
             ],
-            "column_count": 1,
-            "correct_value": "Make it safely to a sitting position"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

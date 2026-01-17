@@ -1,23 +1,23 @@
 {
-    "header_text": "House Cleaning",
+    "header_text": "Coffee Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You likely feel..."
+            "Text": "Your spouse is trying to be..."
         },
         {
             "type": "Buttons",
-            "name": "House Cleaning_Early/Mid-Stage Symptoms_comp_question",
+            "name": "coffee_together--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Better",
-                "Even more tired"
+                "Hovering",
+                "Kind"
             ],
             "column_count": 1,
-            "correct_value": "Better"
+            "correct_value": "Kind"
         }
     ],
     "navigation_conditions": [

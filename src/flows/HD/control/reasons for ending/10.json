@@ -7,6 +7,7 @@
             "text": "To the extent you completed the program... \n\nHow useful did you find the nightly survey that enabled you to choose when to complete training the next day?"
         },
         {
+            "name": "ending_surveyscheduler",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all",
@@ -15,8 +16,7 @@
                 "3::Mostly",
                 "4::Very",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

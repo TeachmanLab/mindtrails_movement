@@ -1,25 +1,25 @@
 {
-    "header_text": "Friendships in the Future",
+    "header_text": "Intimacy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you think about the future, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends. Although, you wonder if it will be more difficult to stay in touch as your HD... "
+            "text": "Your stress about HD has been causing you to lose interest in intimacy with your partner. Your partner has noticed this change and is upset with your lack of touch and care. In response to their upset reaction, you start a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Friendships in the Future_Presymptomatic_puzzle1",
+            "name": "intimacy--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "progresses"
+                "conversation"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

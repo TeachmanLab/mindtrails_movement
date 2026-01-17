@@ -1,16 +1,16 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Long-Distance Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At Home Alone"
+            "text": "Long-Distance Relationship"
         },
         {
             "type": "Media",
-            "url": "./images/584.jpg"
+            "url": "./images/191.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Retirement Celebration",
+    "header_text": "Shopping for Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about how many people have come out to celebrate your retirement. In the end, your family caring enough to throw you a party makes you feel very..."
+            "text": "Shopping for Clothes"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/817.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Changing Roles",
+    "header_text": "Brother's Genetic Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You’ve noticed that your family members have started to care for you more often. Now, they often end conversations by asking if you need or want anything. While this dynamic is very different from the past, you understand that they want to be helpful, and it is..."
+            "text": "Your brother has not been tested for HD. He tells you that he thinks he has been experiencing some symptoms lately, and he decides to undergo genetic testing. As you think about what the results could mean for your brother, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Changing Roles_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "brother's_genetic_test--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "okay"
+                "hopeful"
             ],
             "missing_letter_count": 1
         }

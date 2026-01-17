@@ -1,16 +1,16 @@
 {
-    "header_text": "Ending Long Distance",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Ending Long Distance"
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/381.jpg"
+            "name": "Reason5_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

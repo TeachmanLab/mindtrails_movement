@@ -1,16 +1,16 @@
 {
-    "header_text": "New Conflict With Spouse",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Conflict With Spouse"
+            "text": "The Dance Showcase"
         },
         {
             "type": "Media",
-            "url": "./images/582.jpg"
+            "url": "./images/575.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

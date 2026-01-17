@@ -1,16 +1,17 @@
 {
-    "header_text": "Trouble Reading",
+    "header_text": "Fear of Sharing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trouble Reading"
+            "text": "You're at a family gathering, playing games in the yard. You haven't shared your genetic test results with everyone. Suddenly, thinking about how your family would react makes you... "
         },
         {
-            "type": "Media",
-            "url": "./images/818.jpg"
+            "type": "Entry",
+            "name": "fear_of_sharing--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

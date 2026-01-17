@@ -7,7 +7,8 @@
             "text": "The more you think about it, you realize that many people don't enjoy sports the way you do. Just because your family wanted to leave, that doesn't mean they don't care about..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "staying_alone--family_&_home_life--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

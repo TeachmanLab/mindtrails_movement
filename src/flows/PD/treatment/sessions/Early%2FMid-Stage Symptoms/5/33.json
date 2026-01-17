@@ -1,23 +1,23 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Produce Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your reaction to your friend's invitation keeps you..."
+            "Text": "Does your list ease the decision burden?"
         },
         {
             "type": "Buttons",
-            "name": "Invitation to Dinner_Early/Mid-Stage Symptoms_comp_question",
+            "name": "produce_shopping--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Grounded",
-                "Panicked"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Grounded"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

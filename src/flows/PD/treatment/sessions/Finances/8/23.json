@@ -7,7 +7,8 @@
             "text": "You realize that they might be going to finish up some work together somewhere else. This makes you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "working_late--finances--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

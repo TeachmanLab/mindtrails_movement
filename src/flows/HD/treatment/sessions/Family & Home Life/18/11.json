@@ -1,16 +1,25 @@
 {
-    "header_text": "Changing Household Roles",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Changing Household Roles"
+            "text": "You can't find your keys and initially become upset with your family because you suspect that someone hid them. The next day, you discover the keys in one of your pockets. You realized you treated your family too..."
         },
         {
-            "type": "Media",
-            "url": "./images/237.jpg"
+            "type": "WordPuzzle",
+            "name": "keys_forgotten--family_&_home_life--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "harshly"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 3
 }

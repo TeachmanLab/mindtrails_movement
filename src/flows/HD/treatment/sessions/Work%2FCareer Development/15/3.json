@@ -1,22 +1,22 @@
 {
-    "header_text": "Work-Life Balance",
+    "header_text": "Managing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Last month, you accepted an offer to take on extra responsibilities at work for a pay increase. However, this has caused you to spend much less time on other important areas of your life, like family and friends. You talk with your supervisor and make a plan to reduce your responsibilities slightly, making you feel... "
+            "text": "You have started to volunteer at a local organization and have had a difficult time managing it with work. One of the volunteer leaders asked if you would be willing to help her out with a project outside of your usual responsibilities,and you are worried if she will be disappointed if you say no. After thinking on it, you tell her that you can't help out with this project because of work, but are willing to help out on the next..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Work-Life Balance_Work/Career Development_puzzle1",
+            "name": "managing_responsibilities--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relieved"
+                "one"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

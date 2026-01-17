@@ -1,29 +1,29 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "Lost Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend thinks that your desire to continue an activity you love is..."
+            "Text": "The store employee finding your wallet proves that asking for help can be..."
         },
         {
             "type": "Buttons",
-            "name": "Hiking Hiatus_Presymptomatic_comp_question",
+            "name": "lost_wallet--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Foolish",
-                "Healthy"
+                "Aggravating",
+                "Wise"
             ],
             "column_count": 1,
-            "correct_value": "Healthy"
+            "correct_value": "Wise"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

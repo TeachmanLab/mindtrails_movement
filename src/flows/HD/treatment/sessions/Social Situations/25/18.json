@@ -1,16 +1,16 @@
 {
-    "header_text": "Worrying About Spending",
+    "header_text": "Meeting New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Worrying About Spending"
+            "text": "Meeting New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/259.jpg"
+            "url": "./images/52.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

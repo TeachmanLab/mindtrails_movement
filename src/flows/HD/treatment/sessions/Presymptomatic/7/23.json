@@ -1,14 +1,14 @@
 {
-    "header_text": "Future Workouts",
+    "header_text": "Work Details",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Future Workouts"
+            "text": "Work Details"
         },
         {
             "type": "Media",
-            "url": "./images/802.jpg"
+            "url": "./images/916.jpg"
         }
     ],
     "type": "positive",

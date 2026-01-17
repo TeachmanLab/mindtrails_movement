@@ -1,13 +1,14 @@
 {
-    "header_text": "Coffee Ordering",
+    "header_text": "Shopping For Party Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear, and you see confusion on the employee's face. You remind yourself that there's no rush, and the employee is likely just trying to hear you without judging... "
+            "text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "shopping_for_party_supplies--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

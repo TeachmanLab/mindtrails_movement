@@ -1,0 +1,16 @@
+{
+    "header_text": "Boxing Class",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Boxing Class"
+        },
+        {
+            "type": "Media",
+            "url": "./images/971.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

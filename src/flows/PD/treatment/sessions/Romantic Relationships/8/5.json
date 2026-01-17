@@ -7,7 +7,8 @@
             "text": "You've been single for a while, and most of your friends are in relationships. You wonder if this means something about you since you've been unable to find your significant other. The more you reflect on it, you think it's okay to wait for the right person, and you're happy with being..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "waiting_game--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

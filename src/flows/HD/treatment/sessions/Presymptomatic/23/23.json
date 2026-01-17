@@ -1,16 +1,17 @@
 {
-    "header_text": "Future Hobbies",
+    "header_text": "Coffee Concerns",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Future Hobbies"
+            "text": "Lately, your spouse has been alert for any signs of your HD progressing. You are drinking morning coffee together, and you accidentally spill a bit from your full cup. Your spouse looks at you and asks if they can get you a..."
         },
         {
-            "type": "Media",
-            "url": "./images/243.jpg"
+            "type": "Entry",
+            "name": "coffee_concerns--presymptomatic--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 9
 }

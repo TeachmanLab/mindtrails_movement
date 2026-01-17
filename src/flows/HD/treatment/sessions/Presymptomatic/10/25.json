@@ -1,16 +1,14 @@
 {
-    "header_text": "New Kitten",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but you're scared HD will make you unable to care for it. You realize the kitten will also have your family's care, and you decide to..."
+            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety?"
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "tip #11--entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

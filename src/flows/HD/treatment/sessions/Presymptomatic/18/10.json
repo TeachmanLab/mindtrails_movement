@@ -1,16 +1,16 @@
 {
-    "header_text": "Home Renovation Preparation",
+    "header_text": "Difficulty Baking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Home Renovation Preparation"
+            "text": "Difficulty Baking"
         },
         {
             "type": "Media",
-            "url": "./images/227.jpg"
+            "url": "./images/576.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

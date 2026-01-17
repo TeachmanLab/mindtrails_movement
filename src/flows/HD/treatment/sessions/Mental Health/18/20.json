@@ -1,14 +1,14 @@
 {
-    "header_text": "Trusting Yourself",
+    "header_text": "Awkward Conversations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trusting Yourself"
+            "text": "Awkward Conversations"
         },
         {
             "type": "Media",
-            "url": "./images/403.jpg"
+            "url": "./images/382.jpg"
         }
     ],
     "type": "positive",

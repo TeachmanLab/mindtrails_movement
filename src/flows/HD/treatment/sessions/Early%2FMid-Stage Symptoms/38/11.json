@@ -1,0 +1,17 @@
+{
+    "header_text": "Slowed Response ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are speaking to a friend over lunch. Lately, you've been processing information a bit slower than usual, and you begin to worry that your friend will think you aren't paying attention. You remember that she is aware of your diagnosis and will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "slowed_response_--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

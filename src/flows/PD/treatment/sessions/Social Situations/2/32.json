@@ -1,23 +1,23 @@
 {
-    "header_text": "Collecting an old friend",
+    "header_text": "Differing opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think your friend will have a good time with you?"
+            "Text": "When you meet again, you think that..."
         },
         {
             "type": "Buttons",
-            "name": "Collecting an old friend_Social Situations_comp_question",
+            "name": "differing_opinion--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Other members will be excited to hear your valuable contributions",
+                "Other members will exclude you because of your opinions"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Other members will be excited to hear your valuable contributions"
         }
     ],
     "navigation_conditions": [

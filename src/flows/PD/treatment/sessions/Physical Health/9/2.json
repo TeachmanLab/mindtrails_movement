@@ -1,14 +1,14 @@
 {
-    "header_text": "Doctor's Appointment",
+    "header_text": "Dry Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Doctor's Appointment"
+            "text": "Dry Difficulty"
         },
         {
             "type": "Media",
-            "url": "./images/479.jpg"
+            "url": "./images/480.jpg"
         }
     ],
     "type": "positive",

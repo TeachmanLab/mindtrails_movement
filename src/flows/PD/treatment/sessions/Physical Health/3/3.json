@@ -1,20 +1,20 @@
 {
-    "header_text": "Blood test results",
+    "header_text": "Flashing movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it unbearable to be nervous as you wait for your test results?"
+            "Text": "Is it distressing when you feel dizzy?"
         },
         {
             "type": "Buttons",
-            "name": "Blood test results_Physical Health_comp_question",
+            "name": "flashing_movie--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
             "correct_value": "No"

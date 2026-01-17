@@ -1,14 +1,14 @@
 {
-    "header_text": "Diagnosed and Dating",
+    "header_text": "Invitation to Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Diagnosed and Dating"
+            "text": "Invitation to Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/588.jpg"
+            "url": "./images/756.jpg"
         }
     ],
     "type": "positive",

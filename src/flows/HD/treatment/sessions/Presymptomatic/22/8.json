@@ -1,16 +1,25 @@
 {
-    "header_text": "Cooking Injury",
+    "header_text": "Home Renovation Preparation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cooking Injury"
+            "text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are distracted as you clean, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your... "
         },
         {
-            "type": "Media",
-            "url": "./images/932.jpg"
+            "type": "WordPuzzle",
+            "name": "home_renovation_preparation--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "feelings"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

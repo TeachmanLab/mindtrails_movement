@@ -1,0 +1,29 @@
+{
+    "header_text": "Research Study",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You felt better because you know... "
+        },
+        {
+            "type": "Buttons",
+            "name": "research_study--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You must continue on",
+                "You can stop any time"
+            ],
+            "column_count": 1,
+            "correct_value": "You can stop any time"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

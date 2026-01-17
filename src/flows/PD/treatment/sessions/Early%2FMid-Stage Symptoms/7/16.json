@@ -1,23 +1,23 @@
 {
-    "header_text": "Conflict with Spouse",
+    "header_text": "Coffee Ordering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Walking the dog allows you to..."
+            "Text": "The employee is probably feeling..."
         },
         {
             "type": "Buttons",
-            "name": "Conflict with Spouse_Early/Mid-Stage Symptoms_comp_question",
+            "name": "coffee_ordering--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Overreact",
-                "Calm down"
+                "Frustrated",
+                "Interested"
             ],
             "column_count": 1,
-            "correct_value": "Calm down"
+            "correct_value": "Interested"
         }
     ],
     "navigation_conditions": [

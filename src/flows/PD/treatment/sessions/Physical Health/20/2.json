@@ -1,0 +1,16 @@
+{
+    "header_text": "Crossing a Bridge",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crossing a Bridge"
+        },
+        {
+            "type": "Media",
+            "url": "./images/519.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

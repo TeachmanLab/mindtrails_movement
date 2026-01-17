@@ -1,25 +1,25 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Shopping Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are attending your grandchild's dance recital. As you are walking into the theater with your family, you freeze in the doorway. You are worried that your grandkid will be..."
+            "text": "You are pushing a full cart of groceries, and you've just reached your car in the parking lot. You are worried about your ability to unload some of the heavier items without falling, and your heart starts to race. As you start to feel out of control, you focus on deep breaths and remind yourself it will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Attending a Dance Recital_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "shopping_anxiety--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "embarrassed"
+                "alright"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

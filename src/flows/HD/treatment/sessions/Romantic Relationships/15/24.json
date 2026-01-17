@@ -1,14 +1,14 @@
 {
-    "header_text": "Introducing Your Spouse to New Friends",
+    "header_text": "Ghosting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Introducing Your Spouse to New Friends"
+            "text": "Ghosting "
         },
         {
             "type": "Media",
-            "url": "./images/152.jpg"
+            "url": "./images/573.jpg"
         }
     ],
     "type": "positive",

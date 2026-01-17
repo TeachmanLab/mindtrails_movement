@@ -1,13 +1,14 @@
 {
-    "header_text": "Outburst During Cards",
+    "header_text": "Clapping at Concert",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are playing card games with a group of friends when you start to get frustrated trying to remember the rules. Suddenly, you have an outburst of emotion and immediately feel embarrassed. You remember that your friends are aware of these symptoms and will be..."
+            "text": "You're at a concert with friends, and everyone starts clapping along to your favorite song. You find that you are struggling to keep the rhythm and begin to panic that this is a sign of your HD progressing. You want to leave the concert early, but you look at the happy faces around you and decide it's better to..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "clapping_at_concert--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

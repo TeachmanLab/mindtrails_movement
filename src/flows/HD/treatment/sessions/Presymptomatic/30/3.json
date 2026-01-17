@@ -1,0 +1,25 @@
+{
+    "header_text": "Gym Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You enjoy fitness classes, but the cost of your gym membership is expensive. You've been thinking about your future health costs, and you consider quitting your gym to save some money. After talking with your doctor, you decide that staying active is a..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "gym_costs--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "priority"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

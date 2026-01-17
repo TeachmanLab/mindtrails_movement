@@ -1,0 +1,16 @@
+{
+    "header_text": "Investments",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Investments"
+        },
+        {
+            "type": "Media",
+            "url": "./images/301.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

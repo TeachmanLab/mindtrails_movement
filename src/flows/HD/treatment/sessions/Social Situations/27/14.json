@@ -1,16 +1,10 @@
 {
-    "header_text": "Accepting Praise",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Accepting Praise"
-        },
-        {
-            "type": "Media",
-            "url": "./images/353.jpg"
+            "text": "Motivational Statement #16 \n\n Want to worry less? Practice your flexible thinking skills today!"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

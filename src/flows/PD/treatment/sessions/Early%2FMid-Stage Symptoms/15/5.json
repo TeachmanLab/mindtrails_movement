@@ -1,16 +1,16 @@
 {
-    "header_text": "Unsteadiness in the Park",
+    "header_text": "Spiritual Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unsteadiness in the Park"
+            "text": "Spiritual Journey"
         },
         {
             "type": "Media",
-            "url": "./images/915.jpg"
+            "url": "./images/785.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

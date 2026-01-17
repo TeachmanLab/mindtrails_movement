@@ -1,29 +1,14 @@
 {
-    "header_text": "Work Gala",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your partner is..."
+            "text": "Is there a situation that you used to find scary or anxiety-provoking, but are comfortable in now? What did you used to tell yourself in that situation? How do you think about it now? "
         },
         {
-            "type": "Buttons",
-            "name": "Work Gala_Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Happy",
-                "Ashamed"
-            ],
-            "column_count": 1,
-            "correct_value": "Happy"
+            "type": "Entry",
+            "name": "tip #3--entry"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Answering Unexpected Questions",
+    "header_text": "Feeling Different",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Answering Unexpected Questions"
+            "text": "Feeling Different"
         },
         {
             "type": "Media",
-            "url": "./images/120.jpg"
+            "url": "./images/99.jpg"
         }
     ],
     "type": "positive",

@@ -1,13 +1,14 @@
 {
-    "header_text": "Clapping at Concert",
+    "header_text": "Overwhelming Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a concert with friends, and everyone starts clapping along to your favorite song. You find that you are struggling to keep the rhythm and begin to panic that this is a sign of your HD progressing. You want to leave the concert early, but you look at the happy faces around you and decide it's better to..."
+            "text": "You're in the waiting room at the doctor's office when you suddenly feel a big rush of anxiety. You snap at the receptionist when she asks you to fill out a form, and this makes you uneasy. You apologize and explain that you're feeling overwhelmed, and the receptionist is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "overwhelming_waiting_room--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

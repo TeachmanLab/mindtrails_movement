@@ -1,0 +1,16 @@
+{
+    "header_text": "Messy to Live With ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Messy to Live With "
+        },
+        {
+            "type": "Media",
+            "url": "./images/580.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

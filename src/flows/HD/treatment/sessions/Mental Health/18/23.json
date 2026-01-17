@@ -1,16 +1,16 @@
 {
-    "header_text": "Certainty of being correct",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Certainty of being correct"
+            "text": "Heart Rate Worries"
         },
         {
             "type": "Media",
-            "url": "./images/10.jpg"
+            "url": "./images/383.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Physical Health",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Set a time/date when you will make a decision about whether you need to see a doctor (e.g., if I still feel sick 3 days from now, I will schedule an appointment)"
+            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
+        },
+        {
+            "type": "Entry",
+            "name": "tip #9--entry"
         }
     ]
 }

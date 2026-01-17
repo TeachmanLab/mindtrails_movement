@@ -1,13 +1,14 @@
 {
-    "header_text": "Hiking with Friends",
+    "header_text": "Anniversary Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You love to hike with friends as a form of quality time together. Although you don't have motor symptoms due to HD yet, you've started to get nervous about every stumble or misstep. Your friends remind you that on uneven trails, unsteadiness is..."
+            "text": "This year, you and your spouse are taking an anniversary trip. As you plan hotel stays and activities, you start to feel swamped by all the reservations and steps. You decide to make a checklist, and you think about the trip with..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "anniversary_trip--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

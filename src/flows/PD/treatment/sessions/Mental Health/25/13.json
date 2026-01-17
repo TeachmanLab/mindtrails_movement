@@ -1,0 +1,17 @@
+{
+    "header_text": "Playing Music",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Playing musical instruments has been a favorite hobby of yours since childhood. Reading the sheet music used to be a strength, but now you have trouble following it. When you take a deep breath and slow down, you are able to refocus and..."
+        },
+        {
+            "type": "Entry",
+            "name": "playing_music--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

@@ -1,25 +1,12 @@
 {
-    "header_text": "Medical Presentation",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You are at an educational event about Huntington's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems..."
-        },
-        {
-            "type": "WordPuzzle",
-            "name": "Medical Presentation_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "confused"
-            ],
-            "missing_letter_count": 2
+            "text": "Think about a situation that makes you anxious that has occurred for you in the past, or that you worry will happen in the future. Please write your own training story based on this situation, making sure to include a positive or non-threatening ending in the final sentence of the story."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

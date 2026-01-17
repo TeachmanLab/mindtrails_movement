@@ -1,14 +1,14 @@
 {
-    "header_text": "Produce Shopping",
+    "header_text": "Thinking fast at work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Produce Shopping"
+            "text": "Thinking fast at work"
         },
         {
             "type": "Media",
-            "url": "./images/762.jpg"
+            "url": "./images/770.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "Unsteadiness in the Park",
+    "header_text": "Staying Present",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unsteadiness in the Park"
+            "text": "Staying Present"
         },
         {
             "type": "Media",
-            "url": "./images/915.jpg"
+            "url": "./images/803.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

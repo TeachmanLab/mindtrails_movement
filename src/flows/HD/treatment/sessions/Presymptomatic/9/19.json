@@ -1,16 +1,16 @@
 {
-    "header_text": "Painting Changes",
+    "header_text": "Focus While Driving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Painting Changes"
+            "text": "Focus While Driving"
         },
         {
             "type": "Media",
-            "url": "./images/923.jpg"
+            "url": "./images/924.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 8
 }

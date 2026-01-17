@@ -1,16 +1,16 @@
 {
-    "header_text": "Night of Bad Sleep",
+    "header_text": "Talking to friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Night of Bad Sleep"
+            "text": "Talking to friends"
         },
         {
             "type": "Media",
-            "url": "./images/760.jpg"
+            "url": "./images/767.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

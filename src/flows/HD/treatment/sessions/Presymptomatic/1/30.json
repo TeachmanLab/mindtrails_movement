@@ -1,14 +1,14 @@
 {
-    "header_text": "Lost Things",
+    "header_text": "A Moody Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lost Things"
+            "text": "A Moody Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/734.jpg"
+            "url": "./images/248.jpg"
         }
     ],
     "type": "positive",

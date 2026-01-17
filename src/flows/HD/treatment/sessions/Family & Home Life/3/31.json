@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Introducing Your Family to Someone New_Family & Home Life_puzzle1",
+            "name": "introducing_your_family_to_someone_new--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

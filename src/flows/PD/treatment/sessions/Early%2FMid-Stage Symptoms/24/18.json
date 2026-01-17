@@ -1,25 +1,17 @@
 {
-    "header_text": "Cleaning the House",
+    "header_text": "Tripping at Family Barbecue",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your... "
+            "text": "While walking across the backyard during a family barbecue, you stumble and trip unexpectedly in front of your family. Your once-confident stride is now replaced by an unsteady gait. After tripping, you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cleaning the House_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "feelings"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "tripping_at_family_barbecue--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

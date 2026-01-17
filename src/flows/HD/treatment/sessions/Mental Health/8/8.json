@@ -7,7 +7,8 @@
             "text": "You have been dealing with some stressful situations recently. You are reflecting on the past few weeks and wonder if you have been feeling numb. You remember that you've been coping well and have most likely kept your emotions..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "feeling_numb--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

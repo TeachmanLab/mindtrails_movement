@@ -1,0 +1,16 @@
+{
+    "header_text": "Reality TV Confusion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reality TV Confusion"
+        },
+        {
+            "type": "Media",
+            "url": "./images/910.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 5
+}

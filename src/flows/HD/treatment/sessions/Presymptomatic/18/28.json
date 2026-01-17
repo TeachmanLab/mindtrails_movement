@@ -1,22 +1,22 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "Friend's Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You mention this to you partner, who admits that they added new clothes to the wash load without telling you. You realize that this was not your fault and laugh as you reflect on the..."
+            "text": "A friend recognizes that you're not behaving like your usual self and takes the time to talk to you. Their words of wisdom and listening ear make you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Stained Laundry_Presymptomatic_puzzle_word2",
+            "name": "friend's_birthday_party--presymptomatic--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "mix-up"
+                "loved"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

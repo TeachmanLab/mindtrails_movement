@@ -1,14 +1,14 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Alternative Contact ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you happy to have your supervisor come to your school event? "
+            "Text": "Did the new person at work get quiet because they were judging you?"
         },
         {
             "type": "Buttons",
-            "name": "An Invitation_Social Situations_comp_question",
+            "name": "alternative_contact_--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

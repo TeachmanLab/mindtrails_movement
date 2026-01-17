@@ -1,25 +1,29 @@
 {
-    "header_text": "Texting and TV",
+    "header_text": "Coming Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at home, watching your favorite TV show while also texting with a friend. However, you are struggling to focus on both tasks at the same time, making you feel overwhelmed. You remind yourself that if you need to pause your show or take a break from texting, then that is..."
+            "Text": "Can you and your partner get along?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Texting and TV_Family & Home Life_puzzle1",
+            "type": "Buttons",
+            "name": "coming_home--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "okay"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 2
 }

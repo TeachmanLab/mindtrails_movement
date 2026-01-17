@@ -7,7 +7,8 @@
             "text": "When you think about telling your children you would like to spend the holidays with your partner, you do not expect them to be upset. You believe that they will take the news... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "holiday_away_from_home--romantic_relationships--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,29 +1,25 @@
 {
-    "header_text": "Mental Health Issues",
+    "header_text": "Burn Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you partner be understanding?"
+            "text": "You have been working really hard for the past year and are starting to feel burned out. You feel like you need to take a break, but you’re worried about the financial repercussions of taking time off. You think that taking time off to focus on your mental health is... "
         },
         {
-            "type": "Buttons",
-            "name": "Mental Health Issues_Mental Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "burn_out--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "important"
             ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

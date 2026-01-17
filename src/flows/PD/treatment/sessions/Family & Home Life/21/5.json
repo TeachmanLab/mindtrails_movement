@@ -1,0 +1,25 @@
+{
+    "header_text": "Balancing responsibilities: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a lot of housework that you have to do tonight, and you also have a big project that's due tomorrow. Both have to get done, and you think about how you'll handle it all. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I think this is too much work, but consider how nice it will feel when it is all done.",
+                "I hate feeling like I have so much to do, but I'll do my best to get it all done.",
+                "I think this will help me organize thoughtfully in the future.",
+                "I can manage both tasks.",
+                "I don't think I can manage all of these tasks."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "Social Changes",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends' support makes you feel..."
+            "Text": "Your neighbor is asking if you are okay because..."
         },
         {
             "type": "Buttons",
-            "name": "Social Changes_Presymptomatic_comp_question",
+            "name": "neighbor_chat--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Understood",
-                "Unwanted"
+                "They care about you",
+                "They are offended"
             ],
             "column_count": 1,
-            "correct_value": "Understood"
+            "correct_value": "They care about you"
         }
     ],
     "navigation_conditions": [

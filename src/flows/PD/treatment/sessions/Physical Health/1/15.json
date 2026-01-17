@@ -1,25 +1,25 @@
 {
-    "header_text": "Sunday Morning Run",
+    "header_text": "Hot day ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's Sunday morning and you just went for a walk outside. Taking off your running shoes in the hallway, you are short of breath. You feel..."
+            "text": "This feeling is surprising and uncomfortable. You realize this is something you can observe, and you start feeling..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sunday Morning Run_Physical Health_puzzle1",
+            "name": "hot_day_--physical_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "proud"
+                "better"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

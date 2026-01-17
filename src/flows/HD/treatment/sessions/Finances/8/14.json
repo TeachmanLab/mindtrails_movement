@@ -7,7 +7,8 @@
             "text": "You've recently been putting money in savings to have in case of emergencies. Your credit card bill was more than you had expected this month, and you had to take a large bit of money from your savings to pay for it. You decide this is okay, and you will focus on budgeting in the future to increase your... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "savings_scandal--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

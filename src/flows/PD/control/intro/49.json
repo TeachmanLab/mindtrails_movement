@@ -7,6 +7,7 @@
             "text": "You receive an email from your bank that you forgot to pay a bill. What does this mean? \n\nYou are no longer fit to manage your own finances."
         },
         {
+            "name": "mdib_6b_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

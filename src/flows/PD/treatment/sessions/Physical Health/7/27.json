@@ -1,14 +1,14 @@
 {
-    "header_text": "Catching Your Breath",
+    "header_text": "Trampoline Safety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Catching Your Breath"
+            "text": "Trampoline Safety"
         },
         {
             "type": "Media",
-            "url": "./images/470.jpg"
+            "url": "./images/471.jpg"
         }
     ],
     "type": "positive",

@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Brief Introduction"
+            "Text": "Did the other people think you were boring?"
         },
         {
-            "type": "Media",
-            "url": "./images/123.jpg"
+            "type": "Buttons",
+            "name": "brief_introduction--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 2
 }

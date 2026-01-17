@@ -1,0 +1,17 @@
+{
+    "header_text": "Picnic Packing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were invited to join a picnic with several friends. As you pack, you can't seem to remember what to bring. You grab paper and a pencil and call your friends again, knowing they will give you a... "
+        },
+        {
+            "type": "Entry",
+            "name": "picnic_packing--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

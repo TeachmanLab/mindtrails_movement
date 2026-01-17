@@ -7,6 +7,7 @@
             "text": "While eating breakfast, you cough while trying to swallow. Why? \n\nBecause of your disease, it has become more difficult for your body to coordinate swallowing."
         },
         {
+            "name": "mdib_12c_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

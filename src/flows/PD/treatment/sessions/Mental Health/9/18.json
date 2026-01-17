@@ -1,16 +1,17 @@
 {
-    "header_text": "Anticipating a Response",
+    "header_text": "Cardio with friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Anticipating a Response"
+            "text": "You begin to have anxious thoughts about passing out. You decide to simply notice these..."
         },
         {
-            "type": "Media",
-            "url": "./images/361.jpg"
+            "type": "Entry",
+            "name": "cardio_with_friend--mental_health--puzzle2_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 8
+    "scenario_num": 7
 }

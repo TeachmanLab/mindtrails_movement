@@ -1,0 +1,16 @@
+{
+    "header_text": "Future Gym Visits",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Future Gym Visits"
+        },
+        {
+            "type": "Media",
+            "url": "./images/518.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

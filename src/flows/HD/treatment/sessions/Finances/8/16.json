@@ -7,7 +7,8 @@
             "text": "You are trying to buy supplies needed for your job, and your employer typically pays you back. However, you’ve noticed that the price of an item you buy often has gone way up, and you worry that you will have to pay for some of it out of pocket. You reach out to your supervisor to discuss the change, and they confirm you will still be fully..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "buying_supplies--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

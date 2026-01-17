@@ -1,16 +1,17 @@
 {
-    "header_text": "Therapist after Diagnosis",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Therapist after Diagnosis"
+            "text": "You are on your family's annual beach vacation. Your nieces and nephews want you to go in the water with them, but you are nervous about staying balanced with the crash and force of the waves. You think about how they will be with you in the water and decide to go have some... "
         },
         {
-            "type": "Media",
-            "url": "./images/774.jpg"
+            "type": "Entry",
+            "name": "beach_vacation--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

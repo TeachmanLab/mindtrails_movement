@@ -1,16 +1,16 @@
 {
-    "header_text": "Friend's Get Together",
+    "header_text": "An Acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend is having a get together tonight. You weren't invited, but most of your other friends were. When you think about it, this makes you feel..."
+            "text": "An Acquaintance"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/650.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

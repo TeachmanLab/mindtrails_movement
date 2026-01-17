@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Dinner",
+    "header_text": "Future Workouts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Dinner"
+            "text": "Future Workouts"
         },
         {
             "type": "Media",
-            "url": "./images/731.jpg"
+            "url": "./images/802.jpg"
         }
     ],
     "type": "positive",

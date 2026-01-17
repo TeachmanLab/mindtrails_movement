@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Long Distance Walk_Physical Health_puzzle1",
+            "name": "long_distance_walk--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

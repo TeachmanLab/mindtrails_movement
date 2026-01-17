@@ -1,16 +1,16 @@
 {
-    "header_text": "Genetic Uncertainty",
+    "header_text": "Messy Living Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Genetic Uncertainty"
+            "text": "Messy Living Room"
         },
         {
             "type": "Media",
-            "url": "./images/934.jpg"
+            "url": "./images/929.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 6
 }

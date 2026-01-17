@@ -1,16 +1,25 @@
 {
-    "header_text": "Forgetting Movie Title",
+    "header_text": "Organizing an Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgetting Movie Title"
+            "text": "You were asked to plan a fundraiser for a local non-profit, a task you've taken on yearly. While organizing the details, you become upset because you notice it is taking you much longer than in the past. You choose to write down a plan, delegate tasks to others, and watch the event come together..."
         },
         {
-            "type": "Media",
-            "url": "./images/820.jpg"
+            "type": "WordPuzzle",
+            "name": "organizing_an_event--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "successfully"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

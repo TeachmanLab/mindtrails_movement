@@ -1,16 +1,16 @@
 {
-    "header_text": "Virtual Worry",
+    "header_text": "Finishing Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Virtual Worry"
+            "text": "Finishing Work"
         },
         {
             "type": "Media",
-            "url": "./images/49.jpg"
+            "url": "./images/48.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

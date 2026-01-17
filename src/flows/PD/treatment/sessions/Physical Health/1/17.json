@@ -1,16 +1,16 @@
 {
-    "header_text": "Hot day ",
+    "header_text": "Hospital waiting room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hot day "
+            "text": "Hospital waiting room"
         },
         {
             "type": "Media",
-            "url": "./images/357.jpg"
+            "url": "./images/430.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

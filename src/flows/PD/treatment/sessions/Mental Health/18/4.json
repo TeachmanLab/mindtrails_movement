@@ -1,16 +1,16 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pool Time"
+            "text": "Party with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/400.jpg"
+            "url": "./images/379.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

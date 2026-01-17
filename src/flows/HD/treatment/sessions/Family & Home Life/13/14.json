@@ -1,16 +1,10 @@
 {
-    "header_text": "Child Check-In",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Child Check-In"
-        },
-        {
-            "type": "Media",
-            "url": "./images/30.jpg"
+            "text": "Motivational Statement #14 \n\n Anxiety thrives when we assume the worst. By using this program, you can cultivate a more positive and flexible mindset."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

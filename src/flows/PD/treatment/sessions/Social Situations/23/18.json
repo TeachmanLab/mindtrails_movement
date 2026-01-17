@@ -1,25 +1,17 @@
 {
-    "header_text": "Not Getting an Invite",
+    "header_text": "New Training Plan",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend is going bowling tonight, and you didn't get an invite. Most of your other friends were invited, so you think you weren't invited due to your PD symptoms. When you think about it, you realize it's because you are..."
+            "text": "You are giving a presentation to your coworkers about a new training plan. You feel that your hands are shaking a little. Wondering if it is obvious, you look around and see that a few people have..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Not Getting an Invite_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "busy"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "new_training_plan--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

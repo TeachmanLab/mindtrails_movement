@@ -1,16 +1,16 @@
 {
-    "header_text": "Unfamiliar Walk",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unfamiliar Walk"
+            "text": "Baking Cookies"
         },
         {
             "type": "Media",
-            "url": "./images/846.jpg"
+            "url": "./images/223.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 3
 }

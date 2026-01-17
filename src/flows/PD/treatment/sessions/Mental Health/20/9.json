@@ -1,16 +1,16 @@
 {
-    "header_text": "Assembling Furniture",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently ordered furniture online that you have to put together yourself. You struggle to make out the diagrams and wonder if you are struggling because of PD. You think to yourself that the instructions are bad, and this makes you... "
+            "text": "An Invitation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/396.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

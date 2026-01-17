@@ -1,0 +1,16 @@
+{
+    "header_text": "Hallucinating Child",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hallucinating Child"
+        },
+        {
+            "type": "Media",
+            "url": "./images/976.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

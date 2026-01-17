@@ -1,16 +1,16 @@
 {
-    "header_text": "Laundry Dilemma",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Laundry Dilemma"
+            "text": "Online Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/234.jpg"
+            "url": "./images/222.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

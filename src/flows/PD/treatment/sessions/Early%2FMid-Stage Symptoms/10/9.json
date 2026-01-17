@@ -1,16 +1,17 @@
 {
-    "header_text": "Difficulty Baking",
+    "header_text": "Getting Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Difficulty Baking"
+            "text": "You are waiting for your drink at a cafe. When you think about walking over to pick up your drink, you fear others will notice your unsteady walking. As you're walking over, your legs are noticeably unstable with each step, and you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/576.jpg"
+            "type": "Entry",
+            "name": "getting_coffee--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

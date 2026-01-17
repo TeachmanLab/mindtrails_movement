@@ -1,16 +1,25 @@
 {
-    "header_text": "Convenience Store",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Convenience Store"
+            "text": "You are at the park with a friend when your hands start shaking. Your heart begins to pound when your friend notices your hands, and you feel out of control. You begin to focus on taking slow, deep breaths and remind yourself this feeling will..."
         },
         {
-            "type": "Media",
-            "url": "./images/758.jpg"
+            "type": "WordPuzzle",
+            "name": "at_the_park--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "pass"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 2
 }

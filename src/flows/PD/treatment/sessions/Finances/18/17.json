@@ -1,0 +1,16 @@
+{
+    "header_text": "Online Payment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Online Payment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/320.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

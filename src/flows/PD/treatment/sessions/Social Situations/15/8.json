@@ -1,16 +1,16 @@
 {
-    "header_text": "Masks for Guests",
+    "header_text": "Attention in Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Masks for Guests"
+            "text": "Attention in Store"
         },
         {
             "type": "Media",
-            "url": "./images/181.jpg"
+            "url": "./images/654.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

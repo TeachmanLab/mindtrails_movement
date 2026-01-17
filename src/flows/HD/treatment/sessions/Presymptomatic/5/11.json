@@ -1,25 +1,29 @@
 {
-    "header_text": "Lost Wallet",
+    "header_text": "Multitasking While Cooking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Luckily, a store employee finds your wallet and returns it. This is a good reminder that asking for help when needed can make things..."
+            "Text": "Your friend will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Lost Wallet_Presymptomatic_puzzle_word2",
+            "type": "Buttons",
+            "name": "multitasking_while_cooking--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "easier"
+            "buttons": [
+                "Understanding",
+                "Frustrated"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Understanding"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,25 +1,29 @@
 {
-    "header_text": "Not Feeling Supported",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You remember why you worked on the project in the first place. After you think about it, you appreciate how hard you worked, and you feel..."
+            "Text": "Are you calm about your colleague coming over this afternoon?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Not Feeling Supported_Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "balancing_home_life_and_friends--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "better"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
     "scenario_num": 2
 }

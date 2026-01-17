@@ -1,16 +1,25 @@
 {
-    "header_text": "New Book Club ",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You consider inviting them over for dinner. You make a plan to have someone help you tidy up because your book club friends are..."
+            "text": "You have just been given a job in an office that you really like. To get the promotion you want, you know that you will have to work very hard for several years. As you envision your position in the company down the road, you expect the job you want will be given to someone..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "working_to_get_ahead--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "else"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 4
 }

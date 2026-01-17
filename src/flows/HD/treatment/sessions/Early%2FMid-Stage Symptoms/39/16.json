@@ -1,0 +1,17 @@
+{
+    "header_text": "Forgotten Ingredients",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are making a new recipe for dinner that your friend just shared with you over the phone a few minutes ago. You've already forgotten a few of the ingredients and are feeling frustrated that your memory isn't what it used to be. You realize you can call your friend back, and they would share the recipe again..."
+        },
+        {
+            "type": "Entry",
+            "name": "forgotten_ingredients--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

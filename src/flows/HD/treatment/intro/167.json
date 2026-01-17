@@ -7,6 +7,7 @@
             "text": "How vividly did you imagine the situation?"
         },
         {
+            "name": "imagery_vivid",
             "type": "Buttons",
             "buttons": [
                 "Not at all vivid",
@@ -15,9 +16,7 @@
                 "Very vivid",
                 "Totally vivid",
                 "^Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "imagery_vivid"
+            ]
         }
     ]
 }

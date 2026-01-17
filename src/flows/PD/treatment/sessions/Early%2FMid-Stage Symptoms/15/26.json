@@ -1,29 +1,25 @@
 {
-    "header_text": "Clapping at Concert",
+    "header_text": "Lunch with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are your symptoms distracting others from the concert?"
+            "text": "Your friend laughs and points out that the waiter accidentally switched your plates. As you giggle and slide your plate over to them, you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Clapping at Concert_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "lunch_with_new_friend--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "relieved"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

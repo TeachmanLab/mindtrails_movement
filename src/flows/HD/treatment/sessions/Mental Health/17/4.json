@@ -1,16 +1,16 @@
 {
-    "header_text": "Sharing with Someone New",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sharing with Someone New"
+            "text": "Special Day"
         },
         {
             "type": "Media",
-            "url": "./images/395.jpg"
+            "url": "./images/370.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Having a New Friend Over",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your coworkers judge your home?"
+            "Text": "Are you anxious about your plan to finish your tasks in the morning?"
         },
         {
             "type": "Buttons",
-            "name": "Having a New Friend Over_Mental Health_comp_question",
+            "name": "waking_up_ready--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

@@ -1,16 +1,29 @@
 {
-    "header_text": "Cooking Injury",
+    "header_text": "Home Renovation Preparation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're normally very careful when working in the kitchen. While chopping vegetables, you accidentally cut your finger. This makes you scared that your coordination is getting..."
+            "Text": "Do you find a solution to clean your house and connect with your spouse?"
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "home_renovation_preparation--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

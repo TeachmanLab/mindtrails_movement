@@ -1,16 +1,16 @@
 {
-    "header_text": "Typing An Email",
+    "header_text": "Finding Your Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Typing An Email"
+            "text": "Finding Your Wallet"
         },
         {
             "type": "Media",
-            "url": "./images/815.jpg"
+            "url": "./images/793.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

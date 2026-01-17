@@ -1,16 +1,16 @@
 {
-    "header_text": "Vaccination Reassurance",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got... "
+            "text": "Fundraiser presentation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/107.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 5
 }

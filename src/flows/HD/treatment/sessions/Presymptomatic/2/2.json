@@ -1,20 +1,20 @@
 {
-    "header_text": "Familiar Recipe",
+    "header_text": "Caring for Children",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are setting out the ingredients to cook a favorite family dinner. You are blanking on how the recipe starts, and you begin to get upset. You get out the written recipe and know that you are... "
+            "text": "You were recently diagnosed with HD and are aware of the challenges that lie ahead. The changing symptoms and unpredictable nature of your condition makes you question whether you will be able to provide the necessary care for your children. However, your family reminds you that you are not alone, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Familiar Recipe_Presymptomatic_puzzle1",
+            "name": "caring_for_children--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "capable"
+                "reassured"
             ],
             "missing_letter_count": 1
         }

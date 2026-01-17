@@ -1,20 +1,20 @@
 {
-    "header_text": "One-on-one thoughts",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to tolerate your anxiety while meeting with your boss?"
+            "Text": "Was your boss pleased with your progress?"
         },
         {
             "type": "Buttons",
-            "name": "One-on-one thoughts_Mental Health_comp_question",
+            "name": "important_opinion--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "Yes"
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

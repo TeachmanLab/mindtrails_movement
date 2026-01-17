@@ -1,0 +1,16 @@
+{
+    "header_text": "Changing Your Trajectory",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Changing Your Trajectory"
+        },
+        {
+            "type": "Media",
+            "url": "./images/94.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

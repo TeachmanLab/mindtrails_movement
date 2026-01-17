@@ -1,20 +1,20 @@
 {
-    "header_text": "Dinner Party Confusion",
+    "header_text": "Master's Degree",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you and your friends laugh off your confusion?"
+            "Text": "Are you able to move forward, despite your fears?"
         },
         {
             "type": "Buttons",
-            "name": "Dinner Party Confusion_Presymptomatic_comp_question",
+            "name": "master's_degree--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "Yes"
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

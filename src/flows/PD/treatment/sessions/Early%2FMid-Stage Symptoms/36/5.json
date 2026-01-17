@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptomatic in Public: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A random person comes up to you to ask you a question, but all you can manage in response is a quiet mumble they can't hear. You start wondering what their response will be.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "They think you're being rude to them.",
+                "I rue the condition I'm in, but know that I will adjust.",
+                "They will be patient with you.",
+                "It may be difficult to speak up, but I will still be able to express myself.",
+                "They assume that their hearing was just not good enough and will just ask you to repeat waht you said."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

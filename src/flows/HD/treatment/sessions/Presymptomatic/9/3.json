@@ -1,13 +1,14 @@
 {
-    "header_text": "Job Applications",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've updated your resume and are feeling excited to explore new job opportunities. Suddenly, you find yourself hesitating before submitting your job application because you're anxious about how your health may impact your future. As you remind yourself of your skills and determination, you feel empowered to focus on the..."
+            "text": "You're at the gym lifting weights when you suddenly feel off balance. You pause your workout out of concern and wonder how you will continue to exercise as your disease progresses. You remember that working out is important for your well-being, so you decide to embrace the future with..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "future_gym_visits--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

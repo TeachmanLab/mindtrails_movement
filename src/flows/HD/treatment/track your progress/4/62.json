@@ -7,6 +7,7 @@
             "text": "A friend suggests that you change the way you're doing a job in your house. Why? \n\nThey think you're incompetent."
         },
         {
+            "name": "bbsiq_7b_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

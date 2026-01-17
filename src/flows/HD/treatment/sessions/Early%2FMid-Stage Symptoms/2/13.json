@@ -1,25 +1,29 @@
 {
-    "header_text": "Flights of Stairs",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "An employee shows you that the doctor's office is on one of the lower levels and offers to escort you there. You start to feel..."
+            "Text": "After taking a moment, you see that you..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Flights of Stairs_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "record_store--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "Did cause damage",
+                "Did not cause damage"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Did not cause damage"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 3
 }

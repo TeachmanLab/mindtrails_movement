@@ -1,29 +1,17 @@
 {
-    "header_text": "Introducing Your Spouse to New Friends",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you worried about what your spouse will say tonight? "
+            "text": "You have been taking a dance class at the local community center and are performing in a showcase. You want to invite your friends and family, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself doing..."
         },
         {
-            "type": "Buttons",
-            "name": "Introducing Your Spouse to New Friends_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "the_dance_showcase--social_situations--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 4
 }

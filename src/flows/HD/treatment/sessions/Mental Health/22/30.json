@@ -1,0 +1,16 @@
+{
+    "header_text": "Interview anticipation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Interview anticipation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/12.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

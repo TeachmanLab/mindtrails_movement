@@ -1,16 +1,16 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Beach Walk"
+            "text": "Fresh Air"
         },
         {
             "type": "Media",
-            "url": "./images/837.jpg"
+            "url": "./images/210.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

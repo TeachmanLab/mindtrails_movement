@@ -7,6 +7,7 @@
             "text": "I was able to manage my emotions today."
         },
         {
+            "name": "nightly_manageemotions",
             "type": "Buttons",
             "buttons": [
                 "7::7: Very effectively",
@@ -16,8 +17,7 @@
                 "3::3",
                 "2::2",
                 "1::1: Not at all effectively"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

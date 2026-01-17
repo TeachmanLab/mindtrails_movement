@@ -1,0 +1,16 @@
+{
+    "header_text": "Yoga Equipment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Yoga Equipment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/522.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

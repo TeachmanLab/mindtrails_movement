@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptomatic in Public: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A random person comes up to you to ask you a question, but all you can manage in response is a quiet mumble they can't hear. You start wondering what their response will be.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm scared the person will yell at me.",
+                "I'm happy that I was at least able to talk.",
+                "I'm worried what the look on his face in response means, but I can get through this.",
+                "I'm worried that I might come across as rude, but I trust that the other person has enough patience not to immediately assume the worst.",
+                "I'm confident this person won't be rude to me in response."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

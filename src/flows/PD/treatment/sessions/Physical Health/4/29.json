@@ -1,16 +1,16 @@
 {
-    "header_text": "Walking pain",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Walking pain"
+            "text": "Heart Rate Worries"
         },
         {
             "type": "Media",
-            "url": "./images/455.jpg"
+            "url": "./images/383.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

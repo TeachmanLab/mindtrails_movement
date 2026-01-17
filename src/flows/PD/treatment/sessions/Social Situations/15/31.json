@@ -1,14 +1,14 @@
 {
-    "header_text": "Watching a Movie with Friends",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Watching a Movie with Friends"
+            "text": "Friends Hanging Out"
         },
         {
             "type": "Media",
-            "url": "./images/676.jpg"
+            "url": "./images/659.jpg"
         }
     ],
     "type": "positive",

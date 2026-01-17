@@ -1,29 +1,29 @@
 {
-    "header_text": "Completion Complications",
+    "header_text": "Noisy Neighbors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be able to finish your proposal in time?"
+            "Text": "Are you ready for your presentation?"
         },
         {
             "type": "Buttons",
-            "name": "Completion Complications_Work/Career Development_comp_question",
+            "name": "noisy_neighbors--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

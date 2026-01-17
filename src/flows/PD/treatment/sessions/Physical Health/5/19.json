@@ -1,16 +1,16 @@
 {
-    "header_text": "Vision Troubles",
+    "header_text": "Spider bite",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vision Troubles"
+            "text": "Spider bite"
         },
         {
             "type": "Media",
-            "url": "./images/460.jpg"
+            "url": "./images/461.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

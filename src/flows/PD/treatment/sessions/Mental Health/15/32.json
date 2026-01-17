@@ -1,22 +1,22 @@
 {
-    "header_text": "Couples Counseling",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner have started couples counseling. You've been to a few sessions, but you and your partner are still having issues. You think that the process will just take... "
+            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Couples Counseling_Mental Health_puzzle1",
+            "name": "trip_to_the_dentist--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "time"
+                "reassurance"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

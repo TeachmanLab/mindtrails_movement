@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Catching Your Breath_Physical Health_comp_question",
+            "name": "catching_your_breath--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

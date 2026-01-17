@@ -1,29 +1,29 @@
 {
-    "header_text": "Sleep Trouble",
+    "header_text": "Life Changes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you figure out a better sleep situation?"
+            "Text": "Will distance make your relationship fall apart? "
         },
         {
             "type": "Buttons",
-            "name": "Sleep Trouble_Romantic Relationships_comp_question",
+            "name": "life_changes_--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

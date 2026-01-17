@@ -1,16 +1,25 @@
 {
-    "header_text": "Workout Whispers",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Workout Whispers"
+            "text": "You recently replaced your laptop and had to go with a cheaper option. Your boss asks you to complete a project that will require an application that your new computer doesn't have. When you think about completing your work for this project, you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/412.jpg"
+            "type": "WordPuzzle",
+            "name": "using_different_technology--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "capable"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

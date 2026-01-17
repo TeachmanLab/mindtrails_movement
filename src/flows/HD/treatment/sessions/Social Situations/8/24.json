@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety?"
+            "text": "Think about a challenging situation that's coming up soon. What are some ways you could apply what you learned from this training to manage your own situation? "
         },
         {
             "type": "Entry",
-            "name": "Tip #11_entry"
+            "name": "tip #7--entry"
         }
     ]
 }

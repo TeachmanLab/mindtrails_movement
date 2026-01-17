@@ -7,6 +7,7 @@
             "text": "You go to your parents' home for the first time in a while and notice that your father looks a lot less healthy than you remember. Neither one of your parents mentions anything about his health. \n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
         },
         {
+            "name": "long14",
             "type": "Entry"
         }
     ],

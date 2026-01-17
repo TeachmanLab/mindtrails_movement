@@ -1,14 +1,14 @@
 {
-    "header_text": "Disclosing Your Mental Health",
+    "header_text": "Annual physical exam",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Disclosing Your Mental Health"
+            "text": "Annual physical exam"
         },
         {
             "type": "Media",
-            "url": "./images/393.jpg"
+            "url": "./images/368.jpg"
         }
     ],
     "type": "positive",

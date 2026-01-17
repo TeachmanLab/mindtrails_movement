@@ -1,25 +1,25 @@
 {
-    "header_text": "Comparing at the Gym",
+    "header_text": "Meal Program Volunteering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your decide to confide in your trainer who highlights the improvement you've been making in a relatively short period of time. Their encouragement allows you to look at the situation more..."
+            "text": "You love volunteering with the local senior meal program weekly. You slipped and hurt yourself a week ago, and your doctor told you that it would be at least a month before you should volunteer again. The thought of not helping others makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comparing at the Gym_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "meal_program_volunteering--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "positively"
+                "sad"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 5
 }

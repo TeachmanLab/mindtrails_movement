@@ -1,23 +1,23 @@
 {
-    "header_text": "A sip of water",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The department members probably think..."
+            "Text": "Given you experience and skills..."
         },
         {
             "type": "Buttons",
-            "name": "A sip of water_Work/Career Development_comp_question",
+            "name": "changing_your_trajectory--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You look very nervous during your presentation",
-                "You look calm and composed during your presentation"
+                "You will probably be stuck in a job you don't enjoy",
+                "You stand a good chance of landing a rewarding position"
             ],
             "column_count": 1,
-            "correct_value": "You look calm and composed during your presentation"
+            "correct_value": "You stand a good chance of landing a rewarding position"
         }
     ],
     "navigation_conditions": [

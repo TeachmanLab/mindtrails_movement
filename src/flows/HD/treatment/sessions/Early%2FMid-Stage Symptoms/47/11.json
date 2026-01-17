@@ -1,0 +1,16 @@
+{
+    "header_text": "Flights of Stairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Flights of Stairs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/726.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

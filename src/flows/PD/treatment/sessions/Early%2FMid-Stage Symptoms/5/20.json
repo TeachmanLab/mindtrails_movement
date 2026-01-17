@@ -1,23 +1,23 @@
 {
-    "header_text": "Dinner Alone",
+    "header_text": "Conflict with Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "People at the restaurant are probably..."
+            "Text": "Walking the dog allows you to..."
         },
         {
             "type": "Buttons",
-            "name": "Dinner Alone_Early/Mid-Stage Symptoms_comp_question",
+            "name": "conflict_with_spouse--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Judging you",
-                "Busy with their own meals"
+                "Calm down",
+                "Overreact"
             ],
             "column_count": 1,
-            "correct_value": "Busy with their own meals"
+            "correct_value": "Calm down"
         }
     ],
     "navigation_conditions": [

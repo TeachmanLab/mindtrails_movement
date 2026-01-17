@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Romantic Relationships",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "If your romantic partner is upset, try asking them what they might need from you in that moment."
+        }
+    ]
+}

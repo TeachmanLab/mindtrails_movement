@@ -7,7 +7,8 @@
             "text": "You ask about how they're feeling, and they respond that they're trying to remember the answer to your question. This makes you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "difficulty_baking--early_mid-stage_symptoms--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

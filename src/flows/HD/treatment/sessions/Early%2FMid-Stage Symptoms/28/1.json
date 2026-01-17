@@ -1,16 +1,12 @@
 {
-    "header_text": "Saturday Brunch",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Saturday Brunch"
-        },
-        {
-            "type": "Media",
-            "url": "./images/238.jpg"
+            "text": "In this exercise, help the Mindtrails Movement team come up with new training stories that may be included in our future program to help other participants!"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

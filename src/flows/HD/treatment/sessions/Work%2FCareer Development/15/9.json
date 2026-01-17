@@ -1,16 +1,25 @@
 {
-    "header_text": "Unfinished Work",
+    "header_text": "New Skill",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unfinished Work"
+            "text": "You have enrolled in a data science program offered by your workplace. You know the demand for people with data science experience is going up, but the course is very difficult. Imagining how you will do in the program, you believe your efforts to learn some data science skills will be..."
         },
         {
-            "type": "Media",
-            "url": "./images/77.jpg"
+            "type": "WordPuzzle",
+            "name": "new_skill--work_career_development--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "useless"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
     "scenario_num": 2
 }

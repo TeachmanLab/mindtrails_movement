@@ -1,16 +1,25 @@
 {
-    "header_text": "Giving Up Favorite Hobby",
+    "header_text": "Bills Due",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Giving Up Favorite Hobby"
+            "text": "It's the beginning of the month, and you are getting organized to pay your bills. You've had so much going on lately that it is difficult to get focused. As you work through the bills one at a time, you think the likelihood of getting them all paid on time is..."
         },
         {
-            "type": "Media",
-            "url": "./images/250.jpg"
+            "type": "WordPuzzle",
+            "name": "bills_due--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "high"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "negative",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

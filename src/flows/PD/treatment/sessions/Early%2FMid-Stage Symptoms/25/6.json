@@ -1,16 +1,17 @@
 {
-    "header_text": "Unfamiliar Walk",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Unfamiliar Walk"
+            "text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add a few things. You feel ashamed, but you remember that your kid tends to be..."
         },
         {
-            "type": "Media",
-            "url": "./images/846.jpg"
+            "type": "Entry",
+            "name": "online_shopping--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

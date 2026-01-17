@@ -1,0 +1,16 @@
+{
+    "header_text": "Planning a Family Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planning a Family Vacation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/735.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

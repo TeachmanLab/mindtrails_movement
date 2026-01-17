@@ -1,25 +1,25 @@
 {
-    "header_text": "Lost Wallet",
+    "header_text": "Multitasking While Cooking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you reach for your wallet to pay, you realize it's not there. You think you must have dropped it somewhere in the store, and you immediately worry about losing other important belongings in the future. This makes your anxiety..."
+            "text": "You are talking on the phone with a friend while cooking dinner. You're surprised to find that you are having trouble multitasking between having a conversation and cooking. You decide to call your friend back after you have finished cooking and know that they will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Lost Wallet_Presymptomatic_puzzle1",
+            "name": "multitasking_while_cooking--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "worse"
+                "understanding"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Situations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Situations"
+        },
+        {
+            "type": "Media",
+            "url": "./images/885.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

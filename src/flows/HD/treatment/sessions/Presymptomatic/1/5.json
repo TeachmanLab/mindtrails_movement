@@ -1,20 +1,20 @@
 {
-    "header_text": "Work Concentration",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at work trying to finish a project before the deadline. You are having trouble concentrating on your work and worry what your supervisor will think about your ability to meet the deadline. You remember that your supervisor knows about your diagnosis and will be..."
+            "text": "You are in a research study that requires multiple visits. You finish some of the exams with the research coordinator, and you feel that you aren't doing as well as you usually do. When the principal investigator comes in, they tell you that your participation is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Work Concentration_Presymptomatic_puzzle1",
+            "name": "research_visit--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understanding"
+                "appreciated"
             ],
             "missing_letter_count": 1
         }

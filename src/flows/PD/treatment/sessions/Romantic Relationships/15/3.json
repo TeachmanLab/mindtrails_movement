@@ -1,22 +1,22 @@
 {
-    "header_text": "New Home",
+    "header_text": "Big Families ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are planning on moving and have started looking at houses on the market. Your spouse finds a home that they love, but you think that it would really stretch your budget. You feel confident you’ll be able to come up with a solution that works for... "
+            "text": "Your fiance has children, while you do not. You are trying to adapt to living with younger children and how to bond with them. You think you will be able to work out a routine and adapt to this new family... "
         },
         {
             "type": "WordPuzzle",
-            "name": "New Home_Romantic Relationships_puzzle1",
+            "name": "big_families_--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "everyone"
+                "dynamic"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

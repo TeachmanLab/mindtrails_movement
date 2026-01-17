@@ -1,0 +1,25 @@
+{
+    "header_text": "Granddaughter's School Play",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "For months, your granddaughter has been telling you about the play she is in — The Lion King. You make it to the first performance when you suddenly begin to feel anxious, out of breath, and start sweating. Despite your granddaughter watching you leave, you step out to take care of yourself knowing she will be... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "granddaughter's_school_play--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "forgiving"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

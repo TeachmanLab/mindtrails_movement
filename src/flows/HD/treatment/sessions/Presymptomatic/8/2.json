@@ -1,25 +1,16 @@
 {
-    "header_text": "Cleaning Your Home",
+    "header_text": "Job Interview",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at home, cleaning up the living room while listening to music in the background. As you start to organize the shelves and fold laundry, you notice that you're struggling to keep track of what you're doing. At first, this causes you to feel overwhelmed, but you remind yourself to take a deep breath and..."
+            "text": "Job Interview"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cleaning Your Home_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relax"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/917.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

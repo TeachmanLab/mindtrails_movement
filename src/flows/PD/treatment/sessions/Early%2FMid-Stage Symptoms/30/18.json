@@ -1,16 +1,16 @@
 {
-    "header_text": "Language Class",
+    "header_text": "Smoothie Shop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You find it difficult to remember new vocabulary, and you're dreading the day that the teacher will call on you in front of everyone. When the day comes, it is obvious to everyone that you have... "
+            "text": "Smoothie Shop"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/835.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 5
 }

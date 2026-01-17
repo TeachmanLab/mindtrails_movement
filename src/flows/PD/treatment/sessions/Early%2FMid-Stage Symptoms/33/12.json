@@ -1,16 +1,25 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Unfamiliar Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You spend some time with your family and friends. You realize, if your symptoms become that severe, you will still be surrounded by loved ones who..."
+            "text": "You are on a walk with your dog, trying to relax and exercise. You find yourself on an unusual route and don't recognize your surroundings. You take out your cell phone and reroute home, showing that you are able to..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "unfamiliar_walk--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "adapt"
+            ],
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

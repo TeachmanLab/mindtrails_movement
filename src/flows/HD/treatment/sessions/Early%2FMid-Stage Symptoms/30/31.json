@@ -1,0 +1,16 @@
+{
+    "header_text": "Shopping Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Shopping Help"
+        },
+        {
+            "type": "Media",
+            "url": "./images/838.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

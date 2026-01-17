@@ -7,6 +7,7 @@
             "text": "You have a lot of housework that you have to do tonight, and you also have a big project that's due tomorrow. Both have to get done, and you think about how you'll handle it all. \n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
         },
         {
+            "name": "long14",
             "type": "Entry"
         }
     ],

@@ -1,0 +1,29 @@
+{
+    "header_text": "Diagnosed and Dating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You trust that your date will react with..."
+        },
+        {
+            "type": "Buttons",
+            "name": "diagnosed_and_dating--romantic_relationships--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Rejection",
+                "Understanding"
+            ],
+            "column_count": 1,
+            "correct_value": "Understanding"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

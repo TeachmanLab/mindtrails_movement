@@ -1,16 +1,16 @@
 {
-    "header_text": "Tripping at Family Barbecue",
+    "header_text": "Difficult Handoff",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tripping at Family Barbecue"
+            "text": "Difficult Handoff"
         },
         {
             "type": "Media",
-            "url": "./images/215.jpg"
+            "url": "./images/813.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 4
 }

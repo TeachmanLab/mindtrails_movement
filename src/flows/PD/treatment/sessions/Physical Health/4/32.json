@@ -1,14 +1,29 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
+            "Text": "When your heart started beating very fast..."
         },
         {
-            "type": "Entry",
-            "name": "Tip #8_entry"
+            "type": "Buttons",
+            "name": "heart_rate_worries--physical_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You stopped dancing because of your anxiety",
+                "You managed your anxiety, and stayed"
+            ],
+            "column_count": 1,
+            "correct_value": "You managed your anxiety, and stayed"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

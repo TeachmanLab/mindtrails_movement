@@ -7,7 +7,8 @@
             "text": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "waking_up_ready--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,29 +1,29 @@
 {
-    "header_text": "Thoughts at the train station",
+    "header_text": "Flashing movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is there something majorly wrong with your leg?"
+            "Text": "Is it distressing when you feel dizzy?"
         },
         {
             "type": "Buttons",
-            "name": "Thoughts at the train station_Physical Health_comp_question",
+            "name": "flashing_movie--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

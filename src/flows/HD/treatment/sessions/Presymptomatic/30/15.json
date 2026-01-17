@@ -1,0 +1,16 @@
+{
+    "header_text": "Gardening",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gardening"
+        },
+        {
+            "type": "Media",
+            "url": "./images/937.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

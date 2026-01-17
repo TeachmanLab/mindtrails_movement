@@ -1,0 +1,16 @@
+{
+    "header_text": "Video Call",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Video Call"
+        },
+        {
+            "type": "Media",
+            "url": "./images/249.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

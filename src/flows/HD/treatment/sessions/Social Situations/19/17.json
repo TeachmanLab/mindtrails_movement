@@ -1,16 +1,16 @@
 {
-    "header_text": "New Training Plan",
+    "header_text": "Visiting a New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Training Plan"
+            "text": "Visiting a New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/639.jpg"
+            "url": "./images/674.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 5
 }

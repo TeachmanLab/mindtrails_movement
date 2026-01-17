@@ -1,16 +1,16 @@
 {
-    "header_text": "Stomach Ache",
+    "header_text": "Managing Stress",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Stomach Ache"
+            "text": "Managing Stress"
         },
         {
             "type": "Media",
-            "url": "./images/365.jpg"
+            "url": "./images/484.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

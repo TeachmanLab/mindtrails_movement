@@ -1,22 +1,22 @@
 {
-    "header_text": "Typing An Email",
+    "header_text": "Farmer's Market Sweets",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're typing an email, you notice it's taking longer than usual to find the right words. This mental fog is concerning you, and you wonder if you'll be able to finish the email at all. You take a break to drink some water, and you decide to keep trying when you return to the..."
+            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently, you have been craving sweets more than usual. You buy a small cookie, knowing it is sometimes okay to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Typing An Email_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "farmer's_market_sweets--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "email"
+                "indulge"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

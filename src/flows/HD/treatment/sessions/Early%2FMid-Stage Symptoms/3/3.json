@@ -1,23 +1,23 @@
 {
-    "header_text": "Question at Work",
+    "header_text": "Movie Theater Distraction",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your colleagues make you feel..."
+            "Text": "As you become aware of your movements, you decide to focus on the..."
         },
         {
             "type": "Buttons",
-            "name": "Question at Work_Early/Mid-Stage Symptoms_comp_question",
+            "name": "movie_theater_distraction--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Supported",
-                "Self-conscious"
+                "Film in front of you",
+                "Thoughts of people nearby"
             ],
             "column_count": 1,
-            "correct_value": "Supported"
+            "correct_value": "Film in front of you"
         }
     ],
     "navigation_conditions": [

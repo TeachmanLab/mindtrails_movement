@@ -1,25 +1,29 @@
 {
-    "header_text": "Getting Ready",
+    "header_text": "Hiking Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You remind yourself that occasional twitches can be normal and to not jump to conclusions without medical advice. You start to feel more at..."
+            "Text": "Your friend thinks that your desire to continue an activity you love is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Getting Ready_Presymptomatic_puzzle_word2",
+            "type": "Buttons",
+            "name": "hiking_hiatus--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "peace"
+            "buttons": [
+                "Foolish",
+                "Healthy"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Healthy"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 0
 }

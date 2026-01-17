@@ -1,16 +1,16 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Word Trouble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitation to Dinner"
+            "text": "Word Trouble"
         },
         {
             "type": "Media",
-            "url": "./images/756.jpg"
+            "url": "./images/897.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

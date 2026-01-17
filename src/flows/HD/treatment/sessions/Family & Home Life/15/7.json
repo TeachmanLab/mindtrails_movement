@@ -1,25 +1,29 @@
 {
-    "header_text": "Tripping at Family Barbecue",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A family member comes over to check in to see if you're okay. You express how you're feeling about your unsteadiness and start to feel..."
+            "Text": "Are you calm about your colleague coming over this afternoon?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Tripping at Family Barbecue_Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "balancing_home_life_and_friends--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
     "scenario_num": 1
 }

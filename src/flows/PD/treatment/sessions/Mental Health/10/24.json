@@ -1,22 +1,14 @@
 {
-    "header_text": "Waking Up Ready",
+    "header_text": "Food Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel..."
+            "text": "Recently, you've just wanted to spend time alone and don't have much motivation to get out of bed. You ordered delivery a few nights in a row, and you spent much more money on takeout than you normally do. You realize that there are some easy meals you can handle making next week, so you start... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Waking Up Ready_Mental Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "confident"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "food_costs--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

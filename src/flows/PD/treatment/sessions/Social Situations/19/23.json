@@ -1,16 +1,16 @@
 {
-    "header_text": "Absent Sister",
+    "header_text": "Different Music Tastes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are visiting your sibling in a different city for an extended period of time. Your sibling is always out of the apartment, leaving you alone. You think it is nice that they are not home often because you prefer to be alone to relax at the end of the..."
+            "text": "Different Music Tastes"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/675.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

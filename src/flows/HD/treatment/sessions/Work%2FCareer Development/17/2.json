@@ -1,22 +1,22 @@
 {
-    "header_text": "Presenting your Work",
+    "header_text": "Taking Your Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been working hard all year on a project, and your your department head has invited you to talk about it at an event. A lot of your friends and coworkers will be there, and you don't think your work will be enough to impress them. You end up realizing that your department head invited you for a reason, and your work is worth..."
+            "text": "Your boss calls on you to answer a question about the presentation just given. You don't know what to say, and your mind goes blank. After a few moments, you prepare your answer and feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Presenting your Work_Work/Career Development_puzzle1",
+            "name": "taking_your_time--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "seeing"
+                "ok"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

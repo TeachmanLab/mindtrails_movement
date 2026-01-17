@@ -1,25 +1,25 @@
 {
-    "header_text": "Carnival ride",
+    "header_text": "Walking Trail",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You go on a ride at a carnival. When you get off, you feel dizzy. You are..."
+            "text": "You are on a weekend walking trip with a friend. When you reach a slight incline, you start to breathe heavily. You are scared about what this could mean for your health, especially given that you are out in the... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Carnival ride_Physical Health_puzzle1",
+            "name": "walking_trail--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "delighted"
+                "wilderness"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

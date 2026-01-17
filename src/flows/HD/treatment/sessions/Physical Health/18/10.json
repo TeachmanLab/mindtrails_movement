@@ -1,0 +1,16 @@
+{
+    "header_text": "Coughing at the Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coughing at the Store"
+        },
+        {
+            "type": "Media",
+            "url": "./images/513.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

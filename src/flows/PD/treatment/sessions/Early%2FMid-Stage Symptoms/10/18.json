@@ -1,16 +1,16 @@
 {
-    "header_text": "A Tricky Hike",
+    "header_text": "Shopping in a Crowd",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A Tricky Hike"
+            "text": "Shopping in a Crowd"
         },
         {
             "type": "Media",
-            "url": "./images/783.jpg"
+            "url": "./images/718.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

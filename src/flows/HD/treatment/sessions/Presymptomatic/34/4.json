@@ -1,0 +1,16 @@
+{
+    "header_text": "Preparing Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Preparing Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "./images/945.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "Disagreement with a Friend",
+    "header_text": "Eye Twitch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your friendship be alright?"
+            "Text": "The twitch in your eye is a sign of..."
         },
         {
             "type": "Buttons",
-            "name": "Disagreement with a Friend_Presymptomatic_comp_question",
+            "name": "eye_twitch--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Exhaustion",
+                "HD"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Exhaustion"
         }
     ],
     "navigation_conditions": [

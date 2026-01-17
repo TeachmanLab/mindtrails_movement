@@ -1,23 +1,23 @@
 {
-    "header_text": "Cut Finger",
+    "header_text": "Brother Getting Tested",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your family was frightened because... "
+            "Text": "Are you stressed about the results of your sibling's test?"
         },
         {
             "type": "Buttons",
-            "name": "Cut Finger_Early/Mid-Stage Symptoms_comp_question",
+            "name": "brother_getting_tested--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They don't like stew",
-                "You cut yourself"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "You cut yourself"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

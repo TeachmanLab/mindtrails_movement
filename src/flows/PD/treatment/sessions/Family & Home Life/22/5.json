@@ -1,0 +1,16 @@
+{
+    "header_text": "Giving a Toast",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Giving a Toast"
+        },
+        {
+            "type": "Media",
+            "url": "./images/235.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

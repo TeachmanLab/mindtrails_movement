@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Bill for a fix_Finances_comp_question",
+            "name": "bill_for_a_fix--finances--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

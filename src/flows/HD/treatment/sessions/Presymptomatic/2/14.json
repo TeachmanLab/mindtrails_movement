@@ -1,16 +1,16 @@
 {
-    "header_text": "Memory Training",
+    "header_text": "Worsening condition",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Memory Training"
+            "text": "Worsening condition"
         },
         {
             "type": "Media",
-            "url": "./images/893.jpg"
+            "url": "./images/414.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

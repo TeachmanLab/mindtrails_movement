@@ -1,14 +1,14 @@
 {
-    "header_text": "Disagreement with a Friend",
+    "header_text": "Eye Twitch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Disagreement with a Friend"
+            "text": "Eye Twitch"
         },
         {
             "type": "Media",
-            "url": "./images/743.jpg"
+            "url": "./images/895.jpg"
         }
     ],
     "type": "positive",

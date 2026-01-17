@@ -1,0 +1,16 @@
+{
+    "header_text": "Keys Forgotten",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Keys Forgotten"
+        },
+        {
+            "type": "Media",
+            "url": "./images/208.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

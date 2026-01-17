@@ -7,6 +7,7 @@
             "text": "You have visitors over for dinner, and they leave sooner than expected. Why? \n\nThey did not enjoy the visit and were bored with your company."
         },
         {
+            "name": "bbsiq_1c_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

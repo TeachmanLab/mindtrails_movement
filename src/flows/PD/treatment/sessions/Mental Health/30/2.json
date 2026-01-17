@@ -1,0 +1,16 @@
+{
+    "header_text": "Crowded Grocery Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crowded Grocery Store"
+        },
+        {
+            "type": "Media",
+            "url": "./images/956.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
+}

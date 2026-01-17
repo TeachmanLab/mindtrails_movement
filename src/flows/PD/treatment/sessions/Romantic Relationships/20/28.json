@@ -1,0 +1,16 @@
+{
+    "header_text": "Intimacy and Communication",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Intimacy and Communication"
+        },
+        {
+            "type": "Media",
+            "url": "./images/587.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

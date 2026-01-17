@@ -1,0 +1,16 @@
+{
+    "header_text": "Rearranging After Exposure",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Rearranging After Exposure"
+        },
+        {
+            "type": "Media",
+            "url": "./images/75.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

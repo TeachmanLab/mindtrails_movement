@@ -1,0 +1,16 @@
+{
+    "header_text": "Finding Support",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finding Support"
+        },
+        {
+            "type": "Media",
+            "url": "./images/426.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

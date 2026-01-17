@@ -1,16 +1,16 @@
 {
-    "header_text": "Wearing Something Old",
+    "header_text": "Friend's Get Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Wearing Something Old"
+            "text": "Friend's Get Together"
         },
         {
             "type": "Media",
-            "url": "./images/649.jpg"
+            "url": "./images/701.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

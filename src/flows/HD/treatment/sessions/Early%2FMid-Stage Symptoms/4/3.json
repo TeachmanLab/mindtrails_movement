@@ -1,23 +1,23 @@
 {
-    "header_text": "Sibling's Genetic Test",
+    "header_text": "Family Trivia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your know that once your sibling finds out their HD status, your close relationship will..."
+            "Text": "It is important..."
         },
         {
             "type": "Buttons",
-            "name": "Sibling's Genetic Test_Early/Mid-Stage Symptoms_comp_question",
+            "name": "family_trivia--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "...Become ruined",
-                "...Stay intact"
+                "That you have the best memory",
+                "That you are there with family"
             ],
             "column_count": 1,
-            "correct_value": "...Stay intact"
+            "correct_value": "That you are there with family"
         }
     ],
     "navigation_conditions": [

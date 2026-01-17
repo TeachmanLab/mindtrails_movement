@@ -1,14 +1,14 @@
 {
-    "header_text": "Pet Schedule",
+    "header_text": "Hiking Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pet Schedule"
+            "text": "Hiking Hiatus"
         },
         {
             "type": "Media",
-            "url": "./images/211.jpg"
+            "url": "./images/784.jpg"
         }
     ],
     "type": "positive",

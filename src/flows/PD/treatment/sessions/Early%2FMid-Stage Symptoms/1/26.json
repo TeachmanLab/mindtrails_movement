@@ -1,16 +1,29 @@
 {
-    "header_text": "Forgetting PIN Number",
+    "header_text": "Babysitting Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgetting PIN Number"
+            "Text": "Your grandchild is..."
         },
         {
-            "type": "Media",
-            "url": "./images/744.jpg"
+            "type": "Buttons",
+            "name": "babysitting_questions--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Feeling impatient",
+                "Happy to be with you"
+            ],
+            "column_count": 1,
+            "correct_value": "Happy to be with you"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

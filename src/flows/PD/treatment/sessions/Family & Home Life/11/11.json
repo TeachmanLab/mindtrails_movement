@@ -7,6 +7,7 @@
             "text": "Your partner has some strong opinions and you don't always agree with them. One evening, you invite a friend over for dinner and sense some possible tension. \n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
         },
         {
+            "name": "long10",
             "type": "Entry"
         }
     ],

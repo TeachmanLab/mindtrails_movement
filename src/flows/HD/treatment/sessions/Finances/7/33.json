@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
+            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
         },
         {
             "type": "Entry",
-            "name": "Tip #1_entry"
+            "name": "tip #5--entry"
         }
     ]
 }

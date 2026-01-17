@@ -7,7 +7,8 @@
             "text": "Talking about this with your bank, they reassure you that you have plenty saved for retirement and that you still have time to keep saving. You feel hopeful that you will be able to retire as..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "retirement_funds--finances--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

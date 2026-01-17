@@ -1,25 +1,16 @@
 {
-    "header_text": "Bowling Alley",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a bowling alley, and it's your turn to bowl. A friend stands up, joking that they are going to take your turn. As you speak up to stop them, your words come out unclear, and they look..."
+            "text": "Trouble Reading"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Bowling Alley_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "confused"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/818.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

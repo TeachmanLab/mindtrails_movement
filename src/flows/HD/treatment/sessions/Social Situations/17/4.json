@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend Neglecting Chores",
+    "header_text": "Issues While Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Friend Neglecting Chores"
+            "text": "Issues While Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/677.jpg"
+            "url": "./images/313.jpg"
         }
     ],
     "type": "positive",

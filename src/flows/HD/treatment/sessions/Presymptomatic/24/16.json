@@ -1,29 +1,17 @@
 {
-    "header_text": "Missed a Turn",
+    "header_text": "Parental Strain",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Arriving safely despite challenges is a..."
+            "text": "You have young children, and they begin playing chase around the house. You are overwhelmed by the noise, and you snap, screaming at them to stop. When your kids turn to look at you, they look..."
         },
         {
-            "type": "Buttons",
-            "name": "Missed a Turn_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Concern",
-                "Relief"
-            ],
-            "column_count": 1,
-            "correct_value": "Relief"
+            "type": "Entry",
+            "name": "parental_strain--presymptomatic--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

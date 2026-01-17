@@ -1,14 +1,14 @@
 {
-    "header_text": "Shopping in a Crowd",
+    "header_text": "Finding Your Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are shoppers around you judging you?"
+            "Text": "Are you using tools that will help you cope when you're annoyed?"
         },
         {
             "type": "Buttons",
-            "name": "Shopping in a Crowd_Early/Mid-Stage Symptoms_comp_question",
+            "name": "finding_your_wallet--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

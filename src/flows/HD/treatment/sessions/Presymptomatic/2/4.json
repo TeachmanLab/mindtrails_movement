@@ -1,17 +1,17 @@
 {
-    "header_text": "Caring for Children",
+    "header_text": "Taking Time Off",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Caring for Children"
+            "text": "Taking Time Off"
         },
         {
             "type": "Media",
-            "url": "./images/892.jpg"
+            "url": "./images/517.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1,
     "information": {
         "elements": [

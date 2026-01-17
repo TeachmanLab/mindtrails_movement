@@ -1,16 +1,17 @@
 {
-    "header_text": "Holiday Away From Home",
+    "header_text": "New Opportunity at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Holiday Away From Home"
+            "text": "You have recently joined a new department at work. When you go to the first team meeting, you notice that most people are sitting in groups. As you take a seat alone, you realize that there is always an opportunity to join a..."
         },
         {
-            "type": "Media",
-            "url": "./images/156.jpg"
+            "type": "Entry",
+            "name": "new_opportunity_at_work--social_situations--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

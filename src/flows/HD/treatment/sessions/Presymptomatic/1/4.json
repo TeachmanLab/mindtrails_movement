@@ -1,14 +1,14 @@
 {
-    "header_text": "Work Concentration",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Work Concentration"
+            "text": "Research Visit"
         },
         {
             "type": "Media",
-            "url": "./images/888.jpg"
+            "url": "./images/438.jpg"
         }
     ],
     "type": "positive",

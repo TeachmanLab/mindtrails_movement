@@ -1,20 +1,20 @@
 {
-    "header_text": "Future Workouts",
+    "header_text": "Work Details",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are attending your weekly workout class. While doing the exercises, you start to wonder if you will be able to attend your classes when your motor symptoms worsen. You decide that when that happens, your workouts will..."
+            "text": "You are working on a project for your job but notice that you're struggling to move on to the next task. After revisiting the same details, you start to feel worried that your boss will be disappointed by your lack of progress. You take a step back and remember that when your boss sees the finished product, they will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Future Workouts_Presymptomatic_puzzle1",
+            "name": "work_details--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "adapt"
+                "impressed"
             ],
             "missing_letter_count": 2
         }

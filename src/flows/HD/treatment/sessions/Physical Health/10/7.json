@@ -7,7 +7,8 @@
             "text": "You realize that you usually get a stuffy nose with seasonal allergies and are probably tired from walking around for the last hour. You feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "spring_allergies--physical_health--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

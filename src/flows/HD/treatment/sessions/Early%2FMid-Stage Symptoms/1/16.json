@@ -1,25 +1,39 @@
 {
-    "header_text": "Being Independent",
+    "header_text": "Visiting the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have always taken pride in being independent and caring for your family. As your symptoms progress, you notice you are less able to do things on your own and now need more help from your family. Despite these changes, your family is..."
+            "Text": "Do you feel that the doctor is comforting you?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Being Independent_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "visiting_the_doctor's_office--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "understanding"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

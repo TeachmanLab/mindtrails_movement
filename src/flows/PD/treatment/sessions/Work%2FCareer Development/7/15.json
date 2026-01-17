@@ -1,20 +1,20 @@
 {
-    "header_text": "The Meeting",
+    "header_text": "Changing Your Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are walking to an important meeting with your supervisor. Suddenly your mind goes blank as you reach for the doorknob to her office. You think about your mind going blank and think that this is..."
+            "text": "You've decided to accept a job in another department. All of your close friends are applying to committees within your current department. When you think about your decision to switch departments, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "The Meeting_Work/Career Development_puzzle1",
+            "name": "changing_your_plans--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "normal"
+                "satisfied"
             ],
             "missing_letter_count": 2
         }

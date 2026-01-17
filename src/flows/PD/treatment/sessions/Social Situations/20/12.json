@@ -1,16 +1,16 @@
 {
-    "header_text": "Sore Throat at Dinner",
+    "header_text": "Trying Out a Funny Caption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sore Throat at Dinner"
+            "text": "Trying Out a Funny Caption"
         },
         {
             "type": "Media",
-            "url": "./images/692.jpg"
+            "url": "./images/391.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 3
 }

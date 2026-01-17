@@ -1,16 +1,12 @@
 {
-    "header_text": "Balancing Home Life and Friends",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Balancing Home Life and Friends"
-        },
-        {
-            "type": "Media",
-            "url": "./images/194.jpg"
+            "text": "Now, on the next page, list as many reasons as you can think of for why the ending in the scenario could be likely to occur to you. For example, why do you think you will be able to handle the situation, or what evidence is there to suggest that the situation will turn out okay?"
         }
-    ],
-    "type": "negative",
-    "scenario_num": 2
+    ]
 }

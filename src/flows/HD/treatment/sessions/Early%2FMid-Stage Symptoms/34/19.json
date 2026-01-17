@@ -1,29 +1,25 @@
 {
-    "header_text": "Fitness Class Worries",
+    "header_text": "Lunch with Old Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Despite your discomfort, you make an effort to be..."
+            "text": "You are having lunch with some friends from your past. They haven't seen you in a couple years, so you're afraid they will be shocked to see how your HD has progressed. As you sit down at the table, you immediately feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Fitness Class Worries_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "lunch_with_old_friends--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Friendly",
-                "Standoffish"
+            "display_delay": 2000,
+            "words": [
+                "comfortable"
             ],
-            "column_count": 1,
-            "correct_value": "Friendly"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

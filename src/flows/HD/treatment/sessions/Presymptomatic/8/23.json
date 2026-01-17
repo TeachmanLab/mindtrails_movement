@@ -1,13 +1,14 @@
 {
-    "header_text": "Overwhelmed at Conference",
+    "header_text": "Job Applications",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're attending a work conference and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close coworker about your difficulty, knowing that they will be try to be helpful and..."
+            "text": "You've updated your resume and are feeling excited to explore new job opportunities. Suddenly, you find yourself hesitating before submitting your job application because you're anxious about how your health may impact your future. As you remind yourself of your skills and determination, you feel empowered to focus on the..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "job_applications--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

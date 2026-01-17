@@ -1,22 +1,22 @@
 {
-    "header_text": "Dentist Difficulty",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "During a visit to the dentist, you experience difficulty staying still as the dentist looks at your teeth. You worry about their perception of you. You talk openly to the dentist about your condition, and they seems..."
+            "text": "You started a new house project and are painting a room. As you complete this first wall, you notice the strokes are uneven. You consider giving up, but you decide to try a second..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dentist Difficulty_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "painting_project--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understanding"
+                "coat"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",

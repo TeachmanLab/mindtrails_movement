@@ -1,29 +1,17 @@
 {
-    "header_text": "A Balancing Act",
+    "header_text": "Yoga Equipment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you let your anxiety overwhelm you?"
+            "text": "Your yoga instructor suggested you and your partner buy some new equipment. As you look around the store, you wonder about your future participation in yoga. You decide to buy the equipment and stay... "
         },
         {
-            "type": "Buttons",
-            "name": "A Balancing Act_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "yoga_equipment--presymptomatic--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 9
 }

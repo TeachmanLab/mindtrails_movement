@@ -1,25 +1,25 @@
 {
-    "header_text": "Sharing with Someone New",
+    "header_text": "Inside Jokes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're talking to a coworker about a presentation you're working on. They seem interested. They ask if they can look at it, and you mull it... "
+            "text": "You post a short video. Your friend comments something really embarrassing. Your followers will think that you and your friend are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Sharing with Someone New_Social Situations_puzzle1",
+            "name": "inside_jokes_--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "over"
+                "close"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

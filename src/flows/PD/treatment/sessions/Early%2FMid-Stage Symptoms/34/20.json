@@ -1,14 +1,14 @@
 {
-    "header_text": "Missing Meds at Fundraiser",
+    "header_text": "Lunch with Old Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you have to quit the walk?"
+            "Text": "Has PD made things awkward with your old friends?"
         },
         {
             "type": "Buttons",
-            "name": "Missing Meds at Fundraiser_Early/Mid-Stage Symptoms_comp_question",
+            "name": "lunch_with_old_friends--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

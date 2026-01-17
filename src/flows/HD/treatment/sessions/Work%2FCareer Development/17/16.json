@@ -1,16 +1,39 @@
 {
-    "header_text": "Mistake on a task",
+    "header_text": "First meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Mistake on a task"
+            "Text": "Do you think you will make a bad impression on your new coworker?"
         },
         {
-            "type": "Media",
-            "url": "./images/116.jpg"
+            "type": "Buttons",
+            "name": "first_meeting--work_career_development--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

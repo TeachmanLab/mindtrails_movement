@@ -1,14 +1,14 @@
 {
-    "header_text": "A birthday cake",
+    "header_text": "Carnival ride",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A birthday cake"
+            "text": "Carnival ride"
         },
         {
             "type": "Media",
-            "url": "./images/447.jpg"
+            "url": "./images/448.jpg"
         }
     ],
     "type": "positive",

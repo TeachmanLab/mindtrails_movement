@@ -7,7 +7,8 @@
             "text": "You are in a book club, and you really enjoy getting to talk about your ideas with the other members. You are excited thinking about all the books you would like to discuss in the future, but wonder if your HD will affect your ability to participate like you do now. You know that even if your experience of the book club looks different in the future, there will still be ways to stay..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "book_club--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

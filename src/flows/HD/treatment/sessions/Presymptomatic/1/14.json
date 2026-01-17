@@ -1,29 +1,25 @@
 {
-    "header_text": "Research Study",
+    "header_text": "A Loss for Words",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You felt better because you know... "
+            "text": "You go to see a doctor who specializes in HD. While talking about to the specialist, you struggle to find the right words to describe your experiences. As the doctor asks lots of questions, you wonder what they are thinking and start to become..."
         },
         {
-            "type": "Buttons",
-            "name": "Research Study_Presymptomatic_comp_question",
+            "type": "WordPuzzle",
+            "name": "a_loss_for_words--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "You must continue on",
-                "You can stop any time"
+            "display_delay": 2000,
+            "words": [
+                "nervous"
             ],
-            "column_count": 1,
-            "correct_value": "You can stop any time"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 4
 }

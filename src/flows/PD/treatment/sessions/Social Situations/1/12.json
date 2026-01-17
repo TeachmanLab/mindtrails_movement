@@ -1,25 +1,25 @@
 {
-    "header_text": "Spotting a friend",
+    "header_text": "Controversial news story",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you are walking down a crowded street, you see your coworker on the other side. You call out, but they do not answer you. Standing there in the street, you think that this must be because they were..."
+            "text": "You realize that your coworker probably thinks that you both have strong convictions, even though the discussion was heated. You have earned your coworker's..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Spotting a friend_Social Situations_puzzle1",
+            "name": "controversial_news_story--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "distracted"
+                "respect"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

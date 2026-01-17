@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "If you're taking a bit longer to do a task than you anticipated because of your symptoms, re-center yourself by taking a few deep breaths - breathe in for 4 seconds, hold the breath for 4 seconds, and exhale for 4 seconds. This will help give your mind and body a break. "
+            "text": "Think about a time a friend faced an uncertain situation and was feeling anxious about it. What advice would you give your friend for thinking about the situation based on what you've learned in the training?"
+        },
+        {
+            "type": "Entry",
+            "name": "tip #0--entry"
         }
     ]
 }

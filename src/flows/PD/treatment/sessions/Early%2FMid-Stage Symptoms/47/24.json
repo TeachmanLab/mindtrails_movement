@@ -1,0 +1,25 @@
+{
+    "header_text": "New Grandparent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are about to become a grandparent. You worry that your PD symptoms will make it difficult to safely hold your grandbaby. You remind yourself that you will be a loving grandparent and are... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "new_grandparent--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "trustworthy"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

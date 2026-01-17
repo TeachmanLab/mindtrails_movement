@@ -1,20 +1,20 @@
 {
-    "header_text": "Safety at Home",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and..."
+            "text": "You're at the gym lifting weights when you suddenly feel off balance. You pause your workout out of concern and wonder how you will continue to exercise as your disease progresses. You remember that working out is important for your well-being, so you decide to embrace the future with..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Safety at Home_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "future_gym_visits--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "recovering"
+                "optimism"
             ],
             "missing_letter_count": 2
         }

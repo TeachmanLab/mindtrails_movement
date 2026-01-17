@@ -1,16 +1,16 @@
 {
-    "header_text": "Holiday Away From Home",
+    "header_text": "Marrying Your Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Holiday Away From Home"
+            "text": "Marrying Your Partner"
         },
         {
             "type": "Media",
-            "url": "./images/156.jpg"
+            "url": "./images/538.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

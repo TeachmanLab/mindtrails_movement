@@ -1,20 +1,20 @@
 {
-    "header_text": "Handwriting Thoughts",
+    "header_text": "Birthday Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a busy week ahead, so you sit down to write a to-do list. Since you're writing quickly, your handwriting is harder to read, and you think about how HD might affect your handwriting permanently one day. You consider that these types of changes will be in the distant..."
+            "text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Handwriting Thoughts_Presymptomatic_puzzle1",
+            "name": "birthday_cards--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "future"
+                "busy"
             ],
             "missing_letter_count": 1
         }

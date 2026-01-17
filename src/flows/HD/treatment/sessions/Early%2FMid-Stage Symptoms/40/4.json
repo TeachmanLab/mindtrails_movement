@@ -1,0 +1,17 @@
+{
+    "header_text": "Sibling's Genetic Test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your sibling shared with you that they are planning to get genetic testing for HD. The idea of your sibling possibly getting the same diagnosis as you causes you to feel uneasy. You think that regardless of the outcome of your sibling's testing, the two of you will still be..."
+        },
+        {
+            "type": "Entry",
+            "name": "sibling's_genetic_test--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

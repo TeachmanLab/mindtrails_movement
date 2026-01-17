@@ -1,25 +1,16 @@
 {
-    "header_text": "Missing Wallet",
+    "header_text": "Future Assistance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping at the mall, and in line to check out. When you reach into your pocket, you realize your wallet is missing. You don't know where you misplaced it, and realize that your memory lately has been... "
+            "text": "Future Assistance"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Missing Wallet_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bad"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/838.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

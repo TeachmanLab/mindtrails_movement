@@ -1,16 +1,16 @@
 {
-    "header_text": "Clapping at Concert",
+    "header_text": "Lunch with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Clapping at Concert"
+            "text": "Lunch with New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/810.jpg"
+            "url": "./images/790.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Late Friend",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Late Friend"
+            "text": "Reason 3:"
         },
         {
-            "type": "Media",
-            "url": "./images/655.jpg"
+            "name": "Reason3_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    ]
 }

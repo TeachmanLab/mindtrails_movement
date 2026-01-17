@@ -1,10 +1,17 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #21 \n\n Outer circumstances may be fixed, but our inner world is ours to transform. Embrace mindfulness."
+            "text": "You realize that the spill is not that bad and you clean it up fairly easily. You now feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "spilling_food_on_laptop--presymptomatic--puzzle2_entry"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

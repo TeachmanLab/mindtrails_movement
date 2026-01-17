@@ -1,16 +1,16 @@
 {
-    "header_text": "Trivia Jitters",
+    "header_text": "Job promotion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trivia Jitters"
+            "text": "Job promotion"
         },
         {
             "type": "Media",
-            "url": "./images/899.jpg"
+            "url": "./images/903.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

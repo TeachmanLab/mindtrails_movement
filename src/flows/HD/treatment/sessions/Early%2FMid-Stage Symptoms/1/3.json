@@ -1,23 +1,23 @@
 {
-    "header_text": "Catching up with a friend",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you like catching up with your friend?"
+            "Text": "Who is having trouble following the presentation?"
         },
         {
             "type": "Buttons",
-            "name": "Catching up with a friend_Early/Mid-Stage Symptoms_comp_question",
+            "name": "medical_presentation--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Just you",
+                "Everyone"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Everyone"
         }
     ],
     "navigation_conditions": [

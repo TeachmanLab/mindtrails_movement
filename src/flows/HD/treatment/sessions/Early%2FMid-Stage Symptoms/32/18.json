@@ -1,16 +1,25 @@
 {
-    "header_text": "Missing a Turn",
+    "header_text": "Writing a Letter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Missing a Turn"
+            "text": "Today, you are writing a letter to a loved one and finding it hard to organize your thoughts. You worry the person you're sending the letter to won't understand your message. A few days after you send the letter, your loved one calls to tell you that your words were..."
         },
         {
-            "type": "Media",
-            "url": "./images/874.jpg"
+            "type": "WordPuzzle",
+            "name": "writing_a_letter--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "beautiful"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 5
 }

@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "Discrimination",
             "type": "Buttons",
             "buttons": [
                 "Journal::I would like to write down my thoughts and feelings tied to this experience",
@@ -23,9 +24,7 @@
                 "^NotMatched::These resources do not match what I am looking for at this time",
                 "^NotNeeded::I am not looking for any additional resources at this time"
             ],
-            "selectable": true,
             "multiselect": true,
-            "name": "Discrimination",
             "variable_name": "Selected_Support"
         }
     ]

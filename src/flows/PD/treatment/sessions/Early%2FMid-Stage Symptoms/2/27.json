@@ -1,25 +1,25 @@
 {
-    "header_text": "Question at Meeting",
+    "header_text": "Music Venue ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At a neighborhood meeting, you forget the answer to an important question. Your neighbors exchange glances that leave you unsure about how they perceive your capabilities and PD symptoms. However, one neighbor offers to fill you in, and you think that your neighbors are..."
+            "text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you freeze..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Question at Meeting_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "music_venue_--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "supportive"
+                "up"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

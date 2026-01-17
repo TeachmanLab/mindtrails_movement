@@ -1,23 +1,23 @@
 {
-    "header_text": "Question at Work",
+    "header_text": "Planning a Family Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your colleagues make you feel..."
+            "Text": "This vacation..."
         },
         {
             "type": "Buttons",
-            "name": "Question at Work_Presymptomatic_comp_question",
+            "name": "planning_a_family_vacation--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Supported",
-                "Self-conscious"
+                "Will not stand between you and your family",
+                "Will cause tension between you and your family"
             ],
             "column_count": 1,
-            "correct_value": "Supported"
+            "correct_value": "Will not stand between you and your family"
         }
     ],
     "navigation_conditions": [

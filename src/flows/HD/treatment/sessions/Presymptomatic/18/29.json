@@ -1,23 +1,23 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "Friend's Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The laundry got stained because of your..."
+            "Text": "After the talk, you know that your friends..."
         },
         {
             "type": "Buttons",
-            "name": "Stained Laundry_Presymptomatic_comp_question",
+            "name": "friend's_birthday_party--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Partner's miscommunication",
-                "Difficulty paying attention"
+                "Love you",
+                "Reject you"
             ],
             "column_count": 1,
-            "correct_value": "Partner's miscommunication"
+            "correct_value": "Love you"
         }
     ],
     "navigation_conditions": [

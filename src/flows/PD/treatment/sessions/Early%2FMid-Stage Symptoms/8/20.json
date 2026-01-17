@@ -1,14 +1,14 @@
 {
-    "header_text": "Day in the Park",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Day in the Park"
+            "text": "Name Recall "
         },
         {
             "type": "Media",
-            "url": "./images/771.jpg"
+            "url": "./images/777.jpg"
         }
     ],
     "type": "positive",

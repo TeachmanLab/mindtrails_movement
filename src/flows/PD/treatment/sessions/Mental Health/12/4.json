@@ -1,29 +1,12 @@
 {
-    "header_text": "Feeling Lightheaded",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your anxiety decrease if you observe your sensations?"
-        },
-        {
-            "type": "Buttons",
-            "name": "Feeling Lightheaded_Mental Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "text": "Not sure what to write? Here's an example:\n\nPart 1:\nI send an email message to a friend asking them to grab coffee, but they never respond. I wonder if they are mad at me.\n\nPart 2:\nThinking back on the last time I got together with this friend, I remember they don't check email often and I feel ... relieved.\n\nNotice that the statement, \"I wonder if they are mad at me\" creates uncertainty, but the final sentence resolves this in a non-threatening way.\n\nNow it's your turn to try it out!"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    ]
 }

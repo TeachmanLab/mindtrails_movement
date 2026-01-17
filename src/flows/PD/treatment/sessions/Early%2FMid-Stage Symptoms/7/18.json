@@ -1,25 +1,25 @@
 {
-    "header_text": "Night of Bad Sleep",
+    "header_text": "Talking to friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night, you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very..."
+            "text": "You are catching up with a group of friends you haven't seen in a while. In the middle of telling a story, you lose track of what you intended to say and worry about your friends' reactions. You tell your friends that you lost your train of thought, and they are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Night of Bad Sleep_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "talking_to_friends--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "frustrated"
+                "understanding"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

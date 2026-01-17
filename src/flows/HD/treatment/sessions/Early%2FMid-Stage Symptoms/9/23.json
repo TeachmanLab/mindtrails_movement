@@ -7,7 +7,8 @@
             "text": "You have a visit with your doctor today in regards to some new symptoms of HD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "dismissive_doctor--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

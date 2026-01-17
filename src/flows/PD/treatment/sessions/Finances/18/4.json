@@ -1,0 +1,16 @@
+{
+    "header_text": "Loan Repayment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Loan Repayment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/316.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

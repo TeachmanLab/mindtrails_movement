@@ -1,0 +1,16 @@
+{
+    "header_text": "Being Independent",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Being Independent"
+        },
+        {
+            "type": "Media",
+            "url": "./images/717.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

@@ -1,25 +1,16 @@
 {
-    "header_text": "Game Night Focus",
+    "header_text": "Therapy Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At game night, you're feeling too distracted to participate. You want to talk with your friends about what's been going on in your life, but you are afraid to bring it up. You interrupt the game to suggest everyone shares some life updates, and your friends are... "
+            "text": "Therapy Shift"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Game Night Focus_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "agreeable"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/418.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

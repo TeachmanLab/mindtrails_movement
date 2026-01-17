@@ -1,29 +1,25 @@
 {
-    "header_text": "Taking Time Off",
+    "header_text": "Cooking Struggle",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Asking for time off..."
+            "text": "You remember the unopened cookbook your spouse got you. The prospect of making new recipes helps you rediscover your..."
         },
         {
-            "type": "Buttons",
-            "name": "Taking Time Off_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "cooking_struggle--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "You feel more at ease",
-                "You are fearful"
+            "display_delay": 2000,
+            "words": [
+                "passion"
             ],
-            "column_count": 1,
-            "correct_value": "You feel more at ease"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 4
 }

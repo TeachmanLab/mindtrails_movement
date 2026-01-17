@@ -1,16 +1,16 @@
 {
-    "header_text": "Favorite Restaurant",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Favorite Restaurant"
+            "text": "Attending a Dance Recital"
         },
         {
             "type": "Media",
-            "url": "./images/748.jpg"
+            "url": "./images/228.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

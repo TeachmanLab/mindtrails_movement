@@ -1,14 +1,14 @@
 {
-    "header_text": "House Cleaning",
+    "header_text": "Coffee Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "House Cleaning"
+            "text": "Coffee Together"
         },
         {
             "type": "Media",
-            "url": "./images/755.jpg"
+            "url": "./images/761.jpg"
         }
     ],
     "type": "positive",

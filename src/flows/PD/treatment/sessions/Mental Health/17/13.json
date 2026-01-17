@@ -1,25 +1,29 @@
 {
-    "header_text": "Feeling Excluded on Social Media",
+    "header_text": "Comparing Yourself to Others",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you scroll through your feed on social media, you see a screenshot of your friends that shows them having a great time together over video chat. You weren't invited to hang out with them online. You think about it and decide that you can..."
+            "Text": "Is your partner attracted to you?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Feeling Excluded on Social Media_Mental Health_puzzle1",
+            "type": "Buttons",
+            "name": "comparing_yourself_to_others--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "cope"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 3
 }

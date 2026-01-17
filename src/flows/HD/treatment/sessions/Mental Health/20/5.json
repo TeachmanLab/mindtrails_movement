@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost Phone",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lost Phone"
+            "text": "Sharing with Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/346.jpg"
+            "url": "./images/395.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

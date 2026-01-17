@@ -1,20 +1,20 @@
 {
-    "header_text": "Future Gym Visits",
+    "header_text": "Daily Tasks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at the gym lifting weights when you suddenly feel off balance. You pause your workout out of concern and wonder how you will continue to exercise as your disease progresses. You remember that working out is important for your well-being, so you decide to embrace the future with..."
+            "text": "Today, you woke up tired and sluggish. You're having trouble focusing on your daily tasks, and you wonder whether this is a sign of your disease progressing. Suddenly, you remember that you stayed up late last night and feeling tired is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Future Gym Visits_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "daily_tasks--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "optimism"
+                "expected"
             ],
             "missing_letter_count": 2
         }

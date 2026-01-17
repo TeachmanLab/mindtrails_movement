@@ -1,29 +1,25 @@
 {
-    "header_text": "Moody Dinner",
+    "header_text": "Weekly Tea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Paying attention to your surroundings helps you feel..."
+            "text": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices this change in you and looks at you with a..."
         },
         {
-            "type": "Buttons",
-            "name": "Moody Dinner_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "weekly_tea--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Better",
-                "Worse"
+            "display_delay": 2000,
+            "words": [
+                "smile"
             ],
-            "column_count": 1,
-            "correct_value": "Better"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

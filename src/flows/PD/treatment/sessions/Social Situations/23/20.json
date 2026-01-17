@@ -1,16 +1,16 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Absent Sister",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Close Friend's Birthday"
+            "text": "Absent Sister"
         },
         {
             "type": "Media",
-            "url": "./images/189.jpg"
+            "url": "./images/186.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 8
 }

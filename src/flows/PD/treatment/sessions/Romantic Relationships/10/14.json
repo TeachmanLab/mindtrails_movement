@@ -7,7 +7,8 @@
             "text": "You apologize to your partner and volunteer to go get sunscreen somewhere. Your partner thanks you for the offer and is not... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "pool_time--romantic_relationships--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

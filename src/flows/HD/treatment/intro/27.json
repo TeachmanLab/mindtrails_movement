@@ -7,6 +7,7 @@
             "text": "In the past two months, have there been any changes to your mental health treatment? Select all that apply."
         },
         {
+            "name": "changes_treatment",
             "type": "Buttons",
             "buttons": [
                 "0::I started therapy",
@@ -19,9 +20,7 @@
                 "!7::Other",
                 "^99::Prefer not to answer"
             ],
-            "selectable": true,
             "multiselect": true,
-            "name": "changes_treatment",
             "variable_name": "ChangesToMentalHealthTreatment"
         }
     ]

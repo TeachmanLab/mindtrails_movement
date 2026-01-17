@@ -1,16 +1,16 @@
 {
-    "header_text": "Overwhelmed at Meeting",
+    "header_text": "Symptoms at Shopping Mall",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Overwhelmed at Meeting"
+            "text": "Symptoms at Shopping Mall"
         },
         {
             "type": "Media",
-            "url": "./images/808.jpg"
+            "url": "./images/786.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

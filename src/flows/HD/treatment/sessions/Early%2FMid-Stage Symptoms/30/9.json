@@ -1,16 +1,16 @@
 {
-    "header_text": "Dine with Friends",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a busy restaurant chatting with friends. HD has made your speech less clear, and you are worried that your friends will have difficulty hearing you over the background noise. One friend asks you to repeat yourself multiple times, and you can see that they look..."
+            "text": "Handwriting Challenge"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/411.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Mental Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you find yourself jumping to the worst-case scenario without all the information, what are some things that you could tell yourself instead? Think about some skills from the stories you've read that might be helpful for you. "
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #4_entry"
+            "text": "Try to put a specific label on your feelings (are you sad, angry, disgusted, nervous, terrfiied, etc.?) - feelings are easier to manage when we can describe them fully."
         }
     ]
 }

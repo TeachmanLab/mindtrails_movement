@@ -1,16 +1,12 @@
 {
-    "header_text": "Future Generation",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse have discussed having children in the future, but you now feel hesitant about the idea. You don't want your children to have the HD gene as well. When you talk to your spouse about the possibility of not having kids, their understanding leaves you feeling..."
-        },
-        {
-            "type": "Entry"
+            "text": "Keep in mind that each story is about 3 sentences long. The first part should set up a challenging situation that could bring up some anxiety where it is unclear what the outcome of the situation will be. The final part should resolve the uncertainty in a positive or non-threatening way. In other words, the last sentence should make clear that the situation does not turn out to be unmanageable in the end."
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

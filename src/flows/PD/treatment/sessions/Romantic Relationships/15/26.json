@@ -1,14 +1,14 @@
 {
-    "header_text": "Introducing Your Spouse to New Friends",
+    "header_text": "Ghosting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you worried about what your spouse will say tonight? "
+            "Text": "Will you be hung up on this experience forever? "
         },
         {
             "type": "Buttons",
-            "name": "Introducing Your Spouse to New Friends_Romantic Relationships_comp_question",
+            "name": "ghosting_--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

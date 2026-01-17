@@ -1,25 +1,17 @@
 {
-    "header_text": "HDSA Fundraiser",
+    "header_text": "Downsizing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were asked to plan a fundraiser for your HDSA chapter, a task you've taken on yearly. You recently learned that you are positive for the HD gene, and the idea of running this year's event feels emotionally overwhelming. You choose to take the year off, feeling good about the decision to put yourself..."
+            "text": "The social worker reminds you that being prepared will not cause HD to progress any faster. You decide that planning for the future is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "HDSA Fundraiser_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "first"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "downsizing--presymptomatic--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

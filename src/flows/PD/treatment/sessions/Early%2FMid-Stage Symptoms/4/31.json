@@ -1,29 +1,25 @@
 {
-    "header_text": "New Costs",
+    "header_text": "House Cleaning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You and your significant other will probably..."
+            "text": "You take pride in your home and like to deep clean it regularly. Lately, you've been feeling more tired and have had to hire someone to help you clean your house. Having someone else there to help you clean makes you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "New Costs_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "house_cleaning--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Feel resentful",
-                "Have a good conversation"
+            "display_delay": 2000,
+            "words": [
+                "grateful"
             ],
-            "column_count": 1,
-            "correct_value": "Have a good conversation"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

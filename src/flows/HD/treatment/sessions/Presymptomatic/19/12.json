@@ -1,26 +1,25 @@
 {
-    "header_text": "Reading Music ",
+    "header_text": "Beach Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing musical instruments has been a hobby of yours since childhood, but it has been a few years since you played anything. When you try to play this time, you find it more difficult than you were expecting. When you take a deep breath and slow down, you are able to refocus and..."
+            "text": "You are on a trip to the beach with a close friend. As you walk along the shore, your mind gets stuck on thoughts of the future. You wonder if your HD symptoms might make walks in the sand more difficult. You stop walking and look out at the horizon, noticing the sunset and feeling..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "beach_reflection--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "awe"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 3
 }

@@ -1,25 +1,16 @@
 {
-    "header_text": "A Few Falls",
+    "header_text": "Family Money Troubles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "They talk with you about using a cane or walker so that you can be more sturdy on your feet, and you agree. Seeing their faces relax makes you..."
+            "text": "Family Money Troubles"
         },
         {
-            "type": "WordPuzzle",
-            "name": "A Few Falls_Family & Home Life_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "happy"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/197.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 4
 }

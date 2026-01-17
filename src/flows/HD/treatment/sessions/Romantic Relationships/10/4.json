@@ -7,7 +7,8 @@
             "text": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "insecurities--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

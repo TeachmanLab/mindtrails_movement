@@ -1,0 +1,16 @@
+{
+    "header_text": "Kids' Equipment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Kids' Equipment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/321.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

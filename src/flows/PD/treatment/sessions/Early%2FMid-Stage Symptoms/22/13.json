@@ -1,16 +1,29 @@
 {
-    "header_text": "Off Balance",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about how much your loved ones have been there for you since being diagnosed. You imagine that, with support from your friends and family, you will be..."
+            "Text": "Making a plan with your doctor makes you feel more..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "trouble_reading--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Confident",
+                "Concerned"
+            ],
+            "column_count": 1,
+            "correct_value": "Confident"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

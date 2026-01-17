@@ -1,14 +1,14 @@
 {
-    "header_text": "Having a Friend Over",
+    "header_text": "Past Experiences",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Having a Friend Over"
+            "text": "Past Experiences"
         },
         {
             "type": "Media",
-            "url": "./images/199.jpg"
+            "url": "./images/384.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "Trivia Team",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be..."
+            "text": "Sharing with Someone New"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/395.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

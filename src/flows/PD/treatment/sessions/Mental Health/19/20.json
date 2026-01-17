@@ -1,16 +1,16 @@
 {
-    "header_text": "Organizing Closet",
+    "header_text": "Trying Out a Funny Caption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Organizing Closet"
+            "text": "Trying Out a Funny Caption"
         },
         {
             "type": "Media",
-            "url": "./images/405.jpg"
+            "url": "./images/391.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

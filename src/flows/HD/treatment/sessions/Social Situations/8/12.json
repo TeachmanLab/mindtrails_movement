@@ -7,7 +7,8 @@
             "text": "When you get to work, you overhear some colleagues talking about the fun night they had out together last night. You don't remember being invited to hang out with them. You think about missing out on the fun and realize that you weren't invited because you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "fear_of_missing_out--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

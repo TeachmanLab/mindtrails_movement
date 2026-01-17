@@ -1,14 +1,39 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Meeting up with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
+            "Text": "Your conversation will be..."
         },
         {
-            "type": "Entry",
-            "name": "Tip #5_entry"
+            "type": "Buttons",
+            "name": "meeting_up_with_a_friend--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Enjoyable",
+                "Disagreeable"
+            ],
+            "column_count": 1,
+            "correct_value": "Enjoyable"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

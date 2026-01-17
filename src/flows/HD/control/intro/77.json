@@ -7,6 +7,7 @@
             "text": "You feel short of breath. Why? \n\nYou are about to suffocate or stop breathing."
         },
         {
+            "name": "bbsiq_2b_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

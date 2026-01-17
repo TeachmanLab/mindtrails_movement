@@ -1,16 +1,16 @@
 {
-    "header_text": "Not Getting an Invite",
+    "header_text": "New Training Plan",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Not Getting an Invite"
+            "text": "New Training Plan"
         },
         {
             "type": "Media",
-            "url": "./images/702.jpg"
+            "url": "./images/639.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

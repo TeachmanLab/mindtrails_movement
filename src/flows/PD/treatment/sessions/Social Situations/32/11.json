@@ -1,0 +1,16 @@
+{
+    "header_text": "Friendships in the Future",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friendships in the Future"
+        },
+        {
+            "type": "Media",
+            "url": "./images/707.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

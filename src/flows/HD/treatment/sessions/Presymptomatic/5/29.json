@@ -1,25 +1,25 @@
 {
-    "header_text": "Forgotten Name",
+    "header_text": "Slowed Response ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "During a team meeting, you forget a colleague's name, despite having known them for years. You start to worry that your forgetfulness might be a sign of something more serious that's related to your..."
+            "text": "You are speaking to a friend over lunch. Lately, you've been processing information a bit slower than usual, and you begin to worry that your friend will think you aren't paying attention. You remember that she is aware of your diagnosis and will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Forgotten Name_Presymptomatic_puzzle1",
+            "name": "slowed_response_--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "HD"
+                "compassionate"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

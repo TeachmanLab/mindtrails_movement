@@ -7,6 +7,7 @@
             "text": "In the past four weeks, to what extent did you experience the following symptoms? \n\nBeing unable to relax"
         },
         {
+            "name": "PAS_A3",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all, or never",
@@ -15,8 +16,7 @@
                 "3::Moderate, or often",
                 "4::Severe or (nearly) always",
                 "99:: Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

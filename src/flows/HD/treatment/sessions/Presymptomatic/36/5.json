@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptom Onset Fears: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just slipped while on a walk outside. Your mind begins to start worrying that this is your symptoms beginning to manifest and wonder if your whole life has just changed in an instant.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "This slip does not necessarily mean my symptoms are appearing, everyone slips.",
+                "I may have just slipped, but there was probably a rock or something that caused it.",
+                "This may be the start of a tough time, but I have supportive people around me to help me get through this.",
+                "I'm never going to be able to walk normally again.",
+                "I still have time, symptoms usually take a long time to develop."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

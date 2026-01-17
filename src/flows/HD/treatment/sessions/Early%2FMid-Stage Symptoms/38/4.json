@@ -1,0 +1,16 @@
+{
+    "header_text": "Volunteer Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Volunteer Project"
+        },
+        {
+            "type": "Media",
+            "url": "./images/882.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

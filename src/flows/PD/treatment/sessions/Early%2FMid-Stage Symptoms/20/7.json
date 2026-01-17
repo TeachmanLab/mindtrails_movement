@@ -1,16 +1,29 @@
 {
-    "header_text": "Local Event",
+    "header_text": "Poor Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As they come closer, you see they are smiling. They make a joke about rush hour and thank you for your help. Their kind gesture leaves you feeling..."
+            "Text": "Your spouse will be..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "poor_sleep--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Compassionate towards you",
+                "Be frustrated with your mood"
+            ],
+            "column_count": 1,
+            "correct_value": "Compassionate towards you"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 1
 }

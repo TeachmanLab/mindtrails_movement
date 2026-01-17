@@ -1,14 +1,14 @@
 {
-    "header_text": "A sip of water",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A sip of water"
+            "text": "Meeting an old acquaintance"
         },
         {
             "type": "Media",
-            "url": "./images/113.jpg"
+            "url": "./images/618.jpg"
         }
     ],
     "type": "positive",

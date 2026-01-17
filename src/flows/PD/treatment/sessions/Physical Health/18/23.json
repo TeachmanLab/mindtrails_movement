@@ -1,0 +1,16 @@
+{
+    "header_text": "Virus Fear",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Virus Fear"
+        },
+        {
+            "type": "Media",
+            "url": "./images/515.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

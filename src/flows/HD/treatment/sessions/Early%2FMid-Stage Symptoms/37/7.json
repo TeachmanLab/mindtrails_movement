@@ -1,0 +1,16 @@
+{
+    "header_text": "House Cleaning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "House Cleaning"
+        },
+        {
+            "type": "Media",
+            "url": "./images/755.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

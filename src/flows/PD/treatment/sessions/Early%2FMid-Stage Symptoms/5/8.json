@@ -1,16 +1,16 @@
 {
-    "header_text": "Bowling Alley",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Bowling Alley"
+            "text": "Spilling Food on Laptop"
         },
         {
             "type": "Media",
-            "url": "./images/750.jpg"
+            "url": "./images/757.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

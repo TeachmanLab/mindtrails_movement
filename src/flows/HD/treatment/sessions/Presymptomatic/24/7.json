@@ -1,16 +1,17 @@
 {
-    "header_text": "Playing Fetch",
+    "header_text": "Dinner with In-Laws",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing Fetch"
+            "text": "Tonight, you are at dinner with your in-laws. Someone has just disagreed with a comment you made, and you snap back angrily without thinking. You excuse yourself to the bathroom to cool off, knowing your in-laws will respond with..."
         },
         {
-            "type": "Media",
-            "url": "./images/939.jpg"
+            "type": "Entry",
+            "name": "dinner_with_in-laws--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "resilience/negation",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 2
 }

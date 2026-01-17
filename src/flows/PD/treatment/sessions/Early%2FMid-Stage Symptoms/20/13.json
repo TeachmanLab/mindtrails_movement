@@ -1,26 +1,29 @@
 {
-    "header_text": "Fitness Walk",
+    "header_text": "Difficulty Moving On",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are walking with your fitness partner at a park. You can't seem to keep up with their pace but hesitate telling your friend because they seem to be in a groove. When you ask your friend to slow down, they quickly... "
+            "Text": "Taking a step back to reassess is..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "difficulty_moving_on--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Weak",
+                "Wise"
+            ],
+            "column_count": 1,
+            "correct_value": "Wise"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 3
 }

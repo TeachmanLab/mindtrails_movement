@@ -1,14 +1,14 @@
 {
-    "header_text": "Borrowing from a Friend",
+    "header_text": "Feeling Different",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Borrowing from a Friend"
+            "text": "Feeling Different"
         },
         {
             "type": "Media",
-            "url": "./images/121.jpg"
+            "url": "./images/99.jpg"
         }
     ],
     "type": "positive",

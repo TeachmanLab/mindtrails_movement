@@ -1,16 +1,16 @@
 {
-    "header_text": "Farmer's Market Sweets",
+    "header_text": "Missing Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Farmer's Market Sweets"
+            "text": "Missing Wallet"
         },
         {
             "type": "Media",
-            "url": "./images/420.jpg"
+            "url": "./images/304.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

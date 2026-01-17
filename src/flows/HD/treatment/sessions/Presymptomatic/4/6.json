@@ -1,25 +1,29 @@
 {
-    "header_text": "Job promotion",
+    "header_text": "Spiritual Practice",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been at your current job for a while, and you have just earned a promotion. After feeling excited at first, you think about the added responsibilities and worry how your future symptoms might affect your work. You think about all the hard work you have put in and remind yourself this is a time to feel..."
+            "Text": "Will you find new ways of continuing your spiritual practice?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Job promotion_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "spiritual_practice--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "proud"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 1
 }

@@ -1,29 +1,17 @@
 {
-    "header_text": "Handwriting Challenge",
+    "header_text": "To-do List",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If your handwriting gets worse, you will..."
+            "text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you..."
         },
         {
-            "type": "Buttons",
-            "name": "Handwriting Challenge_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Adapt",
-                "Give up"
-            ],
-            "column_count": 1,
-            "correct_value": "Adapt"
+            "type": "Entry",
+            "name": "to-do_list--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

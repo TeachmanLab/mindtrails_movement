@@ -1,0 +1,16 @@
+{
+    "header_text": "Taking Time Off",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Taking Time Off"
+        },
+        {
+            "type": "Media",
+            "url": "./images/517.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

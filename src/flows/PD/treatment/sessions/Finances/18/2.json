@@ -1,0 +1,25 @@
+{
+    "header_text": "Future limitations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "This morning you hear the news that a lot of companies are currently downsizing. You think about what will happen if you lose your job. You decide that finding another job will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "future_limitations--finances--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "possible"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

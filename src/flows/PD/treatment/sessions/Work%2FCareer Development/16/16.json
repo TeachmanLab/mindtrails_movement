@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Work/Career Development",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #9_entry"
+            "text": "Try the Pomodoro method: take a 5 minute break after every 30 minutes of work for your mind to rejuvenate."
         }
     ]
 }

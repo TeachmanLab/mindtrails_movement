@@ -1,23 +1,23 @@
 {
-    "header_text": "Overhearing your name ",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your coworkers were probably..."
+            "Text": "Does your friend think you are awkward when there is silence during the drive?"
         },
         {
             "type": "Buttons",
-            "name": "Overhearing your name _Social Situations_comp_question",
+            "name": "silence_on_a_drive--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Talking poorly about you",
-                "Giving you a compliment"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Giving you a compliment"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

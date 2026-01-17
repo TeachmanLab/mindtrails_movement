@@ -1,39 +1,16 @@
 {
-    "header_text": "Navigating Around Town",
+    "header_text": "Starting Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Testing your navigation skills even if you rely on technology is still... "
+            "text": "Starting Therapy"
         },
         {
-            "type": "Buttons",
-            "name": "Navigating Around Town_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Boring",
-                "Rewarding"
-            ],
-            "column_count": 1,
-            "correct_value": "Rewarding"
+            "type": "Media",
+            "url": "./images/421.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 5
 }

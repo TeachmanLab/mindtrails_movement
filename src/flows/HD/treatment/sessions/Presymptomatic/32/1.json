@@ -1,0 +1,16 @@
+{
+    "header_text": "Drawing a Blank",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Drawing a Blank"
+        },
+        {
+            "type": "Media",
+            "url": "./images/244.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

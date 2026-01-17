@@ -1,29 +1,16 @@
 {
-    "header_text": "Creating Art ",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "Text": "As you consider your future as an artist, you know that you will... "
+            "text": "Reason 5:"
         },
         {
-            "type": "Buttons",
-            "name": "Creating Art _Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Adapt",
-                "Fail"
-            ],
-            "column_count": 1,
-            "correct_value": "Adapt"
+            "name": "Reason5_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    ]
 }

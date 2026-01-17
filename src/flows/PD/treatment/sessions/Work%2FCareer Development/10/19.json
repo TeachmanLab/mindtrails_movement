@@ -1,16 +1,17 @@
 {
-    "header_text": "Misunderstanding",
+    "header_text": "Wrapping Up Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in a meeting and reach to put your phone away as the new head of your department starts talking. They mistakenly think you're texting during the meeting and call you out in front of everyone. You go to explain afterwards, but you can't read their..."
+            "text": "Work has been piling up at your job recently, and you were going to take the weekend to catch up. However, your friend reminded you of an event this weekend that you committed to, and it would be rude to cancel last minute. You think that completing your work will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "wrapping_up_work--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

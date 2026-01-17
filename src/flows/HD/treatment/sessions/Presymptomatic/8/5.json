@@ -1,13 +1,14 @@
 {
-    "header_text": "Job Interview",
+    "header_text": "Conflict with Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You go to a job interview and feel confident going into it. As soon as they ask you a basic question, you struggle to find an answer and your mind goes blank. At first, you are worried about making a bad impression, but then you think about how getting nervous and fumbling words during an interview are... "
+            "text": "Arguments have been happening with your spouse more frequently. Today, your spouse takes their frustration out on you with unkind words. Instead of retaliating, you step outside to walk the dog and have time to..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "conflict_with_spouse--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

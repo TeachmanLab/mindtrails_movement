@@ -1,14 +1,14 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "HOA Meeting Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Writing a Letter"
+            "text": "HOA Meeting Plans"
         },
         {
             "type": "Media",
-            "url": "./images/841.jpg"
+            "url": "./images/829.jpg"
         }
     ],
     "type": "positive",

@@ -7,7 +7,8 @@
             "text": "You are considering leaving your job to start your own small business and are ready to work hard. You are excited, but you also know that many start-ups can end up crashing and burning. Thinking about the future of your business, it will be... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "starting_a_small_business--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

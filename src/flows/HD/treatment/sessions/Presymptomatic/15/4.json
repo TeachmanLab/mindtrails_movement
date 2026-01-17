@@ -1,23 +1,23 @@
 {
-    "header_text": "Handwriting Thoughts",
+    "header_text": "Birthday Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you soon lose your ability to write?"
+            "Text": "You most likely forgot to send the cards due to..."
         },
         {
             "type": "Buttons",
-            "name": "Handwriting Thoughts_Presymptomatic_comp_question",
+            "name": "birthday_cards--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Developing symptoms of dementia",
+                "Being busy"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Being busy"
         }
     ],
     "navigation_conditions": [

@@ -4,13 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "text": "After you decide to share how you're feeling with them, they tell you they've just been tired and didn't realize how much it was affecting your relationship. You feel..."
+            "text": "Putting Yourself Out There"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/362.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 4
 }

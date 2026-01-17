@@ -1,16 +1,16 @@
 {
-    "header_text": "Balancing Checkbook",
+    "header_text": "Family Dinner Fight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Balancing Checkbook"
+            "text": "Family Dinner Fight"
         },
         {
             "type": "Media",
-            "url": "./images/318.jpg"
+            "url": "./images/795.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

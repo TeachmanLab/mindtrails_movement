@@ -1,29 +1,25 @@
 {
-    "header_text": "Future Gym Visits",
+    "header_text": "Headache at the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You embrace the future with..."
+            "text": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, and that scares you because this is something you've been experiencing. You remember that headaches are common, and you can rest until you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Future Gym Visits_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "headache_at_the_doctor's_office--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Optimism",
-                "Pessimism"
+            "display_delay": 2000,
+            "words": [
+                "better"
             ],
-            "column_count": 1,
-            "correct_value": "Optimism"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "House Play",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "House Play"
+        },
+        {
+            "type": "Media",
+            "url": "./images/203.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

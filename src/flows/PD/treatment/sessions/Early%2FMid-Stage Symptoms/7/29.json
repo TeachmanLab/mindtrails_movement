@@ -1,23 +1,23 @@
 {
-    "header_text": "Produce Shopping",
+    "header_text": "Thinking fast at work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your list ease the decision burden?"
+            "Text": "If you fail to recall the steps needed to complete the task, you will..."
         },
         {
             "type": "Buttons",
-            "name": "Produce Shopping_Early/Mid-Stage Symptoms_comp_question",
+            "name": "thinking_fast_at_work--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Be judged by your colleagues",
+                "Still be able to do your job"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Still be able to do your job"
         }
     ],
     "navigation_conditions": [

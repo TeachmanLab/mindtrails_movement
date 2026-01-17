@@ -1,14 +1,14 @@
 {
-    "header_text": "Saturday Without Plans",
+    "header_text": "Leaning on your Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Saturday Without Plans"
+            "text": "Leaning on your Peers"
         },
         {
             "type": "Media",
-            "url": "./images/683.jpg"
+            "url": "./images/62.jpg"
         }
     ],
     "type": "positive",

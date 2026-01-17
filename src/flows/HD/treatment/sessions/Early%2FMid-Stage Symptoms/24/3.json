@@ -1,25 +1,17 @@
 {
-    "header_text": "Side Dish Selection",
+    "header_text": "Bakery Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to ask the waiter about the options for sides, and they politely explain. After this, you easily pick your side with confidence and feel..."
+            "text": "Every Saturday morning you go to a bakery with your neighbor. Today as you browse around, you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Side Dish Selection_Early/Mid-Stage Symptoms_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "happy"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "bakery_routine--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

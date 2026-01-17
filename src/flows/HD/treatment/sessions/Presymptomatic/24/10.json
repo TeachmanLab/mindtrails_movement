@@ -1,29 +1,17 @@
 {
-    "header_text": "Playing Fetch",
+    "header_text": "Finding Your Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your struggle to throw the ball a serious issue?"
+            "text": "You remember your therapist shared the 7/11 breathing exercise to help calm you down in moments like this. After finishing the breathing exercise, you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Playing Fetch_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "type": "Entry",
+            "name": "finding_your_wallet--presymptomatic--puzzle2_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 3
 }

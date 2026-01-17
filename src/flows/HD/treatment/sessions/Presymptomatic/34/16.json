@@ -1,0 +1,16 @@
+{
+    "header_text": "Long Day at the Doctor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Long Day at the Doctor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/947.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

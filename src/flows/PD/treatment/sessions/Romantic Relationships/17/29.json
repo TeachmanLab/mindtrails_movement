@@ -1,23 +1,23 @@
 {
-    "header_text": "Intimacy and Communication",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You respond to your spouse's upset reaction by... "
+            "Text": "Are you upset that you're single? "
         },
         {
             "type": "Buttons",
-            "name": "Intimacy and Communication_Romantic Relationships_comp_question",
+            "name": "family_questions--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Communicating",
-                "Avoiding them"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Communicating"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

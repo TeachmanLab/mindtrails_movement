@@ -1,23 +1,23 @@
 {
-    "header_text": "Giving a Presentation",
+    "header_text": "The Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you looking forward to giving your presentation to your coworkers? "
+            "Text": "Is it scary that your mind went blank right before your meeting?"
         },
         {
             "type": "Buttons",
-            "name": "Giving a Presentation_Work/Career Development_comp_question",
+            "name": "the_meeting--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

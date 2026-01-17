@@ -1,14 +1,14 @@
 {
-    "header_text": "Presenting your Work",
+    "header_text": "Taking Your Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presenting your Work"
+            "text": "Taking Your Time"
         },
         {
             "type": "Media",
-            "url": "./images/112.jpg"
+            "url": "./images/95.jpg"
         }
     ],
     "type": "positive",

@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Mistake on a task"
+            "Text": "Does your boss believe that your work holds promise?"
         },
         {
-            "type": "Media",
-            "url": "./images/116.jpg"
+            "type": "Buttons",
+            "name": "mistake_on_a_task--social_situations--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 6
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Changing Your Trajectory",
+    "header_text": "New Skill",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think you will find a new job that is rewarding?"
+            "text": "New Skill"
         },
         {
-            "type": "Buttons",
-            "name": "Changing Your Trajectory_Work/Career Development_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/86.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "type": "negative",
+    "scenario_num": 2
 }

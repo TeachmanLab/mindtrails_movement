@@ -1,23 +1,23 @@
 {
-    "header_text": "Movie Distraction",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you try to focus and follow the movie plot, you are..."
+            "Text": "The new friend's response is a sign of..."
         },
         {
             "type": "Buttons",
-            "name": "Movie Distraction_Presymptomatic_comp_question",
+            "name": "name_recall_--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Hopeless",
-                "Successful"
+                "Frustration",
+                "Relief"
             ],
             "column_count": 1,
-            "correct_value": "Successful"
+            "correct_value": "Relief"
         }
     ],
     "navigation_conditions": [

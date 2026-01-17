@@ -1,0 +1,16 @@
+{
+    "header_text": "Car Accident",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Car Accident"
+        },
+        {
+            "type": "Media",
+            "url": "./images/423.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

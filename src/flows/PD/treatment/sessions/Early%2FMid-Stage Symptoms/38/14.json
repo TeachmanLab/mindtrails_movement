@@ -1,0 +1,17 @@
+{
+    "header_text": "Organizing an Event",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were asked to plan a fundraiser for a local non-profit, a task you've taken on yearly. While organizing the details, you become upset because you notice it is taking you much longer than in the past. You choose to write down a plan, delegate tasks to others, and watch the event come together..."
+        },
+        {
+            "type": "Entry",
+            "name": "organizing_an_event--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

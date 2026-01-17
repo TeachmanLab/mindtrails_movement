@@ -1,29 +1,16 @@
 {
-    "header_text": "Getting Ready",
+    "header_text": "Lost Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After your initial anxiety, you..."
+            "text": "Lost Wallet"
         },
         {
-            "type": "Buttons",
-            "name": "Getting Ready_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Start to despair",
-                "Calm your thoughts"
-            ],
-            "column_count": 1,
-            "correct_value": "Calm your thoughts"
+            "type": "Media",
+            "url": "./images/907.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
-    "scenario_num": 0
+    "scenario_num": 1
 }

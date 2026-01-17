@@ -1,16 +1,29 @@
 {
-    "header_text": "Out of Your Control",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Out of Your Control"
+            "Text": "Will you be able to keep up with your friend tomorrow?"
         },
         {
-            "type": "Media",
-            "url": "./images/65.jpg"
+            "type": "Buttons",
+            "name": "walking_with_a_friend--physical_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 3
 }

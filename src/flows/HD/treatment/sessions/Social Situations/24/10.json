@@ -1,29 +1,17 @@
 {
-    "header_text": "Holiday Away From Home",
+    "header_text": "Sore Throat at Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your parents are likely to think that you..."
+            "text": "You make plans to go out to dinner with a friend. When you finish dinner, they take sips of water and say that their throat is sore. You figure it's probably from talking a lot at... "
         },
         {
-            "type": "Buttons",
-            "name": "Holiday Away From Home_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Don't care about them or want to see them",
-                "Are just excited to spend the holidays with your partner, and not take it personally"
-            ],
-            "column_count": 1,
-            "correct_value": "Are just excited to spend the holidays with your partner, and not take it personally"
+            "type": "Entry",
+            "name": "sore_throat_at_dinner--social_situations--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 3
 }

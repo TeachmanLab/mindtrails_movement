@@ -8,9 +8,9 @@
         },
         {
             "type": "Entry",
-            "name": "lessons_learned_Physical Health_0"
+            "name": "lessons_learned--physical_health--0"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

@@ -1,25 +1,16 @@
 {
-    "header_text": "Bringing a New Friend Home",
+    "header_text": "Sore Throat at Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You consider that you live in a different situation compared to your friend. You also know that your friend is really nice, so they will be..."
+            "text": "Sore Throat at Dinner"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Bringing a New Friend Home_Social Situations_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "accepting"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/692.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

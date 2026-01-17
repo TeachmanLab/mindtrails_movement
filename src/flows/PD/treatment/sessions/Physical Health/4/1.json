@@ -1,14 +1,14 @@
 {
-    "header_text": "Hot surface burn",
+    "header_text": "Comfortable couch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hot surface burn"
+            "text": "Comfortable couch"
         },
         {
             "type": "Media",
-            "url": "./images/450.jpg"
+            "url": "./images/451.jpg"
         }
     ],
     "type": "positive",

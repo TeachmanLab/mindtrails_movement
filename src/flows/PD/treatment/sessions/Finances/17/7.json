@@ -1,0 +1,16 @@
+{
+    "header_text": "Hacked Account",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hacked Account"
+        },
+        {
+            "type": "Media",
+            "url": "./images/309.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

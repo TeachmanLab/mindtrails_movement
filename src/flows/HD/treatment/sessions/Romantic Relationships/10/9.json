@@ -7,7 +7,8 @@
             "text": "You and your spouse have been together for a long time and are dealing with a recurring argument. You love your spouse, but you wonder if you're compatible because you disagree every time a specific topic comes up in conversation. You remember that having disagreements is normal, and many couples have challenging..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "tough_topics--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

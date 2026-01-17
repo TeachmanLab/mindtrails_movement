@@ -1,22 +1,22 @@
 {
-    "header_text": "Journaling Shift",
+    "header_text": "Language Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you become more..."
+            "text": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You find it difficult to remember new vocabulary, and you're dreading the day that the teacher will call on you in front of everyone. When the day comes, it is obvious to everyone that you have... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Journaling Shift_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "language_class--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "patient"
+                "practiced"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

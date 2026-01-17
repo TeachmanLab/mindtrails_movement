@@ -1,13 +1,14 @@
 {
-    "header_text": "Wearing a Mask to Work",
+    "header_text": "Seeing an Old Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are immunocompromised and have been taking precautions to protect yourself from the flu, such as getting this season's flu shot. A colleague tells you that they refuse to get the flu vaccine. You decide to start wearing a mask to work since you're immunocompromised and don't want to risk complications from the... "
+            "text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "seeing_an_old_friend--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

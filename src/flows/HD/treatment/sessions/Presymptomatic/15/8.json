@@ -1,14 +1,14 @@
 {
-    "header_text": "Game Night Mistake",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Game Night Mistake"
+            "text": "Creating Art "
         },
         {
             "type": "Media",
-            "url": "./images/824.jpg"
+            "url": "./images/768.jpg"
         }
     ],
     "type": "resilience/negation",

@@ -7,7 +7,8 @@
             "text": "Your friend is having a huge birthday party with all of your friends attending. You know you can't afford a gift for your friend. When you show up with a homemade card, your friend is..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "a_homemade_gift--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,13 +1,14 @@
 {
-    "header_text": "Food Costs",
+    "header_text": "Treating Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Recently, you've just wanted to spend time alone and don't have much motivation to get out of bed. You ordered delivery a few nights in a row, and you spent much more money on takeout than you normally do. You realize that there are some easy meals you can handle making next week, so you start... "
+            "text": "You've had a lot going on recently and haven't felt like yourself. You want to treat yourself to something you enjoy, but you aren't sure you have room in your budget. You decide to buy yourself something small that you can definitely..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "treating_yourself--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

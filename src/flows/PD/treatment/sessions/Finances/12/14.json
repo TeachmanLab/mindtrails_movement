@@ -1,16 +1,10 @@
 {
-    "header_text": "Social Function",
+    "header_text": "Manage Your Feelings: Finances",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Social Function"
-        },
-        {
-            "type": "Media",
-            "url": "./images/305.jpg"
+            "text": "Make a list of activities you enjoy that do not cost any money."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

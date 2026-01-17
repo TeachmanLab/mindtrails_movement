@@ -1,29 +1,16 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "How You Look",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You think that during your performance review, your boss is likely to say..."
+            "text": "How You Look"
         },
         {
-            "type": "Buttons",
-            "name": "Reviewing Your Work _Mental Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "\"I'm still very happy with the work you've been doing\"",
-                "\"These slip ups are simply unacceptable at this point\""
-            ],
-            "column_count": 1,
-            "correct_value": "\"These slip ups are simply unacceptable at this point\""
+            "type": "Media",
+            "url": "./images/375.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 6
 }

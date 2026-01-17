@@ -7,6 +7,7 @@
             "text": "How did you learn about MindTrails-Movement? (select all that apply)"
         },
         {
+            "name": "mtmreferralsource",
             "type": "Buttons",
             "buttons": [
                 "0::Huntington's Disease Society of America website/HDTrialFinder",
@@ -20,7 +21,6 @@
                 "!8::Other:",
                 "^99::Prefer not to answer"
             ],
-            "selectable": true,
             "multiselect": true
         }
     ]

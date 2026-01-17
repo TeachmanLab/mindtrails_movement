@@ -1,14 +1,14 @@
 {
-    "header_text": "Luncheon Looks",
+    "header_text": "Time to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Luncheon Looks"
+            "text": "Time to Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/699.jpg"
+            "url": "./images/177.jpg"
         }
     ],
     "type": "positive",

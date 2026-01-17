@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "mds_updrs_8",
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: No fatigue.",
@@ -15,8 +16,7 @@
                 "2::2: Mild: Fatigue causes me some troubles doing things or being with people.",
                 "3::3: Moderate: Fatigue causes me a lot of troubles doing things or being with people. However, it does not stop me from doing anything.",
                 "4::4: Severe: Fatigue stops me from doing things or being with people."
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

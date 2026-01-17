@@ -7,7 +7,8 @@
             "text": "Your family doesn't do sit-down dinners together. Your friend invites you to join her family for dinner, and everyone starts asking questions about each other's days while sitting at the table. You're not sure how to respond when it's your turn, but after you say something, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "dinner_at_a_friend's_house--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,16 +1,29 @@
 {
-    "header_text": "New Book Club ",
+    "header_text": "Meditation Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You consider inviting them over for dinner. You make a plan to have someone help you tidy up because your book club friends are..."
+            "Text": "Meditation..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "meditation_journey--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Helps improve your well-being.",
+                "Makes you more anxious than before."
+            ],
+            "column_count": 1,
+            "correct_value": "Helps improve your well-being."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

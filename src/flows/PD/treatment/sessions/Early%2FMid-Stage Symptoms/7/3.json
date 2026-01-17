@@ -1,23 +1,23 @@
 {
-    "header_text": "Future Gym Visits",
+    "header_text": "Daily Tasks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You embrace the future with..."
+            "Text": "Is your disease suddenly getting worse?"
         },
         {
             "type": "Buttons",
-            "name": "Future Gym Visits_Early/Mid-Stage Symptoms_comp_question",
+            "name": "daily_tasks--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Pessimism",
-                "Optimism"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Optimism"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

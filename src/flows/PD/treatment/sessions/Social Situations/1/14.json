@@ -1,16 +1,16 @@
 {
-    "header_text": "Controversial news story",
+    "header_text": "Risky Behavior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Controversial news story"
+            "text": "Risky Behavior"
         },
         {
             "type": "Media",
-            "url": "./images/598.jpg"
+            "url": "./images/670.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 4
 }

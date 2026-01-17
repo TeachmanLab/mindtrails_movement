@@ -1,10 +1,25 @@
 {
-    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
+    "header_text": "Beach Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "If you're dealing with uncomfortable symptoms, try making notes of when your symptoms are better or worse throughout the day. This can help you and your doctor identify patterns and think of ways to improve your symptoms."
+            "text": "You are on a trip to the beach with a close friend. Walking in the sand is making you lose your balance, and you are afraid to fall. You stop walking and look out at the horizon, feeling..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "beach_walk--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "awe"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

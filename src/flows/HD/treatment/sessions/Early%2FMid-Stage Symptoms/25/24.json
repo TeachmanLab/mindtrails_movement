@@ -1,16 +1,17 @@
 {
-    "header_text": "Changing Household Roles",
+    "header_text": "Crossing a Bridge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Changing Household Roles"
+            "text": "You are walking in the park and start to cross a bridge. You are having trouble going across the wooden panels, and your stomach drops as you slip on a loose board. You grab onto the handrail for a few seconds and realize that you are..."
         },
         {
-            "type": "Media",
-            "url": "./images/237.jpg"
+            "type": "Entry",
+            "name": "crossing_a_bridge--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

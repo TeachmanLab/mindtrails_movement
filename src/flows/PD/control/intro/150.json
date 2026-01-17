@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "mds_updrs_7",
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: No dizzy or foggy feelings.",
@@ -15,8 +16,7 @@
                 "2::2: Mild: Dizzy or foggy feelings cause me to hold on to something, but I do not need to sit or lie back down.",
                 "3::3: Moderate: Dizzy or foggy feelings cause me to sit or lie down to avoid fainting or falling.",
                 "4::4: Severe: Dizzy or foggy feelings cause me to fall or faint."
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Game Night Mistake",
+    "header_text": "Delayed Texting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enjoy strategy games but have recently had more trouble keeping up. At the last game night, you made a silly mistake during your favorite game. Since then, you can't stop obsessing over whether your friends..."
+            "text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be... "
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "delayed_texting_--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "patient"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 2
 }

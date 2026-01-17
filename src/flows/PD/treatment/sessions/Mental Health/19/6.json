@@ -1,16 +1,29 @@
 {
-    "header_text": "Waiting for Big News",
+    "header_text": "Having a New Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Waiting for Big News"
+            "Text": "Will your coworkers judge your home?"
         },
         {
-            "type": "Media",
-            "url": "./images/43.jpg"
+            "type": "Buttons",
+            "name": "having_a_new_friend_over--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 1
 }

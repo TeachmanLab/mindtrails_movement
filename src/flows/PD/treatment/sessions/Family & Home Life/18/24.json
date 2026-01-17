@@ -1,14 +1,14 @@
 {
-    "header_text": "Reading before Bedtime",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Reading before Bedtime"
+            "text": "Cleaning Your Home"
         },
         {
             "type": "Media",
-            "url": "./images/240.jpg"
+            "url": "./images/212.jpg"
         }
     ],
     "type": "positive",

@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Running Low on Battery_Family & Home Life_puzzle1",
+            "name": "running_low_on_battery--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

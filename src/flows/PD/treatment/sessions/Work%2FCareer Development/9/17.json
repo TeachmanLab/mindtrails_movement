@@ -1,16 +1,16 @@
 {
-    "header_text": "Feedback via Email",
+    "header_text": "Putting in the Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Feedback via Email"
+            "text": "Putting in the Work"
         },
         {
             "type": "Media",
-            "url": "./images/73.jpg"
+            "url": "./images/72.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

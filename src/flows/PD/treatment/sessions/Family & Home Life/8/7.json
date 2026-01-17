@@ -7,7 +7,8 @@
             "text": "Your significant other's children have invited you to join them for the holidays. You are excited to spend time with your partner's family. However, you worry your own children will be disappointed that you are not with... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "holiday_away_from_home--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

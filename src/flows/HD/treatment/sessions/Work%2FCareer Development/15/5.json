@@ -1,16 +1,16 @@
 {
-    "header_text": "Changing Your Trajectory",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Changing Your Trajectory"
+            "text": "Taking a Break"
         },
         {
             "type": "Media",
-            "url": "./images/94.jpg"
+            "url": "./images/85.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,13 +1,14 @@
 {
-    "header_text": "Future Gym Visits",
+    "header_text": "Typing An Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at the gym lifting weights when you suddenly feel off balance. You pause your workout out of concern and wonder how you will continue to exercise as your disease progresses. You remember that working out is important for your well-being, so you decide to embrace the future with..."
+            "text": "As you're typing an email, you notice it's taking longer than usual to find the right words. This mental fog is concerning you, and you wonder if this is related to HD. You take a break to drink some water, and you feel refreshed when you return to the..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "typing_an_email--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

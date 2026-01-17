@@ -1,16 +1,25 @@
 {
-    "header_text": "Expecting",
+    "header_text": "Disease Identity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Expecting"
+            "text": "As someone from a family with HD, you feel as if it's always been a part of your identity. Since your own diagnosis, you've struggled with when and how to talk about HD with others. You begin to understand that the decision to discuss (or not discuss) your diagnosis is..."
         },
         {
-            "type": "Media",
-            "url": "./images/904.jpg"
+            "type": "WordPuzzle",
+            "name": "disease_identity--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "yours"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

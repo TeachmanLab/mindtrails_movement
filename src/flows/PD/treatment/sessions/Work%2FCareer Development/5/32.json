@@ -1,39 +1,25 @@
 {
-    "header_text": "Finishing Work",
+    "header_text": "Others' Opinions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you worried about completing your project on time?"
+            "text": "You were denied a promotion this year and know that your friend was rooting for you to get a promotion. They frown when you tell them about not getting one. You tell them that you worked extremely hard despite not getting a promotion, and they are proud of the effort you gave throughout the..."
         },
         {
-            "type": "Buttons",
-            "name": "Finishing Work_Work/Career Development_comp_question",
+            "type": "WordPuzzle",
+            "name": "others'_opinions--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "year"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/wondering_training.png"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 9
 }

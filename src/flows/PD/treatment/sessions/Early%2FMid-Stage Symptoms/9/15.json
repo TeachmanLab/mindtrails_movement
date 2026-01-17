@@ -1,16 +1,16 @@
 {
-    "header_text": "Replying to Email",
+    "header_text": "Travel Dreams",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Replying to Email"
+            "text": "Travel Dreams"
         },
         {
             "type": "Media",
-            "url": "./images/776.jpg"
+            "url": "./images/782.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

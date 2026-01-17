@@ -7,7 +7,8 @@
             "text": "During a staff meeting, you are called on to share your thoughts. As you start to talk, you hear a loud burst of laughter behind you. Your fellow coworkers are laughing at a..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "class_clowns--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

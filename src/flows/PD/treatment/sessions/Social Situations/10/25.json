@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a situation that you face regluarly that causes some anxiety. What do you usually tell yourself? Is there another thought that you could say to yourself that may make it less anxiety-provoking? "
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #12_entry"
+            "text": "When angry or upset about any situation, let that emotion come and go. Rather than trying to push it away, allow yourself to acknowledge and deeply feel your emotions safely."
         }
     ]
 }

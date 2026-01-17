@@ -1,16 +1,16 @@
 {
-    "header_text": "Achieving Your Goals",
+    "header_text": "Time to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You would like to apply for a better position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal. You have worked hard to make yourself a good... "
+            "text": "Time to Yourself"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/177.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,25 +1,29 @@
 {
-    "header_text": "Dropped Plate",
+    "header_text": "Unconditional Love",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "They share that they've done something similar in the past and don't want you to feel bad about it. This offers you some..."
+            "Text": "Will your spouse stop loving you because of your recent behavior?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dropped Plate_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "unconditional_love--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "comfort"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 2
 }

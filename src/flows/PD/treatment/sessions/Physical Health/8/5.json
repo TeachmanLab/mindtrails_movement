@@ -1,13 +1,14 @@
 {
-    "header_text": "Going for a Spin",
+    "header_text": "Unknown Sensations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to spin yourself really quickly in an office chair. You feel butterflies in your stomach and your head get dizzy as the chair slows down from spinning. These feelings probably mean that you are..."
+            "text": "You're walking with some friends after lunch and suddenly feel tingling in your fingertips. This is something that you haven't really experienced before. This probably means that you are..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "unknown_sensations--physical_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

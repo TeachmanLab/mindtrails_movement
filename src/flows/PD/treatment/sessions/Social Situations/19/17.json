@@ -1,16 +1,16 @@
 {
-    "header_text": "New Apartment to Yourself",
+    "header_text": "Visiting a New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Apartment to Yourself"
+            "text": "Visiting a New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/181.jpg"
+            "url": "./images/674.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 5
 }

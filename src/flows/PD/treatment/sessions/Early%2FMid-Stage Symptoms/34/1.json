@@ -1,14 +1,14 @@
 {
-    "header_text": "Kitchen Coordination",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Kitchen Coordination"
+            "text": "Painting Project"
         },
         {
             "type": "Media",
-            "url": "./images/246.jpg"
+            "url": "./images/233.jpg"
         }
     ],
     "type": "positive",

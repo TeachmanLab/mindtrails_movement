@@ -1,17 +1,18 @@
 {
-    "header_text": "Talking to friends",
+    "header_text": "Family Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are catching up with a group of friends you haven't seen in a while. In the middle of telling a story, you lose track of what you intended to say and worry about your friends' reactions. You tell your friends that you lost your train of thought, and they are... "
+            "text": "You're helping your granddaughter prepare for her wedding. When you meet with the bridal party, you forget the groom's name. Desperate to hide this from her, you secretively ask your daughter for his name while your granddaughter glances over at you with a look of..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "family_wedding--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4,
     "information": {
         "elements": [

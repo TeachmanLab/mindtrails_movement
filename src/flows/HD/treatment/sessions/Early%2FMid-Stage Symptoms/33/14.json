@@ -1,16 +1,16 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Trip Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You spend some time with your family and friends. You realize, if your symptoms become that severe, you will still be surrounded by loved ones who..."
+            "text": "Trip Planning"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/847.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 4
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Dentist Difficulty",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dentist Difficulty"
+            "text": "Painting Project"
         },
         {
             "type": "Media",
-            "url": "./images/878.jpg"
+            "url": "./images/233.jpg"
         }
     ],
     "type": "positive",

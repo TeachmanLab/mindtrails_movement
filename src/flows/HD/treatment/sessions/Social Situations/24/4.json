@@ -1,14 +1,14 @@
 {
-    "header_text": "Bringing a New Friend Home",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Bringing a New Friend Home"
+            "text": "Overwhelming Options"
         },
         {
             "type": "Media",
-            "url": "./images/706.jpg"
+            "url": "./images/691.jpg"
         }
     ],
     "type": "resilience/negation",

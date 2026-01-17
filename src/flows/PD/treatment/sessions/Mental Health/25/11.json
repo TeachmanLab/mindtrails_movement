@@ -1,0 +1,17 @@
+{
+    "header_text": "Yoga Routine",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is..."
+        },
+        {
+            "type": "Entry",
+            "name": "yoga_routine--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
+}

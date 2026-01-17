@@ -1,16 +1,16 @@
 {
-    "header_text": "Committing to Activities",
+    "header_text": "Trying Out a Funny Caption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were very excited to return to the office for work and impulsively decided to take on a lot of tasks. You've found it challenging to meet all of your responsibilities. You worry that you are... "
+            "text": "Trying Out a Funny Caption"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/391.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 6
 }

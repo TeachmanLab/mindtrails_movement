@@ -1,0 +1,39 @@
+{
+    "header_text": "Attending a Dance Recital",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your grandchild is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "attending_a_dance_recital--family_&_home_life--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Embarrassed",
+                "Happy you were able to attend"
+            ],
+            "column_count": 1,
+            "correct_value": "Happy you were able to attend"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "Seeing your Aunt",
+    "header_text": "Family Board Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your aunt only interested in hearing about your gene status?"
+            "Text": "Your family gets quiet because they are..."
         },
         {
             "type": "Buttons",
-            "name": "Seeing your Aunt_Presymptomatic_comp_question",
+            "name": "family_board_game--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Thinking about your outburst",
+                "Thinking about the game"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Thinking about the game"
         }
     ],
     "navigation_conditions": [

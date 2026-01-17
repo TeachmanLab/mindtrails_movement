@@ -1,10 +1,17 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Anticipating a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #29 \n\n You are strong to confront the uncomfortable. Keep going."
+            "text": "You decide to open up and share, and they do the same. As you talk, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "anticipating_a_response--mental_health--puzzle2_entry"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

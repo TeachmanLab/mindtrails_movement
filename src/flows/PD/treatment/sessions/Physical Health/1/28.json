@@ -1,25 +1,25 @@
 {
-    "header_text": "Time to sleep",
+    "header_text": "Carrying Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are lying in your bed about to go to sleep. As everything quiets down, you begin to breathe slower than you usually do. This is..."
+            "text": "You sit with the feelings of discomfort. Then, you decide to work through these feelings by just accepting..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Time to sleep_Physical Health_puzzle1",
+            "name": "carrying_groceries--physical_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relaxing"
+                "them"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

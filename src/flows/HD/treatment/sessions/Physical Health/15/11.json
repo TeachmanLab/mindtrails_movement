@@ -1,16 +1,16 @@
 {
-    "header_text": "Rearranging After Exposure",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Rearranging After Exposure"
+            "text": "Walking with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/75.jpg"
+            "url": "./images/497.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

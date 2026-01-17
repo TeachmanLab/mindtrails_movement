@@ -1,16 +1,16 @@
 {
-    "header_text": "Turning Down a Drink",
+    "header_text": "Practicing Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Turning Down a Drink"
+            "text": "Practicing Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/638.jpg"
+            "url": "./images/639.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

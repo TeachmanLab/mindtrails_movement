@@ -1,16 +1,25 @@
 {
-    "header_text": "Downsizing",
+    "header_text": "Smoothie Order",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are looking to downsize because all of your children have left home. A social worker recommends that you consider a home that will support your safety as your HD eventually progresses. As you talk about this possibility, you feel..."
+            "text": "You are at a smoothie shop with a coworker, deciding what to order while you wait in line. When it's your turn to order, you completely go blank, forgetting what you wanted. Your colleague reminds you of your favorite drink, and you think they are..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "smoothie_order--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "thoughtful"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "type": "positive",
+    "scenario_num": 2
 }

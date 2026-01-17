@@ -1,16 +1,29 @@
 {
-    "header_text": "HOA Meeting",
+    "header_text": "Organizing Closet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before trying again, you take a break and ask a friend for..."
+            "Text": "Many people misplace items, and it is better to..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "organizing_closet--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Stay calm",
+                "Worry"
+            ],
+            "column_count": 1,
+            "correct_value": "Stay calm"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Delayed Texting ",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The recipient of your text will..."
+            "Text": "Reflecting on your relationship with your spouse, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Delayed Texting _Early/Mid-Stage Symptoms_comp_question",
+            "name": "new_conflict_with_spouse--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Be frustrated",
-                "Happily wait"
+                "Committed",
+                "Afraid"
             ],
             "column_count": 1,
-            "correct_value": "Happily wait"
+            "correct_value": "Committed"
         }
     ],
     "navigation_conditions": [

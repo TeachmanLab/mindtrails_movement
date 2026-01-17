@@ -1,0 +1,16 @@
+{
+    "header_text": "Life Changes ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Life Changes "
+        },
+        {
+            "type": "Media",
+            "url": "./images/105.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,29 +1,25 @@
 {
-    "header_text": "Overwhelmed at Meeting",
+    "header_text": "Symptoms at Shopping Mall",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You know your neighbor will be..."
+            "text": "The receptionist helps to comfort you and makes you the earliest appointment possible. After the call, you feel a little more..."
         },
         {
-            "type": "Buttons",
-            "name": "Overwhelmed at Meeting_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "symptoms_at_shopping_mall--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Helpful",
-                "Unhelpful"
+            "display_delay": 2000,
+            "words": [
+                "relaxed"
             ],
-            "column_count": 1,
-            "correct_value": "Helpful"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

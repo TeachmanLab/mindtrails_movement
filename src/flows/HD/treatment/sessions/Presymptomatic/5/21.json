@@ -1,29 +1,16 @@
 {
-    "header_text": "Reality TV Confusion",
+    "header_text": "Family Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your sibling worried because you forgot the host's name?"
+            "text": "Family Planning"
         },
         {
-            "type": "Buttons",
-            "name": "Reality TV Confusion_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/912.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 6
 }

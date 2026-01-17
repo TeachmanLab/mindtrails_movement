@@ -7,6 +7,7 @@
             "text": "A letter marked \"URGENT\" arrives. What is in the letter? \n\nIt is news that someone you know has died or is seriously ill."
         },
         {
+            "name": "bbsiq_13c_neg",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

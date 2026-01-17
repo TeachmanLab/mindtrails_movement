@@ -1,16 +1,16 @@
 {
-    "header_text": "Fast Card Game",
+    "header_text": "Side Dish Selection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fast Card Game"
+            "text": "Side Dish Selection"
         },
         {
             "type": "Media",
-            "url": "./images/871.jpg"
+            "url": "./images/839.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,22 +1,22 @@
 {
-    "header_text": "Clapping at Concert",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a concert, and everyone starts clapping along to your favorite song. You find that you are struggling to clap at the right time, and you feel worried that those around you will be distracted by your symptoms. When you look at the people around you, they look back at you with a..."
+            "text": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing HD will be something you get through..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Clapping at Concert_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "april_proposal--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "grin"
+                "together"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

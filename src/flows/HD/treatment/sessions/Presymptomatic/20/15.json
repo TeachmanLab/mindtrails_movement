@@ -1,16 +1,16 @@
 {
-    "header_text": "Weight Gain",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are taking a new medication that has caused you to gain weight. At a family brunch, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but they are demonstrating their..."
+            "text": "Setting up Camp"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/836.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 4
 }

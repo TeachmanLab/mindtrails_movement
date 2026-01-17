@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Night of Bad Sleep"
+            "text": "In the morning, you decide to cancel your earliest appointment so that you can get more sleep. You wake up after a nap feeling a bit more..."
         },
         {
-            "type": "Media",
-            "url": "./images/760.jpg"
+            "type": "Entry",
+            "name": "night_of_bad_sleep--presymptomatic--puzzle2_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 5
 }

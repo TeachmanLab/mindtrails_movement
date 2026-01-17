@@ -1,29 +1,16 @@
 {
-    "header_text": "New Provider",
+    "header_text": "Hiking with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your healthcare provider is..."
+            "text": "Hiking with Friends"
         },
         {
-            "type": "Buttons",
-            "name": "New Provider_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Insensitive",
-                "Understanding"
-            ],
-            "column_count": 1,
-            "correct_value": "Understanding"
+            "type": "Media",
+            "url": "./images/864.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 9
 }

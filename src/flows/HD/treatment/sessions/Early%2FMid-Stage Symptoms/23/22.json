@@ -1,16 +1,16 @@
 {
-    "header_text": "Work Gala",
+    "header_text": "Toy Store Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Work Gala"
+            "text": "Toy Store Trip"
         },
         {
             "type": "Media",
-            "url": "./images/578.jpg"
+            "url": "./images/410.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 9
 }

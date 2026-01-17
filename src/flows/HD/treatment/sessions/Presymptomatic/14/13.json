@@ -1,16 +1,16 @@
 {
-    "header_text": "Difficulty Baking",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Difficulty Baking"
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/576.jpg"
+            "name": "Reason5_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    ]
 }

@@ -1,0 +1,17 @@
+{
+    "header_text": "Cooking Class",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You attend a cooking class to try out something new. During the lesson, you realize you are a few steps behind everyone else. You follow at your own pace, ask lots of questions, and end up feeling..."
+        },
+        {
+            "type": "Entry",
+            "name": "cooking_class--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

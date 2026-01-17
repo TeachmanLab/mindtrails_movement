@@ -1,29 +1,25 @@
 {
-    "header_text": "Writing Notes",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your coworkers judge you negatively while you write on the board?"
+            "text": "As you prepare for the review, you do not think your boss will forget your good work. In your meeting, you think you will receive..."
         },
         {
-            "type": "Buttons",
-            "name": "Writing Notes_Work/Career Development_comp_question",
+            "type": "WordPuzzle",
+            "name": "reviewing_your_work_--work_career_development--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "praise"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

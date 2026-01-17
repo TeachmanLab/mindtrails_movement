@@ -1,14 +1,14 @@
 {
-    "header_text": "Dinner Alone",
+    "header_text": "Conflict with Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dinner Alone"
+            "text": "Conflict with Spouse"
         },
         {
             "type": "Media",
-            "url": "./images/753.jpg"
+            "url": "./images/593.jpg"
         }
     ],
     "type": "positive",

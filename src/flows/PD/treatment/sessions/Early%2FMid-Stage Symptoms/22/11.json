@@ -1,16 +1,16 @@
 {
-    "header_text": "Off Balance",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Off Balance"
+            "text": "Trouble Reading"
         },
         {
             "type": "Media",
-            "url": "./images/830.jpg"
+            "url": "./images/818.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

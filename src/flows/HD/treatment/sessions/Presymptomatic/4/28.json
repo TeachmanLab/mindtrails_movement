@@ -1,25 +1,29 @@
 {
-    "header_text": "Social Media Post",
+    "header_text": "Job change",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today, your reliable son doesn't show up and tells you that he's sick. You later see him post a photo on social media of himself at a mini golf course. Thinking about confronting him leads to you lashing out at those around you and getting very..."
+            "Text": "A role change is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Social Media Post_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "job_change--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "irritated"
+            "buttons": [
+                "Exciting",
+                "Intimidating"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Exciting"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 8
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Dropped Plate",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dropped Plate"
+            "text": "April Proposal"
         },
         {
             "type": "Media",
-            "url": "./images/715.jpg"
+            "url": "./images/585.jpg"
         }
     ],
     "type": "resilience/negation",

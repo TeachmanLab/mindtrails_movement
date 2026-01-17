@@ -1,0 +1,17 @@
+{
+    "header_text": "Park Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a leisurely walk in the park, you notice you are stumbling more than usual. Worry creeps in that your PD might be getting worse. You look around you, take a deep breath of fresh air, and feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "park_walk--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

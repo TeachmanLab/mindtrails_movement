@@ -1,16 +1,16 @@
 {
-    "header_text": "Masks for Guests",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Masks for Guests"
+            "text": "Sweat Stains"
         },
         {
             "type": "Media",
-            "url": "./images/181.jpg"
+            "url": "./images/483.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Ready to Work",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Ready to Work"
+            "text": "Reviewing Your Work "
         },
         {
             "type": "Media",
-            "url": "./images/83.jpg"
+            "url": "./images/91.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

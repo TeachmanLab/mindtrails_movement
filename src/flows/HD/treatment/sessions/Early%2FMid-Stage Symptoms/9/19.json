@@ -7,7 +7,8 @@
             "text": "You decide to check in with your boss to see how he's feeling. His nice response leaves you feeling..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "replying_to_email--early_mid-stage_symptoms--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

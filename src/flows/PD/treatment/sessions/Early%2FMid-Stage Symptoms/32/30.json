@@ -1,0 +1,16 @@
+{
+    "header_text": "New Acquaintance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Acquaintance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/844.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

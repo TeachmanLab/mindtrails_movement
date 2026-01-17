@@ -1,29 +1,25 @@
 {
-    "header_text": "Journaling Issues",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you find other ways to journal?"
+            "text": "You give yourself a moment to breathe. You pick up the record and realize that it is..."
         },
         {
-            "type": "Buttons",
-            "name": "Journaling Issues_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "record_store--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "fine"
             ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

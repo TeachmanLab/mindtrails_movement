@@ -1,29 +1,25 @@
 {
-    "header_text": "Typing An Email",
+    "header_text": "Finding Your Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you have to give up on the email?"
+            "text": "You remember your therapist shared the 7/11 breathing exercise to help calm you down in moments like this. After finishing the breathing exercise, you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Typing An Email_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "finding_your_wallet--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "better"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

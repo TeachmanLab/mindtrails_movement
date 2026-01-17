@@ -1,22 +1,22 @@
 {
-    "header_text": "Neighbor's Help",
+    "header_text": "New Friendship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are alone and trying to unlock the door to your house. Your PD symptoms are making it very difficult to get the key into the lock, and you start to panic. Suddenly, you remember that your neighbor would happily help, and you begin to..."
+            "text": "You are having breakfast with a new friend. You have a tremor in your hand, and you notice your friend looking at you as you take a bite. You remember you've already shared about your PD, and the new friend has a lot of..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Neighbor's Help_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "new_friendship--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relax"
+                "empathy"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",

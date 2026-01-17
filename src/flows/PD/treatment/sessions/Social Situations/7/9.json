@@ -1,29 +1,25 @@
 {
-    "header_text": "Busy cafe",
+    "header_text": "Brief Introduction",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The customer across from you is probably..."
+            "text": "In the end, you realize that everyone has these moments and quickly recover. As you finish introducing yourself, you see that the others are listening with keen..."
         },
         {
-            "type": "Buttons",
-            "name": "Busy cafe_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "brief_introduction--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Thinking that you are an unfriendly person",
-                "Distracted and unaware of their surroundings"
+            "display_delay": 2000,
+            "words": [
+                "interest"
             ],
-            "column_count": 1,
-            "correct_value": "Distracted and unaware of their surroundings"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

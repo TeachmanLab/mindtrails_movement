@@ -1,23 +1,23 @@
 {
-    "header_text": "Catching up with a friend",
+    "header_text": "Walking Down Steps",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you like catching up with your friend?"
+            "Text": "In the future, walking down the stairs will be..."
         },
         {
             "type": "Buttons",
-            "name": "Catching up with a friend_Early/Mid-Stage Symptoms_comp_question",
+            "name": "walking_down_steps--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Manageable",
+                "Impossible"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "Manageable"
         }
     ],
     "navigation_conditions": [

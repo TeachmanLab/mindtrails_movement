@@ -1,25 +1,25 @@
 {
-    "header_text": "Honest Feedback",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While your colleague didn't express themselves in the best way, you realize that everyone is entitled to their own opinion. You feel proud anyway because you put yourself out... "
+            "text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question, and you don't hear it. You ask her to repeat her question, and this makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Honest Feedback_Work/Career Development_puzzle_word2",
+            "name": "zoning_out--work_career_development--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "there"
+                "ok"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

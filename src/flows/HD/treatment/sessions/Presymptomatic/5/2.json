@@ -1,16 +1,16 @@
 {
-    "header_text": "Getting Ready",
+    "header_text": "Hiking Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Getting Ready"
+            "text": "Hiking Hiatus"
         },
         {
             "type": "Media",
-            "url": "./images/906.jpg"
+            "url": "./images/784.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

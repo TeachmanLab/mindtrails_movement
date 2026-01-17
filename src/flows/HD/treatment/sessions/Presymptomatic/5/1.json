@@ -8,9 +8,9 @@
         },
         {
             "type": "Entry",
-            "name": "lessons_learned_Presymptomatic_0"
+            "name": "lessons_learned--presymptomatic--0"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

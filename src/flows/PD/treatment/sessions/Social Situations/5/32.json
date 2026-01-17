@@ -1,20 +1,20 @@
 {
-    "header_text": "A different haircut",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at the hairdresser, you opt for a completely different haircut. When you see your friends afterward, they gasp. Their gasp probably means that they think the new style makes you look..."
+            "text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A different haircut_Social Situations_puzzle1",
+            "name": "loud_friend--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "great"
+                "tolerable"
             ],
             "missing_letter_count": 2
         }

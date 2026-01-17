@@ -1,16 +1,16 @@
 {
-    "header_text": "Cancelled plans",
+    "header_text": "A heated discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cancelled plans"
+            "text": "A heated discussion"
         },
         {
             "type": "Media",
-            "url": "./images/345.jpg"
+            "url": "./images/625.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

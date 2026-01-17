@@ -1,0 +1,17 @@
+{
+    "header_text": "Trouble Making Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you think about life in your new city, you do not see yourself having to go through this alone. You decide finding a local therapist will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "trouble_making_friends--mental_health--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

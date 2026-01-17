@@ -1,16 +1,25 @@
 {
-    "header_text": "Model Car",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Building model cars has been a hobby of yours since you were young. You start a new model and find it hard to put together. In the end, you work very slowly, and the final model is..."
+            "text": "You and your friends love to be outdoors together, so you go camping for the weekend. As you set up your tent, you notice your friends have already finished with theirs. You finish at your own speed then join your friends, feeling..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "setting_up_camp--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "excited"
+            ],
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

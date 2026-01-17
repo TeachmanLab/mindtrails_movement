@@ -7,13 +7,13 @@
             "text": "Which of the following best describes your current living situation:"
         },
         {
+            "name": "tfc_whereliving",
             "type": "Buttons",
             "buttons": [
                 "0::Living full-time in a nursing home or skilled nursing facility",
                 "1::Living at home with support from professional caregiver(s)",
                 "2::Living at home"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

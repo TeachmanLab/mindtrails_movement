@@ -1,16 +1,29 @@
 {
-    "header_text": "Planning a Family Vacation",
+    "header_text": "Music Venue ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planning a Family Vacation"
+            "Text": "Your partner's support makes you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/735.jpg"
+            "type": "Buttons",
+            "name": "music_venue_--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Anxious",
+                "Reassured"
+            ],
+            "column_count": 1,
+            "correct_value": "Reassured"
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

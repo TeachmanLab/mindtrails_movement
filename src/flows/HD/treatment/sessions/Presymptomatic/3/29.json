@@ -1,16 +1,16 @@
 {
-    "header_text": "Spring Proposal",
+    "header_text": "Trivia Jitters",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Spring Proposal"
+            "text": "Trivia Jitters"
         },
         {
             "type": "Media",
-            "url": "./images/898.jpg"
+            "url": "./images/899.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

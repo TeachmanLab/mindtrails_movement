@@ -1,0 +1,17 @@
+{
+    "header_text": "Forgotten Item",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are almost ready to check out at the grocery store, but you forgot the last item on your list. When you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because, lately, you have been so..."
+        },
+        {
+            "type": "Entry",
+            "name": "forgotten_item--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

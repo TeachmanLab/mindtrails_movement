@@ -1,23 +1,23 @@
 {
-    "header_text": "Comfortable couch",
+    "header_text": "Tingly fingers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You feel strange because..."
+            "Text": "Do the tingling feelings in your fingers make you nervous?"
         },
         {
             "type": "Buttons",
-            "name": "Comfortable couch_Physical Health_comp_question",
+            "name": "tingly_fingers--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You are coming down with the flu",
-                "You only had one glass of water today"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "You only had one glass of water today"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,14 @@
 {
-    "header_text": "Participation ",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you happy you attended the workshop?"
+            "Text": "Does your friend think you look good?"
         },
         {
             "type": "Buttons",
-            "name": "Participation _Social Situations_comp_question",
+            "name": "funny_photos--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

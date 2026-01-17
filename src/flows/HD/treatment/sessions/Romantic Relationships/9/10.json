@@ -7,7 +7,8 @@
             "text": "You are visiting your spouse's parents this weekend and have always felt like they didn't completely approve of you. When you’ve seen them in the past, their behavior has brought up arguments between you and your spouse. You remind yourself that it is only for a weekend, and you and your spouse can navigate it... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "visiting_your_partner's_parents--romantic_relationships--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

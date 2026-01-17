@@ -1,16 +1,17 @@
 {
-    "header_text": "Different Expectations",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Different Expectations"
+            "text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/955.jpg"
+            "type": "Entry",
+            "name": "out_of_your_control--work_career_development--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Changing Household Roles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Changing Household Roles"
+        },
+        {
+            "type": "Media",
+            "url": "./images/237.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

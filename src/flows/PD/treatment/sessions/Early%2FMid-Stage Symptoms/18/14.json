@@ -1,14 +1,14 @@
 {
-    "header_text": "Forgetting Movie Title",
+    "header_text": "Crossing the Street",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgetting Movie Title"
+            "text": "Crossing the Street"
         },
         {
             "type": "Media",
-            "url": "./images/820.jpg"
+            "url": "./images/801.jpg"
         }
     ],
     "type": "positive",

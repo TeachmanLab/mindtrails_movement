@@ -7,7 +7,8 @@
             "text": "In your meeting today, you have an important presentation. In order to follow your boss's instructions, you must present for 15 minutes. When you think about completing this presentation, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "prepare_to_succeed--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

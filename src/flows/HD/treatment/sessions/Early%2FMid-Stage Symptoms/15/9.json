@@ -1,16 +1,25 @@
 {
-    "header_text": "Couple Strolling",
+    "header_text": "Research Study Risks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Couple Strolling"
+            "text": "You were recently invited to participate in an HD research study. As you review the study information and potential side effects, you begin to feel hesitant. After talking it over with the research coordinator, you decide that the risks of the study are..."
         },
         {
-            "type": "Media",
-            "url": "./images/807.jpg"
+            "type": "WordPuzzle",
+            "name": "research_study_risks--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "low"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,0 +1,17 @@
+{
+    "header_text": "Political Opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a levelheaded discussion with your family about the candidates. You realize that sharing your opinion, even though it's different, contributes a lot to everyone's understanding of the..."
+        },
+        {
+            "type": "Entry",
+            "name": "political_opinions--family_&_home_life--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

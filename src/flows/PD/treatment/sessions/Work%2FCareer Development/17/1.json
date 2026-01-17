@@ -1,14 +1,14 @@
 {
-    "header_text": "A sip of water",
+    "header_text": "Taking Your Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A sip of water"
+            "text": "Taking Your Time"
         },
         {
             "type": "Media",
-            "url": "./images/113.jpg"
+            "url": "./images/95.jpg"
         }
     ],
     "type": "positive",

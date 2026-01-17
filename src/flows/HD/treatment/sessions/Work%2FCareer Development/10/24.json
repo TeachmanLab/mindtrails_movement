@@ -7,7 +7,8 @@
             "text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "ready_to_work--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

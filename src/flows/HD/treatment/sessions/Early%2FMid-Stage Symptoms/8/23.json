@@ -7,7 +7,8 @@
             "text": "You are at the park with your child. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your child notices, you do not lose confidence in your role as a loving parent to your..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "day_in_the_park--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

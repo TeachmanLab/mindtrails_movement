@@ -1,16 +1,16 @@
 {
-    "header_text": "Work Gala",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Work Gala"
+            "text": "Fresh Air"
         },
         {
             "type": "Media",
-            "url": "./images/578.jpg"
+            "url": "./images/210.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 8
 }

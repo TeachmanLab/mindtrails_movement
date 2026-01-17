@@ -1,16 +1,16 @@
 {
-    "header_text": "Opening Up",
+    "header_text": "Stomach Ache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Opening Up"
+            "text": "Stomach Ache"
         },
         {
             "type": "Media",
-            "url": "./images/390.jpg"
+            "url": "./images/365.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

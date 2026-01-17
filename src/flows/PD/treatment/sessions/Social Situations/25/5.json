@@ -1,16 +1,16 @@
 {
-    "header_text": "Cultural Family Celebrations",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cultural Family Celebrations"
+            "text": "Cooking a Casserole"
         },
         {
             "type": "Media",
-            "url": "./images/84.jpg"
+            "url": "./images/574.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

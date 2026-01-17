@@ -1,14 +1,14 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiking Hiatus"
+            "text": "Beach Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/784.jpg"
+            "url": "./images/206.jpg"
         }
     ],
     "type": "positive",

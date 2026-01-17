@@ -1,25 +1,25 @@
 {
-    "header_text": "Sleep Trouble",
+    "header_text": "Life Changes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You come up with a plan to sleep in the guest bedroom if you wake up more than once. Knowing your partner will get better sleep makes you feel at..."
+            "text": "Your partner wants to change jobs and move out of state. You really care about your partner, but you also enjoy the life you have where you currently are. When you think about what the future holds for your partner at their new job, you feel... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Sleep Trouble_Romantic Relationships_puzzle_word2",
+            "name": "life_changes_--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "peace"
+                "excited"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

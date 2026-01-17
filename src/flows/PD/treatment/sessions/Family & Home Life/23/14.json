@@ -1,0 +1,17 @@
+{
+    "header_text": "Cooking Struggle",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remember the unopened cookbook your spouse got you. The prospect of making new recipes helps you rediscover your..."
+        },
+        {
+            "type": "Entry",
+            "name": "cooking_struggle--family_&_home_life--puzzle2_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

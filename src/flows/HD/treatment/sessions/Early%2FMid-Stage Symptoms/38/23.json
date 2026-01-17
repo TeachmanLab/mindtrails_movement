@@ -1,0 +1,17 @@
+{
+    "header_text": "Family Game Night",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a family game night with your siblings and parents. You are getting unusually irritated with your family and are worried your irritability will push them away. You remember that they are aware of your symptoms and will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "family_game_night--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

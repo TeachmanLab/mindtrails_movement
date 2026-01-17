@@ -1,16 +1,16 @@
 {
-    "header_text": "Comparing at the Gym",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Comparing at the Gym"
+            "text": "Moving to a New City"
         },
         {
             "type": "Media",
-            "url": "./images/525.jpg"
+            "url": "./images/789.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

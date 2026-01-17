@@ -1,16 +1,25 @@
 {
-    "header_text": "Board Game Mishap",
+    "header_text": "House Play",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Board Game Mishap"
+            "text": "You are babysitting your grandchild in your home. You are having difficulty keeping up with grandkid running around and wonder if your son will be worried about the child's safety. You believe that your son will feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/232.jpg"
+            "type": "WordPuzzle",
+            "name": "house_play--family_&_home_life--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "okay"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

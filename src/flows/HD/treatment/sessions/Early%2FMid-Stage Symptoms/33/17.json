@@ -1,16 +1,16 @@
 {
-    "header_text": "Research Study",
+    "header_text": "Parked Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Research Study"
+            "text": "Parked Car"
         },
         {
             "type": "Media",
-            "url": "./images/877.jpg"
+            "url": "./images/848.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 5
 }

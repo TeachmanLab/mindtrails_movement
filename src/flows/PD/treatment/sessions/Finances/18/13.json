@@ -1,0 +1,16 @@
+{
+    "header_text": "Buying a Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Buying a Home"
+        },
+        {
+            "type": "Media",
+            "url": "./images/319.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

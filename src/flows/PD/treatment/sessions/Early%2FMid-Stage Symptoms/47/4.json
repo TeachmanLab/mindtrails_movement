@@ -1,0 +1,16 @@
+{
+    "header_text": "Neighbor's Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Neighbor's Help"
+        },
+        {
+            "type": "Media",
+            "url": "./images/974.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "Silence on a drive",
+    "header_text": "Conversing at a party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your friend think you are awkward when there is silence during the drive?"
+            "Text": "The group that was talking probably ignored you because they..."
         },
         {
             "type": "Buttons",
-            "name": "Silence on a drive_Social Situations_comp_question",
+            "name": "conversing_at_a_party--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Did not see you there",
+                "Do not like you"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Did not see you there"
         }
     ],
     "navigation_conditions": [

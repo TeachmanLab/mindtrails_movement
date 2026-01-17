@@ -1,14 +1,14 @@
 {
-    "header_text": "Garden Changes",
+    "header_text": "Best Friend's Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Garden Changes"
+            "text": "Best Friend's Party"
         },
         {
             "type": "Media",
-            "url": "./images/827.jpg"
+            "url": "./images/811.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "New Book Club ",
+    "header_text": "Meditation Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Book Club "
+            "text": "Meditation Journey"
         },
         {
             "type": "Media",
-            "url": "./images/417.jpg"
+            "url": "./images/401.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "type": "positive",
+    "scenario_num": 3
 }

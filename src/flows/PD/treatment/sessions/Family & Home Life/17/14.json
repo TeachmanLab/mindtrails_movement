@@ -1,16 +1,16 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Child Check-In",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Attending a Dance Recital"
+            "text": "Child Check-In"
         },
         {
             "type": "Media",
-            "url": "./images/228.jpg"
+            "url": "./images/30.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Falling Behind at Work_Mental Health_puzzle1",
+            "name": "falling_behind_at_work--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

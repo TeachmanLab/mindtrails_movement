@@ -1,0 +1,16 @@
+{
+    "header_text": "Confusing Movie",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Confusing Movie"
+        },
+        {
+            "type": "Media",
+            "url": "./images/245.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

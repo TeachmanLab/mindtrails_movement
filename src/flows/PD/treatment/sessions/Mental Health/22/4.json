@@ -1,16 +1,16 @@
 {
-    "header_text": "Worsening condition",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Worsening condition"
+            "text": "Family Questions"
         },
         {
             "type": "Media",
-            "url": "./images/414.jpg"
+            "url": "./images/183.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

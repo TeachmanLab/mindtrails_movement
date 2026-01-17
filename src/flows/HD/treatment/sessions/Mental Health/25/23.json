@@ -1,0 +1,16 @@
+{
+    "header_text": "Farmer's Market Sweets",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Farmer's Market Sweets"
+        },
+        {
+            "type": "Media",
+            "url": "./images/420.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

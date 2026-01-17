@@ -4,13 +4,26 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Feeling Lightheaded"
+            "Text": "Will your anxiety decrease if you observe your sensations?"
         },
         {
-            "type": "Media",
-            "url": "./images/364.jpg"
+            "type": "Buttons",
+            "name": "feeling_lightheaded--physical_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 3
 }

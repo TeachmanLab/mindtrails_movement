@@ -7,6 +7,7 @@
             "text": "You notice your heart is pounding, and you feel breathless, dizzy, and unreal. Why? \n\nYou have been overdoing it and are overtired."
         },
         {
+            "name": "bbsiq_14a_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

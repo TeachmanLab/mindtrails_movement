@@ -1,16 +1,16 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a cold, but you decide to go to the grocery store since you feel well enough. You can't help but cough a few times, and you worry that others are judging you. No one has noticed you coughing, so you feel better about your decision to go to the..."
+            "text": "Sharing with Someone New"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/395.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

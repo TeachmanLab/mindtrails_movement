@@ -1,29 +1,25 @@
 {
-    "header_text": "Question at Meeting",
+    "header_text": "Music Venue ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your neighbors make you feel..."
+            "text": "Your partner looks over at you, so you tell them what's wrong. They offer to help you get through the crowd, and you feel more..."
         },
         {
-            "type": "Buttons",
-            "name": "Question at Meeting_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "music_venue_--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Supported",
-                "Self-conscious"
+            "display_delay": 2000,
+            "words": [
+                "confident"
             ],
-            "column_count": 1,
-            "correct_value": "Supported"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Organizing Closet",
+    "header_text": "Supporting Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay..."
+            "text": "Supporting Partner"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/392.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 7
 }

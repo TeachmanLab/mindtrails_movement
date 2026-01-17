@@ -1,29 +1,17 @@
 {
-    "header_text": "Yoga Routine",
+    "header_text": "Cleaning your Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making a mistake shows that you are..."
+            "text": "Today, you are washing your car with your spouse's help. Chorea leads to you spilling the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their..."
         },
         {
-            "type": "Buttons",
-            "name": "Yoga Routine_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Learning",
-                "Incapable"
-            ],
-            "column_count": 1,
-            "correct_value": "Learning"
+            "type": "Entry",
+            "name": "cleaning_your_car--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 0
 }

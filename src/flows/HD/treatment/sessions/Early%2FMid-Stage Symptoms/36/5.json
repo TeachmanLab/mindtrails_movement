@@ -1,0 +1,25 @@
+{
+    "header_text": "Symptomatic in Public: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You just experienced a lot of chorea while out in public. You fear that everyone around you saw it and is now judging you.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "My arms might have been moving a lot, but they were by my sides where they weren't easily seen.",
+                "People are probably just concerned and wondering if they should offer their help.",
+                "People saw me moving and thought I was acting crazy.",
+                "People probably didn't even notice and went about their day as normal.",
+                "There may have been a bunch of people around me, but my chorea wasn't severe enough for it to be largely noticeable by people."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

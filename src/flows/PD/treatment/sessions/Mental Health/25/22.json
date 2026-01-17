@@ -1,0 +1,17 @@
+{
+    "header_text": "Talk with Counselor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You talk with your counselor about how you're doing. Sharing with them is not easy because the last few weeks have been hard. You don't want to revisit the pain, but you know your vulnerability will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "talk_with_counselor--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

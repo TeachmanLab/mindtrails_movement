@@ -1,0 +1,16 @@
+{
+    "header_text": "Book Club Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Book Club Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/425.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

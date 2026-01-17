@@ -7,6 +7,7 @@
             "text": "Are you currently struggling with any of the following mental disorders? Please select all that apply."
         },
         {
+            "name": "mental_health_disorders",
             "type": "Buttons",
             "buttons": [
                 "0::Generalized anxiety disorder (GAD)",
@@ -30,9 +31,7 @@
                 "!18::Other",
                 "^99::Prefer not to answer"
             ],
-            "selectable": true,
             "multiselect": true,
-            "name": "mental_health_disorders",
             "variable_name": "MentalDisorder"
         }
     ]

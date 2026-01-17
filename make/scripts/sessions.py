@@ -41,7 +41,7 @@ def _create_practice_pages(i):
 
             shuffle(choices)
 
-            yield from create_scenario_pages(domain=domain, label=label, scenario_num=scenario_num,
+            yield from create_scenario_pages(domain=domain, title=label, scenario_num=scenario_num,
                                                     puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
                                                     comp_question=question, answers=choices,
                                                     correct_answer=answer, word_2=puzzle2[1],
@@ -54,7 +54,6 @@ def _create_survey_page(row):
 
     title = row[1].strip()
     input_1 = row[5]
-    input_2 = row[6]
     minimum = row[7]
     maximum = row[8]
     media = media_url(row[9])
@@ -71,9 +70,8 @@ def _create_survey_page(row):
     return create_survey_page(conditions=conditions, text=text,
                               show_buttons=show_buttons, media=media,
                               image_framed=image_framed, items=items,
-                              input_1=input_1, input_2=input_2,
-                              variable_name=variable_name, title=title,
-                              input_name=input_name, minimum=minimum,
+                              input_1=input_1,variable_name=variable_name, 
+                              title=title, input_name1=input_name, minimum=minimum,
                               maximum=maximum, timeout=timeout,is_html=is_html)
 
 def domain_selection_text():
@@ -121,29 +119,41 @@ def create_long_sessions(popname,i):
     return {k:iter(cycle(v)) for k,v in sessions.items()}
 
 def create_short_sessions(popname,i):
-    sessions     = defaultdict(list)
-    scenarios    = defaultdict(list)
+    d_sessions  = defaultdict(list)
+    d_scenarios = defaultdict(list)
+    old_domain = None
 
     lessons_learned_dict = create_lessons_learned(popname)
 
     with open(f"{dir_csv}/MTM Short Scenarios by Session - MTM {popname} Final for app_old.csv","r", encoding="utf-8", newline='') as read_obj:
+
         for row in islice(csv.reader(read_obj),1,None):
 
             domain = row[3].strip()
-            label  = row[6]
-            tipe   = lower(row[2]).strip()
+            title  = row[6]
 
-            if not domain or not label: continue
+            if domain != old_domain:
+                # if this happens then it means a session had multiple primary
+                # domains and a change needs to be made so all scenarios have 
+                # the same primary domain
+                assert all([len(v) == 0 for v in d_scenarios.values()])
+                old_domain = domain
 
-            is_wyo = "write your own" in lower(label)
+            if not domain or not title: continue
 
-            if len(scenarios[domain]) == 10 or is_wyo and len(scenarios[domain]) > 6:
-                sessions[domain].append(sum(scenarios[domain],[]))
-                scenarios[domain] = []
+            tipe      = lower(row[2]).strip()
+            scenarios = d_scenarios[domain]
+            sessions  = d_sessions[domain]
+
+            is_wyo = "write your own" in lower(title) or "write your own" in lower(tipe)
+
+            if is_wyo and len(scenarios) > 0:
+                sessions.append(sum(scenarios,[]))
+                scenarios.clear()
 
             if is_wyo:
-                sessions[domain].append("Write Your Own")
-                scenarios[domain] = []
+                sessions.append("Write Your Own")
+                scenarios.clear()
 
             else:
                 image_url = media_url(row[i+6])
@@ -162,25 +172,30 @@ def create_short_sessions(popname,i):
 
                 if row[21]: letters_missing = row[21]
 
-                is_first_session = len(sessions[domain]) == 0
-                is_first_scenario = len(scenarios[domain]) == 0
+                is_not_first_session = len(sessions) > 0
+                is_first_scenario = len(scenarios) == 0
 
-                show_lessons_learned = not is_first_session and is_first_scenario and len(sessions[domain]) % 4 == 0
+                show_lessons_learned = is_not_first_session and is_first_scenario and len(sessions) % 4 == 0
 
-                scenarios[domain].append(
-                    create_scenario_pages(domain=domain, label=label, scenario_num=len(scenarios[domain]),
-                        puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
-                        comp_question=comp_question, answers=choices,
-                        correct_answer=answer, word_2=puzzle2[1],
-                        puzzle_text_2=puzzle2[0], image_url=image_url,
-                        n_missing=letters_missing,
-                        include_lessons_learned=show_lessons_learned,
-                        lessons_learned_dict=lessons_learned_dict,
-                        is_first=is_first_scenario, tipe=tipe
+                scenarios.append(
+                    create_scenario_pages(domain=domain, title=title, 
+                                          scenario_num=len(d_scenarios[domain]),
+                                          puzzle_text_1=puzzle1[0], word_1=puzzle1[1],
+                                          comp_question=comp_question, answers=choices,
+                                          correct_answer=answer, word_2=puzzle2[1],
+                                          puzzle_text_2=puzzle2[0], image_url=image_url,
+                                          n_missing=letters_missing,
+                                          include_lessons_learned=show_lessons_learned,
+                                          lessons_learned_dict=lessons_learned_dict,
+                                          is_first=is_first_scenario, tipe=tipe
                     )
                 )
 
-    return sessions
+                if len(scenarios) == 10:
+                    sessions.append(sum(scenarios,[]))
+                    scenarios.clear()
+
+    return d_sessions
 
 def create_surveys(popname,i):
     accepted = [f"{popname}_beforedomain_all", f"{popname}_afterdomain_all", f"{popname}_dose_1", f"{popname}_control_dose_1"]

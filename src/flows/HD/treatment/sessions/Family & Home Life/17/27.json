@@ -1,29 +1,16 @@
 {
-    "header_text": "Hosting a Dinner",
+    "header_text": "House Play",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did you ruin the celebration?"
+            "text": "House Play"
         },
         {
-            "type": "Buttons",
-            "name": "Hosting a Dinner_Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "column_count": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/203.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 8
 }

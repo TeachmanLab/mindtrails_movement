@@ -7,6 +7,7 @@
             "text": "Your mortgage payment is due soon, and you also have to pay some unexpected medical bills. Your budget is tight this month, and you think about how you'll afford all of this.\n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
         },
         {
+            "name": "long6",
             "type": "Entry"
         }
     ],

@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing with Someone New",
+    "header_text": "Morning Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Sharing with Someone New"
+            "text": "Morning Meeting"
         },
         {
             "type": "Media",
-            "url": "./images/395.jpg"
+            "url": "./images/664.jpg"
         }
     ],
     "type": "resilience/negation",

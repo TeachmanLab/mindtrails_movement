@@ -1,16 +1,16 @@
 {
-    "header_text": "Crowded Grocery Store",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about leaving your groceries and walking out right before you remember a breathing exercise you learned in therapy. After a minute of this technique, you start to feel..."
+            "text": "Beach Vacation"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/206.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "type": "positive",
+    "scenario_num": 1
 }

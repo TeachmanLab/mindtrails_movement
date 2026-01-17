@@ -1,16 +1,16 @@
 {
-    "header_text": "Paying Bills",
+    "header_text": "Dropped Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you sit down to pay bills, you find it difficult to organize paperwork and add up expenses. You start to doubt whether these bills will ever get paid. Your son offers to help you, and the two of you tackle it..."
+            "text": "Dropped Groceries"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/842.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

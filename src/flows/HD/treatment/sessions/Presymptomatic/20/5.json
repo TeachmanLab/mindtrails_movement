@@ -1,14 +1,14 @@
 {
-    "header_text": "Therapy Shift",
+    "header_text": "Navigation Irritation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Therapy Shift"
+            "text": "Navigation Irritation"
         },
         {
             "type": "Media",
-            "url": "./images/418.jpg"
+            "url": "./images/594.jpg"
         }
     ],
     "type": "positive",

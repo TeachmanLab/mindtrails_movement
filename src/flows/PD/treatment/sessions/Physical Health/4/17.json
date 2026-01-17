@@ -1,14 +1,14 @@
 {
-    "header_text": "Looking Unwell",
+    "header_text": "Thoughts at the train station",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Looking Unwell"
+            "text": "Thoughts at the train station"
         },
         {
             "type": "Media",
-            "url": "./images/154.jpg"
+            "url": "./images/454.jpg"
         }
     ],
     "type": "positive",

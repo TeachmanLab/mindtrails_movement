@@ -1,14 +1,14 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "At the Playground ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Stained Laundry"
+            "text": "At the Playground "
         },
         {
             "type": "Media",
-            "url": "./images/869.jpg"
+            "url": "./images/200.jpg"
         }
     ],
     "type": "resilience/negation",

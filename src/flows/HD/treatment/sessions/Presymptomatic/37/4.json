@@ -1,0 +1,16 @@
+{
+    "header_text": "Research Study Risks",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Research Study Risks"
+        },
+        {
+            "type": "Media",
+            "url": "./images/791.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

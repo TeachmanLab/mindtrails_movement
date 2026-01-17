@@ -1,16 +1,17 @@
 {
-    "header_text": "Ready to Work",
+    "header_text": "Misunderstanding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel..."
+            "text": "After explaining what happened to the head of your department, they say they understand. You feel like you will still be able make a good..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "misunderstanding--work_career_development--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

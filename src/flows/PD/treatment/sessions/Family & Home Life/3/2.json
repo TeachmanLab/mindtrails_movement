@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are having dinner with a coworker, and you take a phone call from a family member. During the call, you switch between English and another language. You never told your coworker that you and your family members are bilingual. You think about your coworker's reaction and believe that she'll find it..."
+            "text": "You are having dinner with an acquaintance, and you take a phone call from a family member. During the call, you switch between English and another language. You never told your acquaintance that you and your family members are bilingual. You think about your acquaintance's reaction and believe that they will find it..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Guest in a Bilingual Home_Family & Home Life_puzzle1",
+            "name": "guest_in_a_bilingual_home--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

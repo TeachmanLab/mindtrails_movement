@@ -1,25 +1,39 @@
 {
-    "header_text": "Dinner Outburst ",
+    "header_text": "Reality TV Confusion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are eating dinner at home with your significant other. While you are eating, you have a random outburst about something your significant other says, and they look taken aback. You know that your partner is just reacting that way because they are concerned about your..."
+            "Text": "Is your sibling worried because you forgot the host's name?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dinner Outburst _Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "reality_tv_confusion--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "health"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

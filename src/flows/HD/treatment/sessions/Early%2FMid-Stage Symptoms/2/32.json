@@ -1,23 +1,23 @@
 {
-    "header_text": "Dinner Party",
+    "header_text": "Staying Present",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends notice that you're having difficulty swallowing, and…."
+            "Text": "You decide to focus on..."
         },
         {
             "type": "Buttons",
-            "name": "Dinner Party_Early/Mid-Stage Symptoms_comp_question",
+            "name": "staying_present--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They are grateful you are present at the dinner",
-                "They are embarrassed by you"
+                "The current moment",
+                "Future \"what-ifs\""
             ],
             "column_count": 1,
-            "correct_value": "They are grateful you are present at the dinner"
+            "correct_value": "The current moment"
         }
     ],
     "navigation_conditions": [

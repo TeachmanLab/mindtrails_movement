@@ -1,25 +1,25 @@
 {
-    "header_text": "Friend Neglecting Chores",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A friend is staying over at your house for a bit, and you realize they often ignore their chores. One day, you come home to see a pile of their dirty dishes in the sink while they have already left to go out. You decide to call them to settle this issue, and you feel..."
+            "text": "Your partner runs a daycare out of your home, so it is always loud when you get home from work. Your colleague is coming over today to have coffee. You think about how your colleague is going to react to the noise, and you get..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Friend Neglecting Chores_Social Situations_puzzle1",
+            "name": "balancing_home_life_and_friends--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "reassured"
+                "worried"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

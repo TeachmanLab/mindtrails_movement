@@ -1,16 +1,12 @@
 {
-    "header_text": "Cough After Going Out ",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Cough After Going Out "
-        },
-        {
-            "type": "Media",
-            "url": "./images/436.jpg"
+            "text": "Think about a situation that makes you anxious that has occurred for you in the past, or that you worry will happen in the future. Please write your own training story based on this situation, making sure to include a positive or non-threatening ending in the final sentence of the story."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

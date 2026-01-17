@@ -7,7 +7,8 @@
             "text": "After explaining what happened to the head of your department, they say they understand. You feel like you will still be able make a good..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "misunderstanding--work_career_development--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

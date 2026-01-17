@@ -1,16 +1,25 @@
 {
-    "header_text": "Trouble Getting Dressed",
+    "header_text": "Laundry Dilemma",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on your way to a nice dinner with friends. When getting dressed, you worry that putting on your favorite shirt will be a challenge because the buttons are too small. After trying for nearly 10 minutes to get your shirt on, you realize you have..."
+            "text": "You start to think of creative ways to make sure your laundry gets done today. You remember that you have a support system that is willing to help you, so you feel..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "laundry_dilemma--early_mid-stage_symptoms--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "comforted"
+            ],
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

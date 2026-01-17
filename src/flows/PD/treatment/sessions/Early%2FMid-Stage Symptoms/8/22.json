@@ -1,14 +1,14 @@
 {
-    "header_text": "Garden Planting",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Garden Planting"
+            "text": "Dismissive Doctor"
         },
         {
             "type": "Media",
-            "url": "./images/772.jpg"
+            "url": "./images/778.jpg"
         }
     ],
     "type": "positive",

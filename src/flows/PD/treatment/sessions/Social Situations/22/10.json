@@ -1,16 +1,16 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Seeing Others Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pool Time"
+            "text": "Seeing Others Hanging Out"
         },
         {
             "type": "Media",
-            "url": "./images/400.jpg"
+            "url": "./images/682.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 3
 }

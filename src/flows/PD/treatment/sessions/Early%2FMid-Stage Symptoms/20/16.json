@@ -1,16 +1,25 @@
 {
-    "header_text": "Tripping at Family Barbecue",
+    "header_text": "Difficult Handoff",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A family member comes over to check in to see if you're okay. You express how you're feeling about your unsteadiness and start to feel..."
+            "text": "After thinking about it, you decide to try. You grab the phone and hand it over with..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "difficult_handoff--early_mid-stage_symptoms--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "ease"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 4
 }

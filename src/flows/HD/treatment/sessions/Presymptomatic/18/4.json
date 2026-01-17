@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Dinner Fight",
+    "header_text": "Follow-up at Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Dinner Fight"
+            "text": "Follow-up at Doctor's Office"
         },
         {
             "type": "Media",
-            "url": "./images/795.jpg"
+            "url": "./images/879.jpg"
         }
     ],
     "type": "negative",

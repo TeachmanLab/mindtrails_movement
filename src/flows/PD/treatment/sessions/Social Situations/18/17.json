@@ -1,16 +1,16 @@
 {
-    "header_text": "Intoxication Situation",
+    "header_text": "Theater group thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Intoxication Situation"
+            "text": "Theater group thoughts"
         },
         {
             "type": "Media",
-            "url": "./images/124.jpg"
+            "url": "./images/599.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

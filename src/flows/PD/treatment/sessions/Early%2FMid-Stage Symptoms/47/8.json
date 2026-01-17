@@ -1,0 +1,25 @@
+{
+    "header_text": "Emotionless Face",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are speaking to a friend over lunch. You realize that your face isn't showing as much emotion, and you begin to worry that your friend thinks you don't care what they say. You remember that she is aware of your diagnosis and will be..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "emotionless_face--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "compassionate"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

@@ -1,23 +1,23 @@
 {
-    "header_text": "Too Much Attention",
+    "header_text": "Testing Positive for Strep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your friends and family notice how anxious you feel?"
+            "Text": "Will you be able to recover from strep?"
         },
         {
             "type": "Buttons",
-            "name": "Too Much Attention_Physical Health_comp_question",
+            "name": "testing_positive_for_strep--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

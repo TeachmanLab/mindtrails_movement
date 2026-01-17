@@ -1,16 +1,16 @@
 {
-    "header_text": "Major Conference",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Major Conference"
+            "text": "Taking Charge"
         },
         {
             "type": "Media",
-            "url": "./images/126.jpg"
+            "url": "./images/98.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

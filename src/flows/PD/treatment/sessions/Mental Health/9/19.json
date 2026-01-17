@@ -1,16 +1,16 @@
 {
-    "header_text": "Anticipating a Response",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner have different spending habits, leading to many arguments. This tension has started to impact your relationship, and you feel like you are growing resentful of one another. If you share how you're feeling, it might lead to more..."
+            "text": "Taking a Break"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/85.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

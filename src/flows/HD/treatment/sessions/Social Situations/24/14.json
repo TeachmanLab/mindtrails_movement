@@ -1,16 +1,17 @@
 {
-    "header_text": "Your Friend's Support",
+    "header_text": "Less Social Media",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your Friend's Support"
+            "text": "You do not want to get on social media often. You have been pressured by several friends about getting on more. The thought of feeling left out makes you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/708.jpg"
+            "type": "Entry",
+            "name": "less_social_media--social_situations--puzzle1_entry"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

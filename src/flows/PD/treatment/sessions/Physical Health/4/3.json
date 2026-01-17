@@ -1,23 +1,23 @@
 {
-    "header_text": "Hot surface burn",
+    "header_text": "Comfortable couch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After running water over your finger, your burn will probably..."
+            "Text": "You feel strange because..."
         },
         {
             "type": "Buttons",
-            "name": "Hot surface burn_Physical Health_comp_question",
+            "name": "comfortable_couch--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Remain very painful",
-                "Hurt much less"
+                "You are coming down with the flu",
+                "You only had one glass of water today"
             ],
             "column_count": 1,
-            "correct_value": "Hurt much less"
+            "correct_value": "You only had one glass of water today"
         }
     ],
     "navigation_conditions": [

@@ -1,22 +1,22 @@
 {
-    "header_text": "Video Call",
+    "header_text": "Morning Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a big family, and you're on a video call with family members who live in different states. You find it difficult to contribute to the fast-paced discussion and start to worry that your family will think you're uninterested. After the call, your cousin texts you to say that seeing you was a..."
+            "text": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Video Call_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "morning_coffee--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "treat"
+                "refill"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",

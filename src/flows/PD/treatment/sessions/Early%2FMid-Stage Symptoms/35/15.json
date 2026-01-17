@@ -1,0 +1,16 @@
+{
+    "header_text": "Holiday Market",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Holiday Market"
+        },
+        {
+            "type": "Media",
+            "url": "./images/856.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

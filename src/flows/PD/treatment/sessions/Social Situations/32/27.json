@@ -1,0 +1,16 @@
+{
+    "header_text": "Introducing Your Family to Someone New",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Introducing Your Family to Someone New"
+        },
+        {
+            "type": "Media",
+            "url": "./images/150.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

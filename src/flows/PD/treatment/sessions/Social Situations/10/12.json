@@ -1,14 +1,14 @@
 {
-    "header_text": "An Acquaintance",
+    "header_text": "Hanging Out with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "An Acquaintance"
+            "text": "Hanging Out with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/650.jpg"
+            "url": "./images/651.jpg"
         }
     ],
     "type": "positive",

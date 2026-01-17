@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting Coffee",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting Coffee"
+        },
+        {
+            "type": "Media",
+            "url": "./images/719.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

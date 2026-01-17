@@ -1,29 +1,29 @@
 {
-    "header_text": "Major Conference",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After your talk, people in the audience will probably think about..."
+            "Text": "Are the others in the meeting judging you?"
         },
         {
             "type": "Buttons",
-            "name": "Major Conference_Social Situations_comp_question",
+            "name": "taking_charge--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "How well you did",
-                "How much trouble you had"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "How much trouble you had"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "A Loss for Words",
+    "header_text": "Reading before Bedtime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A Loss for Words"
+            "text": "Reading before Bedtime"
         },
         {
             "type": "Media",
-            "url": "./images/941.jpg"
+            "url": "./images/240.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 6
 }

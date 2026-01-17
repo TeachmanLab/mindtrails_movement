@@ -1,16 +1,25 @@
 {
-    "header_text": "Organizing an Event",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Organizing an Event"
+            "text": "You have a busy week ahead, so you sit down to write a to-do list. You're concerned because your handwriting doesn't look as neat as it was in the past. You realize that if your writing worsens over time, technology will help you..."
         },
         {
-            "type": "Media",
-            "url": "./images/866.jpg"
+            "type": "WordPuzzle",
+            "name": "handwriting_challenge--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "adapt"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 2
 }

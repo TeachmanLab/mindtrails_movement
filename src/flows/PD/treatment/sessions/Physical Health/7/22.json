@@ -1,29 +1,25 @@
 {
-    "header_text": "Being Near Someone Sick",
+    "header_text": "Long Distance Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it likely that you will become ill?"
+            "text": "You reach the end of the trail, and your friends are taking pictures. Even though you're anxious, you go look around and..."
         },
         {
-            "type": "Buttons",
-            "name": "Being Near Someone Sick_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "long_distance_walk--physical_health--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "smile"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

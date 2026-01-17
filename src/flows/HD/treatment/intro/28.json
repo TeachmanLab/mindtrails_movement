@@ -7,8 +7,8 @@
             "text": "Please specify any medication changes in the past 2 months:"
         },
         {
-            "type": "Entry",
-            "name": "changes_treatment_meds"
+            "name": "changes_treatment_meds",
+            "type": "Entry"
         }
     ],
     "condition": [

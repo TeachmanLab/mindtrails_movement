@@ -1,0 +1,16 @@
+{
+    "header_text": "Game Night Focus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Game Night Focus"
+        },
+        {
+            "type": "Media",
+            "url": "./images/871.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

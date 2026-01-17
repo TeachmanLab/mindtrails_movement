@@ -1,0 +1,25 @@
+{
+    "header_text": "Spilling Soup",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are eating a cup of soup. You experience a tremor, and you accidentally spill some of the soup on your lap. As you wonder if anyone will notice the spill, you become..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "spilling_soup--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "anxious"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

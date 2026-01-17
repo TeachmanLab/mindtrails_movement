@@ -1,14 +1,14 @@
 {
-    "header_text": "New Home",
+    "header_text": "Big Families ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Home"
+            "text": "Big Families "
         },
         {
             "type": "Media",
-            "url": "./images/195.jpg"
+            "url": "./images/176.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,25 @@
 {
-    "header_text": "Spilling Food on Laptop",
+    "header_text": "Crowded Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just sat down for some lunch and decide to use your laptop while eating. As you're feeding yourself, you spill some of your pasta on your laptop. After you spill, you quickly get a cloth to clean up the mess, and you feel very..."
+            "text": "You're visiting the doctor for the first time since you started using your new walker. You're unsure about how well you will walk in a crowded waiting room. As you rush to check in at the front desk, you press down on a stranger's foot with the walker, leaving you feeling..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Spilling Food on Laptop_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "crowded_waiting_room--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "disappointed"
+                "ashamed"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 1
 }

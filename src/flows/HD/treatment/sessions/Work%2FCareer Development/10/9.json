@@ -7,7 +7,8 @@
             "text": "You realize that being back in person is an adjustment, and it will take some time to get used to. You think with everything you have going on, you're doing a great... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "committing_to_activities--work_career_development--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

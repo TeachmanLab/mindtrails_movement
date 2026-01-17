@@ -1,16 +1,25 @@
 {
-    "header_text": "New Opportunity at Work",
+    "header_text": "Not Feeling Supported",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have recently joined a new department at work. When you go to the first team meeting, you notice that most people are sitting in groups. As you take a seat alone, you realize that there is always an opportunity to join a..."
+            "text": "You just received an award for a project you worked on. You’ve only received congratulations from a few people, and you thought you’d have more reactions by now. You wonder if people aren’t congratulating you because they don’t think you deserve..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "not_feeling_supported--social_situations--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "it"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

@@ -1,25 +1,29 @@
 {
-    "header_text": "Progression Concerns",
+    "header_text": "Family Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You work in a setting that requires you to move around a lot. You are starting to get concerned about the future of your career once your motor symptoms start to progress. You know that your work will be understanding and that focusing on where you are at right now is... "
+            "Text": "Making a plan to talk with your doctor ..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Progression Concerns_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "family_planning--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "best"
+            "buttons": [
+                "Is not helpful",
+                "Helps relieve some of your anxiety"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Helps relieve some of your anxiety"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

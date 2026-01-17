@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking with Your Friend",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Talking with Your Friend"
+            "text": "Taking Charge"
         },
         {
             "type": "Media",
-            "url": "./images/680.jpg"
+            "url": "./images/98.jpg"
         }
     ],
     "type": "positive",

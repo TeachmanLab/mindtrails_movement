@@ -1,16 +1,16 @@
 {
-    "header_text": "Holding the Phone",
+    "header_text": "Brushing Teeth",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Holding the Phone"
+            "text": "Brushing Teeth"
         },
         {
             "type": "Media",
-            "url": "./images/775.jpg"
+            "url": "./images/960.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

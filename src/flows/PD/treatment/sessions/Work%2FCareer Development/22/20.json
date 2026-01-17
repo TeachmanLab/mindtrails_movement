@@ -1,0 +1,16 @@
+{
+    "header_text": "Early Morning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Early Morning"
+        },
+        {
+            "type": "Media",
+            "url": "./images/124.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

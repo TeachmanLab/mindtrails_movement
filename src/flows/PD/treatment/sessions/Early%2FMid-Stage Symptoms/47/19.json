@@ -1,0 +1,16 @@
+{
+    "header_text": "Sleep Trouble",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sleep Trouble"
+        },
+        {
+            "type": "Media",
+            "url": "./images/579.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

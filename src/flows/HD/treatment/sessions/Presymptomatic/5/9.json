@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost Wallet",
+    "header_text": "Multitasking While Cooking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lost Wallet"
+            "text": "Multitasking While Cooking"
         },
         {
             "type": "Media",
-            "url": "./images/907.jpg"
+            "url": "./images/908.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

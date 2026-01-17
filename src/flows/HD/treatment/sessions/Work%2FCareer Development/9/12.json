@@ -7,7 +7,8 @@
             "text": "A new office initiative started by you and a few other coworkers was rejected by your boss, and you have to tell the news to the others. They don't say anything when you tell them. They are probably feeling..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "office_initiative--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

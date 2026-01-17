@@ -1,14 +1,14 @@
 {
-    "header_text": "Country Drive",
+    "header_text": "Planning a Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Country Drive"
+            "text": "Planning a Trip"
         },
         {
             "type": "Media",
-            "url": "./images/594.jpg"
+            "url": "./images/759.jpg"
         }
     ],
     "type": "positive",

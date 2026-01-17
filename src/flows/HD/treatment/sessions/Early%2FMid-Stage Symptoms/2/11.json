@@ -1,16 +1,25 @@
 {
-    "header_text": "Flights of Stairs",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Flights of Stairs"
+            "text": "You decide to spend some of your free time at your favorite record store. You go to grab a vinyl out of the sleeve, and it slips out of your hands. You think you might have just scratched the record, and you start to..."
         },
         {
-            "type": "Media",
-            "url": "./images/726.jpg"
+            "type": "WordPuzzle",
+            "name": "record_store--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "worry"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 3
 }

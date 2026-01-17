@@ -1,10 +1,16 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Assembling Furniture",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #27 \n\n Taking steps to help yourself is a difficult, but rewarding process. You are doing great!"
+            "text": "Assembling Furniture"
+        },
+        {
+            "type": "Media",
+            "url": "./images/408.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

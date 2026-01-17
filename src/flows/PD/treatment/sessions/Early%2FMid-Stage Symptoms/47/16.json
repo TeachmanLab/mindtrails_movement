@@ -1,0 +1,16 @@
+{
+    "header_text": "Granddaughter's School Play",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Granddaughter's School Play"
+        },
+        {
+            "type": "Media",
+            "url": "./images/977.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

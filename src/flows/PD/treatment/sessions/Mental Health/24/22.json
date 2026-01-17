@@ -1,0 +1,16 @@
+{
+    "header_text": "Your First Grandchild",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your First Grandchild"
+        },
+        {
+            "type": "Media",
+            "url": "./images/157.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

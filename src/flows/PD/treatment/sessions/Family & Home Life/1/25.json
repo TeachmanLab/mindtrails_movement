@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Is your parent unable to talk because they are ill?"
+            "Text": "Is your sibling unable to talk because they are ill?"
         },
         {
             "type": "Buttons",
-            "name": "Monday Phone Call_Family & Home Life_comp_question",
+            "name": "monday_phone_call--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

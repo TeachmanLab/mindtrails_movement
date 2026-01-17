@@ -1,16 +1,16 @@
 {
-    "header_text": "Hardware Store",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hardware Store"
+            "text": "Gardening"
         },
         {
             "type": "Media",
-            "url": "./images/964.jpg"
+            "url": "./images/937.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

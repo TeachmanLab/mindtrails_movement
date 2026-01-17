@@ -1,25 +1,25 @@
 {
-    "header_text": "Dream Car",
+    "header_text": "Lost Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner says that they will be happy to drive you around in your new car one day, if needed. This makes you feel..."
+            "text": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your HD. You decide that it's best to be more mindful of where you place your phone, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dream Car_Presymptomatic_puzzle_word2",
+            "name": "lost_phone--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "hopeful"
+                "calm"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

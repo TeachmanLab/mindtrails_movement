@@ -1,29 +1,29 @@
 {
-    "header_text": "Relationship Worries",
+    "header_text": "Different Personalities ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you think far into the future, you can see yourself..."
+            "Text": "Will you and your partner figure out a plan together?"
         },
         {
             "type": "Buttons",
-            "name": "Relationship Worries_Romantic Relationships_comp_question",
+            "name": "different_personalities_--romantic_relationships--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Realizing that you and your spouse couldn't make things work",
-                "Enjoying your golden years with your spouse"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Realizing that you and your spouse couldn't make things work"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

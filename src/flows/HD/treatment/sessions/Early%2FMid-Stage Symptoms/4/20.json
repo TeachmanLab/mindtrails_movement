@@ -1,16 +1,16 @@
 {
-    "header_text": "Continuing Favorite Hobby",
+    "header_text": "Cut Finger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Continuing Favorite Hobby"
+            "text": "Cut Finger"
         },
         {
             "type": "Media",
-            "url": "./images/250.jpg"
+            "url": "./images/814.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

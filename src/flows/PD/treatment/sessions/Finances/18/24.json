@@ -1,0 +1,16 @@
+{
+    "header_text": "Tax Forms",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tax Forms"
+        },
+        {
+            "type": "Media",
+            "url": "./images/322.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

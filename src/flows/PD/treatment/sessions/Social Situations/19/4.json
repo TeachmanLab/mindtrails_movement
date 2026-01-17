@@ -1,16 +1,16 @@
 {
-    "header_text": "Attending Wedding Alone",
+    "header_text": "Masks for Guests",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Attending Wedding Alone"
+            "text": "Masks for Guests"
         },
         {
             "type": "Media",
-            "url": "./images/686.jpg"
+            "url": "./images/181.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

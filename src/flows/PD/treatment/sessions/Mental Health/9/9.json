@@ -7,7 +7,8 @@
             "text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come, you see your bowling skills as..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "your_bowling_skills--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

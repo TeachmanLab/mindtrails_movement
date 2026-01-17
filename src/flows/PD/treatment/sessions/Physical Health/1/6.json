@@ -1,25 +1,39 @@
 {
-    "header_text": "Vacationing by plane",
+    "header_text": "Hospital waiting room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are traveling to your vacation destination on an airplane. As the plane accelerates during takeoff, your chest begins to feel tight. You decide to do five minutes of a breathing exercise, and you end up feeling..."
+            "Text": "If you wash your hands, you will most likely..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Vacationing by plane_Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "hospital_waiting_room--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relaxed"
+            "buttons": [
+                "Still get sick",
+                "Stay healthy"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Still get sick"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Focus While Driving",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Focus While Driving"
+            "text": "Spilling Food on Laptop"
         },
         {
             "type": "Media",
-            "url": "./images/924.jpg"
+            "url": "./images/757.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

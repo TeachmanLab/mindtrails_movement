@@ -1,14 +1,14 @@
 {
-    "header_text": "Forgotten Ingredients",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgotten Ingredients"
+            "text": "Cleaning Your Home"
         },
         {
             "type": "Media",
-            "url": "./images/738.jpg"
+            "url": "./images/212.jpg"
         }
     ],
     "type": "positive",

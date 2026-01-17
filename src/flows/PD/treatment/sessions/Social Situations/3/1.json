@@ -1,14 +1,14 @@
 {
-    "header_text": "Differing opinion",
+    "header_text": "Dinner party invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Differing opinion"
+            "text": "Dinner party invitation"
         },
         {
             "type": "Media",
-            "url": "./images/611.jpg"
+            "url": "./images/612.jpg"
         }
     ],
     "type": "positive",

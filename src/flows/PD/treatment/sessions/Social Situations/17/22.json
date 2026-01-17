@@ -1,29 +1,29 @@
 {
-    "header_text": "Fundraiser presentation",
+    "header_text": "Social Media Self-Confidence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The coworkers are probably thinking ..."
+            "Text": "Are you worried about what the other person thinks of your feed?"
         },
         {
             "type": "Buttons",
-            "name": "Fundraiser presentation_Social Situations_comp_question",
+            "name": "social_media_self-confidence--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "That they don't want to help you with the fundraiser.",
-                "That they want to help you with the fundraiser."
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "That they don't want to help you with the fundraiser."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

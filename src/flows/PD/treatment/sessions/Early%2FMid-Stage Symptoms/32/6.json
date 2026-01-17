@@ -1,16 +1,25 @@
 {
-    "header_text": "Lunch with Neighbor",
+    "header_text": "Side Dish Selection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lunch with Neighbor"
+            "text": "You decide to ask the waiter about the options for sides, and they politely explain. After this, you easily pick your side dish with..."
         },
         {
-            "type": "Media",
-            "url": "./images/872.jpg"
+            "type": "WordPuzzle",
+            "name": "side_dish_selection--early_mid-stage_symptoms--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confidence"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 1
 }

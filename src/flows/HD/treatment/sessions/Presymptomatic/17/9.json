@@ -1,29 +1,25 @@
 {
-    "header_text": "Navigation Irritation",
+    "header_text": "Difficulty Moving On",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you partner apologizes for getting lost, you..."
+            "text": "You're working on a project at home. You're having difficulty moving on to the next task and find yourself repeatedly going back to double-check small details you've already completed, causing you to feel frustrated by the lack of progress. After taking a break, you remember that taking a step back is the smart thing to..."
         },
         {
-            "type": "Buttons",
-            "name": "Navigation Irritation_Presymptomatic_comp_question",
+            "type": "WordPuzzle",
+            "name": "difficulty_moving_on--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Comfort them",
-                "Explode with anger"
+            "display_delay": 2000,
+            "words": [
+                "do"
             ],
-            "column_count": 1,
-            "correct_value": "Comfort them"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

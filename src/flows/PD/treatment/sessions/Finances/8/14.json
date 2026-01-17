@@ -7,7 +7,8 @@
             "text": "You’ve recently taken on extra responsibilities at work to make some extra money. As the workload at your job gets heavier, you worry about managing your work and family responsibilities but know you could really use the money. You decide to explain the situation to your supervisor, and you realize that it’s okay to ask for help when... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "managing_jobs--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

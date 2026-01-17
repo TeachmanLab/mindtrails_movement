@@ -1,25 +1,25 @@
 {
-    "header_text": "Cleaning Your Home",
+    "header_text": "Meal Program Volunteering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your home is a mess, and you decide to tackle some chores. You start to fold the laundry, but you find that you're struggling to fold clothes neatly. At first, this causes you to feel overwhelmed, but you remind yourself to take a deep breath and..."
+            "text": "You love volunteering with the local senior meal program weekly. You slipped and hurt yourself a week ago, and your doctor told you that it would be at least a month before you should volunteer again. The thought of not helping others makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cleaning Your Home_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "meal_program_volunteering--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relax"
+                "sad"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

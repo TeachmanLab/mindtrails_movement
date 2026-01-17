@@ -1,0 +1,17 @@
+{
+    "header_text": "Workout Whispers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Exercising at the gym is a form of stress relief for you, though you have had to adapt your workouts lately. Today, you notice two people whispering as they look in your direction. You know working out is a personal journey and decide their opinions are... "
+        },
+        {
+            "type": "Entry",
+            "name": "workout_whispers--mental_health--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

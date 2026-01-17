@@ -1,14 +1,14 @@
 {
-    "header_text": "Planning an Outing",
+    "header_text": "Easily Agitated",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Planning an Outing"
+            "text": "Easily Agitated"
         },
         {
             "type": "Media",
-            "url": "./images/242.jpg"
+            "url": "./images/213.jpg"
         }
     ],
     "type": "positive",

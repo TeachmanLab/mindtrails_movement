@@ -1,23 +1,23 @@
 {
-    "header_text": "Kitchen Coordination",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Taking time to breathe helps your anxiety..."
+            "Text": "The new project will be..."
         },
         {
             "type": "Buttons",
-            "name": "Kitchen Coordination_Early/Mid-Stage Symptoms_comp_question",
+            "name": "painting_project--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Worsen",
-                "Lessen"
+                "Impossible",
+                "Completed"
             ],
             "column_count": 1,
-            "correct_value": "Lessen"
+            "correct_value": "Completed"
         }
     ],
     "navigation_conditions": [

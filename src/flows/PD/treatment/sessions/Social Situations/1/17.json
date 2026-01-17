@@ -1,39 +1,16 @@
 {
-    "header_text": "Controversial news story",
+    "header_text": "Theater group thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The next time you meet, your coworker will most likely..."
+            "text": "Theater group thoughts"
         },
         {
-            "type": "Buttons",
-            "name": "Controversial news story_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Avoid speaking with you",
-                "Start up a conversation"
-            ],
-            "column_count": 1,
-            "correct_value": "Start up a conversation"
+            "type": "Media",
+            "url": "./images/599.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 5
 }

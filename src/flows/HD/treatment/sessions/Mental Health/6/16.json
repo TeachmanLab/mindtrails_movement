@@ -1,10 +1,10 @@
 {
-    "header_text": "Manage Your Feelings: Mental Health",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Try to put a specific label on your feelings (are you sad, angry, disgusted, nervous, terrfiied, etc.?) - feelings are easier to manage when we can describe them fully."
+            "text": "Motivational Statement #24 \n\n Don't let doubt get the best of you. You're already making great progress!"
         }
     ]
 }

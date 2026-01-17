@@ -1,0 +1,25 @@
+{
+    "header_text": "Flights of Stairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are seeing a new specialist in a building with many floors. You realize that the elevator is currently broken. As you look up at the stairs you'll need to climb, it feels..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "flights_of_stairs--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "daunting"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

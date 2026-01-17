@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Excluded on Social Media",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Feeling Excluded on Social Media"
+            "text": "Missed Connection"
         },
         {
             "type": "Media",
-            "url": "./images/398.jpg"
+            "url": "./images/665.jpg"
         }
     ],
     "type": "positive",

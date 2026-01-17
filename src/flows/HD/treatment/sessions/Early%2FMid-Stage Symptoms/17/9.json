@@ -1,29 +1,25 @@
 {
-    "header_text": "Difficulty Moving On",
+    "header_text": "Downsizing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Taking a step back to reassess is..."
+            "text": "The social worker reminds you that being prepared will not cause HD to progress any faster. You decide that planning for the future is..."
         },
         {
-            "type": "Buttons",
-            "name": "Difficulty Moving On_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "downsizing--early_mid-stage_symptoms--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Weak",
-                "Wise"
+            "display_delay": 2000,
+            "words": [
+                "wise"
             ],
-            "column_count": 1,
-            "correct_value": "Wise"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

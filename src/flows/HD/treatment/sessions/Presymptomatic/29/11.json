@@ -1,25 +1,16 @@
 {
-    "header_text": "Sharing Results",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Ever since you told a family member about your genetic test results, you have felt uneasy. You don't want this person to tell others, and you're not sure if they will be able to keep the secret. You call them to make sure you are both on the same page, and they are..."
+            "text": "Reason 3:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sharing Results_Presymptomatic_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "reassuring"
-            ],
-            "missing_letter_count": 2
+            "name": "Reason3_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 3
+    ]
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Sensational Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sensational Party"
+        },
+        {
+            "type": "Media",
+            "url": "./images/465.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,16 +1,10 @@
 {
-    "header_text": "Farmer's Market Sweets",
+    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Farmer's Market Sweets"
-        },
-        {
-            "type": "Media",
-            "url": "./images/420.jpg"
+            "text": "If you find yourself overwhelmed by your symptoms or worries about the future, try calling a friend or relative to process some of your emotions and to feel the support of someone who is on your team. "
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

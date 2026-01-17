@@ -7,7 +7,8 @@
             "text": "You are an avid traveler but have recently had mobility challenges and frequent fatigue. You worry about how this will impact your ability to explore new destinations and maintain a fast-paced lifestyle. The more you think about it, the more you become..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "avid_traveler--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

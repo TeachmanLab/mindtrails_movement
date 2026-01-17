@@ -1,29 +1,16 @@
 {
-    "header_text": "New Baby in the Family",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When the new baby comes, you will be..."
+            "text": "Record Store"
         },
         {
-            "type": "Buttons",
-            "name": "New Baby in the Family_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Incapable",
-                "Supportive and loving"
-            ],
-            "column_count": 1,
-            "correct_value": "Supportive and loving"
+            "type": "Media",
+            "url": "./images/799.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 2
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

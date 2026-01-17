@@ -1,14 +1,14 @@
 {
-    "header_text": "Meeting an old acquaintance",
+    "header_text": "Writing Notes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Meeting an old acquaintance"
+            "text": "Writing Notes"
         },
         {
             "type": "Media",
-            "url": "./images/618.jpg"
+            "url": "./images/115.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Trouble Making Friends",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trouble Making Friends"
+            "text": "Sharing with Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/407.jpg"
+            "url": "./images/395.jpg"
         }
     ],
     "type": "resilience/negation",

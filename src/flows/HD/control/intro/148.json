@@ -7,14 +7,14 @@
             "text": "How would you rate your ability to manage finances?"
         },
         {
+            "name": "tfc_finances",
             "type": "Buttons",
             "buttons": [
                 "0::Unable",
                 "1::Need major assistance",
                 "2::Need slight assistance",
                 "3::Normal"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

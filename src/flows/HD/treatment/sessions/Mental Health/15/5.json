@@ -1,16 +1,16 @@
 {
-    "header_text": "Having a New Friend Over",
+    "header_text": "Feeling Lightheaded",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Having a New Friend Over"
+            "text": "Feeling Lightheaded"
         },
         {
             "type": "Media",
-            "url": "./images/387.jpg"
+            "url": "./images/364.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

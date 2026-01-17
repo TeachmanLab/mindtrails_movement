@@ -1,16 +1,16 @@
 {
-    "header_text": "Applying for a Grant",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Applying for a Grant"
+            "text": "Long Walk Outside"
         },
         {
             "type": "Media",
-            "url": "./images/94.jpg"
+            "url": "./images/397.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

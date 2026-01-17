@@ -7,6 +7,7 @@
             "text": "In the past four weeks, to what extent did you fear or avoid the following situations? \n\nSocial situations (where one may be observed, or evaluated by others, such as speaking in public, or talking to unknown people)"
         },
         {
+            "name": "PAS_C1",
             "type": "Buttons",
             "buttons": [
                 "0::Never",
@@ -14,8 +15,7 @@
                 "2::Sometimes",
                 "3::Often",
                 "4::Nearly always"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

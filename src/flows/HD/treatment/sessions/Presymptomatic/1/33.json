@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Presymptomatic",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's normal to feel some worry regarding your HD diagnosis. But, an anxious mind can get in the way of how you get through your day. Try listing some positive things in your life and remind yourself that you've made it through many obstacles before. "
+            "text": "Think about an upcoming situation that you want to avoid because it makes you anxious. How can you think about it differently so that it feels less scary?"
+        },
+        {
+            "type": "Entry",
+            "name": "tip #9--entry"
         }
     ]
 }

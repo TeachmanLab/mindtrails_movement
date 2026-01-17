@@ -1,14 +1,14 @@
 {
-    "header_text": "Typing An Email",
+    "header_text": "Outburst During Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Typing An Email"
+            "text": "Outburst During Cards"
         },
         {
             "type": "Media",
-            "url": "./images/815.jpg"
+            "url": "./images/921.jpg"
         }
     ],
     "type": "positive",

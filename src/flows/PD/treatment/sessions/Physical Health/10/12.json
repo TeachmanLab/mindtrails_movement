@@ -1,16 +1,16 @@
 {
-    "header_text": "Waking Up Dizzy",
+    "header_text": "Driving with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Waking Up Dizzy"
+            "text": "Driving with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/460.jpg"
+            "url": "./images/423.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

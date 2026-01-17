@@ -4,13 +4,14 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Chopping Technique"
+            "text": "They tell you that they used to work in a kitchen and show you the right technique. Understanding that they're just trying to help makes you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/859.jpg"
+            "type": "Entry",
+            "name": "chopping_technique--presymptomatic--puzzle2_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 8
+    "scenario_num": 7
 }

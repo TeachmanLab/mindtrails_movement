@@ -1,20 +1,20 @@
 {
-    "header_text": "Family Questions",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you upset that you're single? "
+            "Text": "Do you have to impress this person? "
         },
         {
             "type": "Buttons",
-            "name": "Family Questions_Mental Health_comp_question",
+            "name": "getting_ready_for_a_date--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
             "correct_value": "No"

@@ -7,6 +7,7 @@
             "text": "You are at a restaurant with some friends and go to use the restroom. When you come back to the table your friends are at, they stop their conversation and it's silent. \n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
         },
         {
+            "name": "long10",
             "type": "Entry"
         }
     ],

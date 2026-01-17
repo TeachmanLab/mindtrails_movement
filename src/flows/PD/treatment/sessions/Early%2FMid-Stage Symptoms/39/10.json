@@ -1,0 +1,17 @@
+{
+    "header_text": "Fast Card Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a game night with friends, you begin playing a fast-paced card game. You are soon falling behind and don't want to ruin the fun. You tell your friends you need to slow down, and they are... "
+        },
+        {
+            "type": "Entry",
+            "name": "fast_card_game--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
+}

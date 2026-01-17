@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Appointment with the doctor_Physical Health_comp_question",
+            "name": "appointment_with_the_doctor--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

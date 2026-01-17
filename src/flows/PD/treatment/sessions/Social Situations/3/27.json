@@ -1,16 +1,16 @@
 {
-    "header_text": "Meeting an old acquaintance",
+    "header_text": "Overhearing your name ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Meeting an old acquaintance"
+            "text": "Overhearing your name "
         },
         {
             "type": "Media",
-            "url": "./images/618.jpg"
+            "url": "./images/403.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 8
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Interview anticipation",
+    "header_text": "Past Experiences",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Interview anticipation"
+            "text": "Past Experiences"
         },
         {
             "type": "Media",
-            "url": "./images/12.jpg"
+            "url": "./images/384.jpg"
         }
     ],
     "type": "positive",

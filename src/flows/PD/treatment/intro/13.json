@@ -7,6 +7,7 @@
             "text": "How did you learn about MindTrails-Movement?"
         },
         {
+            "name": "mtm_source",
             "type": "Buttons",
             "buttons": [
                 "0::Email from the study team",
@@ -20,7 +21,6 @@
                 "!8::Other:",
                 "^99::Prefer not to answer"
             ],
-            "selectable": true,
             "multiselect": true
         }
     ]

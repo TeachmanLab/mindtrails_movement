@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Changes",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Social Changes"
+            "text": "Neighbor Chat"
         },
         {
             "type": "Media",
-            "url": "./images/823.jpg"
+            "url": "./images/798.jpg"
         }
     ],
     "type": "positive",

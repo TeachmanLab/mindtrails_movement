@@ -1,16 +1,12 @@
 {
-    "header_text": "Inside Jokes",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Inside Jokes"
-        },
-        {
-            "type": "Media",
-            "url": "./images/332.jpg"
+            "text": "In this exercise, help the Mindtrails Movement team come up with new training stories that may be included in our future program to help other participants!"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 0
+    ]
 }

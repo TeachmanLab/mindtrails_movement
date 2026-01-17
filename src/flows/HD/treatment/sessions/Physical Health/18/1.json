@@ -1,0 +1,16 @@
+{
+    "header_text": "Medical Guilt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Medical Guilt"
+        },
+        {
+            "type": "Media",
+            "url": "./images/511.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,14 +1,14 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Produce Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Invitation to Dinner"
+            "text": "Produce Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/756.jpg"
+            "url": "./images/762.jpg"
         }
     ],
     "type": "positive",

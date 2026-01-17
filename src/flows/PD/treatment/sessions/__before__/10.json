@@ -7,6 +7,7 @@
             "text": "How likely is it that the situation or task will turn out well versus turn out badly?"
         },
         {
+            "name": "imagery_well",
             "type": "Buttons",
             "buttons": [
                 "Very likely to turn out well",
@@ -15,9 +16,7 @@
                 "Somewhat likely to turn out badly",
                 "Very likely to turn out badly",
                 "Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "imagery_well"
+            ]
         }
     ],
     "condition": [

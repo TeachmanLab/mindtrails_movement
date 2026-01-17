@@ -1,0 +1,25 @@
+{
+    "header_text": "Catching up with a friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at the store when you see a friend, and you stop to catch up with them. During the conversation with them, you're finding that your words are coming out more slowly than usual. Despite these difficulties, talking to your friend is... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "catching_up_with_a_friend--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "enjoyable"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Brother's Genetic Test",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Brother's Genetic Test"
+        },
+        {
+            "type": "Media",
+            "url": "./images/797.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

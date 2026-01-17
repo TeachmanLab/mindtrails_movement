@@ -1,16 +1,17 @@
 {
-    "header_text": "Crowded Waiting Room",
+    "header_text": "Garden Planting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're visiting the doctor for the first time since you started using your new walker. You're unsure about how well you will walk in a crowded waiting room. As you rush to check in at the front desk, you press down on a stranger's foot with the walker, leaving you feeling..."
+            "text": "In the spring, you notice your friends and neighbors have planted their gardens already. You are taking much longer than expected to plant your garden due to recent changes in your balance. You remember to take the planting one row at a time and remain..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "garden_planting--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Household responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Household responsibilities"
+        },
+        {
+            "type": "Media",
+            "url": "./images/741.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

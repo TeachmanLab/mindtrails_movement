@@ -1,16 +1,16 @@
 {
-    "header_text": "Therapist after Diagnosis",
+    "header_text": "Holding the Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are dedicated to your job as a therapist. Since your PD diagnosis, you have been worried about maintaining your relationship with patients. You reassure yourself that even if your symptoms slow you down, your years of experience will help you continue to do your job..."
+            "text": "Holding the Phone"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/775.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    "type": "negative",
+    "scenario_num": 2
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Game Night",
+    "header_text": "Future Birthdays",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Game Night"
+            "text": "Future Birthdays"
         },
         {
             "type": "Media",
-            "url": "./images/887.jpg"
+            "url": "./images/886.jpg"
         }
     ],
     "type": "positive",

@@ -1,22 +1,22 @@
 {
-    "header_text": "Smoothie Order",
+    "header_text": "Easily Agitated",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a smoothie shop with a coworker, deciding what to order while you wait in line. When it's your turn to order, you completely go blank, forgetting what you wanted. Your colleague reminds you of your favorite drink, and you think they are..."
+            "text": "You're at a family dinner, enjoying the meal. You notice you are becoming increasingly agitated, reacting strongly to small issues. You consider excusing yourself from the table and remember that taking a break to calm down is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Smoothie Order_Presymptomatic_puzzle1",
+            "name": "easily_agitated--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "thoughtful"
+                "sensible"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

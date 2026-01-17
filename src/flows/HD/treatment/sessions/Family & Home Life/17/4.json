@@ -1,16 +1,16 @@
 {
-    "header_text": "Stress in Your Relationship",
+    "header_text": "Awards Ceremony",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Stress in Your Relationship"
+            "text": "Awards Ceremony"
         },
         {
             "type": "Media",
-            "url": "./images/225.jpg"
+            "url": "./images/127.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

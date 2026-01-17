@@ -1,23 +1,23 @@
 {
-    "header_text": "Crafts and Crochet",
+    "header_text": "Handwriting Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making an error in the pattern shows that you are..."
+            "Text": "Will you soon lose your ability to write?"
         },
         {
             "type": "Buttons",
-            "name": "Crafts and Crochet_Presymptomatic_comp_question",
+            "name": "handwriting_thoughts--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Incapable",
-                "Learning"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Learning"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

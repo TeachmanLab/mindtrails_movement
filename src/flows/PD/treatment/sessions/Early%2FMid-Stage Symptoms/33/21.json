@@ -1,25 +1,25 @@
 {
-    "header_text": "Support Group",
+    "header_text": "Hosting a Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're attending a support group for people with PD. You feel a mix of emotions as you share your experiences. As it turns out, being in the group helps you feel..."
+            "text": "You were asked to host a dinner event for a relative coming home from overseas. As you prepare, you begin to lose track of everything that needs to be done, and you start to think the event will be ruined. On the night of the dinner, everyone agrees it is a huge..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Support Group_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "hosting_a_dinner--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understood"
+                "success"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 6
 }

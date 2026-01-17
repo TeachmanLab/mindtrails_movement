@@ -1,16 +1,25 @@
 {
-    "header_text": "Family Planning",
+    "header_text": "Forgotten Name",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Planning"
+            "text": "During a team meeting, you forget a colleague's name, despite having known them for years. You start to worry that your forgetfulness might be a sign of something more serious that's related to your..."
         },
         {
-            "type": "Media",
-            "url": "./images/912.jpg"
+            "type": "WordPuzzle",
+            "name": "forgotten_name--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "HD"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

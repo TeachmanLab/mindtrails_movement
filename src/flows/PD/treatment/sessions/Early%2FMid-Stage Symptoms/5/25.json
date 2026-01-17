@@ -1,14 +1,14 @@
 {
-    "header_text": "Collaging",
+    "header_text": "Crafts and Crochet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Collaging"
+            "text": "Crafts and Crochet"
         },
         {
             "type": "Media",
-            "url": "./images/754.jpg"
+            "url": "./images/229.jpg"
         }
     ],
     "type": "positive",

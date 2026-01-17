@@ -1,25 +1,29 @@
 {
-    "header_text": "Reality TV Confusion",
+    "header_text": "Progression Concerns",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You watch the same reality TV show with your sibling every week. During this week's episode, you start to make a comment about the host but can't think of his name. Your sibling glances at you with a look of... "
+            "Text": "Your work will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Reality TV Confusion_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "progression_concerns--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "concern"
+            "buttons": [
+                "Understanding",
+                "Hesitant"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Understanding"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 5
 }

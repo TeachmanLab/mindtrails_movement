@@ -1,16 +1,29 @@
 {
-    "header_text": "Coffee Concerns",
+    "header_text": "Tax Forms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Lately, your spouse has been alert for any signs of your HD progressing. You are drinking morning coffee together, and you accidentally spill a bit from your full cup. Your spouse looks at you and asks if they can get you a..."
+            "Text": "As the numbers start to overwhelm you, you respond by..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "tax_forms--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Getting organized",
+                "Giving up"
+            ],
+            "column_count": 1,
+            "correct_value": "Getting organized"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

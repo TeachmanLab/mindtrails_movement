@@ -1,16 +1,17 @@
 {
-    "header_text": "Fear of Missing Out",
+    "header_text": "Jacket Return",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you get to work, you overhear some colleagues talking about the fun night they had out together last night. You don't remember being invited to hang out with them. You think about missing out on the fun and realize that you weren't invited because you are..."
+            "text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile. Instead, they stare at you looking very..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "jacket_return--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

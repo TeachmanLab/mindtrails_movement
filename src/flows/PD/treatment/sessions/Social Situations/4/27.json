@@ -1,14 +1,14 @@
 {
-    "header_text": "Attending a dinner",
+    "header_text": "A sip of water",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Attending a dinner"
+            "text": "A sip of water"
         },
         {
             "type": "Media",
-            "url": "./images/170.jpg"
+            "url": "./images/113.jpg"
         }
     ],
     "type": "positive",

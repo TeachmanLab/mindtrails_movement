@@ -1,16 +1,17 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "Therapist after Diagnosis",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You remind yourself that you can still find fulfillment in traveling more locally. Focusing on other aspects of travel that you enjoy gives you... "
+            "text": "You are dedicated to your job as a therapist. Since your PD diagnosis, you have been worried about maintaining your relationship with patients. You reassure yourself that even if your symptoms slow you down, your years of experience will help you continue to do your job..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "therapist_after_diagnosis--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Questions",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Family Questions"
+            "text": "Getting Ready for a Date"
         },
         {
             "type": "Media",
-            "url": "./images/183.jpg"
+            "url": "./images/378.jpg"
         }
     ],
     "type": "positive",

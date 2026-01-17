@@ -1,16 +1,16 @@
 {
-    "header_text": "The Dance Showcase",
+    "header_text": "Waiting for a Reply ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "The Dance Showcase"
+            "text": "Waiting for a Reply "
         },
         {
             "type": "Media",
-            "url": "./images/575.jpg"
+            "url": "./images/658.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 8
+    "type": "positive",
+    "scenario_num": 6
 }

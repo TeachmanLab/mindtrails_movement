@@ -1,0 +1,17 @@
+{
+    "header_text": "Household responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You take pride in taking on unliked chores. You have been feeling more fatigued recently and you have had to let others around you take on more of your tasks. You think about how lately when you discuss chores, your family members seem to be..."
+        },
+        {
+            "type": "Entry",
+            "name": "household_responsibilities--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
+}

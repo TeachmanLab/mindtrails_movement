@@ -1,23 +1,23 @@
 {
-    "header_text": "Tingly fingers",
+    "header_text": "Dry mouth cause",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do the tingling feelings in your fingers make you nervous?"
+            "Text": "Your dry mouth is probably due to..."
         },
         {
             "type": "Buttons",
-            "name": "Tingly fingers_Physical Health_comp_question",
+            "name": "dry_mouth_cause--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "A new medication",
+                "A serious illness"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "A new medication"
         }
     ],
     "navigation_conditions": [

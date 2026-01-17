@@ -1,0 +1,16 @@
+{
+    "header_text": "Unfinished Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unfinished Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/77.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

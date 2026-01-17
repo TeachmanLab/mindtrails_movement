@@ -4,13 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You decide that these sensations are tolerable, and you..."
+            "text": "Difficult walk"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/363.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 7
 }

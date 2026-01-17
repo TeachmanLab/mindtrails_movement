@@ -1,0 +1,16 @@
+{
+    "header_text": "Different Personalities ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Different Personalities "
+        },
+        {
+            "type": "Media",
+            "url": "./images/570.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

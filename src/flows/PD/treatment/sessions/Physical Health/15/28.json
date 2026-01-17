@@ -1,25 +1,16 @@
 {
-    "header_text": "Friend in the Hospital",
+    "header_text": "A Hike with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel..."
+            "text": "A Hike with Friends"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Friend in the Hospital_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "calm"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/502.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Talk with Counselor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Talk with Counselor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/419.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

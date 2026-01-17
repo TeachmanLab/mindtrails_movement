@@ -1,0 +1,16 @@
+{
+    "header_text": "Poor Sleep",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Poor Sleep"
+        },
+        {
+            "type": "Media",
+            "url": "./images/591.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

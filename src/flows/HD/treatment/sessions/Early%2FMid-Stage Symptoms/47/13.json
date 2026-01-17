@@ -1,0 +1,25 @@
+{
+    "header_text": "Flights of Stairs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An employee shows you that the doctor's office is on one of the lower levels and offers to escort you there. You start to feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "flights_of_stairs--early_mid-stage_symptoms--puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relieved"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

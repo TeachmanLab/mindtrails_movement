@@ -1,16 +1,16 @@
 {
-    "header_text": "Cleaning your Car",
+    "header_text": "Couple Strolling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cleaning your Car"
+            "text": "Couple Strolling"
         },
         {
             "type": "Media",
-            "url": "./images/595.jpg"
+            "url": "./images/807.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "negative",
+    "scenario_num": 6
 }

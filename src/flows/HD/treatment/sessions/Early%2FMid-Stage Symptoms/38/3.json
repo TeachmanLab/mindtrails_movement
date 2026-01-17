@@ -1,0 +1,17 @@
+{
+    "header_text": "Finding a Therapist",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "With so much going on in your life, you've been thinking about starting therapy. You find a therapist online, but you are skeptical that a stranger will be able to understand how HD impacts your life. At the end of your first video session, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "finding_a_therapist--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

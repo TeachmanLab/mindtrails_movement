@@ -1,14 +1,14 @@
 {
-    "header_text": "Moving to a New City",
+    "header_text": "Spring Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Moving to a New City"
+            "text": "Spring Proposal"
         },
         {
             "type": "Media",
-            "url": "./images/789.jpg"
+            "url": "./images/898.jpg"
         }
     ],
     "type": "positive",

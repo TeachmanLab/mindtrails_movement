@@ -1,25 +1,16 @@
 {
-    "header_text": "Sitting in a Meeting",
+    "header_text": "Meeting New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You take a few sips of water and start to feel more awake, remembering that you didn't get as much sleep as usual the night before. You decide you are just..."
+            "text": "Meeting New People"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sitting in a Meeting_Work/Career Development_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "tired"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/89.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 4
+    "scenario_num": 5
 }

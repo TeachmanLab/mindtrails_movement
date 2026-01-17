@@ -1,0 +1,16 @@
+{
+    "header_text": "Customer Service Job",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Customer Service Job"
+        },
+        {
+            "type": "Media",
+            "url": "./images/950.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

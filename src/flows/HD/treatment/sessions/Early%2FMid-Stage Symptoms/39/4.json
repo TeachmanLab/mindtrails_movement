@@ -1,0 +1,16 @@
+{
+    "header_text": "Lost Things",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lost Things"
+        },
+        {
+            "type": "Media",
+            "url": "./images/734.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

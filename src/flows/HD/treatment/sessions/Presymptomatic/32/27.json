@@ -1,0 +1,16 @@
+{
+    "header_text": "Muscle Spasms",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Muscle Spasms"
+        },
+        {
+            "type": "Media",
+            "url": "./images/424.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

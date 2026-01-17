@@ -1,26 +1,25 @@
 {
-    "header_text": "A Crucial Call",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is..."
+            "text": "You haven't been feeling like yourself lately and want to ask your partner for help. Although you trust them, you are struggling to find the right words to say. You decide to sit down with your partner, and you feel... "
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "mental_health_issues--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 3
 }

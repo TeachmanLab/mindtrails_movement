@@ -1,20 +1,20 @@
 {
-    "header_text": "Catching up with a friend",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the store when you see a friend, and you stop to catch up with them. During the conversation with them, you're finding that your words are coming out more slowly than usual. Despite these difficulties, talking to your friend is... "
+            "text": "You are at an educational event about Huntington's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Catching up with a friend_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "medical_presentation--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enjoyable"
+                "confused"
             ],
             "missing_letter_count": 1
         }

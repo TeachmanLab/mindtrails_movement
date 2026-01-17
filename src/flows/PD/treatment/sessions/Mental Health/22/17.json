@@ -1,16 +1,16 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Faster thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player and asks you to play something on the piano for the other guests. You feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself that everyone will be... "
+            "text": "Faster thoughts"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/402.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -7,7 +7,8 @@
             "text": "Your boss wants to meet with you for your performance review. They have high expectations for you, but you performed worse than previous years. Your boss will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "expectations--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

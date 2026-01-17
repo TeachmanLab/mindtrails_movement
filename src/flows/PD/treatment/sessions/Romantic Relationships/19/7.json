@@ -1,0 +1,16 @@
+{
+    "header_text": "Holiday Away From Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Holiday Away From Home"
+        },
+        {
+            "type": "Media",
+            "url": "./images/156.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

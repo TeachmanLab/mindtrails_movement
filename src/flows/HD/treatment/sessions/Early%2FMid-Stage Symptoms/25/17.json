@@ -1,29 +1,17 @@
 {
-    "header_text": "Parked Car",
+    "header_text": "Off Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Has your friend noticed changes in your memory?"
+            "text": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance, and you think about your ability to get ready in the future. The progression of your HD makes you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Parked Car_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "column_count": 1,
-            "correct_value": "Yes"
+            "type": "Entry",
+            "name": "off_balance--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

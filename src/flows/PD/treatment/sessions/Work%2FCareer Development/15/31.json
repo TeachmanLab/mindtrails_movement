@@ -1,14 +1,14 @@
 {
-    "header_text": "Presenting your Work",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Presenting your Work"
+            "text": "Your Resume"
         },
         {
             "type": "Media",
-            "url": "./images/112.jpg"
+            "url": "./images/93.jpg"
         }
     ],
     "type": "positive",

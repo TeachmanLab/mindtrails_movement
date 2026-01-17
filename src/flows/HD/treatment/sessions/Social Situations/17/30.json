@@ -1,14 +1,14 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Posting New Content"
+            "text": "Missed Connection"
         },
         {
             "type": "Media",
-            "url": "./images/679.jpg"
+            "url": "./images/665.jpg"
         }
     ],
     "type": "positive",

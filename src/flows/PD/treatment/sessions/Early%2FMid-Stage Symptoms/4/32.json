@@ -1,10 +1,29 @@
 {
-    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
+    "header_text": "House Cleaning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Spend some time identifying your goals and values. Ask yourself: what is important to me in terms of my work, relationships, education, community involvement, etc.? Write down different ways you can act in accordance with these values in your daily life."
+            "Text": "You likely feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "house_cleaning--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Even more tired",
+                "Better"
+            ],
+            "column_count": 1,
+            "correct_value": "Better"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

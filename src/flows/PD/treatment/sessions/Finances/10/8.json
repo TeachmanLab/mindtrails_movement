@@ -7,7 +7,8 @@
             "text": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "paying_for_dinner_--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

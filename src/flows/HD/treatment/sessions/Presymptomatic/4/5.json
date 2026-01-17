@@ -1,16 +1,25 @@
 {
-    "header_text": "Job promotion",
+    "header_text": "Spiritual Practice",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Job promotion"
+            "text": "Your spiritual journey has become more important to you lately. Recently, you've been finding it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will..."
         },
         {
-            "type": "Media",
-            "url": "./images/903.jpg"
+            "type": "WordPuzzle",
+            "name": "spiritual_practice--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "adapt"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 1
 }

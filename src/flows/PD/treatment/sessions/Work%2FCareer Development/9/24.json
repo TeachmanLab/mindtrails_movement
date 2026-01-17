@@ -1,10 +1,10 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Manage Your Feelings: Work/Career Development",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #1 \n\n Remember: one bad day doesn't mean the end of the world. You've got this!"
+            "text": "When you feel stuck, pick one small step you feel you can do and start with that."
         }
     ]
 }

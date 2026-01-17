@@ -1,16 +1,16 @@
 {
-    "header_text": "Suggestion to meet again",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Suggestion to meet again"
+            "text": "Meeting an old acquaintance"
         },
         {
             "type": "Media",
-            "url": "./images/617.jpg"
+            "url": "./images/618.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

@@ -1,16 +1,17 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Formal Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Beach Walk"
+            "text": "Today you are going to a formal event with your spouse. Normally you enjoy getting ready and socializing with others, but today you are feeling very down thinking how your PD might progress. You want to stay home but decide to go because you think it will help you feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/837.jpg"
+            "type": "Entry",
+            "name": "formal_event--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6
 }

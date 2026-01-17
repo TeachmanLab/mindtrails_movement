@@ -1,0 +1,16 @@
+{
+    "header_text": "Missing Medication",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missing Medication"
+        },
+        {
+            "type": "Media",
+            "url": "./images/972.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 5
+}

@@ -1,25 +1,29 @@
 {
-    "header_text": "Disease Identity",
+    "header_text": "Social Media Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As someone from a family with HD, you feel as if it's always been a part of your identity. Since your own diagnosis, you've struggled with when and how to talk about HD with others. You begin to understand that the decision to discuss (or not discuss) your diagnosis is..."
+            "Text": "You son's actions have made you feel especially..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Disease Identity_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "social_media_post--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "yours"
+            "buttons": [
+                "Angry",
+                "Calm"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Angry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
     "scenario_num": 7
 }

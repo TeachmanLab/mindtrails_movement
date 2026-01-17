@@ -1,14 +1,14 @@
 {
-    "header_text": "Future Gym Visits",
+    "header_text": "Typing An Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Future Gym Visits"
+            "text": "Typing An Email"
         },
         {
             "type": "Media",
-            "url": "./images/518.jpg"
+            "url": "./images/815.jpg"
         }
     ],
     "type": "positive",

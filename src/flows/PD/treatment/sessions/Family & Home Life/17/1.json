@@ -1,14 +1,14 @@
 {
-    "header_text": "Puzzle Time",
+    "header_text": "Foreign Country",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Puzzle Time"
+            "text": "Foreign Country"
         },
         {
             "type": "Media",
-            "url": "./images/224.jpg"
+            "url": "./images/142.jpg"
         }
     ],
     "type": "positive",

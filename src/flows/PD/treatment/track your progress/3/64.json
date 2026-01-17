@@ -7,6 +7,7 @@
             "text": "Your chest feels uncomfortable and tight. Why? \n\nYou have indigestion."
         },
         {
+            "name": "bbsiq_8a_benign",
             "type": "Buttons",
             "buttons": [
                 "0::Not at all likely",
@@ -15,8 +16,7 @@
                 "3::Very likely",
                 "4::Extremely likely",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

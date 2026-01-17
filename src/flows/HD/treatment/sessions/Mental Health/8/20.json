@@ -7,7 +7,8 @@
             "text": "You have just had your first child. You want to have a good relationship throughout your kid's life. You worry about making mistakes as a..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "new_family_member--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

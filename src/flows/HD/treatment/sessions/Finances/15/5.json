@@ -1,0 +1,16 @@
+{
+    "header_text": "Trip After Car Problem",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trip After Car Problem"
+        },
+        {
+            "type": "Media",
+            "url": "./images/302.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

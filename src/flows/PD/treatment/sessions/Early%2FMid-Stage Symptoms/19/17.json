@@ -1,16 +1,16 @@
 {
-    "header_text": "Fresh Air",
+    "header_text": "Overwhelmed at Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A family member offers to walk outside with you for some fresh air. As you rehash the incident, they point out that the other people probably just wanted to make sure you were okay. You realize this is likely... "
+            "text": "Overwhelmed at Meeting"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/808.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 6
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "1, 2, 3. Eyes on Me",
+    "header_text": "Peer Evaluations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "1, 2, 3. Eyes on Me"
+            "text": "Peer Evaluations"
         },
         {
             "type": "Media",
-            "url": "./images/56.jpg"
+            "url": "./images/55.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

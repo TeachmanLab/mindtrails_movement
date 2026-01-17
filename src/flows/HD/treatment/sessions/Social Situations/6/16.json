@@ -1,10 +1,10 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Before you hang out with someone, plan a few talking-points to bring up during your conversation."
+            "text": "Motivational Statement #12 \n\n A few minutes of practice today means a world of difference over time. "
         }
     ]
 }

@@ -1,0 +1,17 @@
+{
+    "header_text": "Community Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your..."
+        },
+        {
+            "type": "Entry",
+            "name": "community_meeting--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

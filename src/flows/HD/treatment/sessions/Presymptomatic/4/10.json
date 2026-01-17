@@ -1,14 +1,14 @@
 {
-    "header_text": "Spiritual Practice",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you find new ways of continuing your spiritual practice?"
+            "Text": "Do you expect to be close to your current friends in the future?"
         },
         {
             "type": "Buttons",
-            "name": "Spiritual Practice_Presymptomatic_comp_question",
+            "name": "friendships_in_the_future--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Retirement Celebration",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Retirement Celebration"
+        },
+        {
+            "type": "Media",
+            "url": "./images/221.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

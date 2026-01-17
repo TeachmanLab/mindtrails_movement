@@ -1,29 +1,29 @@
 {
-    "header_text": "Assembling Furniture",
+    "header_text": "Forgetting PIN Number",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you realize the instructions are bad, you feel... "
+            "Text": "Your family didn't respond because they were..."
         },
         {
             "type": "Buttons",
-            "name": "Assembling Furniture_Presymptomatic_comp_question",
+            "name": "forgetting_pin_number--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Worse",
-                "Better"
+                "Distracted",
+                "Annoyed"
             ],
             "column_count": 1,
-            "correct_value": "Better"
+            "correct_value": "Distracted"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

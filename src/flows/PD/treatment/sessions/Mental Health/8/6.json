@@ -7,7 +7,8 @@
             "text": "This feeling is surprising and uncomfortable. You realize this is something you can observe, and you start feeling..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "hot_day_--mental_health--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

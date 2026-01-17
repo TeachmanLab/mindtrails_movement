@@ -1,16 +1,39 @@
 {
-    "header_text": "Achieving Your Goals",
+    "header_text": "Feeling Excluded on Social Media",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Achieving Your Goals"
+            "Text": "Can you handle that sometimes your friends hang out without you?"
         },
         {
-            "type": "Media",
-            "url": "./images/88.jpg"
+            "type": "Buttons",
+            "name": "feeling_excluded_on_social_media--mental_health--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

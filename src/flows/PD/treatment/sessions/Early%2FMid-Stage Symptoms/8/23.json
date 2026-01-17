@@ -1,13 +1,14 @@
 {
-    "header_text": "Garden Planting",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the spring, you notice your friends and neighbors have planted their gardens already. You are taking much longer than expected to plant your garden due to recent changes in your balance. You remember to take the planting one row at a time and remain..."
+            "text": "You have a visit with your doctor today in regards to some new symptoms of PD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "dismissive_doctor--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

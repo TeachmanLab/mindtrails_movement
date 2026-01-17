@@ -1,25 +1,17 @@
 {
-    "header_text": "Picture with Friends",
+    "header_text": "Your Family's Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your friend took some pictures together. You look through your feed and see that they tagged you in a photo that you really don't like. You know that, in the long run, it won't..."
+            "text": "As you're getting out of the car, you see a few acquaintances. They smile and wave at you, and you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Picture with Friends_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "matter"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "your_family's_car--social_situations--puzzle2_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 6
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

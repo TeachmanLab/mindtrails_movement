@@ -1,14 +1,14 @@
 {
-    "header_text": "Future Gym Visits",
+    "header_text": "Daily Tasks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Future Gym Visits"
+            "text": "Daily Tasks"
         },
         {
             "type": "Media",
-            "url": "./images/518.jpg"
+            "url": "./images/966.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,16 @@
 {
-    "header_text": "Feeling Lightheaded",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to focus your mind on the sensations. This helps you worry less and makes you feel..."
+            "text": "Part 2: Resolve the uncertainty in a non-threatening way with the final sentence"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Feeling Lightheaded_Mental Health_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "calmer"
-            ],
-            "missing_letter_count": 1
+            "name": "Part2_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 1
+    ]
 }

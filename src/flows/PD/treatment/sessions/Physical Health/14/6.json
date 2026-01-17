@@ -1,25 +1,16 @@
 {
-    "header_text": "Medical Guilt",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "After noticing your throat hurting a bit, you decide to go to the doctor. Your partner barely goes to the doctor because it's so expensive, and you think they'll be mad at you for the cost. You hope that they'll forgive you easily, because getting sick isn't fully in your... "
+            "text": "Part 2: Resolve the uncertainty in a non-threatening way with the final sentence"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Medical Guilt_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "control"
-            ],
-            "missing_letter_count": 1
+            "name": "Part2_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    ]
 }

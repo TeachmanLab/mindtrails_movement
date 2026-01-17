@@ -1,25 +1,25 @@
 {
-    "header_text": "Spiritual Practice",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spiritual journey has become more important to you lately. Recently, you've been finding it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will..."
+            "text": "When you imagine yourself in the future, you do not think you will drift from your good friends. You and your friends will stick..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Spiritual Practice_Presymptomatic_puzzle1",
+            "name": "friendships_in_the_future--presymptomatic--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "adapt"
+                "together"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

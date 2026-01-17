@@ -7,6 +7,7 @@
             "text": "What are you hoping to get out of the MindTrails-Movement program? Select all that apply."
         },
         {
+            "name": "gain_from_HTC",
             "type": "Buttons",
             "buttons": [
                 "I want to think more flexibly and less negatively.",
@@ -17,9 +18,7 @@
                 "I want to avoid a return of anxiety and/or stress I've experienced in the past.",
                 "!Other, please describe:"
             ],
-            "selectable": true,
-            "multiselect": true,
-            "name": "gain_from_HTC"
+            "multiselect": true
         }
     ]
 }

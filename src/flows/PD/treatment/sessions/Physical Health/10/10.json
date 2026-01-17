@@ -1,14 +1,14 @@
 {
-    "header_text": "Meeting Someone New",
+    "header_text": "Waking Up Dizzy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Meeting Someone New"
+            "text": "Waking Up Dizzy"
         },
         {
             "type": "Media",
-            "url": "./images/490.jpg"
+            "url": "./images/460.jpg"
         }
     ],
     "type": "positive",

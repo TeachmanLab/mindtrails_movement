@@ -1,25 +1,39 @@
 {
-    "header_text": "Intimacy",
+    "header_text": "Time with Children",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your stress about HD has been causing you to lose interest in intimacy with your partner. Your partner has noticed this change and is upset with your lack of touch and care. In response to their upset reaction, you start a..."
+            "Text": "Since your diagnosis, time spent with your children is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Intimacy_Presymptomatic_puzzle1",
+            "type": "Buttons",
+            "name": "time_with_children--presymptomatic--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "conversation"
+            "buttons": [
+                "Scary",
+                "Savored"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Savored"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

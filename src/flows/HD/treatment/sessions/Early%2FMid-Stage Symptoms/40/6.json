@@ -1,0 +1,17 @@
+{
+    "header_text": "Diagnosed and Dating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have recently decided to try dating again. However, with your diagnosis of HD, you are fearful about being honest about your condition. You decide to share your journey with your date, trusting they will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "diagnosed_and_dating--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

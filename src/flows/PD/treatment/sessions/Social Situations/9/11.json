@@ -1,16 +1,16 @@
 {
-    "header_text": "Nerves at a Big Moment",
+    "header_text": "Feeling Abandoned",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Nerves at a Big Moment"
+            "text": "Feeling Abandoned"
         },
         {
             "type": "Media",
-            "url": "./images/645.jpg"
+            "url": "./images/601.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

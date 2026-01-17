@@ -1,0 +1,16 @@
+{
+    "header_text": "Noisy Neighbors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Noisy Neighbors"
+        },
+        {
+            "type": "Media",
+            "url": "./images/50.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

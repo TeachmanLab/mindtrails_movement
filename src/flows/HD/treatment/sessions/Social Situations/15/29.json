@@ -1,22 +1,22 @@
 {
-    "header_text": "Watching a Movie with Friends",
+    "header_text": "No Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and some friends are watching a movie at your home. Towards the end of the movie, your friend asks about the funny smell coming from the kitchen. You know that's your dinner, and when you think about how to answer, you feel..."
+            "text": "You sent an email to your boss a few hours ago. You check to see if they have responded yet, but they haven't. You think about how your boss doesn't check their email often, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Watching a Movie with Friends_Social Situations_puzzle1",
+            "name": "no_response--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fine"
+                "better"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

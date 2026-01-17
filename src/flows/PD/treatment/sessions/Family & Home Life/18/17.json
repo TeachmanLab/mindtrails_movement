@@ -1,39 +1,16 @@
 {
-    "header_text": "Saturday Brunch",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your relatives pointing out changes shows their..."
+            "text": "Fresh Air"
         },
         {
-            "type": "Buttons",
-            "name": "Saturday Brunch_Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Judgment",
-                "Concern"
-            ],
-            "column_count": 1,
-            "correct_value": "Concern"
+            "type": "Media",
+            "url": "./images/210.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

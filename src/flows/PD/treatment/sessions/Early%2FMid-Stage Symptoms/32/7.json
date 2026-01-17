@@ -1,16 +1,29 @@
 {
-    "header_text": "Lunch with Neighbor",
+    "header_text": "Side Dish Selection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you cannot remember everything they have said. When you ask the same question again, they feel like you are..."
+            "Text": "After the waiter tells you the sides, you make your decision..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "side_dish_selection--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Confidently",
+                "Hesitantly"
+            ],
+            "column_count": 1,
+            "correct_value": "Confidently"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 2
+    "scenario_num": 1
 }

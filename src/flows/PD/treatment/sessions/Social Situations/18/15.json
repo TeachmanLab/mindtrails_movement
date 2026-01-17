@@ -1,25 +1,25 @@
 {
-    "header_text": "Seeing Others Hanging Out",
+    "header_text": "Trick or Treat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are sad that you weren't invited to hang out with your colleagues. Your response to this situation is..."
+            "text": "Your grandchild wants to go trick-or-treating, and they begged you to dress up with them. You wear a costume and run into some people from work who aren't dressed up. They think your costume is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Seeing Others Hanging Out_Social Situations_puzzle_word2",
+            "name": "trick_or_treat--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "normal"
+                "awesome"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

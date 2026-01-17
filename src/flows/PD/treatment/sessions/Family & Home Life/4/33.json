@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Family & Home Life",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you find yourself jumping to the worst-case scenario without all the information, what are some things that you could tell yourself instead? Think about some skills from the stories you've read that might be helpful for you. "
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #4_entry"
+            "text": "It's okay if you need a break from your loved ones. Give yourself the space you need to recharge."
         }
     ]
 }

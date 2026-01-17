@@ -1,16 +1,17 @@
 {
-    "header_text": "Bakery Routine",
+    "header_text": "Chopping Technique",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Every Saturday morning you go to a bakery with your neighbor. Today while browsing around, you start to feel uneasy as you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel..."
+            "text": "You're slicing vegetables for a salad. Your fingers aren't working quite right, causing the knife to wobble. Your friend comments on your chopping technique, and them noticing your unsteady hands makes you..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "chopping_technique--presymptomatic--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Spiritual Practice",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Spiritual Practice"
+            "text": "When you think about the future, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends. Although, you wonder if it will be more difficult to stay in touch as your HD... "
         },
         {
-            "type": "Media",
-            "url": "./images/901.jpg"
+            "type": "WordPuzzle",
+            "name": "friendships_in_the_future--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "progresses"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

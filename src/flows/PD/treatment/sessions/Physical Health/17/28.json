@@ -1,25 +1,29 @@
 {
-    "header_text": "Comparing at the Gym",
+    "header_text": "Longer Walks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your decide to confide in your trainer who highlights the improvement you've been making in a relatively short period of time. Their encouragement allows you to look at the situation more..."
+            "Text": "Do you think you will be capable of completing a longer walk?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comparing at the Gym_Physical Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "longer_walks--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "positively"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
     "scenario_num": 8
 }

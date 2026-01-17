@@ -1,25 +1,16 @@
 {
-    "header_text": "Creating Art ",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You then realize that you can adapt the way you currently create. Knowing that there are many ways to be an artist leaves you feeling..."
+            "text": "Reason 4:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Creating Art _Presymptomatic_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "hopeful"
-            ],
-            "missing_letter_count": 1
+            "name": "Reason4_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 3
+    ]
 }

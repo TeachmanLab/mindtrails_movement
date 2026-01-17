@@ -1,25 +1,16 @@
 {
-    "header_text": "Setting up Camp",
+    "header_text": "Online Payment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your friends love to be outdoors together, so you go camping for the weekend. As you set up your tent, you notice your friends have already finished with theirs. You finish at your own speed then join your friends, feeling..."
+            "text": "Online Payment"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Setting up Camp_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "excited"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/320.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

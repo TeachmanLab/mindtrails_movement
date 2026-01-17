@@ -1,22 +1,22 @@
 {
-    "header_text": "Sunny Beach Day",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're enjoying a sunny beach day and notice unsteadiness in your steps while walking along the shore. You worry that someone will notice your walk and wonder if something is wrong. However, you realize that everyone is probably just enjoying the beach and not focused on you, making you feel..."
+            "text": "Your partner's job has taken you all over the country with new opportunities. Your partner's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Sunny Beach Day_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "moving_to_a_new_city--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "comforted"
+                "exciting"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

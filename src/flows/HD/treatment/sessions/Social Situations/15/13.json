@@ -1,29 +1,25 @@
 {
-    "header_text": "Having Someone Over",
+    "header_text": "Late Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you anxious as your friend arrives?"
+            "text": "You're meeting a friend at a local park. After 20 minutes, your friend still hasn't arrived. You think they probably are..."
         },
         {
-            "type": "Buttons",
-            "name": "Having Someone Over_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "late_friend--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "coming"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Catching Transportation",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it necessary to get off the plane because you feel your heart beating rapidly?"
+            "Text": "Are you capable of being in a relationship?"
         },
         {
             "type": "Buttons",
-            "name": "Catching Transportation_Mental Health_comp_question",
+            "name": "friends_in_relationships--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

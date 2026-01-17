@@ -1,16 +1,16 @@
 {
-    "header_text": "A Birthday Cake",
+    "header_text": "Being Near Someone Sick",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A Birthday Cake"
+            "text": "Being Near Someone Sick"
         },
         {
             "type": "Media",
-            "url": "./images/447.jpg"
+            "url": "./images/468.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Writing Notes",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Writing Notes"
+            "text": "Reviewing Your Work "
         },
         {
             "type": "Media",
-            "url": "./images/115.jpg"
+            "url": "./images/91.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Studying a New Language",
+    "header_text": "Giving Up Favorite Hobby",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Studying a New Language"
+            "text": "Giving Up Favorite Hobby"
         },
         {
             "type": "Media",
-            "url": "./images/868.jpg"
+            "url": "./images/250.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "type": "negative",
+    "scenario_num": 8
 }

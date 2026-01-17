@@ -1,29 +1,16 @@
 {
-    "header_text": "Smoothie Shop",
+    "header_text": "Game Night Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your colleague remembering your order is..."
+            "text": "Game Night Mistake"
         },
         {
-            "type": "Buttons",
-            "name": "Smoothie Shop_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Embarrassing",
-                "Thoughtful"
-            ],
-            "column_count": 1,
-            "correct_value": "Thoughtful"
+            "type": "Media",
+            "url": "./images/824.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

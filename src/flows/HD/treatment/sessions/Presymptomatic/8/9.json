@@ -1,16 +1,16 @@
 {
-    "header_text": "Coffee Effect",
+    "header_text": "Online Payment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have never been much of a coffee drinker, but a few sleepless nights due to sickness have led you to drinking a cup before work this morning. As you're driving to work, you notice your hands are shaking. You feel anxious that this is a sign of HD... "
+            "text": "Online Payment"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/320.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

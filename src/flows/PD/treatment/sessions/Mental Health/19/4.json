@@ -1,16 +1,16 @@
 {
-    "header_text": "Important Email",
+    "header_text": "Having a New Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Important Email"
+            "text": "Having a New Friend Over"
         },
         {
             "type": "Media",
-            "url": "./images/43.jpg"
+            "url": "./images/387.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

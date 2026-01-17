@@ -1,16 +1,16 @@
 {
-    "header_text": "Longer Walks",
+    "header_text": "Masks with Sensitive Skin",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Longer Walks"
+            "text": "Masks with Sensitive Skin"
         },
         {
             "type": "Media",
-            "url": "./images/508.jpg"
+            "url": "./images/500.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

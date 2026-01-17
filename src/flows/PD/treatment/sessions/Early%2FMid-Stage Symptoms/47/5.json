@@ -1,0 +1,25 @@
+{
+    "header_text": "Neighbor's Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are alone and trying to unlock the door to your house. Your PD symptoms are making it very difficult to get the key into the lock, and you start to panic. Suddenly, you remember that your neighbor would happily help, and you begin to..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "neighbor's_help--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relax"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

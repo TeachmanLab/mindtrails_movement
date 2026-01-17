@@ -1,16 +1,16 @@
 {
-    "header_text": "A new camera",
+    "header_text": "Going out in day clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A new camera"
+            "text": "Going out in day clothes"
         },
         {
             "type": "Media",
-            "url": "./images/603.jpg"
+            "url": "./images/606.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

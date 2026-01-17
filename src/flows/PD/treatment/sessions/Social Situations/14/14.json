@@ -1,16 +1,10 @@
 {
-    "header_text": "Saving Money",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Saving Money"
-        },
-        {
-            "type": "Media",
-            "url": "./images/668.jpg"
+            "text": "Motivational Statement #26 \n\n Your dedication to the process is a sign of your strength. Keep moving forward!"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 4
+    ]
 }

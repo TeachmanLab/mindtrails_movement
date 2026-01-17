@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #11_entry"
+            "text": "Motivational Statement #30 \n\n Whatever you do today is enough. You are facing new challenges, and deserve to give yourself grace."
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "Friend's Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Stained Laundry"
+            "text": "Friend's Birthday Party"
         },
         {
             "type": "Media",
-            "url": "./images/869.jpg"
+            "url": "./images/773.jpg"
         }
     ],
     "type": "resilience/negation",

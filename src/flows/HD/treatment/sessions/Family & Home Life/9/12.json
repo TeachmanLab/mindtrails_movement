@@ -7,7 +7,8 @@
             "text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "family_communication--family_&_home_life--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,13 +1,22 @@
 {
-    "header_text": "Family Recipe",
+    "header_text": "Community Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are setting out the ingredients to cook a favorite family dinner. You realize you do not remember how the recipe starts, and you begin to get upset. You get out the written recipe and know that you are... "
+            "text": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "community_meeting--early_mid-stage_symptoms--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "enthusiasm"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",

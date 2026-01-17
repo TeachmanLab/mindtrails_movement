@@ -1,13 +1,14 @@
 {
-    "header_text": "Using What You Have",
+    "header_text": "Finding a Place to Sit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are invited to a formal event for work. You can't afford something new to wear, so you have to wear an old outfit. When you think about everyone's opinion of what you're wearing, you believe you'll feel..."
+            "text": "You are at your first staff meeting in a new department, and you arrive early. A group of people goes quiet after you ask them if you can sit at their table. They are probably..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "finding_a_place_to_sit--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

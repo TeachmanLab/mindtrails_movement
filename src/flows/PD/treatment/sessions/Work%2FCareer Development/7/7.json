@@ -1,14 +1,14 @@
 {
-    "header_text": "Noisy Neighbors",
+    "header_text": "Virtual Worry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you ready for your presentation?"
+            "Text": "Did the other people think you sounded dumb? "
         },
         {
             "type": "Buttons",
-            "name": "Noisy Neighbors_Work/Career Development_comp_question",
+            "name": "virtual_worry--work_career_development--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

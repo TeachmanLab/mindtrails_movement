@@ -1,16 +1,16 @@
 {
-    "header_text": "Partner's Spending",
+    "header_text": "Growing Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Partner's Spending"
+            "text": "Growing Together"
         },
         {
             "type": "Media",
-            "url": "./images/184.jpg"
+            "url": "./images/572.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

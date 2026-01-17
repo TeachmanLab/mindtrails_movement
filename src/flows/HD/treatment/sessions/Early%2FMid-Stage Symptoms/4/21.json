@@ -1,25 +1,25 @@
 {
-    "header_text": "Continuing Favorite Hobby",
+    "header_text": "Cut Finger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're passionate about your favorite hobby, but you've not been able to focus on the details. Your half-finished project has been sitting out in the garage for months now. You decide to continue your hobby, even if it takes more time, and you feel..."
+            "text": "You decide to make a hearty vegetable stew for lunch, meaning you have to cut many vegetables. You ask your family for help in the kitchen, but you still end up with a small cut on your finger due to chorea. Your family runs over to you because they're..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Continuing Favorite Hobby_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "cut_finger--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "frightened"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

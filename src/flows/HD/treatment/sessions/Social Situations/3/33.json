@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #10_entry"
+            "text": "Try to imagine yourself as an outsider watching your conversation. Ask yourself if they would think about how you're doing in the same way you are."
         }
     ]
 }

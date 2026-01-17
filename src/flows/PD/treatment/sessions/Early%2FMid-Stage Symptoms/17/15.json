@@ -1,25 +1,25 @@
 {
-    "header_text": "Couple Strolling",
+    "header_text": "Visiting the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse decide to go for an afternoon stroll. You reach out to hold their hand and notice your own hand shaking, so you pull your hand away. Thinking about whether they notice your symptoms always leaves you with a feeling of..."
+            "text": "You're visiting the doctor for a follow-up appointment. As you describe some recent symptoms you've been having, you notice the doctor is typing a lot. When they look up at you, they have an expression of..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Couple Strolling_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "visiting_the_doctor's_office--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "anxiety"
+                "calmness"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

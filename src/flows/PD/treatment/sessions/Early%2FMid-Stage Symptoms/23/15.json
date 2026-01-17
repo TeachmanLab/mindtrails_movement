@@ -1,29 +1,16 @@
 {
-    "header_text": "Setting up Camp",
+    "header_text": "Formal Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After putting up your tent at your own pace, you feel..."
+            "text": "Formal Event"
         },
         {
-            "type": "Buttons",
-            "name": "Setting up Camp_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Self-conscious",
-                "Giddy"
-            ],
-            "column_count": 1,
-            "correct_value": "Giddy"
+            "type": "Media",
+            "url": "./images/592.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 6
 }

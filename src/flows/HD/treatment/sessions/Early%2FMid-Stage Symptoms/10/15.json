@@ -7,7 +7,8 @@
             "text": "You enjoy going to the local farmer's market every week. Lately, you've been struggling to get the motivation to go, fearing that others will notice your HD symptoms, but you get the courage to go today. When you arrive at the market, you see many familiar faces that look at you with a..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "farmer's_market--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

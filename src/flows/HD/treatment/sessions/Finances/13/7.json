@@ -1,16 +1,12 @@
 {
-    "header_text": "Hacked Account",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Hacked Account"
-        },
-        {
-            "type": "Media",
-            "url": "./images/309.jpg"
+            "text": "Now, on the next page, list as many reasons as you can think of for why the ending in the scenario could be likely to occur to you. For example, why do you think you will be able to handle the situation, or what evidence is there to suggest that the situation will turn out okay?"
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    ]
 }

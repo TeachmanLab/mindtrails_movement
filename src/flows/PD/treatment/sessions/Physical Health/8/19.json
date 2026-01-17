@@ -1,16 +1,16 @@
 {
-    "header_text": "Trip to the Dentist",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Trip to the Dentist"
+            "text": "Long Walk Outside"
         },
         {
             "type": "Media",
-            "url": "./images/369.jpg"
+            "url": "./images/397.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

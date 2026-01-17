@@ -1,25 +1,16 @@
 {
-    "header_text": "Sports League",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Joining a recreational sports team gets you excited about exercising. Your symptoms cause you to miss the ball during a game, and the other team scores. You are nervous your team will be upset with you, but you remember that your teammates are just there to have..."
+            "text": "Part 1: Set up the uncertain situation in 1-2 sentences"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sports League_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "fun"
-            ],
-            "missing_letter_count": 2
+            "name": "Part1_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 1
+    ]
 }

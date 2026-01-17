@@ -1,16 +1,16 @@
 {
-    "header_text": "Follow-up at Doctor's Office",
+    "header_text": "Cocktail Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Follow-up at Doctor's Office"
+            "text": "Cocktail Party"
         },
         {
             "type": "Media",
-            "url": "./images/879.jpg"
+            "url": "./images/849.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

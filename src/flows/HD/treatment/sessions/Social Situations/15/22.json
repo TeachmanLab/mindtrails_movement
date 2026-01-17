@@ -1,25 +1,16 @@
 {
-    "header_text": "Social Media Scores",
+    "header_text": "Learning Social Media Dances",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently downloaded a social media app. When you look at your score compared to other people you know, you notice that yours is really low. You realize you don't use the app as much as others, and this makes you feel..."
+            "text": "Learning Social Media Dances"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Social Media Scores_Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "unbothered"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/657.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

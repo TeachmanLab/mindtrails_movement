@@ -1,16 +1,16 @@
 {
-    "header_text": "Visiting the Doctor's Office",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Visiting the Doctor's Office"
+            "text": "Reason 3:"
         },
         {
-            "type": "Media",
-            "url": "./images/526.jpg"
+            "name": "Reason3_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    ]
 }

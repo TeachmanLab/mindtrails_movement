@@ -1,14 +1,14 @@
 {
-    "header_text": "Paying for Dinner ",
+    "header_text": "Issues with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Paying for Dinner "
+            "text": "Issues with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/296.jpg"
+            "url": "./images/571.jpg"
         }
     ],
     "type": "positive",

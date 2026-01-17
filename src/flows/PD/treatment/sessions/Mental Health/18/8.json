@@ -1,16 +1,25 @@
 {
-    "header_text": "Meditation Journey",
+    "header_text": "Insecurities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Meditation Journey"
+            "text": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's..."
         },
         {
-            "type": "Media",
-            "url": "./images/401.jpg"
+            "type": "WordPuzzle",
+            "name": "insecurities--mental_health--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "company"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

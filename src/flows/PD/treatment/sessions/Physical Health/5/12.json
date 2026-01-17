@@ -1,16 +1,16 @@
 {
-    "header_text": "Cold Weather",
+    "header_text": "Blurry eyesight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Cold Weather"
+            "text": "Blurry eyesight"
         },
         {
             "type": "Media",
-            "url": "./images/458.jpg"
+            "url": "./images/459.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

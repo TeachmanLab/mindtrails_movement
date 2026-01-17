@@ -1,16 +1,16 @@
 {
-    "header_text": "Dinner party invitation",
+    "header_text": "Helping an elder neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dinner party invitation"
+            "text": "Helping an elder neighbor"
         },
         {
             "type": "Media",
-            "url": "./images/612.jpg"
+            "url": "./images/613.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,29 +1,16 @@
 {
-    "header_text": "Tripping at Family Barbecue",
+    "header_text": "Coming Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "In the end, your family makes you feel..."
+            "text": "Coming Home"
         },
         {
-            "type": "Buttons",
-            "name": "Tripping at Family Barbecue_Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Worse",
-                "Better"
-            ],
-            "column_count": 1,
-            "correct_value": "Better"
+            "type": "Media",
+            "url": "./images/195.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 1
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Parental Strain",
+    "header_text": "Workout Attention",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have young children, and they begin playing chase around the house. You are overwhelmed by the noise, and you snap, screaming at them to stop. When your kids turn to look at you, they look..."
+            "text": "Working out at the gym is a form of stress relief for you. Today, you notice two people whispering as they look in your direction. You know working out is a personal journey and decide their opinions are... "
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "workout_attention--presymptomatic--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "irrelevant"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 5
 }

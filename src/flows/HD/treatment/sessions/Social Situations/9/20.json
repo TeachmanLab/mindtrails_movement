@@ -7,7 +7,8 @@
             "text": "You are shopping in a grocery store. You accidently knock several cans on the floor as you're browing, and shoppers turn to look at you. The shoppers see the cans on the floor and respond with..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "grocery_store_experience--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,14 +1,14 @@
 {
-    "header_text": "A Homemade Gift",
+    "header_text": "Being Talked About",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A Homemade Gift"
+            "text": "Being Talked About"
         },
         {
             "type": "Media",
-            "url": "./images/145.jpg"
+            "url": "./images/643.jpg"
         }
     ],
     "type": "positive",

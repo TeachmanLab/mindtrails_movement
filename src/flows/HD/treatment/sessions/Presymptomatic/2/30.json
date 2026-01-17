@@ -1,14 +1,14 @@
 {
-    "header_text": "Forgetting the Laundry",
+    "header_text": "Disagreement with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Forgetting the Laundry"
+            "text": "Disagreement with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/739.jpg"
+            "url": "./images/743.jpg"
         }
     ],
     "type": "positive",

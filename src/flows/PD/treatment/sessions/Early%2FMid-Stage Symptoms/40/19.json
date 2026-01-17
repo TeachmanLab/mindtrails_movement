@@ -1,0 +1,17 @@
+{
+    "header_text": "New Therapist",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're at the first session with a new therapist, and you hesitate to disclose your PD diagnosis. You are stressed as you anticipate their reaction and understanding about PD. Ultimately, you decide to tell them and leave the appointment feeling..."
+        },
+        {
+            "type": "Entry",
+            "name": "new_therapist--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

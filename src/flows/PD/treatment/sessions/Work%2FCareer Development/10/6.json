@@ -1,16 +1,17 @@
 {
-    "header_text": "Committing to Activities",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were very excited to return to the office for work and impulsively decided to take on a lot of tasks. You've found it challenging to meet all of your responsibilities. You worry that you are... "
+            "text": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "waking_up_ready--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

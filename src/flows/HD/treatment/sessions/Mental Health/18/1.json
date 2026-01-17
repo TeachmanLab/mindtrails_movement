@@ -1,14 +1,14 @@
 {
-    "header_text": "Using Different Technology",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Using Different Technology"
+            "text": "Getting Ready for a Date"
         },
         {
             "type": "Media",
-            "url": "./images/32.jpg"
+            "url": "./images/378.jpg"
         }
     ],
     "type": "positive",

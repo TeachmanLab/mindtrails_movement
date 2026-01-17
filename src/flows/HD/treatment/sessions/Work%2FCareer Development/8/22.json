@@ -7,7 +7,8 @@
             "text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "out_of_your_control--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

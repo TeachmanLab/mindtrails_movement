@@ -1,16 +1,17 @@
 {
-    "header_text": "First Impressions",
+    "header_text": "Troublesome Typos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A new supervisor is hired for the department you are in, and you hear that he is very precise on how things are to be done. You meet him for the first time and talk about the upcoming month. Getting up to leave at the end of your meeting, you think that he found you to be..."
+            "text": "You just sent an important email. As you reread what you've sent, you see a typo in the first sentence. You believe that you should be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "troublesome_typos--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

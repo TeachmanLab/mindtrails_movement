@@ -1,23 +1,23 @@
 {
-    "header_text": "Babysitting Questions",
+    "header_text": "Out for dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your grandchild is..."
+            "Text": "Do your friends think poorly of you because of your symptoms?"
         },
         {
             "type": "Buttons",
-            "name": "Babysitting Questions_Early/Mid-Stage Symptoms_comp_question",
+            "name": "out_for_dinner--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Happy to be with you",
-                "Feeling impatient"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Happy to be with you"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

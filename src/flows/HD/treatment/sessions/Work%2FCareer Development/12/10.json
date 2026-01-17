@@ -1,16 +1,16 @@
 {
-    "header_text": "Speaking Up at Work",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Speaking Up at Work"
+            "text": "Reason 2:"
         },
         {
-            "type": "Media",
-            "url": "./images/87.jpg"
+            "name": "Reason2_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    ]
 }

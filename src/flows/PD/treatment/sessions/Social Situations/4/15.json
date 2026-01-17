@@ -1,39 +1,25 @@
 {
-    "header_text": "A different perspective",
+    "header_text": "Late friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are your friends annoyed by your point of view?"
+            "text": "As you head to the door to slip out, start a conversation with two people you do not know. They are friendly, and you are glad that you chose to..."
         },
         {
-            "type": "Buttons",
-            "name": "A different perspective_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "late_friends--social_situations--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "stay"
             ],
-            "column_count": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

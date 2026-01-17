@@ -1,0 +1,16 @@
+{
+    "header_text": "Trouble Making Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trouble Making Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/407.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

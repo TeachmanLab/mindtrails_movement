@@ -1,0 +1,17 @@
+{
+    "header_text": "Medication Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A new PD medication was just approved. While this makes you excited, today you're feeling anxious about how expensive your future health care is going to get. As you search the web for information about support resources, you begin to..."
+        },
+        {
+            "type": "Entry",
+            "name": "medication_costs--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

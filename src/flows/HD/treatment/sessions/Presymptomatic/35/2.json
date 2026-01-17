@@ -1,0 +1,16 @@
+{
+    "header_text": "HD Support Group",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "HD Support Group"
+        },
+        {
+            "type": "Media",
+            "url": "./images/427.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

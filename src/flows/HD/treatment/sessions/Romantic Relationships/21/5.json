@@ -1,0 +1,25 @@
+{
+    "header_text": "Meeting someone new: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At a work party, your friend introduces you to an attractive friend of theirs you have not met before. The next morning, you notice that they sent you an email.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "They probably meant to email someone else instead.",
+                "I think they want to get to know me.",
+                "They thought that I was enjoyable to talk to.",
+                "They may stop emailing me after I respond, but they're probably just really busy",
+                "They may want to just be my friend, and I'm okay with that."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,25 +1,25 @@
 {
-    "header_text": "A new camera",
+    "header_text": "Going out in day clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You buy a new camera, but you find that you do not like it when you get home. You return it to the store to get your money back. At the counter, the assistant is not very talkative as they help you, and you think their view of you is..."
+            "text": "One evening, your coworkers decide to go out to eat and ask you to join them. You accept but will have to wear your work clothes. When you arrive, the other diners turn to look at you. You think this is because they think you look..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A new camera_Social Situations_puzzle1",
+            "name": "going_out_in_day_clothes--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "negative"
+                "stylish"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

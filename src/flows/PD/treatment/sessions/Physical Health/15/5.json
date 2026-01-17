@@ -1,14 +1,14 @@
 {
-    "header_text": "Noisy Neighbors",
+    "header_text": "Out of Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Noisy Neighbors"
+            "text": "Out of Breath"
         },
         {
             "type": "Media",
-            "url": "./images/50.jpg"
+            "url": "./images/495.jpg"
         }
     ],
     "type": "positive",

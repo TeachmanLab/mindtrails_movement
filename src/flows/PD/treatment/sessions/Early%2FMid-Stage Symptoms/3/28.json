@@ -1,25 +1,29 @@
 {
-    "header_text": "Meeting up with a Friend",
+    "header_text": "Dinner Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is..."
+            "Text": "Your friends notice that you're having difficulty swallowing, and…."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Meeting up with a Friend_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "dinner_party--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "understanding"
+            "buttons": [
+                "They are grateful you are present at the dinner",
+                "They are embarrassed by you"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "They are grateful you are present at the dinner"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 8
 }

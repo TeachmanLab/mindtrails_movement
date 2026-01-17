@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Your First Child_Family & Home Life_puzzle1",
+            "name": "your_first_child--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

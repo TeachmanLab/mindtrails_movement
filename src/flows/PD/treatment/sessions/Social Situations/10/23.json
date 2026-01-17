@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend in the Hospital",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Friend in the Hospital"
+            "text": "Expressing Your Ideas"
         },
         {
             "type": "Media",
-            "url": "./images/373.jpg"
+            "url": "./images/97.jpg"
         }
     ],
     "type": "positive",

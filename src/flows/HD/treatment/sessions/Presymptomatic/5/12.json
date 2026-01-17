@@ -1,29 +1,16 @@
 {
-    "header_text": "Lost Wallet",
+    "header_text": "Dinner Outburst ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The store employee finding your wallet proves that asking for help can be..."
+            "text": "Dinner Outburst "
         },
         {
-            "type": "Buttons",
-            "name": "Lost Wallet_Presymptomatic_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Aggravating",
-                "Wise"
-            ],
-            "column_count": 1,
-            "correct_value": "Wise"
+            "type": "Media",
+            "url": "./images/909.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

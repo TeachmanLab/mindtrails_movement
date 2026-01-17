@@ -1,14 +1,14 @@
 {
-    "header_text": "Couples Counseling",
+    "header_text": "Vacation Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Couples Counseling"
+            "text": "Vacation Costs"
         },
         {
             "type": "Media",
-            "url": "./images/394.jpg"
+            "url": "./images/314.jpg"
         }
     ],
     "type": "positive",

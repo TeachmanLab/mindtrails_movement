@@ -1,16 +1,16 @@
 {
-    "header_text": "Committing to Activities",
+    "header_text": "Opening Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Committing to Activities"
+            "text": "Opening Up"
         },
         {
             "type": "Media",
-            "url": "./images/77.jpg"
+            "url": "./images/390.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 5
 }

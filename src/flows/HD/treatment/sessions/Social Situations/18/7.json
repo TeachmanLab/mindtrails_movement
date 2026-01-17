@@ -1,16 +1,16 @@
 {
-    "header_text": "Confirming Plans",
+    "header_text": "Taking a Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Confirming Plans"
+            "text": "Taking a Call"
         },
         {
             "type": "Media",
-            "url": "./images/681.jpg"
+            "url": "./images/667.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

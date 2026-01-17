@@ -1,22 +1,22 @@
 {
-    "header_text": "Disclosing Your Mental Health",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've started a new relationship, and it's really exciting. You've been wanting to tell your partner about your mental health, but you aren't sure what their response will be. You think that they will be... "
+            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Disclosing Your Mental Health_Mental Health_puzzle1",
+            "name": "trip_to_the_dentist--mental_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "accepting"
+                "reassurance"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

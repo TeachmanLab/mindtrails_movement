@@ -1,20 +1,20 @@
 {
-    "header_text": "Coughing friend",
+    "header_text": "First time skydiving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you manage your anxiety about potentially getting sick from your friend?"
+            "Text": "Are you feeling excited?"
         },
         {
             "type": "Buttons",
-            "name": "Coughing friend_Physical Health_comp_question",
+            "name": "first_time_skydiving--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
             "correct_value": "Yes"

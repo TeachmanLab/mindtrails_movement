@@ -1,16 +1,16 @@
 {
-    "header_text": "Picnic Packing",
+    "header_text": "Lost your Belongings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Picnic Packing"
+            "text": "Lost your Belongings"
         },
         {
             "type": "Media",
-            "url": "./images/867.jpg"
+            "url": "./images/834.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 4
 }

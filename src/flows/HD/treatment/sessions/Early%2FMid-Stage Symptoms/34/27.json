@@ -1,14 +1,14 @@
 {
-    "header_text": "Vacation Abroad",
+    "header_text": "Friday Night Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Vacation Abroad"
+            "text": "Friday Night Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/428.jpg"
+            "url": "./images/853.jpg"
         }
     ],
     "type": "positive",

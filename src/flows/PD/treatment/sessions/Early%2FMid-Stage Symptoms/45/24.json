@@ -1,0 +1,16 @@
+{
+    "header_text": "Missing Meds at Fundraiser",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missing Meds at Fundraiser"
+        },
+        {
+            "type": "Media",
+            "url": "./images/973.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

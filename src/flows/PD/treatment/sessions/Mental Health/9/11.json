@@ -7,7 +7,8 @@
             "text": "You check online to see if you were selected for a raise. You see that you were not, although you expected to be. You think about what this will mean for your future, and know everything will be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "different_expectations--mental_health--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

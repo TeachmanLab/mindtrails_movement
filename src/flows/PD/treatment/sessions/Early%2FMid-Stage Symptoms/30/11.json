@@ -1,16 +1,29 @@
 {
-    "header_text": "Organizing an Event",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were asked to plan a fundraiser for a local non-profit, a task you've taken on yearly. While organizing the details, you become upset because you notice it is taking you much longer than in the past. You choose to write down a plan, delegate tasks to others, and watch the event come together..."
+            "Text": "If your handwriting gets worse, you will..."
         },
         {
-            "type": "Entry"
+            "type": "Buttons",
+            "name": "handwriting_challenge--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Adapt",
+                "Give up"
+            ],
+            "column_count": 1,
+            "correct_value": "Adapt"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 2
 }

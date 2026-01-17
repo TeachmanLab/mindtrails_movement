@@ -7,7 +7,8 @@
             "text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. You find that your boss has sent you a message when you return, and you worry that he is... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "replying_to_email--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

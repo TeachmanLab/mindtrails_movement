@@ -7,6 +7,7 @@
             "text": "What sex were you assigned at birth?"
         },
         {
+            "name": "sex",
             "type": "Buttons",
             "buttons": [
                 "0::Female",
@@ -14,8 +15,7 @@
                 "2::Intersex",
                 "3::Unknown or other",
                 "99::Prefer not to answer"
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

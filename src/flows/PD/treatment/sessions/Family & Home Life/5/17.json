@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Spending Time With Family_Family & Home Life_puzzle_word2",
+            "name": "spending_time_with_family--family_&_home_life--puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

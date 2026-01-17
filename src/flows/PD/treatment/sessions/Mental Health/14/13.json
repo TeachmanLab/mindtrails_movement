@@ -1,16 +1,16 @@
 {
-    "header_text": "Out of Your Control",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "Out of Your Control"
+            "text": "Reason 5:"
         },
         {
-            "type": "Media",
-            "url": "./images/65.jpg"
+            "name": "Reason5_WYO",
+            "type": "Entry"
         }
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4
+    ]
 }

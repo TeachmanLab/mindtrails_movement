@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Filing Your Taxes_Finances_comp_question",
+            "name": "filing_your_taxes--finances--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

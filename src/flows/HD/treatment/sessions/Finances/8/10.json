@@ -7,7 +7,8 @@
             "text": "One of your favorite celebrities is doing a show near you, and you've been looking at tickets. Tickets for the show are more than you expected, and your paychecks haven't been as much as you were hoping. You decide that it is ok to treat yourself to something that makes you happy, and you purchase the... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "attending_a_show--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

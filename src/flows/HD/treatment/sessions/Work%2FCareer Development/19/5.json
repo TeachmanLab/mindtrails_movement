@@ -1,0 +1,25 @@
+{
+    "header_text": "Changing Your Trajectory",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been in the same position at work for five years, and you are beginning to feel bored and unchallenged. You would like to apply to a new position. You worry about whether you will be a competitive... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "changing_your_trajectory--work_career_development--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "candidate"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

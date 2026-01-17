@@ -1,16 +1,16 @@
 {
-    "header_text": "Getting Coffee",
+    "header_text": "Gathering at the park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Getting Coffee"
+            "text": "Gathering at the park"
         },
         {
             "type": "Media",
-            "url": "./images/719.jpg"
+            "url": "./images/961.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

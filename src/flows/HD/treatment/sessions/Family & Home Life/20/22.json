@@ -1,0 +1,16 @@
+{
+    "header_text": "Hiking Incident",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hiking Incident"
+        },
+        {
+            "type": "Media",
+            "url": "./images/230.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

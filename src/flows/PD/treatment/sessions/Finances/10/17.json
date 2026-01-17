@@ -7,7 +7,8 @@
             "text": "Your rent is coming up. Normally, you have your rent budgeted out, but some unexpected costs have left you a little short. You need to take on some extra shifts at... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "affording_expenses--finances--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

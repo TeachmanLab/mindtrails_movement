@@ -7,6 +7,7 @@
             "text": "While scrolling through a dating app, you see an attractive person you met at the grocery store last week. You decide to like their profile. \n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
         },
         {
+            "name": "long10",
             "type": "Entry"
         }
     ],

@@ -1,0 +1,16 @@
+{
+    "header_text": "Graduation Toast",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Graduation Toast"
+        },
+        {
+            "type": "Media",
+            "url": "./images/244.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

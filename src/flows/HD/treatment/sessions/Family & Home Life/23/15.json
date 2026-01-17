@@ -1,0 +1,16 @@
+{
+    "header_text": "Moody Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Moody Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "./images/248.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

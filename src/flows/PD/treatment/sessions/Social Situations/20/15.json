@@ -1,16 +1,16 @@
 {
-    "header_text": "Exposing a Friend",
+    "header_text": "Receiving Explicit Email Messages",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently visited a friend that you hadn’t seen in a long time, and you found out that your partner woke up with a sore throat when you got back home. You are scared you may have accidentally exposed your friend to the same virus that your partner has. You think about what will happen if your friend gets sick and feel your friend will..."
+            "text": "Receiving Explicit Email Messages"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/586.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 4
 }

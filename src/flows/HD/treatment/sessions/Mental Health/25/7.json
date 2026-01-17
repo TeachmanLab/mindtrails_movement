@@ -1,0 +1,16 @@
+{
+    "header_text": "Worsening condition",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Worsening condition"
+        },
+        {
+            "type": "Media",
+            "url": "./images/414.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

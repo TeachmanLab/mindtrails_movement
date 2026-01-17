@@ -1,16 +1,16 @@
 {
-    "header_text": "New Medications",
+    "header_text": "Networking Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "New Medications"
+            "text": "Networking Event"
         },
         {
             "type": "Media",
-            "url": "./images/269.jpg"
+            "url": "./images/933.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

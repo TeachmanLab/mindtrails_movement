@@ -1,14 +1,14 @@
 {
-    "header_text": "House Play",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "House Play"
+            "text": "Research Visit"
         },
         {
             "type": "Media",
-            "url": "./images/203.jpg"
+            "url": "./images/438.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "New Kitten",
+    "header_text": "Comparing at the Gym",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but you're scared PD will make you unable to care for it. You realize the kitten will also have your family's care, and you decide to..."
+            "text": "Comparing at the Gym"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/525.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

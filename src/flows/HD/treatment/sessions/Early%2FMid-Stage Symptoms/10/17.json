@@ -7,7 +7,8 @@
             "text": "You didn't get to travel growing up due to your parents' financial strain. You always told yourself you would start traveling later in life, but your diagnosis of HD is giving you doubts. Despite the concern, you book your first flight, anticipating the opportunity to..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "travel_dreams--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

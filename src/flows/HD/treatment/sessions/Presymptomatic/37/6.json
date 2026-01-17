@@ -1,0 +1,29 @@
+{
+    "header_text": "Research Study Risks",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The study's side effects are likely to be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "research_study_risks--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Severe",
+                "Mild"
+            ],
+            "column_count": 1,
+            "correct_value": "Mild"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

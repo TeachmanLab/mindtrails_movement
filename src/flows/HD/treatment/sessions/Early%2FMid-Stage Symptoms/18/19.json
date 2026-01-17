@@ -1,25 +1,29 @@
 {
-    "header_text": "Forgetting Movie Title",
+    "header_text": "Organizing an Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're in the middle of a conversation with friends when you can't remember the name of a movie. It's uncomfortable to experience this, leaving you wondering if something more concerning is happening. You look around at your friends and remember that there are people in your life that are..."
+            "Text": "Are you still able to plan the fundraising event?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Forgetting Movie Title_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "organizing_an_event--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "supportive"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 5
 }

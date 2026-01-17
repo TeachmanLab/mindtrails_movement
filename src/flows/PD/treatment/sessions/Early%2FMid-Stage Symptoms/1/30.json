@@ -1,16 +1,16 @@
 {
-    "header_text": "Keys Forgotten",
+    "header_text": "Question at Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Keys Forgotten"
+            "text": "Question at Meeting"
         },
         {
             "type": "Media",
-            "url": "./images/208.jpg"
+            "url": "./images/733.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

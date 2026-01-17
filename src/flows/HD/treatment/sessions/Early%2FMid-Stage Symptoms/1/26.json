@@ -1,29 +1,39 @@
 {
-    "header_text": "Out for dinner",
+    "header_text": "Family Dinner Fight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your friends think poorly of you?"
+            "Text": "Your angry outburst caused your family to feel..."
         },
         {
             "type": "Buttons",
-            "name": "Out for dinner_Early/Mid-Stage Symptoms_comp_question",
+            "name": "family_dinner_fight--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Bored",
+                "Stunned"
             ],
             "column_count": 1,
-            "correct_value": "No"
+            "correct_value": "Stunned"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "type": "negative",
+    "scenario_num": 7,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

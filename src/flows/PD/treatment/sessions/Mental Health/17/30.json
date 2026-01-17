@@ -1,14 +1,14 @@
 {
-    "header_text": "Using Different Technology",
+    "header_text": "Not Getting a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Using Different Technology"
+            "text": "Not Getting a Response"
         },
         {
             "type": "Media",
-            "url": "./images/32.jpg"
+            "url": "./images/377.jpg"
         }
     ],
     "type": "positive",

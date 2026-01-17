@@ -1,0 +1,16 @@
+{
+    "header_text": "Airport Mix-Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Airport Mix-Up"
+        },
+        {
+            "type": "Media",
+            "url": "./images/940.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

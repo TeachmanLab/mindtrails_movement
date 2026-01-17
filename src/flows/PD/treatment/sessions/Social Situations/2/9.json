@@ -1,29 +1,29 @@
 {
-    "header_text": "A new state",
+    "header_text": "A new camera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "In this state, you think you will find..."
+            "Text": "Do you think the sales assistant felt you were annoying?"
         },
         {
             "type": "Buttons",
-            "name": "A new state_Social Situations_comp_question",
+            "name": "a_new_camera--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Opportunities to learn and experience the local traditions.",
-                "Yourself in troublesome situations."
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Opportunities to learn and experience the local traditions."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

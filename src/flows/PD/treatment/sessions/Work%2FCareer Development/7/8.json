@@ -1,16 +1,16 @@
 {
-    "header_text": "Completion Complications",
+    "header_text": "Noisy Neighbors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Completion Complications"
+            "text": "Noisy Neighbors"
         },
         {
             "type": "Media",
-            "url": "./images/51.jpg"
+            "url": "./images/50.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

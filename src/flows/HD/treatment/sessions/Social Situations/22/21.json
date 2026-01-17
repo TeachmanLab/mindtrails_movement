@@ -1,16 +1,25 @@
 {
-    "header_text": "Your Family's Car",
+    "header_text": "Not Having Much to Say",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're getting out of the car, you see a few acquaintances. They smile and wave at you, and you feel..."
+            "text": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're..."
         },
         {
-            "type": "Entry"
+            "type": "WordPuzzle",
+            "name": "not_having_much_to_say--social_situations--puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "boring"
+            ],
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 8
+    "scenario_num": 6
 }

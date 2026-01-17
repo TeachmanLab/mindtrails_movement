@@ -1,14 +1,14 @@
 {
-    "header_text": "Watching a Movie with Friends",
+    "header_text": "No Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Watching a Movie with Friends"
+            "text": "No Response"
         },
         {
             "type": "Media",
-            "url": "./images/676.jpg"
+            "url": "./images/658.jpg"
         }
     ],
     "type": "positive",

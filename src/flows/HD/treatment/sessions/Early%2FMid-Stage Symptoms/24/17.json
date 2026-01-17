@@ -1,16 +1,16 @@
 {
-    "header_text": "Dropped Groceries",
+    "header_text": "Tripping at Family Barbecue",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Dropped Groceries"
+            "text": "Tripping at Family Barbecue"
         },
         {
             "type": "Media",
-            "url": "./images/842.jpg"
+            "url": "./images/215.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 7
 }

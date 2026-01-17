@@ -1,14 +1,14 @@
 {
-    "header_text": "Delayed Texting ",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Delayed Texting "
+            "text": "New Conflict With Spouse"
         },
         {
             "type": "Media",
-            "url": "./images/806.jpg"
+            "url": "./images/582.jpg"
         }
     ],
     "type": "positive",

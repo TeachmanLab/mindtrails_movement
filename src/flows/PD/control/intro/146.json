@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "mds_updrs_3",
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: No daytime sleepiness.",
@@ -15,8 +16,7 @@
                 "2::2: Mild: Sometimes I fall asleep when alone and relaxing. For example, while reading or watching TV.",
                 "3::3: Moderate: I sometimes fall asleep when I should not. For example, while eating or talking with other people.",
                 "4::4: Severe: I often fall asleep when I should not. For example, while eating or talking with other people."
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

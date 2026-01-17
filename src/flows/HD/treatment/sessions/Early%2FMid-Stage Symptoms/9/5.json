@@ -7,7 +7,8 @@
             "text": "You are normally calm and collected. At a friend's birthday party, you see someone forgetting to throw away their trash, and you blow up at them. Your friends look shocked, and you are left feeling isolated and..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "friend's_birthday_party--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

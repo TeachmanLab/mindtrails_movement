@@ -1,14 +1,14 @@
 {
-    "header_text": "Fun With Film",
+    "header_text": "Organizing Bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Fun With Film"
+            "text": "Organizing Bills"
         },
         {
             "type": "Media",
-            "url": "./images/794.jpg"
+            "url": "./images/875.jpg"
         }
     ],
     "type": "positive",

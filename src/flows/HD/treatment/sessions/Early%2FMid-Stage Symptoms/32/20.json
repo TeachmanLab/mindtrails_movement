@@ -1,16 +1,16 @@
 {
-    "header_text": "Finding Balance",
+    "header_text": "Dropped Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Finding Balance"
+            "text": "Dropped Groceries"
         },
         {
             "type": "Media",
-            "url": "./images/524.jpg"
+            "url": "./images/842.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

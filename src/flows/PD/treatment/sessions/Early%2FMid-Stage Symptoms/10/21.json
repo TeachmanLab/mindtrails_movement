@@ -1,16 +1,17 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "Dedicated Teacher",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Hiking Hiatus"
+            "text": "You are dedicated to your job as a teacher. Since your PD diagnosis, you have been worried about doing a good job in the classroom. You reassure yourself that even if your symptoms slow you down, your years of experience will..."
         },
         {
-            "type": "Media",
-            "url": "./images/784.jpg"
+            "type": "Entry",
+            "name": "dedicated_teacher--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 8
 }

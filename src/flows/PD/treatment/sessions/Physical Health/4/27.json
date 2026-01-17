@@ -1,20 +1,20 @@
 {
-    "header_text": "Annual physical exam",
+    "header_text": "Walking pain",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are getting your annual physical with your doctor. After an initial exam, your doctor says that something looks unusual and that you will need to get a second opinion. When it comes to managing your anxiety while you are in the exam room, you are..."
+            "text": "Last weekend, you walked a lot. Since then, you have been experiencing a slight pain in your hip and wonder what this means for the progression of your PD. After resting for the next couple of days, you think this discomfort will... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Annual physical exam_Physical Health_puzzle1",
+            "name": "walking_pain--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "capable"
+                "subside"
             ],
             "missing_letter_count": 2
         }

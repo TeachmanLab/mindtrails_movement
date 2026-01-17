@@ -1,0 +1,29 @@
+{
+    "header_text": "Medical Presentation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Who is having trouble following the presentation?"
+        },
+        {
+            "type": "Buttons",
+            "name": "medical_presentation--presymptomatic--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Everyone",
+                "Just you"
+            ],
+            "column_count": 1,
+            "correct_value": "Everyone"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,16 +1,16 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Call Ending Suddenly",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Close Friend's Birthday"
+            "text": "Call Ending Suddenly"
         },
         {
             "type": "Media",
-            "url": "./images/189.jpg"
+            "url": "./images/683.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 5
 }

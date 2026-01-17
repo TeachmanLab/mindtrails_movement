@@ -1,14 +1,14 @@
 {
-    "header_text": "Neighbor's Help",
+    "header_text": "New Friendship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Neighbor's Help"
+            "text": "New Friendship"
         },
         {
             "type": "Media",
-            "url": "./images/974.jpg"
+            "url": "./images/854.jpg"
         }
     ],
     "type": "positive",

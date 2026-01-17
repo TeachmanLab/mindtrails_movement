@@ -1,10 +1,10 @@
 {
-    "header_text": "Manage Your Feelings: Social Situations",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "If you are struggling to start a conversation with someone, think of a compliment or kind word to share with them."
+            "text": "Motivational Statement #15 \n\n You are a resilient person who is ever-evolving. You are putting in the work!"
         }
     ]
 }

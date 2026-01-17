@@ -1,23 +1,23 @@
 {
-    "header_text": "Trampoline Safety",
+    "header_text": "A Toothache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "As you continue to watch your kids on the trampoline, you will probably..."
+            "Text": "Can you handle going to the dentist?"
         },
         {
             "type": "Buttons",
-            "name": "Trampoline Safety_Physical Health_comp_question",
+            "name": "a_toothache--physical_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enjoy seeing them have fun",
-                "Worry they will hurt themselves"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
-            "correct_value": "Enjoy seeing them have fun"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

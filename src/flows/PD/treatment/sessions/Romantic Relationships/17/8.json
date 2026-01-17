@@ -1,25 +1,25 @@
 {
-    "header_text": "New Conflict With Spouse",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse have been married for a long time. Recently, you find yourself becoming easily angered with them over things that haven't made you upset in the past. Instead of fearing the future, you realize how your marriage is a... "
+            "text": "You have been taking a dance class at the local community center, and the time has come for your end of class showcase. You want to invite your partner to the showcase, but you worry you'll embarrass yourself if you are not very..."
         },
         {
             "type": "WordPuzzle",
-            "name": "New Conflict With Spouse_Romantic Relationships_puzzle1",
+            "name": "the_dance_showcase--romantic_relationships--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "commitment"
+                "good"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

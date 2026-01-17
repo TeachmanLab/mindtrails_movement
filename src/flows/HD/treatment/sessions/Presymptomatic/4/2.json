@@ -1,25 +1,25 @@
 {
-    "header_text": "Trivia Jitters",
+    "header_text": "Job promotion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently joined a recreational trivia league. There is a tournament at the end of the month. When you think about how you will perform on the team, you feel..."
+            "text": "You have been at your current job for a while, and you have just earned a promotion. After feeling excited at first, you think about the added responsibilities and worry how your future symptoms might affect your work. You think about all the hard work you have put in and remind yourself this is a time to feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trivia Jitters_Presymptomatic_puzzle1",
+            "name": "job_promotion--presymptomatic--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "nervous"
+                "proud"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

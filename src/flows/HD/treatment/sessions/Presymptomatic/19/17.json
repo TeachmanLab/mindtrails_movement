@@ -1,16 +1,16 @@
 {
-    "header_text": "Gardening Help",
+    "header_text": "Local Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Gardening Help"
+            "text": "Local Event"
         },
         {
             "type": "Media",
-            "url": "./images/792.jpg"
+            "url": "./images/826.jpg"
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 7
+    "scenario_num": 5
 }

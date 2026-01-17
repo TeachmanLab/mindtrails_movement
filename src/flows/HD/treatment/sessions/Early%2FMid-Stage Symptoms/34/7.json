@@ -1,16 +1,29 @@
 {
-    "header_text": "Follow-up at Doctor's Office",
+    "header_text": "Cocktail Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Follow-up at Doctor's Office"
+            "Text": "With your partner's support, you can..."
         },
         {
-            "type": "Media",
-            "url": "./images/879.jpg"
+            "type": "Buttons",
+            "name": "cocktail_party--early_mid-stage_symptoms--comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Make the most out of the party",
+                "Avoid interacting with others"
+            ],
+            "column_count": 1,
+            "correct_value": "Make the most out of the party"
         }
     ],
-    "type": "negative",
-    "scenario_num": 2
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

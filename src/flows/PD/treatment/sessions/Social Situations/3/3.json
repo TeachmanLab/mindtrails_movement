@@ -1,23 +1,23 @@
 {
-    "header_text": "Differing opinion",
+    "header_text": "Dinner party invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you meet again, you think that..."
+            "Text": "Will you be well liked at the party?"
         },
         {
             "type": "Buttons",
-            "name": "Differing opinion_Social Situations_comp_question",
+            "name": "dinner_party_invitation--social_situations--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Other members will be excited to hear your valuable contributions",
-                "Other members will exclude you because of your opinions"
+                "Yes",
+                "No"
             ],
             "column_count": 1,
-            "correct_value": "Other members will be excited to hear your valuable contributions"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

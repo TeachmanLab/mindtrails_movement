@@ -1,16 +1,17 @@
 {
-    "header_text": "Crowded Grocery Store",
+    "header_text": "Birthday Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a crowded grocery store. Suddenly, you feel your heart start to race, and you begin to sweat. Thinking about whether others will notice makes you worried that you'll fall. You begin to feel self-conscious and..."
+            "text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "birthday_cards--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

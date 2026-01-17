@@ -1,25 +1,25 @@
 {
-    "header_text": "At the Playground ",
+    "header_text": "Delayed Texting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You reassure yourself that your children are loved, and you will find other ways to foster connection. Ultimately, you feel..."
+            "text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "At the Playground _Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "delayed_texting_--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "optimistic"
+                "patient"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

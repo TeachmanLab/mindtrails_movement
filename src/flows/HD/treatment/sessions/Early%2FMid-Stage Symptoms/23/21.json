@@ -1,29 +1,17 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "At the end of your walk, you feel..."
+            "text": "A family member offers to walk outside with you for some fresh air. As you rehash the incident, they point out that the other people probably just wanted to make sure you were okay. You realize this is likely... "
         },
         {
-            "type": "Buttons",
-            "name": "Beach Walk_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Awestruck",
-                "Frightened"
-            ],
-            "column_count": 1,
-            "correct_value": "Awestruck"
+            "type": "Entry",
+            "name": "fresh_air--early_mid-stage_symptoms--puzzle2_entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

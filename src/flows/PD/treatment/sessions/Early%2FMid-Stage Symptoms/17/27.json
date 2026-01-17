@@ -1,14 +1,14 @@
 {
-    "header_text": "Organizing Closet",
+    "header_text": "Walking to the Kitchen",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Organizing Closet"
+            "text": "Walking to the Kitchen"
         },
         {
             "type": "Media",
-            "url": "./images/405.jpg"
+            "url": "./images/969.jpg"
         }
     ],
     "type": "positive",

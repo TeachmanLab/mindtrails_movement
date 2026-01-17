@@ -1,25 +1,25 @@
 {
-    "header_text": "Vision Troubles",
+    "header_text": "Spider bite",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you wake up in the morning, you sit up quickly. Your vision goes blurry, and then goes black for a moment. Your vision comes back after a moment, and you tell yourself that you are going..."
+            "text": "While hiking, you get bitten by a spider. Your friend assures you that the spider was not venomous and that you will be fine. You worry that it could have been a deadly spider, but you continue your hike because your worries are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Vision Troubles_Physical Health_puzzle1",
+            "name": "spider_bite--physical_health--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "blind"
+                "manageable"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

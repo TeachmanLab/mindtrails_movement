@@ -7,6 +7,7 @@
             "text": "Your friend is having a huge birthday party and most of the people in your friend group will be there. Many of your friends are wealthier than you and can afford to give more expensive gifts. \n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
         },
         {
+            "name": "long14",
             "type": "Entry"
         }
     ],

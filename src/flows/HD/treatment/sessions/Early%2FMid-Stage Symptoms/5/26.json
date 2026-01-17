@@ -1,25 +1,25 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "Lost in the Forest",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You remind yourself that your dog's love is unconditional and that you can find creative ways to care for them. This helps you to see the future more..."
+            "text": "You enjoy exploring the forest and picking flowers. On a walk, you get lost in the woods but luckily run into someone who helps you find your way. When you return home later than usual and explain what happened, your spouse becomes very..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "lost_in_the_forest--early_mid-stage_symptoms--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "positively"
+                "upset"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 7
 }

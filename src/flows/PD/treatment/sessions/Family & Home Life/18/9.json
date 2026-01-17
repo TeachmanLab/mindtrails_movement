@@ -1,25 +1,29 @@
 {
-    "header_text": "Neighborhood Walk",
+    "header_text": "Talking about the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel..."
+            "Text": "The next time your family is talking about a life event in the distant future, you will..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Neighborhood Walk_Family & Home Life_puzzle1",
+            "type": "Buttons",
+            "name": "talking_about_the_future--family_&_home_life--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "steady"
+            "buttons": [
+                "Avoid the conversation",
+                "Tell them how you're feeling"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Tell them how you're feeling"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 2
 }

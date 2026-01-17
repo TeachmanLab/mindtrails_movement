@@ -1,20 +1,20 @@
 {
-    "header_text": "Couples Counseling",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you have faith in the counseling?"
+            "Text": "Does the dentist provide comfort?"
         },
         {
             "type": "Buttons",
-            "name": "Couples Counseling_Mental Health_comp_question",
+            "name": "trip_to_the_dentist--mental_health--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "column_count": 1,
             "correct_value": "Yes"

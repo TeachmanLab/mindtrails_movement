@@ -1,13 +1,14 @@
 {
-    "header_text": "Farmer's Market",
+    "header_text": "Memory Training",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You enjoy going to the local farmer's market every week. Lately, you've been struggling to get the motivation to go, fearing that others will notice your PD symptoms, but you get the courage to go today. When you arrive at the market, you see many familiar faces that look at you with a..."
+            "text": "You've been struggling with your memory lately, so you've started learning a new technique for remembering lists of items. Training your brain to memorize lists has been a challenge. You remember more items as you practice the technique more, and this is very... "
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "memory_training--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

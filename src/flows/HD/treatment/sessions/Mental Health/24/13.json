@@ -1,0 +1,16 @@
+{
+    "header_text": "Applying for a Grant",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Applying for a Grant"
+        },
+        {
+            "type": "Media",
+            "url": "./images/94.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 5
+}

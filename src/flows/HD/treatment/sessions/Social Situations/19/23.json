@@ -1,16 +1,16 @@
 {
-    "header_text": "New City New Friends",
+    "header_text": "Different Music Tastes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on, and you miss your close friends from your old city. You decide to spend more time with the people you have met so that you can become closer..."
+            "text": "Different Music Tastes"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/675.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

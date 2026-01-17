@@ -1,14 +1,14 @@
 {
-    "header_text": "An organized outing",
+    "header_text": "A new state",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "An organized outing"
+            "text": "A new state"
         },
         {
             "type": "Media",
-            "url": "./images/604.jpg"
+            "url": "./images/605.jpg"
         }
     ],
     "type": "positive",

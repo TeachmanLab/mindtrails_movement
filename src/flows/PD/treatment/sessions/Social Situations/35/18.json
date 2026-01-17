@@ -1,0 +1,16 @@
+{
+    "header_text": "Managing Stress",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Managing Stress"
+        },
+        {
+            "type": "Media",
+            "url": "./images/484.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

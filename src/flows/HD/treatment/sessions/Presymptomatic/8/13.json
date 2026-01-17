@@ -1,16 +1,16 @@
 {
-    "header_text": "Toy Store Trip",
+    "header_text": "Challenging Notes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Toy Store Trip"
+            "text": "Challenging Notes"
         },
         {
             "type": "Media",
-            "url": "./images/410.jpg"
+            "url": "./images/919.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

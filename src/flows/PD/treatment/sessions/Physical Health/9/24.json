@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Physical Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #10_entry"
+            "text": "When you experience an uncomfortable bodily sensation (e.g., racing heart or sweaty palms), simply sit with that sensation for a moment before you react to it. These sensations often pass quickly without any intervention."
         }
     ]
 }

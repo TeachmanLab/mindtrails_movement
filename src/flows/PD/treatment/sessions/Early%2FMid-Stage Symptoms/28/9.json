@@ -1,25 +1,16 @@
 {
-    "header_text": "Holiday Market",
-    "header_icon": "assets/subtitle.png",
+    "header_text": "Write your own!",
+    "header_icon": [
+        "assets/subtitle.png"
+    ],
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping for the holidays at an outdoor market with your sibling. You pick up a fragile item to check the price, but it drops and shatters on the ground. You apologize to the shop owner, and they are..."
+            "text": "Now it's your turn! Thinking about the short story you just created, what are some reasons why this positive or non-threatening ending might have occurred? Really try to come up with a few different explanations.\n\nReason 1:"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Holiday Market_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "forgiving"
-            ],
-            "missing_letter_count": 2
+            "name": "Reason1_WYO",
+            "type": "Entry"
         }
-    ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    ]
 }

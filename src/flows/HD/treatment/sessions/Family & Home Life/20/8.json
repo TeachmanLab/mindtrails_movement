@@ -1,0 +1,16 @@
+{
+    "header_text": "Stained Laundry",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stained Laundry"
+        },
+        {
+            "type": "Media",
+            "url": "./images/869.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

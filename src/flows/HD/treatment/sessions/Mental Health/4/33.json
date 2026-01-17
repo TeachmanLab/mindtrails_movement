@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Mental Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #5_entry"
+            "text": "Try to identify the TEBs in your situation: what THOUGHTS are you having? What EMOTIONS are you feeling? What BEHAVIORS are you engaging in? After that, think about whether you can change your thoughts or behavior to feel better."
         }
     ]
 }

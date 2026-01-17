@@ -1,25 +1,29 @@
 {
-    "header_text": "Walking Down Steps",
+    "header_text": "Crossing the Street",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are carrying laundry down your basement stairs. You notice you are more unbalanced than you used to be, and walking down is now more difficult. You make a mental note to take more care in the future and hold onto the railing so that you are..."
+            "Text": "You realize that the most important thing is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Walking Down Steps_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "crossing_the_street--early_mid-stage_symptoms--comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "steady"
+            "buttons": [
+                "Your safety",
+                "The driver's opinion"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Your safety"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 5
 }

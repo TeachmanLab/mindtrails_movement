@@ -1,20 +1,20 @@
 {
-    "header_text": "Overhearing your name ",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you walk through the office, you hear some of our coworkers talking about other people. As you walk closer to them, you overhear your name. They smile and greet you when they see you, and you think that they were probably saying something..."
+            "text": "You are on a long drive with a friend. You notice that neither of you has said anything for a few minutes. Focused on the road, you think your friend feels that the silence is completely..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Overhearing your name _Social Situations_puzzle1",
+            "name": "silence_on_a_drive--social_situations--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "pleasant"
+                "normal"
             ],
             "missing_letter_count": 1
         }

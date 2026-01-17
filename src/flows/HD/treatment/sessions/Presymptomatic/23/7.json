@@ -1,16 +1,17 @@
 {
-    "header_text": "HDSA Fundraiser",
+    "header_text": "Downsizing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "HDSA Fundraiser"
+            "text": "You are looking to downsize because all of your children have left home. A social worker recommends that you consider a home that will support your safety as your HD eventually progresses. As you talk about this possibility, you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/866.jpg"
+            "type": "Entry",
+            "name": "downsizing--presymptomatic--puzzle1_entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

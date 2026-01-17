@@ -1,25 +1,25 @@
 {
-    "header_text": "Stress in Your Relationship",
+    "header_text": "Awards Ceremony",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. Once the wedding is over, you think you and your spouse will feel less..."
+            "text": "You have an awards ceremony today, and both your kids are attending. They sometimes have trouble getting along. They bicker during the event, but you are able to concentrate on your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Stress in Your Relationship_Family & Home Life_puzzle1",
+            "name": "awards_ceremony--family_&_home_life--puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "close"
+                "duties"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

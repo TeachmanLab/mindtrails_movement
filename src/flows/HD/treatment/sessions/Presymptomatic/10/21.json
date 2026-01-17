@@ -1,16 +1,16 @@
 {
-    "header_text": "At the Playground ",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the Playground "
+            "text": "New Kitten"
         },
         {
             "type": "Media",
-            "url": "./images/200.jpg"
+            "url": "./images/219.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

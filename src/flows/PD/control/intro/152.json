@@ -8,6 +8,7 @@
             "html": true
         },
         {
+            "name": "mds_updrs_9",
             "type": "Buttons",
             "buttons": [
                 "0::0: Normal: Not at all (no problems).",
@@ -15,8 +16,7 @@
                 "2::2: Mild: My speech causes people to ask me to occasionally repeat myself, but not every day.",
                 "3::3: Moderate: My speech is unclear enough that others ask me to repeat myself every day even though most of my speech is understood.",
                 "4::4: Severe: Most or all of my speech cannot be understood."
-            ],
-            "selectable": true
+            ]
         }
     ]
 }

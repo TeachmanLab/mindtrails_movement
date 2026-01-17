@@ -1,16 +1,16 @@
 {
-    "header_text": "Time to Yourself",
+    "header_text": "Sharing Social Media with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your favorite part of the day is winding down to eat dinner. You realize that you've been eating alone a lot recently as you start making dinner, and this makes you feel sad. You decide you are okay because eating alone gives you time to reflect on your..."
+            "text": "Sharing Social Media with New Friend"
         },
         {
-            "type": "Entry"
+            "type": "Media",
+            "url": "./images/673.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

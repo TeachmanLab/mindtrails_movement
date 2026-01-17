@@ -1,13 +1,14 @@
 {
-    "header_text": "Friend in the Hospital",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel..."
+            "text": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "expressing_your_ideas--social_situations--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

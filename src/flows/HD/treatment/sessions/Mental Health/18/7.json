@@ -1,16 +1,16 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Insecurities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Pool Time"
+            "text": "Insecurities"
         },
         {
             "type": "Media",
-            "url": "./images/400.jpg"
+            "url": "./images/380.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

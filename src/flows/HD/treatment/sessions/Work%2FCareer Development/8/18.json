@@ -7,7 +7,8 @@
             "text": "You just sent an important email. As you reread what you've sent, you see a typo in the first sentence. You believe that you should be..."
         },
         {
-            "type": "Entry"
+            "type": "Entry",
+            "name": "troublesome_typos--work_career_development--puzzle1_entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

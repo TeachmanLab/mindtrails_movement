@@ -1,0 +1,17 @@
+{
+    "header_text": "Dinner Party Conversation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a dinner party, you become overwhelmed talking to multiple people at once. You find yourself quickly losing track of conversations. After asking too many questions, you notice your friends' expressions shift from giddiness to..."
+        },
+        {
+            "type": "Entry",
+            "name": "dinner_party_conversation--early_mid-stage_symptoms--puzzle1_entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
+}

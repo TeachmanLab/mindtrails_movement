@@ -1,16 +1,16 @@
 {
-    "header_text": "Long Walk Outside",
+    "header_text": "Comparing Yourself to Others",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Long Walk Outside"
+            "text": "Comparing Yourself to Others"
         },
         {
             "type": "Media",
-            "url": "./images/397.jpg"
+            "url": "./images/372.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }
