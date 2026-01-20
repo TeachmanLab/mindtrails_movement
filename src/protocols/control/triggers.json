@@ -9,7 +9,7 @@
       "action": {
         "type": "notification",
         "survey": true,
-        "path": "flow://flows/${global:population}/${global:group}/track your progress/",
+        "path": "flow://flows/${global:population}/${global:group}/track your progress",
         "title": "Survey Alert!",
         "expiry": "5",
         "message": "It's time for your progress survey"

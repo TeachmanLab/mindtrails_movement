@@ -7,7 +7,7 @@
       "action": {
         "type": "notification",
         "survey": true,
-        "path": "flow://flows/${global:population}/${global:group}/end of day/",
+        "path": "flow://flows/${global:population}/${global:group}/end of day",
         "title": "Survey Alert!",
         "expiry": "04:00",
         "message": "It's time for your end of day survey."
@@ -35,7 +35,7 @@
       "action": {
         "type": "notification",
         "survey": true,
-        "path": "flow://flows/${global:population}/${global:group}/track your progress/",
+        "path": "flow://flows/${global:population}/${global:group}/track your progress",
         "title": "Survey Alert!",
         "expiry": "5",
         "message": "It's time for your progress survey"
