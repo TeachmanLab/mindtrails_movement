@@ -34,40 +34,29 @@
         },
         {
             "type": "tiles",
+            "title": "More resources",
+             "icon": {
+                "url": "/assets/home_resources.png",
+                "tint": false
+            },
             "actions": [
                 {
                     "text": "What is MindTrails?",
-                    "icon": {
-                        "url": "/assets/home_mindtrails.png",
-                        "tint": false
-                    },
                     "action": "flow://flows/rationale.json",
                     "backgroundcolor": "#1A206AFF"
                 },
                 {
                     "text": "Instructions",
-                    "icon": {
-                        "url": "/assets/home_instructions.png",
-                        "tint": false
-                    },
                     "action": "flow://flows/instructions.json",
                     "backgroundcolor": "#1A00E05A"
                 },
                 {
                     "text": "Resources",
-                    "icon": {
-                        "url": "/assets/home_resources.png",
-                        "tint": false
-                    },
                     "action": "flow://flows/${global:population}/treatment/resources",
                     "backgroundcolor": "#1A00C2FF"
                 },
                 {
                     "text": "What is Anxiety?",
-                    "icon": {
-                        "url": "/assets/home_anxiety.png",
-                        "tint": false
-                    },
                     "action": "flow://flows/what is anxiety.json",
                     "backgroundcolor": "#1A5C2FDA"
                 }
