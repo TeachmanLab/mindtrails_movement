@@ -27,6 +27,7 @@
         },
         {
             "type": "button",
+            "hideoncomplete": true,
             "action": {
                 "text": "Show Surveys",
                 "action": "navmodal://Survey"

@@ -2,6 +2,7 @@
     {
       "id": "progresstrigger",
       "type": "timing",
+      "disableoncomplete": true,
       "frequency": "14",
       "time": "${variant:progress_survey_time,20:00}",
       "skip": 1,

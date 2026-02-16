@@ -9,6 +9,7 @@
         },
         {
             "type": "button",
+            "hideoncomplete": true,
             "action": {
                 "text": "Surveys",
                 "action": "navmodal://Survey"
