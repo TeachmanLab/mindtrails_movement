@@ -26,17 +26,29 @@
                 {
                     "text": "Instructions",
                     "action": "flow://flows/instructions.json",
-                    "backgroundcolor": "#1A00E05A"
+                    "backgroundcolor": "#1A00E05A",
+                    "icon": {
+                        "url": "/assets/home_instructions.png",
+                        "tint": false
+                    }
                 },
                 {
                     "text": "Resources",
                     "action": "flow://flows/${global:population}/control/resources",
-                    "backgroundcolor": "#1A00C2FF"
+                    "backgroundcolor": "#1A00C2FF",
+                    "icon": {
+                        "url": "/assets/home_resources.png",
+                        "tint": false
+                    }
                 },
                 {
                     "text": "What is Anxiety?",
                     "action": "flow://flows/what is anxiety.json",
-                    "backgroundcolor": "#1A5C2FDA"
+                    "backgroundcolor": "#1A5C2FDA",
+                    "icon": {
+                        "url": "/assets/home_anxiety.png",
+                        "tint": false
+                    }
                 }
             ]
         }
