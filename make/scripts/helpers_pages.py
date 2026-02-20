@@ -64,8 +64,8 @@ def create_input(tipe, name, items=None, min=None, max=None, text=None):
     if tipe == "puzzle"   : return {
         "name": name,
         "type": "WordPuzzle",
-        "correct_feedback": "Correcto!",  # changed
-        "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+        "correct_feedback": "Correct!",
+        "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
         "incorrect_delay": 5000,
         "display_delay": 2000,
         "words": items

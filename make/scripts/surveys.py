@@ -86,19 +86,17 @@ for pop_name in populations:
         #TREATMENT
         f"{upop_name}/treatment/end of day": flat(survey_pages[("all",f"{lpop_name}_eod")]),
         f"{upop_name}/treatment/reasons for ending": flat(survey_pages[("all",f"{lpop_name}_reasonsforending")]),
-        f"{upop_name}/treatment/track your progress/__flow__.json": {"mode":"sequential","take":1},
-        f"{upop_name}/treatment/track your progress/1": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 2" ,f"{lpop_name}_biweekly")]),
-        f"{upop_name}/treatment/track your progress/2": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 4" ,f"{lpop_name}_biweekly")]),
-        f"{upop_name}/treatment/track your progress/3": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 6" ,f"{lpop_name}_biweekly")]),
-        f"{upop_name}/treatment/track your progress/4": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 10",f"{lpop_name}_biweekly")]),
+        f"{upop_name}/treatment/track your progress 1": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 2" ,f"{lpop_name}_biweekly")]),
+        f"{upop_name}/treatment/track your progress 2": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 4" ,f"{lpop_name}_biweekly")]),
+        f"{upop_name}/treatment/track your progress 3": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 6" ,f"{lpop_name}_biweekly")]),
+        f"{upop_name}/treatment/track your progress 4": flat(survey_pages[("all",f"{lpop_name}_biweekly")]) + flat(survey_pages[(f"weekly 10",f"{lpop_name}_biweekly")]),
         #CONTROL
         f"{upop_name}/control/end of day": flat(survey_pages[("all","eod")]),
         f"{upop_name}/control/reasons for ending": flat(survey_pages[("all",f"{lpop_name}_reasonsforending_control")]),
-        f"{upop_name}/control/track your progress/__flow__.json": {"mode":"sequential","take":1},
-        f"{upop_name}/control/track your progress/1": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
-        f"{upop_name}/control/track your progress/2": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
-        f"{upop_name}/control/track your progress/3": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
-        f"{upop_name}/control/track your progress/4": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
+        f"{upop_name}/control/track your progress 1": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
+        f"{upop_name}/control/track your progress 2": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
+        f"{upop_name}/control/track your progress 3": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
+        f"{upop_name}/control/track your progress 4": flat(survey_pages[("all",f"{lpop_name}_biweekly_control")]),
     }
 
     # Delete old JSON
