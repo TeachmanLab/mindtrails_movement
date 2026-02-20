@@ -54,7 +54,7 @@
       "id": "progresstrigger4",
       "type": "timing",
       "disableoncomplete": true,
-      "frequency": "${variant:progresstrigger4_frequency,14}",
+      "frequency": "14",
       "time": "${variant:progress_survey_time,20:00}",
       "skip": 5,
       "take": 1,
