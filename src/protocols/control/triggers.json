@@ -1,70 +1,38 @@
-[
-  {
-    "id": "progresstrigger1",
-    "type": "timing",
-    "disableoncomplete": true,
+{
+  "progresstrigger1": {
+    "type": "frequency",
+    "skip": 1,
+    "take": 1,
+    "time": "20:00",
     "frequency": "14",
-    "time": "20:00",
+    "expiry": "7",
+    "path": "flow://flows/${global:population}/${global:group}/track your progress 1"
+  },
+  "progresstrigger2": {
+    "type": "frequency",
     "skip": 1,
     "take": 1,
-    "action": {
-      "type": "notification",
-      "survey": true,
-      "path": "flow://flows/${global:population}/${global:group}/track your progress 1",
-      "title": "Survey Alert!",
-      "expiry": "7",
-      "message": "It's time for your progress survey"
-    }
-  },
-	{
-    "id": "progresstrigger2",
-    "type": "timing",
-    "disableoncomplete": true,
+    "time": "20:00",
     "frequency": "28",
-    "time": "20:00",
+    "expiry": "7",
+    "path": "flow://flows/${global:population}/${global:group}/track your progress 2"
+  },
+  "progresstrigger3": {
+    "type": "frequency",
     "skip": 1,
     "take": 1,
-    "action": {
-      "type": "notification",
-      "survey": true,
-      "path": "flow://flows/${global:population}/${global:group}/track your progress 2",
-      "title": "Survey Alert!",
-      "expiry": "7",
-      "message": "It's time for your progress survey"
-    }
-  },
-	{
-    "id": "progresstrigger3",
-    "type": "timing",
-    "disableoncomplete": true,
+    "time": "20:00",
     "frequency": "42",
-    "time": "20:00",
-    "skip": 1,
-    "take": 1,
-    "action": {
-      "type": "notification",
-      "survey": true,
-      "path": "flow://flows/${global:population}/${global:group}/track your progress 3",
-      "title": "Survey Alert!",
-      "expiry": "7",
-      "message": "It's time for your progress survey"
-    }
+    "expiry": "7",
+    "path": "flow://flows/${global:population}/${global:group}/track your progress 3"
   },
-  {
-    "id": "progresstrigger4",
-    "type": "timing",
-    "disableoncomplete": true,
-    "frequency": "70",
-    "time": "20:00",
+  "progresstrigger4": {
+    "type": "frequency",
     "skip": 1,
     "take": 1,
-    "action": {
-      "type": "notification",
-      "survey": true,
-      "path": "flow://flows/${global:population}/${global:group}/track your progress 4",
-      "title": "Survey Alert!",
-      "expiry": "90",
-      "message": "It's time for your progress survey"
-    }
+    "time": "20:00",
+    "frequency": "70",
+    "expiry": "7",
+    "path": "flow://flows/${global:population}/${global:group}/track your progress 4"
   }
-]
+}
