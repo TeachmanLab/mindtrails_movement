@@ -5,7 +5,7 @@
     "take": 1,
     "time": "20:00",
     "frequency": "14",
-    "expiry": "7",
+    "expiry": "14",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 1"
   },
   "progresstrigger2": {
@@ -14,7 +14,7 @@
     "take": 1,
     "time": "20:00",
     "frequency": "28",
-    "expiry": "7",
+    "expiry": "14",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 2"
   },
   "progresstrigger3": {
@@ -23,7 +23,7 @@
     "take": 1,
     "time": "20:00",
     "frequency": "42",
-    "expiry": "7",
+    "expiry": "14",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 3"
   },
   "progresstrigger4": {
@@ -32,7 +32,7 @@
     "take": 1,
     "time": "20:00",
     "frequency": "70",
-    "expiry": "7",
+    "expiry": "180",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 4"
   }
 }
