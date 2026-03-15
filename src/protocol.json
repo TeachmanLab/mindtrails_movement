@@ -51,5 +51,5 @@
       "action": "https://ert6g2.wixsite.com/hoosthinkcalmly/general-8"
     }
   ],
-  "triggers": {"type": "ref", "path": "protocols/${global:group}/triggers.json"}
+  "surveys": {"type": "ref", "path": "protocols/${global:group}/triggers.json"}
 }
