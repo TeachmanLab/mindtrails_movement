@@ -1,5 +1,14 @@
 {
-  "progresstrigger1": {
+  "eod": {
+    "type": "frequency",
+    "time": "20:00",
+    "skip": 0,
+    "take": 42,
+    "frequency": "1",
+    "expiry": "04:00",
+    "path": "flow://flows/${global:population}/${global:group}/end of day"
+  },
+  "typ1": {
     "type": "frequency",
     "skip": 1,
     "take": 1,
@@ -8,7 +17,7 @@
     "expiry": "14",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 1"
   },
-  "progresstrigger2": {
+  "typ2": {
     "type": "frequency",
     "skip": 1,
     "take": 1,
@@ -17,7 +26,7 @@
     "expiry": "14",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 2"
   },
-  "progresstrigger3": {
+  "typ3": {
     "type": "frequency",
     "skip": 1,
     "take": 1,
@@ -26,7 +35,7 @@
     "expiry": "14",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 3"
   },
-  "progresstrigger4": {
+  "typ4": {
     "type": "frequency",
     "skip": 1,
     "take": 1,
