@@ -53,9 +53,9 @@
   ],
   "surveys": {"type": "ref", "path": "protocols/${global:group}/surveys.json"},
   "reminders": {
-    "reminder_1": {"type": "survey", "survey_id": "typ1", "frequency": "01:00:00:00", "take": 14},
-    "reminder_2": {"type": "survey", "survey_id": "typ2", "frequency": "01:00:00:00", "take": 14},
-    "reminder_3": {"type": "survey", "survey_id": "typ3", "frequency": "01:00:00:00", "take": 14},
-    "reminder_4": {"type": "survey", "survey_id": "typ4", "frequency": "01:00:00:00", "take": 14}
+    "reminder_1": {"type": "survey", "survey_id": "typ1", "frequency": "01:00:00:00", "take": 14, "time": "09:00:00"},
+    "reminder_2": {"type": "survey", "survey_id": "typ2", "frequency": "01:00:00:00", "take": 14, "time": "09:00:00"},
+    "reminder_3": {"type": "survey", "survey_id": "typ3", "frequency": "01:00:00:00", "take": 14, "time": "09:00:00"},
+    "reminder_4": {"type": "survey", "survey_id": "typ4", "frequency": "01:00:00:00", "take": 14, "time": "09:00:00"}
   }
 }
