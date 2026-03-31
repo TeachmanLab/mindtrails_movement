@@ -9,21 +9,10 @@
         },
         {
             "type": "sessions",
-            "left": {
-                "text": "{0} Sessions Completed",
-                "icon": {
-                    "url": "/assets/completed.png",
-                    "tint": false
-                }
-            },
-            "right": {
-                "text": "Launch Session",
-                "icon": {
-                    "url": "/assets/unlocked.png",
-                    "tint": false
-                },
-                "action": "flow://flows/${global:population}/treatment/sessions"
-            }
+            "left": { "text": "{0} Sessions Completed", "icon": { "url": "/assets/completed.png", "tint": false } },
+            "right": { "text": "Launch Session", "icon": { "url": "/assets/unlocked.png", "tint": false }, "action": "flow://flows/${global:population}/treatment/sessions" },
+            "lock_right": { "text": "Treatment Is Over", "icon": { "url": "/assets/locked.png", "tint": false } },
+            "lock_time": "42:00:00:00"
         },
         {
             "type": "button",
