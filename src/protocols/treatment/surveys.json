@@ -5,7 +5,7 @@
     "skip": 0,
     "take": 42,
     "frequency": "1",
-    "expiry": "04:00",
+    "expiry": "04:00:00",
     "path": "flow://flows/${global:population}/${global:group}/end of day"
   },
   "typ1": {
