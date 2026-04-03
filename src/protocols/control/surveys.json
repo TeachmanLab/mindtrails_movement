@@ -23,7 +23,7 @@
     "take": 1,
     "time": "20:00",
     "frequency": "42",
-    "expiry": "14",
+    "expiry": "28",
     "path": "flow://flows/${global:population}/${global:group}/track your progress 3"
   },
   "typ4": {
