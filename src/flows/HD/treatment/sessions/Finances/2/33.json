@@ -6,5 +6,16 @@
             "type": "Text",
             "text": "If you are facing financial difficulties, take a step back and try to identify what you do have control over (versus what you do not). For example, you can create a budget and track your spending going forward, though you might not be able to return something you've already purchased. "
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "before",
+        "information_count": 1,
+        "variable_name": "info_text_10"
+    }
 }

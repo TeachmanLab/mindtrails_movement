@@ -20,10 +20,10 @@
             "correct_value": "\"This is almost worse than no gift at all\""
         }
     ],
-    "navigation_conditions": [
+    "type": "negative",
+    "scenario_num": 5,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    ]
 }

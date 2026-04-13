@@ -11,17 +11,7 @@
             "name": "pool_time--romantic_relationships--puzzle2_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigators": "wait_for_correct"
 }

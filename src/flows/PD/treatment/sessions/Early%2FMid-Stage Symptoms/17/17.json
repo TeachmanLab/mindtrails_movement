@@ -12,5 +12,16 @@
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 5,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+            }
+        ],
+        "position": "before",
+        "information_count": 1,
+        "variable_name": "info_text_3"
+    }
 }

@@ -10,5 +10,15 @@
             "type": "Entry",
             "name": "tip #4--entry"
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

@@ -20,10 +20,10 @@
             "correct_value": "\"I don't think we're going to be able to afford sending you to that school\""
         }
     ],
-    "navigation_conditions": [
+    "type": "negative",
+    "scenario_num": 3,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 3
+    ]
 }

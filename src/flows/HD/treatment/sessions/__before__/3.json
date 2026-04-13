@@ -14,5 +14,15 @@
             6,
             7
         ]
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_lemon.jpg"
+            }
+        ],
+        "position": "before",
+        "information_count": 3
+    }
 }

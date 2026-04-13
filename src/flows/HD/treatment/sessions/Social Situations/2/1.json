@@ -12,15 +12,5 @@
         }
     ],
     "type": "positive",
-    "scenario_num": 0,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 0
 }

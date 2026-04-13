@@ -12,7 +12,7 @@
             "border": true
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         {
             "wait_for_time": 2000
         },

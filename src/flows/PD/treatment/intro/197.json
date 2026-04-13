@@ -20,9 +20,9 @@
             "correct_value": "Get sick."
         }
     ],
-    "navigation_conditions": [
+    "scenario_num": 2,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "scenario_num": 2
+    ]
 }

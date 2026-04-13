@@ -11,17 +11,7 @@
             "name": "family_communication--family_&_home_life--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigators": "wait_for_correct"
 }

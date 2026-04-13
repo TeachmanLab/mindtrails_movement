@@ -11,7 +11,7 @@
             "name": "social_media_post--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "negative",
-    "scenario_num": 2
+    "scenario_num": 2,
+    "navigators": "wait_for_correct"
 }

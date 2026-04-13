@@ -6,5 +6,15 @@
             "type": "Text",
             "text": "Motivational Statement #12 \n\n A few minutes of practice today means a world of difference over time. "
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

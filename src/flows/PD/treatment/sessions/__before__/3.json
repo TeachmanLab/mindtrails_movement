@@ -11,15 +11,5 @@
             "url": "./images/lemon_pic3.jpeg",
             "border": false
         }
-    ],
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/wondering_lemon.jpg"
-            }
-        ],
-        "position": "after",
-        "information_count": 3
-    }
+    ]
 }

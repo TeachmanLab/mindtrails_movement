@@ -6,5 +6,15 @@
             "type": "Text",
             "text": "Motivational Statement #26 \n\n Your dedication to the process is a sign of your strength. Keep moving forward!"
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

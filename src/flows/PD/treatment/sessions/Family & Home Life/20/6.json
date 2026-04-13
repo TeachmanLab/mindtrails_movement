@@ -19,7 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "negative",
-    "scenario_num": 1
+    "scenario_num": 1,
+    "navigators": "wait_for_correct"
 }

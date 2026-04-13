@@ -11,7 +11,7 @@
             "type": "Entry"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         {
             "wait_for_time": 30000
         },

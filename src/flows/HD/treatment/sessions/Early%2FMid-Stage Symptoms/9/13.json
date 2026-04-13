@@ -12,5 +12,16 @@
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 5,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+            }
+        ],
+        "position": "before",
+        "information_count": 1,
+        "variable_name": "info_text_2"
+    }
 }

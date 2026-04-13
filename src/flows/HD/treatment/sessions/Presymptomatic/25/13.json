@@ -11,7 +11,7 @@
             "name": "farmer's_market_sweets--presymptomatic--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "navigators": "wait_for_correct"
 }

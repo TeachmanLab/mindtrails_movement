@@ -11,7 +11,7 @@
             "name": "missing_a_turn--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 8,
+    "navigators": "wait_for_correct"
 }

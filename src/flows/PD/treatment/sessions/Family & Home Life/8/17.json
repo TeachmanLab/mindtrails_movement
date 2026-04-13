@@ -11,7 +11,7 @@
             "name": "posting_about_family--family_&_home_life--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 6,
+    "navigators": "wait_for_correct"
 }

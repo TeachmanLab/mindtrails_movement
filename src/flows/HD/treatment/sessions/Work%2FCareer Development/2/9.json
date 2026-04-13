@@ -20,10 +20,10 @@
             "correct_value": "Incapable"
         }
     ],
-    "navigation_conditions": [
+    "type": "negative",
+    "scenario_num": 2,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 2
+    ]
 }

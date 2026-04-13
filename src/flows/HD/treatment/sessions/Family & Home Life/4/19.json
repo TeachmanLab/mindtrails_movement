@@ -20,10 +20,10 @@
             "correct_value": "A yelling match that ends with both of you still upset"
         }
     ],
-    "navigation_conditions": [
+    "type": "negative",
+    "scenario_num": 5,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    ]
 }

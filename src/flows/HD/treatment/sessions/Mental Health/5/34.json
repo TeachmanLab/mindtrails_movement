@@ -6,5 +6,15 @@
             "type": "Text",
             "text": "All emotions serve a purpose. They tell us about what's going on in our lives and help motivate us. Even the negative feelings, like fear and anxiety, help us navigate the world around us. "
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

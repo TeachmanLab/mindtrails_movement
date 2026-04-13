@@ -11,7 +11,7 @@
             "name": "insecurities--romantic_relationships--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 0
+    "scenario_num": 0,
+    "navigators": "wait_for_correct"
 }

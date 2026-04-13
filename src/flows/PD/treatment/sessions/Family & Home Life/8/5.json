@@ -11,7 +11,7 @@
             "name": "quality_time--family_&_home_life--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 1,
+    "navigators": "wait_for_correct"
 }

@@ -6,5 +6,16 @@
             "type": "Text",
             "text": "If you have been putting off a task because it feels overwhelming, try breaking down the task into smaller, more manageable steps. "
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "before",
+        "information_count": 1,
+        "variable_name": "info_text_10"
+    }
 }

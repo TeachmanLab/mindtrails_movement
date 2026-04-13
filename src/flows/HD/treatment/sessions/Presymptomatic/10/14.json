@@ -12,5 +12,16 @@
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 5,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1,
+        "variable_name": "info_text_7"
+    }
 }

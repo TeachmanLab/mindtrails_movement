@@ -6,5 +6,16 @@
             "type": "Text",
             "text": "Motivational Statement #29 \n\n Trust in your strength to grow. Embrace vulnerability, practice flexible thinking, and nurture self-compassion to overcome your anxiety."
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "before",
+        "information_count": 1,
+        "variable_name": "info_text_10"
+    }
 }

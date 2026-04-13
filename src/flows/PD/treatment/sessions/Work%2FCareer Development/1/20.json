@@ -20,10 +20,10 @@
             "correct_value": "You have great potential"
         }
     ],
-    "navigation_conditions": [
+    "type": "resilience/negation",
+    "scenario_num": 5,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    ]
 }

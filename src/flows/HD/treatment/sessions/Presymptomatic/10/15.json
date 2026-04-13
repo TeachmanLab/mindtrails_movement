@@ -11,7 +11,7 @@
             "name": "journaling_issues--presymptomatic--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 5,
+    "navigators": "wait_for_correct"
 }

@@ -6,5 +6,16 @@
             "type": "Text",
             "text": "When you feel others may be negatively judging you, notice if the facts of the situation support that emotion (e.g. they are probably staring you at because they are listenting to what you're saying, not because they think you're ugly). "
         }
-    ]
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "before",
+        "information_count": 1,
+        "variable_name": "info_text_10"
+    }
 }

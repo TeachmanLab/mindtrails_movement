@@ -20,9 +20,9 @@
             "correct_value": "Considerate for apologizing."
         }
     ],
-    "navigation_conditions": [
+    "scenario_num": 1,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "scenario_num": 1
+    ]
 }

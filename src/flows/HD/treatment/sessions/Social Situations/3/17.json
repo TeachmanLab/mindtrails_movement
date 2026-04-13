@@ -20,20 +20,10 @@
             "correct_value": "Are impressed by your determination"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
     "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigators": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
 }

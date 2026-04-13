@@ -20,10 +20,10 @@
             "correct_value": "Good idea"
         }
     ],
-    "navigation_conditions": [
+    "type": "positive",
+    "scenario_num": 3,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    ]
 }

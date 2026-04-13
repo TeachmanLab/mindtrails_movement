@@ -11,7 +11,7 @@
             "name": "new_apartment_to_yourself--social_situations--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 6,
+    "navigators": "wait_for_correct"
 }

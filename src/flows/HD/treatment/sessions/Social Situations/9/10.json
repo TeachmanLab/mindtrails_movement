@@ -11,7 +11,7 @@
             "name": "nerves_at_a_big_moment--social_situations--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 3
+    "scenario_num": 3,
+    "navigators": "wait_for_correct"
 }

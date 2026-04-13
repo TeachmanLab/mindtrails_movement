@@ -20,10 +20,10 @@
             "correct_value": "That they don't want to help you with the fundraiser."
         }
     ],
-    "navigation_conditions": [
+    "type": "negative",
+    "scenario_num": 5,
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 5
+    ]
 }
