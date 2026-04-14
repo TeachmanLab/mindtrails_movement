@@ -17,10 +17,11 @@
         "elements": [
             {
                 "type": "text",
-                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
+                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand.",
+                "variable_name": "presymptomatic_info_9"
             }
         ],
-        "position": "before",
+        "position": "after",
         "information_count": 1
     }
 }

@@ -18,7 +18,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! ",
+                "variable_name": "family_and_home_life_info_1"
             }
         ],
         "position": "after",

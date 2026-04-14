@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!",
+                "variable_name": "finances_info_3"
             }
         ],
         "position": "after",

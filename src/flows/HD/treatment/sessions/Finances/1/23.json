@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! ",
+                "variable_name": "finances_info_6"
             }
         ],
         "position": "after",

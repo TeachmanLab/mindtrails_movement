@@ -18,7 +18,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. ",
+                "variable_name": "work%2fcareer_development_info_3"
             }
         ],
         "position": "after",

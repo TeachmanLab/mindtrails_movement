@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. ",
+                "variable_name": "presymptomatic_info_5"
             }
         ],
         "position": "after",

@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. ",
+                "variable_name": "early%2fmid-stage_symptoms_info_3"
             }
         ],
         "position": "after",

@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! ",
+                "variable_name": "mental_health_info_6"
             }
         ],
         "position": "after",

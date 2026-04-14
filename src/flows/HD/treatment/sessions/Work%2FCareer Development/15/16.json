@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!"
+                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!",
+                "variable_name": "work%2fcareer_development_info_8"
             }
         ],
         "position": "after",

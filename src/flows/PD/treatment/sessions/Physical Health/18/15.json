@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. ",
+                "variable_name": "physical_health_info_2"
             }
         ],
         "position": "after",

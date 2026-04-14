@@ -183,7 +183,7 @@ def get_page_index(scenario, session, position):
             scn_index += 1
             neg_index += int(page.get("type") == "negative")
 
-            if position == "before":
+            if position == "after":
                 if scenario == "first negative" and neg_index == 1:
                     return i
                 if scenario != "first negative" and scn_index == int(scenario[8:]):

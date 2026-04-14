@@ -30,7 +30,8 @@
         "elements": [
             {
                 "type": "text",
-                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!",
+                "variable_name": "finances_info_10"
             }
         ],
         "position": "after",
