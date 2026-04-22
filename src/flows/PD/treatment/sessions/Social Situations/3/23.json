@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": " \n \t\t\n\nThe person you met at the event will probably...\n"
+            "Text": "The person you met at the event will probably..."
         },
         {
             "type": "Buttons",
