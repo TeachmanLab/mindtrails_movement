@@ -1,0 +1,22 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "I find the training sessions to be:"
+        },
+        {
+            "name": "UX_sessionlength",
+            "type": "Buttons",
+            "buttons": [
+                "0::Way too short",
+                "1::Somewhat too short",
+                "2::The right length",
+                "3::Somewhat too long",
+                "4::Way too long",
+                "99::Prefer not to answer"
+            ]
+        }
+    ]
+}

@@ -20,7 +20,7 @@
             "correct_value": "Someone told a funny joke that was not about you"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

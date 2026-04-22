@@ -1,0 +1,25 @@
+{
+    "header_text": "Sitting on the bus: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I pull out a book and read until I get to my stop.",
+                "I'll want to ignore my friend the rest of the day, but I decide to talk to them instead.",
+                "I want to put my head between my knees and disappear, but I take a deep breath and smile.",
+                "I call out to my friend and smile.",
+                "I start to cry."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

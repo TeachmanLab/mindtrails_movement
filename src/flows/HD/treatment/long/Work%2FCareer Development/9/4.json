@@ -1,0 +1,15 @@
+{
+    "header_text": "Loud friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your car broke down so a friend is dropping you off at a meeting. As they drop you off, they are really loud and everyone in there looks at you. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/990.jpg",
+            "border": true
+        }
+    ]
+}

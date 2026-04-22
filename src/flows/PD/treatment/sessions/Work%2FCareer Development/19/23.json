@@ -20,7 +20,7 @@
             "correct_value": "\"These slip ups are simply unacceptable at this point\""
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

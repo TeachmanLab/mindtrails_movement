@@ -1,0 +1,25 @@
+{
+    "header_text": "Research Ethics: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're working on a report with a few colleagues and need to report some statistics. A colleague suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "My colleagues will not want to work on another report with with me, but I'm proud of myself for doing the right thing.",
+                "My colleagues decide to change the statistics, but I know I can go to my supervisor if I'm concerned.",
+                "My colleagues are going to laugh at me for saying I don't want to include fake numbers.",
+                "People will think that the report is good.",
+                "I want to write this report without lying."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

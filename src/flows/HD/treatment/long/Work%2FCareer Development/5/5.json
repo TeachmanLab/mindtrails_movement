@@ -1,0 +1,25 @@
+{
+    "header_text": "Answering a question: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In a meeting with a few colleagues and your boss, your boss calls on you to answer a question. You say your best answer and your coworkers are quiet.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "My answer was thoughtful.",
+                "My answer sounded dumb because I didn't understand the question, but no one will remember tomorrow.",
+                "My coworkers are judging my answer.",
+                "It was nice to be able to share what I think.",
+                "I didn't communicate my point as well as I would have liked this time, but I know I'll have more opportunities to speak up in the future."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

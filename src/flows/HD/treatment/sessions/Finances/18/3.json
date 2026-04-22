@@ -20,7 +20,7 @@
             "correct_value": "Find a new job that you enjoy"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

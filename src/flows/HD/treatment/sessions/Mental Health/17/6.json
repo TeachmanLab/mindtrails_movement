@@ -20,7 +20,7 @@
             "correct_value": "You haven't hung out with this person before"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

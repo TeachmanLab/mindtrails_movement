@@ -1,0 +1,15 @@
+{
+    "header_text": "Saying hi to friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1002.jpg",
+            "border": true
+        }
+    ]
+}

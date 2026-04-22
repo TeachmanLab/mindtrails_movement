@@ -18,7 +18,7 @@
             "Duration": 15000
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_complete",
         "wait_for_click"
     ]

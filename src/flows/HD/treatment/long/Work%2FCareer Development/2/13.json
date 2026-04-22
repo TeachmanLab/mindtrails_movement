@@ -1,0 +1,25 @@
+{
+    "header_text": "Working in Groups: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your boss tells everyone that tomorrow you'll divide into small groups to plan out new work projects. They also say that you'll have to pick your group, but you realize you don't have any close friends in your workplace.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I will talk to the people in my workplace and ask to be in a group.",
+                "I want to stay quiet, but decide to contribute.",
+                "I want to work alone, but give the group a try.",
+                "I'll go to the bathroom so that I don't have to ask anyone to be in their group.",
+                "I'll express how excited I am to get to know everyone."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -11,7 +11,7 @@
             "name": "memory_training--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigators": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4,
     "information": {
@@ -22,6 +22,7 @@
             }
         ],
         "position": "after",
-        "information_count": 1
+        "information_count": 1,
+        "count_key": "8bab0e649c"
     }
 }

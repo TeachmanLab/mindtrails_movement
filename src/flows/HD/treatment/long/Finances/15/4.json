@@ -1,0 +1,15 @@
+{
+    "header_text": "Managing bills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your mortgage payment is due soon, and you also have to pay some unexpected medical bills. Your budget is tight this month, and you think about how you'll afford all of this.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1005.jpg",
+            "border": true
+        }
+    ]
+}

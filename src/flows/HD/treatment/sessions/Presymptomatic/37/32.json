@@ -20,7 +20,7 @@
             "correct_value": "You can find better ways to deal with anxiety"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

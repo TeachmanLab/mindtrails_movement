@@ -20,7 +20,7 @@
             "correct_value": "That your previous experience is a good fit for the job"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

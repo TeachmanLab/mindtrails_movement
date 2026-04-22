@@ -20,7 +20,7 @@
             "correct_value": "Film in front of you"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

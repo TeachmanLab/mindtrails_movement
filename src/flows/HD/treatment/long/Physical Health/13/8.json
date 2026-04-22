@@ -1,0 +1,10 @@
+{
+    "header_text": "Laughing at a joke: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Great job! Now you'll see some feelings."
+        }
+    ]
+}

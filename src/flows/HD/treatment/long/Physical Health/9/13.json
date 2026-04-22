@@ -1,0 +1,25 @@
+{
+    "header_text": "Saying hi to friends: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I smile when I see my friends.",
+                "I ask how my friends are doing after I catch my breath.",
+                "I tell my friends that I can't breathe and I need help.",
+                "I think about calling my partner to make sure I'm not dying, but I know that I'm actually ok.",
+                "I want to sit on the ground and avoid talking until I recover, but I acknowledge my feelings and catch my breath."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

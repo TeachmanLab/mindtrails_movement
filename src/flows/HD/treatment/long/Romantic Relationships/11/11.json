@@ -1,0 +1,20 @@
+{
+    "header_text": "Meeting someone new: Write Some Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At a work party, your friend introduces you to an attractive friend of theirs you have not met before. The next morning, you notice that they sent you an email.\n\nPlease take 30 seconds to write different feelings. The next button will appear automatically. \n\nFeelings in the moment and how you'd handle any negative feelings:"
+        },
+        {
+            "name": "long10",
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 30000
+        },
+        "wait_for_click"
+    ]
+}

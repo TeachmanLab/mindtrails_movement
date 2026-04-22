@@ -1,0 +1,15 @@
+{
+    "header_text": "Financial responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner was in the hospital recently and you have been helping to pay their medical bills. You wonder what this will mean for your finances moving forward.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1006.jpg",
+            "border": true
+        }
+    ]
+}

@@ -20,7 +20,7 @@
             "correct_value": "Less tense"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

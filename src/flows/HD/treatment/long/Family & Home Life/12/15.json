@@ -1,0 +1,20 @@
+{
+    "header_text": "Shattered glass: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
+        },
+        {
+            "name": "long14",
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 30000
+        },
+        "wait_for_click"
+    ]
+}

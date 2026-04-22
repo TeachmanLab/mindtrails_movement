@@ -1,0 +1,25 @@
+{
+    "header_text": "Upset family: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are home for a holiday and you notice your siblings are upset with each other. They give you a short answer when you try to talk with them. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I immediately blame myself for their fight.",
+                "They'll be over this in a few days.",
+                "I think about how they might continue to get more upset, then I think about how they will calm down with time.",
+                "I think about what I could have done to prevent this, then remind myself that I can't control everything.",
+                "I think about how they will be in a better mood later."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

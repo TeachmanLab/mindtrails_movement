@@ -20,7 +20,7 @@
             "correct_value": "Helps improve your well-being"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

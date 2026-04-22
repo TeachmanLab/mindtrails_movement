@@ -1,0 +1,15 @@
+{
+    "header_text": "Babysitting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are looking after a friend's child and you're watching TV while they sleep. It's dark outside and you suddenly hear noises against the window. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/139.jpg",
+            "border": true
+        }
+    ]
+}

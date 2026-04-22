@@ -20,7 +20,7 @@
             "correct_value": "Make it safely to a sitting position"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

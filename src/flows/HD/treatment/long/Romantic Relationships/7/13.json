@@ -1,0 +1,25 @@
+{
+    "header_text": "No response: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to spend my day focused on my phone, but instead do hobbies I enjoy.",
+                "I call a friend and ask them about their day.",
+                "I keep going with my day.",
+                "I want to ask what they think of me, but decide to give it more time.",
+                "I send a bunch of messages back to back to see if they respond."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

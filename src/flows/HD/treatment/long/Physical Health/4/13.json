@@ -1,0 +1,25 @@
+{
+    "header_text": "Aging family member: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You go to your parents' home for the first time in a while and notice that your father looks a lot less healthy than you remember. Neither one of your parents mentions anything about his health. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to question the family on his health, but decide to enjoy the gathering.",
+                "I start to make conversation with my family.",
+                "I avoid thinking about his health.",
+                "I laugh at something silly my father said.",
+                "I feel the urge to ask about his health, but take a deep breath and listen to what my family is talking about now knowing that there's a reason they haven't told me anything."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

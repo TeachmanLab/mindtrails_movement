@@ -1,0 +1,22 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In what way(s) did your symptoms make it difficult to use the app?"
+        },
+        {
+            "name": "UX_howsymptomsaffect",
+            "type": "Entry"
+        }
+    ],
+    "condition": [
+        "SymptomsAffect6",
+        "in",
+        [
+            1,
+            2
+        ]
+    ]
+}

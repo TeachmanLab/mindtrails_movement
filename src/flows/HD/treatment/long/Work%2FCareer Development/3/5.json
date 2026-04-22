@@ -1,0 +1,25 @@
+{
+    "header_text": "Research Ethics: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're working on a report with a few colleagues and need to report some statistics. A colleague suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I may not put together the best presentation, but all I can do is try my best.",
+                "My supervisor may be disappointed with our results, but I can handle it.",
+                "Our findings are interesting and valuable on their own.",
+                "I think that this information is important to share, even if the results are unexpected.",
+                "I'll make a bad impression in front of my supervisor if I don't change the numbers."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

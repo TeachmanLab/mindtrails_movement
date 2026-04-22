@@ -1,0 +1,25 @@
+{
+    "header_text": "Shattered glass: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm embarrassed that I dropped the glass, but know that people drop things all of the time.",
+                "I'm able to stay calm.",
+                "I feel bad, but remind myself that I'll forget about this in a few days.",
+                "I'm happy that the waiter doesn't seem to mind that much.",
+                "I have a knot in my stomach after the whole restaurant looked at me."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

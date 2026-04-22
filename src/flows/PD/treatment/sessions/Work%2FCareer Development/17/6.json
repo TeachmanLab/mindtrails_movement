@@ -20,7 +20,7 @@
             "correct_value": "You stand a good chance of landing a rewarding position"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

@@ -20,7 +20,7 @@
             "correct_value": "Low-pressure and pleasant chance to meet a new person"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

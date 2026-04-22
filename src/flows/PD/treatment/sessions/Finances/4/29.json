@@ -20,7 +20,7 @@
             "correct_value": "Not hurt your finances in the long run"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

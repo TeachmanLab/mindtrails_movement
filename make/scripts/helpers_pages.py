@@ -28,15 +28,15 @@ def create_nav_conditions(buttons:Literal["WhenCorrect","AfterTimeout","Never","
     buttons = lower(buttons)
     inputs = inputs or []
     if 'puzzle' in list(map(lower,inputs)):
-        return {"navigation_conditions": "wait_for_correct"}
+        return {"navigators": "wait_for_correct"}
     if timeout and buttons == "aftertimeout":
-        return {"navigation_conditions": [{"wait_for_time": int(timeout)*1000}, "wait_for_click"]}
+        return {"navigators": [{"wait_for_time": int(timeout)*1000}, "wait_for_click"]}
     if timeout:
-        return {"navigation_conditions": [{"wait_for_time": int(timeout)*1000}]}
+        return {"navigators": [{"wait_for_time": int(timeout)*1000}]}
     if buttons == "whencorrect":
-        return {"navigation_conditions": ["wait_for_correct", "wait_for_click"]}
+        return {"navigators": ["wait_for_correct", "wait_for_click"]}
     if buttons == "whencomplete":
-        return {"navigation_conditions": ["wait_for_complete", "wait_for_click"]}
+        return {"navigators": ["wait_for_complete", "wait_for_click"]}
     return {}
 
 def create_input(tipe, name, items=None, min=None, max=None, text=None):
@@ -193,7 +193,7 @@ def create_scenario_pages(domain, title, scenario_num, puzzle_text_1, word_1, co
                 "words": [word_1]
             }
         ],
-        "navigation_conditions": "wait_for_correct"
+        "navigators": "wait_for_correct"
     })
 
     if n_missing in ["1","2"]:
@@ -219,7 +219,7 @@ def create_scenario_pages(domain, title, scenario_num, puzzle_text_1, word_1, co
                     "words": [word_2]
                 }
             ],
-            "navigation_conditions": "wait_for_correct"
+            "navigators": "wait_for_correct"
         })
 
         if n_missing in ["1","2"]:
@@ -246,7 +246,7 @@ def create_scenario_pages(domain, title, scenario_num, puzzle_text_1, word_1, co
                     "correct_value": correct_answer
                 }
             ],
-            "navigation_conditions":["wait_for_correct","wait_for_click"]
+            "navigators":["wait_for_correct","wait_for_click"]
         })
 
     for page in pages:
@@ -263,7 +263,6 @@ def create_resource_page(motivations, tips, ER_lookup, domain):
         [label,text] = motivations.pop(0)
         motivations.append([label,text])
 
-        text = f"{label} \n\n {text}"
         title = f"Reflection"
         input  = None
 

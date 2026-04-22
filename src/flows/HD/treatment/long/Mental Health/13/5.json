@@ -1,0 +1,25 @@
+{
+    "header_text": "Struggling with a Presentation: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During today's meeting, you have to present in front of your colleagues and boss. You've been struggling to put this presentation together, but you haven't reached out to your boss about it yet. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "My boss will be proud of me that I'm trying hard.",
+                "I might not do my best on this presentation, but I will get through it.",
+                "My colleagues are going to be bored and talk to each other during my presentation.",
+                "My boss will be disappointed by my efforts, but I can still feel proud of the work I put in.",
+                "This presentation will be a good opportunity for me to practice my public speaking skills."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

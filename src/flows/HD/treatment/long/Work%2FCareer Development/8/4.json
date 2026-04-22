@@ -1,0 +1,15 @@
+{
+    "header_text": "Working in Groups",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your boss tells everyone that tomorrow you'll divide into small groups to plan out new work projects. She also says that you'll have to pick your group, but you realize you don't have any close friends in your workplace.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/108.jpg",
+            "border": true
+        }
+    ]
+}

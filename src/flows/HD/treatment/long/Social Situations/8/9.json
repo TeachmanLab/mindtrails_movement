@@ -1,0 +1,25 @@
+{
+    "header_text": "Saying hi to friends: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm happy to be able to stretch out my legs.",
+                "I'm embarrassed that I have to catch my breath when I see my friends.",
+                "I'm worried that I'm sick because of this feeling in my chest, but realistically I know I'm fine and it was just the jog.",
+                "Even though I'm feeling miserable, I know this feeling will pass.",
+                "I'm really excited to see these friends who I haven't seen in a while."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

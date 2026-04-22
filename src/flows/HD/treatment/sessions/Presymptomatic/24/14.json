@@ -11,7 +11,7 @@
             "name": "financial_planning--presymptomatic--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigators": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

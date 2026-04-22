@@ -20,7 +20,7 @@
             "correct_value": "Temporary and nothing you should be worried about"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

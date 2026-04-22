@@ -20,7 +20,7 @@
             "correct_value": "Hurt much less"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

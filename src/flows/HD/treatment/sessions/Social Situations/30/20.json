@@ -20,7 +20,7 @@
             "correct_value": "\"This is almost worse than no gift at all\""
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

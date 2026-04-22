@@ -20,7 +20,7 @@
             "correct_value": "You only had one glass of water today"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

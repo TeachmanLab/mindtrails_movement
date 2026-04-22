@@ -1,0 +1,25 @@
+{
+    "header_text": "Loud friend: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your car broke down so a friend is dropping you off at a meeting. As they drop you off, they are really loud and everyone in there looks at you. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I walk over to the meeting room and start talking to people.",
+                "I put my phone away so I'll be more willing to talk to people.",
+                "I want to avoid everyone around me, but remind myself that I'll have a better time if I talk to people.",
+                "I go to the bathroom to avoid talking to people.",
+                "I feel the urge to skip the meeting because I'm embarrassed, but I stay because going to this meeting is important."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

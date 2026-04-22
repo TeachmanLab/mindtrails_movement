@@ -20,7 +20,7 @@
             "correct_value": "Tolerating your heart racing and focusing on the conversation"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

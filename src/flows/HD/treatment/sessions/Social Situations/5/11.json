@@ -20,7 +20,7 @@
             "correct_value": "Exciting because you have a chance to meet new people"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

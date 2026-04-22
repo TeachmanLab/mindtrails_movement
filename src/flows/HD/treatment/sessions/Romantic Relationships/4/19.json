@@ -20,7 +20,7 @@
             "correct_value": "Regret going out with this person"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

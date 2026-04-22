@@ -1,0 +1,25 @@
+{
+    "header_text": "Research Ethics: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're working on a report with a few colleagues and need to report some statistics. A colleague suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I decide that I won't make up the statistics.",
+                "I want to yell at my colleagues for this idea, but I decide to tell them nicely what I think.",
+                "I feel myself wanting to change the numbers on the report, but know that I really value being honest and not doing so.",
+                "I mess with the statistics to feel cool in front of my colleagues.",
+                "I encourage my colleagues to try a little longer to work on this report."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Aging family member: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You go to your parents' home for the first time in a while and notice that your father looks a lot less healthy than you remember. Neither one of your parents mentions anything about his health. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "He's probably going to pass away soon.",
+                "I think about whether my parents are keeping something from me, but tell myself that I can't control my father's health.",
+                "I wonder what is going on with his health, but reassure myself that my family takes care of him.",
+                "He looks so happy to be with family.",
+                "My father is glad that I'm visiting."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

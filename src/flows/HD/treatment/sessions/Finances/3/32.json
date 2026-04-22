@@ -20,7 +20,7 @@
             "correct_value": "Play a crucial part in your company's eventual success"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

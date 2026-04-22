@@ -1,0 +1,25 @@
+{
+    "header_text": "Spilled slushie: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends are out getting dinner. Your food and drinks arrive, and you accidentally spill your drink down the front of your new white shirt.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm self-conscious with this stain, but no one else will care.",
+                "I'm feeling silly and decide to chuckle about it.",
+                "I'm glad that this is an old shirt.",
+                "I'm so annoyed with myself, but am able to get past this feeling.",
+                "I feel embarrassed and it's making me want to leave the mall."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

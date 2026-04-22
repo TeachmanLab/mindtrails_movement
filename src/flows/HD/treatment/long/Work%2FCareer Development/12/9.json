@@ -1,0 +1,25 @@
+{
+    "header_text": "Research Ethics: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're working on a report with a few colleagues and need to report some statistics. A colleague suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm kind of frustrated that my colleague said we should just make up new statistics.",
+                "I'm anxious that my colleagues will make fun of me, but if they do, I can handle it.",
+                "I'm happier writing this report with my colleagues than when I'm alone.",
+                "I'll be relieved when this report is done.",
+                "I'm worried about my performance on the report, but I know I'm trying my best."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -20,7 +20,7 @@
             "correct_value": "Enjoy seeing them have fun"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

@@ -1,6 +1,7 @@
 import csv
 import json
 import random
+import hashlib
 
 from pathlib import Path
 from itertools import islice, count
@@ -204,4 +205,5 @@ def get_reminder_element(reminder,position,count):
     if not reminder: return None
     is_image = ".png" in reminder or ".jpg" in reminder or ".jpeg" in reminder
     element = {"type":"text", "text": reminder} if not is_image else {"type":"media", "url": media_url(reminder)}
-    return { "elements": [ element ], "position": position, "information_count": count }
+    count_key = hashlib.blake2b(reminder.encode('utf8')).hexdigest()[:10]
+    return { "elements": [ element ], "position": position, "information_count": count, "count_key": count_key }

@@ -20,7 +20,7 @@
             "correct_value": "Eventually, you will meet the person who is right for you"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

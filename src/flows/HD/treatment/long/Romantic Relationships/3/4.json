@@ -1,0 +1,15 @@
+{
+    "header_text": "No response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/330.jpg",
+            "border": true
+        }
+    ]
+}

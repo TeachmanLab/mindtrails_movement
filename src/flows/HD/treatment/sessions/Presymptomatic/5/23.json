@@ -20,7 +20,7 @@
             "correct_value": "Helps relieve some of your anxiety"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

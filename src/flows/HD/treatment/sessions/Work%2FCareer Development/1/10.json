@@ -20,7 +20,7 @@
             "correct_value": "You will be ready for one next year"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

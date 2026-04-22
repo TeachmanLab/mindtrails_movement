@@ -20,10 +20,21 @@
             "correct_value": "Opportunities to learn and experience the local traditions."
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1,
+        "count_key": "04667599df"
+    }
 }

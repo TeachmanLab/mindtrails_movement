@@ -20,7 +20,7 @@
             "correct_value": "Will not stand between you and your family"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

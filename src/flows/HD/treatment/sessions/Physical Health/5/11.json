@@ -20,7 +20,7 @@
             "correct_value": "Tolerate your body's normal response to the cold"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

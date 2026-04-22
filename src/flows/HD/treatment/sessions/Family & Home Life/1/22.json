@@ -20,7 +20,7 @@
             "correct_value": "Find that your house feels like home"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

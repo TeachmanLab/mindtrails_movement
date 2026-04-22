@@ -1,0 +1,15 @@
+{
+    "header_text": "Upset family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are home for a holiday and you notice your siblings are upset with each other. They give you a short answer when you try to talk with them. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1007.jpg",
+            "border": true
+        }
+    ]
+}

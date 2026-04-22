@@ -1,0 +1,25 @@
+{
+    "header_text": "Babysitting: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are looking after a friend's child and you're watching TV while they sleep. It's dark outside and you suddenly hear noises against the window. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm happy that my favorite show is on TV.",
+                "I feel worried that something is looking into the window.",
+                "I'm excited to see my friend and hear about their night out.",
+                "It makes sense that I was scared at first, but remind myself that I'm probably safe.",
+                "My heart is beating a little faster than it was before I heard the noise, but I know that it'll go back to normal soon."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Surveys Complete",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thank you for completing these surveys! This completes your participation in our study. \n\nWithin the next 2 weeks, you should receive an emailed electronic gift card to thank you for your participation. The email will come from noreply@tangocard.com. If you don't see the email within 2 weeks, please be sure to check your spam folder. \n\nAlso, look out for an email from our team with the option to try out the active version of the MindTrails-Movement app (including CBM-I training sessions). \n\nQuestions? Please email us at MindTrailsMovement@uvahealth.org."
+        }
+    ]
+}

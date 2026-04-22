@@ -1,0 +1,15 @@
+{
+    "header_text": "Not a lot of likes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to reply all to a department-wide email to share an idea. It's been a few hours and no one has responded to your suggestion yet. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/63.jpg",
+            "border": true
+        }
+    ]
+}

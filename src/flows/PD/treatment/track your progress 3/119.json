@@ -1,0 +1,22 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How believable did you find the stories' endings in terms of those outcomes happening in your life?"
+        },
+        {
+            "name": "UX_believable",
+            "type": "Buttons",
+            "buttons": [
+                "0::Not at all",
+                "1::Slightly",
+                "2::Somewhat",
+                "3::Mostly",
+                "4::Very",
+                "99::Prefer not to answer"
+            ]
+        }
+    ]
+}

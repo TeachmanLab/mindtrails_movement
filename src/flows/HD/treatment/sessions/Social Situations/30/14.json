@@ -20,7 +20,7 @@
             "correct_value": "Relieved that no one was injured"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

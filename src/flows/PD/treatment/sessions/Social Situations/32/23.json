@@ -20,7 +20,7 @@
             "correct_value": "Having a new group of friends you can rely on"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

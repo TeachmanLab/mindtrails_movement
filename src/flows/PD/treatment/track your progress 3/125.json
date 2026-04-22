@@ -1,0 +1,14 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Would you like to provide feedback about your experience using MindTrails-Movement (e.g., ways the program has been helpful or ways we can improve the program)?"
+        },
+        {
+            "name": "UX_otherfeedback",
+            "type": "Entry"
+        }
+    ]
+}

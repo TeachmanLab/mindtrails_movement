@@ -12,15 +12,5 @@
         }
     ],
     "type": "positive",
-    "scenario_num": 1,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "scenario_num": 1
 }

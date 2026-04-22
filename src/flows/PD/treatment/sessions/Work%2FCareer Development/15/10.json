@@ -20,7 +20,7 @@
             "correct_value": "Quit this program because you are doing poorly."
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

@@ -20,7 +20,7 @@
             "correct_value": "Not change much about the careful way you spend"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

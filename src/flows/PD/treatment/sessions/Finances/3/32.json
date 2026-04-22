@@ -20,7 +20,7 @@
             "correct_value": "Good because you will be able to save more money in the coming months"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

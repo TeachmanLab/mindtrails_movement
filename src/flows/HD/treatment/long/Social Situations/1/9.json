@@ -1,0 +1,25 @@
+{
+    "header_text": "Hanging out without you: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at work and hear some of your coworkers having a conversation behind you. As you listen, you realize that you were not invited to a small gathering, and a few of your coworkers and friends were all hanging out without you. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm sad that they forgot about me.",
+                "I'm feeling sad, but decide to think of the good times I've had with my work friends.",
+                "I'm glad to have these people as coworkers.",
+                "I worry that they left me out on purpose, but remember all of the times I have been included.",
+                "I'm calm hearing about what they did."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

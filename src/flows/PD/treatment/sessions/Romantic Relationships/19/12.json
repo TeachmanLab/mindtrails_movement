@@ -20,7 +20,7 @@
             "correct_value": "Realizing that you and your spouse couldn't make things work"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

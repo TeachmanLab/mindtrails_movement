@@ -20,7 +20,7 @@
             "correct_value": "Are just excited to spend the holidays with your partner, and not take it personally"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

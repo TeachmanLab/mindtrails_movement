@@ -15,7 +15,7 @@
             7
         ]
     ],
-    "navigation_conditions": [
+    "navigators": [
         {
             "wait_for_time": 20000
         }

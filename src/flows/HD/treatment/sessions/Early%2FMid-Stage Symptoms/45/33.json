@@ -20,7 +20,7 @@
             "correct_value": "Understandable and welcome"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

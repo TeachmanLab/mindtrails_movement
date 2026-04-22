@@ -20,7 +20,7 @@
             "correct_value": "Capable of putting in the work necessary to get the job you want"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

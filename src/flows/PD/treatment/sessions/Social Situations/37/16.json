@@ -20,7 +20,7 @@
             "correct_value": "Will have grown apart"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

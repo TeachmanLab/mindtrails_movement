@@ -20,7 +20,7 @@
             "correct_value": "Work together to build better relationships with each other"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

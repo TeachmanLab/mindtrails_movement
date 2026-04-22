@@ -1,0 +1,18 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Do you need help from someone else to use the MindTrails-Movement app?"
+        },
+        {
+            "name": "UX_needhelp",
+            "type": "Buttons",
+            "buttons": [
+                "Yes::Yes",
+                "No::No"
+            ]
+        }
+    ]
+}

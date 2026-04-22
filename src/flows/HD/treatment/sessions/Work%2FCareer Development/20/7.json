@@ -20,7 +20,7 @@
             "correct_value": "You look calm and composed during your presentation"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

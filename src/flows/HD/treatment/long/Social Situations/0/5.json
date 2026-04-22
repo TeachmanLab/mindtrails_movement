@@ -1,0 +1,25 @@
+{
+    "header_text": "Halloween party: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "No one likes my costume.",
+                "Everyone will love this costume.",
+                "I think this costume is fun.",
+                "I may have worn something too crazy, but I like it.",
+                "Maybe I should have toned it down, but know that this is true to myself."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

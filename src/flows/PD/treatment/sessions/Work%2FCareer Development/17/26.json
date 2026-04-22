@@ -20,7 +20,7 @@
             "correct_value": "Not end up fulfilling your dreams and feel disappointed with where you end up"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

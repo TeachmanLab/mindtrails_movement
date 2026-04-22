@@ -1,0 +1,18 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Do we have your permission to use all or part of the feedback you provided as a de-identified participant testimonial (e.g., as part of the MindTrails-Movement program, or in newsletters or other promotional materials)? If so, neither your name nor any other identifying information would be used."
+        },
+        {
+            "name": "UX_sharefeedback",
+            "type": "Buttons",
+            "buttons": [
+                "Yes::Yes",
+                "No::No"
+            ]
+        }
+    ]
+}

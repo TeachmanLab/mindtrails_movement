@@ -20,7 +20,7 @@
             "correct_value": "Alone after a string of relationships that don't work out"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

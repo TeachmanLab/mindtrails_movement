@@ -342,10 +342,10 @@ for popname,s,l,i in populations:
     folders['treatment/sessions/__before__'] = flat(surveys,f"{popname}_beforedomain_all")
     folders['treatment/sessions/__after__'] = flat(surveys,f"{popname}_afterdomain_all")
     folders['treatment/sessions/Discrimination'] = discrim_session
-    for domain, doses in sessions.items():
+    for domain in sessions.keys():
         folders[f'treatment/sessions/{dir_safe(domain)}/__flow__.json'] ={"mode":"sequential", "take":1, "repeat":True}
-        for i, dose in enumerate(doses,1):
-            folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = dose
+        for i,session in enumerate(sessions[domain],1):
+            folders[f'treatment/sessions/{dir_safe(domain)}/{i}'] = session
 
     # Delete old JSON
     shutil.rmtree(f"{dir_out}/{popname}/control/sessions",ignore_errors=True)

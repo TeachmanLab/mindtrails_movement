@@ -1,0 +1,15 @@
+{
+    "header_text": "Shattered glass",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/987.jpg",
+            "border": true
+        }
+    ]
+}

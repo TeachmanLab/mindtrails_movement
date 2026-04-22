@@ -1,0 +1,20 @@
+{
+    "header_text": "Spilled slushie: Write Some Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your friends are out getting dinner. Your food and drinks arrive, and you accidentally spill your drink down the front of your new white shirt.\n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
+        },
+        {
+            "name": "long6",
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 30000
+        },
+        "wait_for_click"
+    ]
+}

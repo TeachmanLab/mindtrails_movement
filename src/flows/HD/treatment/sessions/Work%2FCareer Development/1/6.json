@@ -20,7 +20,7 @@
             "correct_value": "Grateful that you politely communicated your concerns"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

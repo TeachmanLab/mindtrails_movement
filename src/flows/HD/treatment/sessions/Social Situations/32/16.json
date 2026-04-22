@@ -20,7 +20,7 @@
             "correct_value": "You expect your best friend will try to understand what you're going through"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

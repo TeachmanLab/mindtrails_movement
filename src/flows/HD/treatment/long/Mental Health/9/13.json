@@ -1,0 +1,25 @@
+{
+    "header_text": "Struggling with a Presentation: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During today's meeting, you have to present in front of your colleagues and boss. You've been struggling to put this presentation together, but you haven't reached out to your boss about it yet. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'll ask my boss what else I can do to show my skills.",
+                "I'll skip this meeting tomorrow.",
+                "I want to ask my colleagues how they thought I did, but it doesn't really matter what other people think.",
+                "I want to avoid working on the presentation, but I know that making some progress will help me feel accomplished.",
+                "I won't hide in my office after my presentation."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

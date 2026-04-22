@@ -1,0 +1,25 @@
+{
+    "header_text": "Saying hi to friends: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I feel happy to see my friends.",
+                "I'm worried I'm really sick because of the tightness in my chest.",
+                "I feel invigorated.",
+                "Feeling out of breath reminds me of how I feel when I'm a little anxious, which is interesting to notice.",
+                "Even though it's uncomfortable to feel out of breath, I know it's normal to feel this way after running."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "No response: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm anxious that I haven't heard back, but realize that I don't need to hear back immediately about what I sent.",
+                "I feel okay that they haven't responded.",
+                "I'm happy with who I am whether they respond or not.",
+                "I feel bad about not getting a quick reply, but remember I don't need to try and control the situation.",
+                "I'm embarrassed that I put myself out there."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Answering a question: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In a meeting with a few colleagues and your boss, your boss calls on you to answer a question. You say your best answer and your coworkers are quiet.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm satisfied with how I phrased my answer.",
+                "I was really anxious while I was answering, but was able to manage my feelings.",
+                "I'm disappointed in myself because I couldn't say what I wanted to say, but I think my boss understood my point.",
+                "I was scared while answering",
+                "I'm glad my boss gave me the opportunity to share my answer."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

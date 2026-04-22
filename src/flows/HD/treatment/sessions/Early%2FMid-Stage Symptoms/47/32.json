@@ -20,7 +20,7 @@
             "correct_value": "They are grateful you are present at the dinner"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

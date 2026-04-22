@@ -1,0 +1,25 @@
+{
+    "header_text": "Clashing viewpoints: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner both have strong opinions and you don't always agree with each other. Over dinner one evening, you get into a heated argument about a topic that is a passion of yours.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm grateful to have a partner who cares so much about important issues.",
+                "I'm upset that we got into a fight, but hopeful that we can move forward from this.",
+                "I feel respected as we discuss our differences in opinion.",
+                "I'm disappointed that we disagree on this point, but I know it's normal for couples to have disagreements.",
+                "I'm furious that we don't see eye to eye on this."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

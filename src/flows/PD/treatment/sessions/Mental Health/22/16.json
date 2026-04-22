@@ -20,7 +20,7 @@
             "correct_value": "Being stuck in a position below the one you imagine"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

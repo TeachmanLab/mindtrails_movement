@@ -1,0 +1,25 @@
+{
+    "header_text": "Research Ethics: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're working on a report with a few colleagues and need to report some statistics. A colleague suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to change our results to finish the presentation more quickly, but instead I keep trying to work with what we have.",
+                "I change our results because I'm not confident in our work.",
+                "I am enthusiastic about finding ways to present our findings clearly and effectively.",
+                "I suggest putting together the presentation without changing the results.",
+                "I am tempted to change our results, but decide not to."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

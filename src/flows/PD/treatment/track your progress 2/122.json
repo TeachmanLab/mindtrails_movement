@@ -1,0 +1,22 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How tiring do you find the surveys?"
+        },
+        {
+            "name": "UX_tiring_surveys",
+            "type": "Buttons",
+            "buttons": [
+                "0::Not at all",
+                "1::Slightly",
+                "2::Somewhat",
+                "3::Mostly",
+                "4::Very",
+                "99::Prefer not to answer"
+            ]
+        }
+    ]
+}

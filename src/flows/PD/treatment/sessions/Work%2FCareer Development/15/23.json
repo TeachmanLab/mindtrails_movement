@@ -20,7 +20,7 @@
             "correct_value": "Put you in a good position to get an interview"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

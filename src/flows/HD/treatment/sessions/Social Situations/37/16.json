@@ -20,7 +20,7 @@
             "correct_value": "Will have grown apart and not really understand one another"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

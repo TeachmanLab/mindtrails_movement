@@ -20,7 +20,7 @@
             "correct_value": "Be the main reason you do not hear back from this employer"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

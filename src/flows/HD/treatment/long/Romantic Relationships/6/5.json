@@ -1,0 +1,25 @@
+{
+    "header_text": "Clashing viewpoints: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner both have strong opinions and you don't always agree with each other. Over dinner one evening, you get into a heated argument about a topic that is a passion of yours.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I believe that I'm right, but I choose to accept that we might just disagree on this point.",
+                "Even when my partner and I are mad at each other, I know we still care about each other deeply.",
+                "This is such an important issue to be discussing.",
+                "My partner is really smart and thoughtful.",
+                "Our relationship is going to end over this argument."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

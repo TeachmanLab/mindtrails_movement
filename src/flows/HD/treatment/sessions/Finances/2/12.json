@@ -20,7 +20,7 @@
             "correct_value": "Mean you'll save enough to make your rent"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

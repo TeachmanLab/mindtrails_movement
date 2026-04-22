@@ -20,7 +20,7 @@
             "correct_value": "You will find ways to stay in touch and remain connected"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

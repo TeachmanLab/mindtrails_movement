@@ -1,0 +1,25 @@
+{
+    "header_text": "Answering a question: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In a meeting with a few colleagues and your boss, your boss calls on you to answer a question. You say your best answer and your peers are quiet.\n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "Everyone thinks my answer is wrong.",
+                "What I said wasn't perfect, but my colleagues probably didn't take note of it.",
+                "My answer may not have been correct, but that is okay.",
+                "I'm happy I was able to speak up in my meeting.",
+                "My answer was intelligent."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

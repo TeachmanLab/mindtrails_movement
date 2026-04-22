@@ -1,0 +1,25 @@
+{
+    "header_text": "Shattered glass: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I cry because I feel terrible.",
+                "I want to cry, but decide that would not be helpful.",
+                "I want to never come back to the restaurant, but if my family wants to eat here again it will be okay.",
+                "I offer to pick up overtime hours at my job and come back another day with money to replace the glass.",
+                "I offer to leave extra money for the tip."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

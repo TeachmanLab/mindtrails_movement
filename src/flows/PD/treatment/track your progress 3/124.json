@@ -1,0 +1,27 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During this program, did you change any dose of medication, therapy, or other intervention to help your mental health? Please check all that apply."
+        },
+        {
+            "name": "UX_changetreatment",
+            "type": "Buttons",
+            "buttons": [
+                "0::I seek in-person therapy more now",
+                "1::I seek in-person therapy less now",
+                "2::I use prescription medicaiton more now",
+                "3::I use prescription medication less now",
+                "4:",
+                "I use online computer programs or mobile apps (other than MindTrails-Movement) more now",
+                "5::I use online computer programs or mobile apps (other than MindTrails-Movement) less now",
+                "!6::Other",
+                "^7::I did not change my intervention habits",
+                "^99::Prefer not to answer"
+            ],
+            "multiselect": true
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "header_text": "Loud friend: Write Some Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your car broke down so a friend is dropping you off at a meeting. As they drop you off, they are really loud and everyone in there looks at you. \n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
+        },
+        {
+            "name": "long6",
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 30000
+        },
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Balancing responsibilities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have a lot of housework that you have to do tonight, and you also have a big project that's due tomorrow. Both have to get done, and you think about how you'll handle it all. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/985.jpg",
+            "border": true
+        }
+    ]
+}

@@ -20,7 +20,7 @@
             "correct_value": "Everyone"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],
@@ -34,6 +34,7 @@
             }
         ],
         "position": "after",
-        "information_count": 1
+        "information_count": 1,
+        "count_key": "04667599df"
     }
 }

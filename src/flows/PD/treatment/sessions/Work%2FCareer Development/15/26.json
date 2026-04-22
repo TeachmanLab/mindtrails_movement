@@ -20,7 +20,7 @@
             "correct_value": "Most of your work has been of very high quality."
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

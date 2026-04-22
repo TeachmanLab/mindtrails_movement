@@ -1,0 +1,25 @@
+{
+    "header_text": "Sitting on the bus: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I am annoyed that my friend doesn't want to sit with me, but I know that this situation will pass.",
+                "I am happy that my friends are happy.",
+                "I am courageous for sitting on my own.",
+                "I am upset thinking that my friend is mad at me, but I know I should not assume the worst.",
+                "I feel mad at my friend for not sitting with me."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "The Birthday gift: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your friend is having a huge birthday party and most of the people in your friend group will be there. Many of your friends are wealthier than you and can afford to give more expensive gifts. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I stay at the party.",
+                "I decide to stay for an hour and leave.",
+                "I want to leave before the presents are opened, but decide to stay.",
+                "I walk in and hug my friend.",
+                "I think about lying that I forgot the gift at home, but I give it to my friend."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

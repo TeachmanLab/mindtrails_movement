@@ -20,7 +20,7 @@
             "correct_value": "Are getting better"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

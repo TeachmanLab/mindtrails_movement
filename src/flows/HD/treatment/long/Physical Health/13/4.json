@@ -1,0 +1,15 @@
+{
+    "header_text": "Laughing at a joke",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A friend tells a funny joke and you start to laugh really hard. While you're laughing, you feel an uncomfortable tightness in your chest that you've never felt before. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1001.jpg",
+            "border": true
+        }
+    ]
+}

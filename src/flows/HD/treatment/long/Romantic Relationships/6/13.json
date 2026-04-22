@@ -1,0 +1,25 @@
+{
+    "header_text": "Clashing viewpoints: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner both have strong opinions and you don't always agree with each other. Over dinner one evening, you get into a heated argument about a topic that is a passion of yours.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to yell at my partner, but I take a few minutes to calm down before returning to the conversation.",
+                "I threaten to break up with my partner if they don't agree with me.",
+                "I explain my views calmly and clearly.",
+                "I want to lock myself in my room, but decide that avoiding my partner won't be helpful in the long run.",
+                "I try to see things from my partner's perspective to understand where they are coming from."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

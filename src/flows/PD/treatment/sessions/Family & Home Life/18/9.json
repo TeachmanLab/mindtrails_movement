@@ -20,7 +20,7 @@
             "correct_value": "Tell them how you're feeling"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

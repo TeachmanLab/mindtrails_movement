@@ -20,7 +20,7 @@
             "correct_value": "Still be able to do your job"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

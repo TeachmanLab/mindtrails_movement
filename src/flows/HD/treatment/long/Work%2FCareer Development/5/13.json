@@ -1,0 +1,25 @@
+{
+    "header_text": "Answering a question: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In a meeting with a few colleagues and your boss, your boss calls on you to answer a question. You say your best answer and your coworkers are quiet.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I feel like I should crack a joke so my coworkers forget about my answer, but don't.",
+                "I want to cry, but I take a moment to calm down and focus on the next question.",
+                "I smile and sit back.",
+                "I'll make sure I'm more prepared before the next meeting.",
+                "I won't speak up again in meetings."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

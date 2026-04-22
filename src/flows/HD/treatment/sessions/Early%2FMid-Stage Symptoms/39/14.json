@@ -11,7 +11,7 @@
             "name": "dinner_party_conversation--early_mid-stage_symptoms--puzzle1_entry"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigators": "wait_for_correct",
     "type": "negative",
     "scenario_num": 5
 }

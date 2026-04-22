@@ -20,7 +20,7 @@
             "correct_value": "That you will make a good decision because you have done your research"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

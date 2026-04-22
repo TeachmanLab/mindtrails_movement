@@ -1,0 +1,15 @@
+{
+    "header_text": "Answering a question",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In a meeting with a few colleagues and your boss, your boss calls on you to answer a question. You say your best answer and your coworkers are quiet.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/607.jpg",
+            "border": true
+        }
+    ]
+}

@@ -20,7 +20,7 @@
             "correct_value": "Your coworker feels the same way you do"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

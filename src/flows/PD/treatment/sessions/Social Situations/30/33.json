@@ -20,7 +20,7 @@
             "correct_value": "Will enjoy your company outside the book club"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

@@ -1,0 +1,22 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How likely is it that you would recommend MindTrails-Movement to others with Huntington's disease?"
+        },
+        {
+            "name": "UX_recommendHD",
+            "type": "Buttons",
+            "buttons": [
+                "0::Not at all",
+                "1::Slightly",
+                "2::Somewhat",
+                "3::Mostly",
+                "4::Very",
+                "99::Prefer not to answer"
+            ]
+        }
+    ]
+}

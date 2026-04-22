@@ -1,0 +1,15 @@
+{
+    "header_text": "Clashing viewpoints",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner both have strong opinions and you don't always agree with each other. Over dinner one evening, you get into a heated argument about a topic that is a passion of yours.\n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/997.jpg",
+            "border": true
+        }
+    ]
+}

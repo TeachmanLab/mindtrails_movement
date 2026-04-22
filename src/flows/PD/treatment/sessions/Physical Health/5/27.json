@@ -20,7 +20,7 @@
             "correct_value": "Successfully skate around the rink several times"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

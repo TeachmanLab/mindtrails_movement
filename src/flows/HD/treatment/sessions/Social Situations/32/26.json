@@ -20,7 +20,7 @@
             "correct_value": "\"I guess this friendship isn't worth very much\""
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

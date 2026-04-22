@@ -1,0 +1,22 @@
+{
+    "header_text": "User Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "To what extent do your PD symptoms affect your ability to use the app?"
+        },
+        {
+            "name": "UX_symptomsaffect",
+            "type": "Buttons",
+            "buttons": [
+                "98::Not applicable (I do not have symptoms)",
+                "0::My symptoms do not affect how I use the app",
+                "1::My symptoms make it slightly difficult to use the app",
+                "2::My symptoms make it very difficult to use the app",
+                "99::Prefer not to answer"
+            ],
+            "variable_name": "SymptomsAffect"
+        }
+    ]
+}

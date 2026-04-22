@@ -20,7 +20,7 @@
             "correct_value": "Happy you were able to attend"
         }
     ],
-    "navigation_conditions": [
+    "navigators": [
         "wait_for_correct",
         "wait_for_click"
     ],

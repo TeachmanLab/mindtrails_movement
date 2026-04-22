@@ -1,0 +1,25 @@
+{
+    "header_text": "Attractive person on social media: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While scrolling through a dating app, you see an attractive person you met at the grocery store last week. You decide to like their profile. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm scared that I'll never find someone who's interested in me romantically.",
+                "I feel embarrassed by some pictures I have up, but decide to feel confident about them.",
+                "I feel shy about liking their profile, but decide to be excited about the opportunity.",
+                "I feel excited I have a romantic prospect.",
+                "I feel happy that I liked their profile."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

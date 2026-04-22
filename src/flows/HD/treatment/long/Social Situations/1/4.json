@@ -1,0 +1,15 @@
+{
+    "header_text": "Hanging out without you",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at work and hear some of your coworkers having a conversation behind you. As you listen, you realize that you were not invited to a small gathering, and a few of your coworkers and friends were all hanging out without you. \n\nClick Next to see some thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/994.jpg",
+            "border": true
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "header_text": "Hanging out without you: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at work and hear some of your coworkers having a conversation behind you. As you listen, you realize that you were not invited to a small gathering, and a few of your coworkers and friends were all hanging out without you. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "My coworkers must not actually like me. But, I know that's not the case; we have a lot of fun together.",
+                "I think about all the good times I've had with my friends from work.",
+                "I wonder if I was excluded intentionally, but I remember that I've spent time with coworkers without everyone there too.",
+                "I think they meant to leave me out of the gathering.",
+                "My coworkers look really happy."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

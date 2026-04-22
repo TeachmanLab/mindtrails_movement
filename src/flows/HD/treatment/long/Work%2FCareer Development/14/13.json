@@ -1,0 +1,25 @@
+{
+    "header_text": "Answering a question: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In a meeting with a few colleagues and your boss, your boss calls on you to answer a question. You say your best answer and your peers are quiet.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I want to apologize for my poor answer, but do not.",
+                "I relax after saying my answer.",
+                "I take notes on my boss's response to my answer.",
+                "I leave the meeting and go to the bathroom to avoid my colleagues.",
+                "I want to cover my face, but decide to look at my boss."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}
