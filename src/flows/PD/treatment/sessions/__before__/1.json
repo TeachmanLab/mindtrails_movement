@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Right now, I am feeling..."
+            "text": "Right now, I am feeling!"
         },
         {
             "name": "presessioncheck",
