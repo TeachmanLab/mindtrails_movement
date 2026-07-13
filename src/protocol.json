@@ -13,7 +13,7 @@
     "unenroll": "flow://flows/${global:population}/${global:group}/reasons for ending/",
     "font_scale": 1.25
   },
-  "start_flow": "flow://flows/${global:population}/${global:group}/intro",
+  "start_flow": "flow://flows/${global:population}/${global:group}/intro?resumable=true",
   "menu": [
     {
       "text": "What is MindTrails?",
